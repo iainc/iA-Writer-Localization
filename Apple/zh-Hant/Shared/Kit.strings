@@ -129,7 +129,7 @@
 "Font_Name_Duospaced" = "雙間距";
 
 "Font_Script_Support_Monospaced" = "支援文字：西里爾文，希臘文，拉丁文。";
-"Font_Script_Support_Duospaced" = "支援文字：拉丁文。";
+"Font_Script_Support_Duospaced" = "支援文字：西里爾文，拉丁文。";
 "Font_Script_Support_Other" = "系統文字將用於其他字體。";
 
 /*----------------

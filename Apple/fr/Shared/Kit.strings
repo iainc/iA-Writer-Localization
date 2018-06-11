@@ -129,7 +129,7 @@
 "Font_Name_Duospaced" = "Deux espaces";
 
 "Font_Script_Support_Monospaced" = "Scripts compatibles : Cyrillique, Grec, Latin.";
-"Font_Script_Support_Duospaced" = "Scripts compatibles : Latin.";
+"Font_Script_Support_Duospaced" = "Scripts compatibles : Cyrillique, Latin.";
 "Font_Script_Support_Other" = "Les polices système seront utilisées pour les autres scripts.";
 
 /*----------------
