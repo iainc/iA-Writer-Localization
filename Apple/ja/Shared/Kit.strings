@@ -129,7 +129,7 @@
 "Font_Name_Duospaced" = "デュオスペース";
 
 "Font_Script_Support_Monospaced" = "対応する文字: キリル文字, ギリシャ文字, ラテン文字。";
-"Font_Script_Support_Duospaced" = "対応する文字: ラテン文字。";
+"Font_Script_Support_Duospaced" = "対応する文字: キリル文字, ラテン文字。";
 "Font_Script_Support_Other" = "その他の文字にはシステムフォントが適用されます。";
 
 /*----------------

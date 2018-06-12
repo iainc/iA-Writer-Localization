@@ -129,7 +129,7 @@
 "Font_Name_Duospaced" = "Proporcional";
 
 "Font_Script_Support_Monospaced" = "Scripts suportados: Cirílico, Grego, Latino.";
-"Font_Script_Support_Duospaced" = "Scripts suportados: Latino.";
+"Font_Script_Support_Duospaced" = "Scripts suportados: Cirílico, Latino.";
 "Font_Script_Support_Other" = "Serão usados tipos de letra de sistema para outros scripts.";
 
 /*----------------

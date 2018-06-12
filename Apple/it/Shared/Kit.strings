@@ -129,7 +129,7 @@
 "Font_Name_Duospaced" = "Duospaced";
 
 "Font_Script_Support_Monospaced" = "Script supportati: cirillico, greco, latino.";
-"Font_Script_Support_Duospaced" = "Script supportati: latino.";
+"Font_Script_Support_Duospaced" = "Script supportati: cirillico, latino.";
 "Font_Script_Support_Other" = "I font di sistema verrano utilizzati per altri script.";
 
 /*----------------

@@ -129,7 +129,7 @@
 "Font_Name_Duospaced" = "Duospaced";
 
 "Font_Script_Support_Monospaced" = "Tipografías admitidas: cirílico, griego y latín.";
-"Font_Script_Support_Duospaced" = "Tipografías admitidas: latina.";
+"Font_Script_Support_Duospaced" = "Tipografías admitidas: cirílico y latín.";
 "Font_Script_Support_Other" = "Se usarán las fuentes del sistema para otras tipografías.";
 
 /*----------------

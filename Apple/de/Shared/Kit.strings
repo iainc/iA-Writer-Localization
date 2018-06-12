@@ -129,7 +129,7 @@
 "Font_Name_Duospaced" = "Duospace";
 
 "Font_Script_Support_Monospaced" = "Für lateinische Alphabete, Griechisch und Kyrillisch.";
-"Font_Script_Support_Duospaced" = "Unterstützt zur Zeit nur das lateinische Alphabet.";
+"Font_Script_Support_Duospaced" = "Für lateinische Alphabete und Kyrillisch.";
 "Font_Script_Support_Other" = "Für alle anderen werden Systemschriften verwendet.";
 
 /*----------------
