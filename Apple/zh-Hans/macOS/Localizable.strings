@@ -169,10 +169,10 @@
 "Preview_Toolbar_Export" = "导出";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "半角";
+"Preview_Toolbar_Half_Width" = "半屏";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "全角";
+"Preview_Toolbar_Full_Width" = "全屏";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "无内容可预览";
