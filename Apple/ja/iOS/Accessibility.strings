@@ -1,0 +1,15 @@
+
+"Increase_Text_Size" = "文字を大きく";
+"Default_Text_Size" = "デフォルトの文字サイズ";
+"Decrease_Text_Size" = "文字を小さく";
+
+"Button_Compose" = "新規ファイル";
+"Button_Preview" = "プレビュー";
+"Button_Search" = "検索";
+"Button_Appearance" = "表示オプション";
+"Button_Action" = "ファイルアクション";
+"Button_Move_Selected" = "移動";
+"Button_Delete_Selected" = "削除";
+"Button_Rename_Selected" = "名前を変更";
+"Button_Add_Folder" = "フォルダを追加";
+"Button_Settings" = "設定";

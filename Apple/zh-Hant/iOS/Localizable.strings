@@ -1,0 +1,833 @@
+
+/*-----------
+ Library Root
+ -----------*/
+
+/* Title for root library view. */
+"Library_Title" = "資料庫";
+
+/* Title for root library view. */
+"Library_Locations_Section_Title" = "位置";
+
+/* Title for root library view. */
+"Library_Favorites_Section_Title" = "最愛";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Add_Favorite" = "加到最愛…";
+
+/* Title for root library view. */
+"Library_Smart_Folders_Section_Title" = "智能資料夾";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_New_Smart_Folder" = "新增智能資料夾…";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Edit_Smart_Folder" = "編輯";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Title_Add_Favorite" = "加到最愛";
+
+/* Title for help action to open twitter page for iA Writer. */
+"Help_Action_Open_Twitter" = "Twitter 上的 iA Writer";
+
+/* Title for help action to open release notes and other updates. */
+"Help_Action_News" = "新增功能";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Feedback_And_Support" = "支援及意見";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Newsletter" = "訂閱電子報";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Review" = "推薦 iA Writer";
+
+/* Title for release notes screen. */
+"Help_Title_News" = "新增功能";
+
+/*------
+ Backups
+ ------*/
+
+/* Title for all backups. */
+"Backups_Title" = "備份";
+
+/* Message under title when browsing backups. */
+"Backup_Submitem_Message" = "在其他應用程式編輯的檔案會備份到此 %@。檔案重新命名後，之前的備份仍然會保留本來的名稱。";
+
+/* Button title to restore a backup. */
+"Backups_Restore_Button_Title" = "復原";
+
+/* Title for backup restoration destination picker. */
+"Backups_Restore_Picker_Title" = "復原檔案";
+
+/* Prompt at the top of backup restoration destination picker. */
+"Backups_Restore_Picker_Prompt" = "選擇復原檔案路徑。";
+
+/* Placeholder shown when there are no backups. */
+"Backups_Placeholder" = "沒有備份";
+
+/* Title for swipe action to browse backups. */
+"Table_View_Action_Browse_Backups" = "瀏覽備份";
+
+/* Button description to browse all backups. */
+"Backups_Button_Title" = "瀏覽備份";
+
+/* Action in editor to browse backups for currently opened file from other apps. */
+"Action_Browse_Backups" = "瀏覽備份";
+
+/*------
+ Library
+ ------*/
+
+/* Button to move to move files or folders. */
+"Button_Move" = "移動";
+
+/* Button to delete. */
+"Button_Delete" = "刪除";
+
+/* Button to select all visible items. */
+"Button_Select_All" = "全部選取";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "取消選取全部";
+
+/* Button to save. */
+"Button_Save" = "儲存";
+
+/* Action to move files or folders. */
+"Action_Move" = "移動…";
+
+/* Action to rename. */
+"Action_Rename" = "重新命名…";
+
+/* Action to rename. */
+"Action_Remove" = "移除";
+
+/* Action to delete. */
+"Action_Delete" = "刪除";
+
+/* Action to open file or folder info. */
+"Action_Get_Info" = "資料詳情";
+
+/* Action to add folder to favorites. */
+"Action_Remove_External_File" = "移除";
+
+/* Action to add folder to favorites. */
+"Action_Add_Favorite" = "加到最愛";
+
+/* Action to add folder to favorites. */
+"Action_Remove_Favorite" = "從最愛移除";
+
+/* Action to browse file versions. */
+"Action_Browse_Versions" = "瀏覽版本";
+
+/* Action to browse file versions. */
+"Action_Find_And_Replace" = "尋找和取代";
+
+/* Generic update button. */
+"Action_Update" = "更新";
+
+/* Action to switch to night mode. */
+"Action_Night_Mode" = "夜間模式";
+
+/* Action to switch to night mode. */
+"Action_Day_Mode" = "日間模式";
+
+/* Action to configure keyboard. */
+"Action_Configure_Keyboard" = "配置鍵盤";
+
+/* Button to create new folder. */
+"Button_New_Folder" = "新資料夾";
+
+/* Button to change sorting order. */
+"Button_Sort_By" = "排序方式";
+
+/* Generic to confirm selection in action sheet picker. */
+"Action_Set_Selected" = "已選組合";
+
+/* New folder destination folder picker title. */
+"New_Folder_Location_Title" = "新資料夾";
+
+/* New folder destination folder picker prompt. */
+"New_Folder_Location_Prompt" = "選擇新資料夾路徑…";
+
+/* File import destination folder picker title. */
+"File_Import_Title" = "匯入";
+
+/* New folder destination folder picker prompt. */
+"File_Import_Prompt" = "選擇匯入路徑";
+
+/* New file destination folder picker title. */
+"New_File_Location_Title" = "新檔案";
+
+/* New file destination folder picker prompt. */
+"New_File_Location_Prompt" = "選擇新檔案路徑。";
+
+/* Action to configure smart folder. */
+"Action_Edit_Smart_Folder" = "編輯智能資料夾";
+
+/* Action to configure library. */
+"Action_Configure_Library" = "配置資料庫";
+
+/* Action to delete smart folder. */
+"Action_Delete_Smart_Folder" = "刪智能資料夾";
+
+/* Excerpt for empty documents. */
+"Library_Excerpt_Empty" = "沒有內容";
+
+/* Excerpt for unindexed documents. */
+"Library_Excerpt_Updating" = "正在更新…";
+
+/* Library empty message in folders. */
+"Library_Empty_Folder" = "沒有檔案";
+
+/* Library empty message in folders. */
+"Library_Empty_External_Files" = "沒有來自其他應用程式的檔案";
+
+/* Library empty message in extenal files location. */
+"Library_Empty_External_Files_Message" = "點按加號以新增檔案。";
+
+/* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
+"Library_Empty_External_Files_Message_Install" = "要存取 Dropbox、Google Drive 及其他雲端應用程式，請先從 App Store 下載這些應用程式，再點按加號以新增檔案。";
+
+/* Library empty message in smart folders. */
+"Library_Empty_Smart_Folder" = "沒有符合條件的檔案";
+
+/* Title for external files section. */
+"Library_External_Files_Section_Title" = "外部";
+
+/* Title for action to open external files location. */
+"Library_External_Files" = "來自其他應用程式";
+
+/* Title for action to open external files picker. */
+"Library_External_Files_Open" = "開啟…";
+
+/* Title for move to folder destination picker title. */
+"Move_Title" = "移動";
+
+/*-----
+ Editor
+ -----*/
+
+/* Title for content block warning list. */
+"Content_Block_Warnings_Title" = "內容區塊";
+
+/* Prompt for content block warning list. */
+"Content_Block_Warnings_Prompt" = "無法處理部分內容。";
+
+/* Action to continue content block processing despite warnings. */
+"Content_Block_Warnings_Continue" = "繼續";
+
+/* Title for content block picker. */
+"Content_Block_Picker_Title" = "新增內容區塊";
+
+/* Action sheet action to enable focus mode. */
+"Action_Enable_Focus_Mode" = "啟用焦點模式";
+
+/* Action sheet action to disable focus mode. */
+"Action_Disable_Focus_Mode" = "停用焦點模式";
+
+/* Action sheet action to enable syntax control. */
+"Action_Enable_Syntax_Control" = "顯示語法";
+
+/* Action sheet action to disable syntax control. */
+"Action_Disable_Syntax_Control" = "隱藏語法";
+
+/* Action sheet action to enable syntax control. */
+"Action_Show_Stats" = "顯示統計數據";
+
+/* Action sheet action to disable syntax control. */
+"Action_Hide_Stats" = "隱藏統計數據";
+
+/* Action sheet action. */
+"Action_Configure_Editor" = "配置編輯器";
+
+/*---------
+ Menu Items
+ ---------*/
+
+/* Menu item title for text transformations. */
+"Menu_Item_Transform" = "轉變…";
+
+/* Menu item title for transforming text to upper case. */
+"Menu_Item_Transform_To_Upper_Case" = "大寫";
+
+/* Menu item title for transforming text to lower case. */
+"Menu_Item_Transform_To_Lower_Case" = "小寫";
+
+/* Menu item title for captilizing first letter of every word. */
+"Menu_Item_Transform_To_Capitalized" = "轉為大寫";
+
+/* Menu item title for transforming text to title case. */
+"Menu_Item_Transform_To_Title_Case" = "標題格式";
+
+/* Menu item title for copying HTML. */
+"Menu_Item_Copy_HTML" = "複製 HTML";
+
+/* Menu item title for copying formatted text. */
+"Menu_Item_Copy_Formatted" = "複製格式化內容";
+
+/*----------
+ Table Views
+ ----------*/
+
+/* Table view swipe action title. */
+"Table_View_Action_Delete" = "刪除";
+
+/* Table view swipe action title. */
+"Table_View_Action_Remove" = "移除";
+
+/* Table view swipe action title. */
+"Table_View_Action_More" = "更多";
+
+/* Table view swipe action title. */
+"Table_View_Action_Hide" = "隱藏";
+
+/*------------
+ Folder Picker
+ ------------*/
+
+/* Section title for recent folder section. */
+"Library_Picker_Recent_Section_Title" = "最近";
+
+/* Section title for all folders section. */
+"Library_Picker_All_Section_Title" = "全部";
+
+/*------------------
+ Smart Folder Editor
+ ------------------*/
+
+/* Smart folder editor title while editing an existing smart folder. */
+"Smart_Folder_Editor_Edit_Title" = "編輯智能資料夾";
+
+/* Smart folder editor title while creating a new smart folder. */
+"Smart_Folder_Editor_New_Title" = "新增智能資料夾";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Name_Section_Title" = "名稱";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Rules_Section_Title" = "條件";
+
+/* Smart folder action to add a new rule. */
+"Smart_Folder_Editor_New_Rule_Action" = "新增條件…";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Section_Title" = "限制";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Action" = "以 %@ 個項目為限";
+
+/* Smart folder rule name. */
+"Smart_Folder_Rule_Search" = "搜尋";
+
+/* Smart folder rule name.*/
+"Smart_Folder_Rule_Library_Kind" = "類別";
+
+/* Smart folder rule name. */
+"Smart_Folder_Rule_Extension" = "副檔名";
+
+/* Title for kinds shown while editing a rule. */
+"Smart_Folder_Rule_Library_Kind_Folder_Title" = "資料夾";
+"Smart_Folder_Rule_Library_Kind_Text_Title" = "文字";
+"Smart_Folder_Rule_Library_Kind_Other_Title" = "其他";
+
+/* Title for kinds shown as a part of a sentence. */
+"Smart_Folder_Rule_Library_Kind_Folder" = "資料夾";
+"Smart_Folder_Rule_Library_Kind_Text" = "文字";
+"Smart_Folder_Rule_Library_Kind_Other" = "其他";
+
+/* Smart folder section on matching type. */
+"Smart_Folder_Match_Section_Title" = "顯示匹配的項目";
+"Smart_Folder_Match_All" = "符合以下所有條件";
+"Smart_Folder_Match_Any" = "符合以下其中一項條件";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Section_Title" = "排序方式";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Custom" = "自訂排序方式";
+
+/* Button to show sort by options. */
+"Smart_Folder_Sort_By_Custom_Edit" = "排序方式";
+
+/*----------
+ Rule Editor
+ ----------*/
+
+/* Placeholder for text variables in predicates. */
+"Predicate_Placeholder_Text" = "文字";
+
+/* Predicate operator names. */
+"Predicate_Operator_Less_Than_Title" = "小於";
+"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "小於或等於";
+"Predicate_Operator_Greater_Than_Title" = "大於";
+"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "大於或等於";
+"Predicate_Operator_Equal_To_Title" = "是";
+"Predicate_Operator_Not_Equal_To_Title" = "不是";
+"Predicate_Operator_Matches_Title" = "匹配";
+"Predicate_Operator_Like_Title" = "近似";
+"Predicate_Operator_Begins_With_Title" = "以此開頭：";
+"Predicate_Operator_Ends_With_Title" = "以此作結：";
+"Predicate_Operator_Contains_Title" = "包括";
+
+/* Predicate operator names in sentence. */
+"Predicate_Operator_Less_Than" = "小於";
+"Predicate_Operator_Less_Than_Or_Equal_To" = "小於或等於";
+"Predicate_Operator_Greater_Than" = "大於";
+"Predicate_Operator_Greater_Than_Or_Equal_To" = "小於或等於";
+"Predicate_Operator_Equal_To" = "是";
+"Predicate_Operator_Not_Equal_To" = "不是";
+"Predicate_Operator_Matches" = "匹配";
+"Predicate_Operator_Like" = "近似";
+"Predicate_Operator_Begins_With" = "以此開頭：";
+"Predicate_Operator_Ends_With" = "以此作結：";
+"Predicate_Operator_Contains" = "包括";
+
+/* Placeholder for text inputs. */
+"Predicate_String_Placeholder" = "文字";
+
+/* Joiner for predicate sentences: “kind` `is` `folder”. */
+"Predicate_Part_Joiner" = " ";
+
+/* Predicate format for text values: Extension is `“txt”`. */
+"Predicate_Quoted_Value" = "「%@」";
+
+/* Rule editor title while adding a new rule. */
+"Rule_Editor_New_Title" = "新增條件";
+
+/* Rule editor title while editing an existin rule. */
+"Rule_Editor_Edit_Title" = "編輯條件";
+
+/*--
+ Add
+ --*/
+
+/* Action to open camera. */
+"Action_Take_Photo" = "拍照…";
+
+/* Action to open photo library. */
+"Action_Choose_Photo" = "選擇相片…";
+
+/* Action to create new file. */
+"Action_New_File" = "新檔案";
+
+/* Title for alert to create new folder. */
+"New_File_Alert_Title" = "輸入檔案名稱";
+
+/* Action to create new folder. */
+"Action_Create_File" = "建立檔案";
+
+/* Title for alert to create new folder. */
+"New_Folder_Alert_Title" = "輸入資料夾名稱";
+
+/* Action to create new folder. */
+"Action_Create_Folder" = "建立資料夾";
+
+/* Title for alert to enter photo name. */
+"Photo_Name_Alert_Title" = "輸入相片名稱";
+
+/* Action to add a photo. */
+"Action_Add_Photo" = "新增相片";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Find" = "尋找";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Replace" = "取代";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Confirmation" = "重新命名";
+
+/*---------
+ Table Size
+ ---------*/
+
+/* Columns number label in table size picker. */
+"Table_Size_Picker_Columns" = "欄";
+
+/* Rows number label in table size picker. */
+"Table_Size_Picker_Rows" = "列";
+
+/* Action title to add table with a selected size. */
+"Action_Add_Table" = "新增表格";
+
+/* Action title to add selected date. */
+"Action_Add_Date" = "新增日期";
+
+/*---
+ Info 
+ ---*/
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "已更新";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "已創建";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "名稱";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "副檔名";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "大小";
+
+/*-----
+ Export
+ -----*/
+
+/* Share sheet Medium activity option */
+"Share_Sheet_Medium_Activity_Title" = "新增 Medium 草稿";
+
+/* Share sheet WordPress activity option */
+"Share_Sheet_WordPress_Activity_Title" = "新增 WordPress 草稿";
+
+/* Share sheet `open file in app` activity option */
+"Share_Sheet_Open_In_Activity_Title" = "開啟位置…";
+
+/* Share sheet 'Save to…" activity option */
+"Save_To_Export_Label" = "儲存位置…";
+
+/* Sharing button title. */
+"Button_Share" = "分享";
+
+/* Sharing button title. */
+"Action_Share" = "分享…";
+
+/* Action menu title. */
+"Action_Export" = "匯出…";
+
+/* Action menu title. */
+"Action_Print" = "列印…";
+
+/* Action menu title. */
+"Action_Print_Formatted" = "列印格式化內容…";
+
+/* Action menu title. */
+"Action_Print_Plain_Text" = "列印純文字…";
+
+/* Action menu title. */
+"Action_Export_Markdown" = "Markdown…";
+
+/* Action menu title. */
+"Action_Export_HTML" = "HTML…";
+
+/* Action menu title. */
+"Action_Export_PDF" = "PDF…";
+
+/* Action menu title. */
+"Action_Export_Word" = "Microsoft Word…";
+
+/* Action menu title. */
+"Action_Export_Project_Archive" = "Project Archive…";
+
+/*--------------
+ Version Browser
+ --------------*/
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "版本衝突";
+
+/* Version browser title */
+"Version_Browser_Title" = "版本";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "當前";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "所有 %@ 的可用版本。";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "選擇要復原的較舊版本。選擇當前及較舊版本，分別建立為不同的檔案。";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "更新不會同步。選擇要保留的文檔。";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "%@ 存在版本衝突。";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "保留";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "同時保留";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "全部保留";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "保留 %d";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "復原";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "復原最近版本，建立 %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "建立 %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "無法讀取版本";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "iCloud 錯誤：「%@」。";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "未知錯誤";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "網絡無法使用。";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "無法連線。";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder for Quick Search field. */
+"Quick_Search_Placeholder" = "快速搜尋";
+
+/* Quick Search recent files section title. */
+"Quick_Search_Recent_Files_Section_Title" = "當前檔案";
+
+/* Quick Search files section title. */
+"Quick_Search_Files_Section_Title" = "檔案";
+
+/* Quick Search recent actions section title. */
+"Quick_Search_Recent_Actions_Section_Title" = "最近操作";
+
+/* Quick Search actions search section title. */
+"Quick_Search_Actions_Section_Title" = "操作";
+
+/*--------------------------
+ Key Commands & Quick Search
+ --------------------------*/
+
+/* Quick Search key command titles. */
+"Discoverability_Quick_Search_Select_Next_Result" = "選擇下一個";
+"Discoverability_Quick_Search_Select_Previous_Result" = "選擇上一個";
+"Discoverability_Quick_Search" = "快速搜尋";
+
+/* General action key command titles. */
+"Discoverability_New" = "新檔案";
+"Discoverability_Night_Mode" = "夜間模式";
+
+/* Editor action key command titles. */
+"Discoverability_Syntax" = "凸顯語法";
+"Discoverability_Browse_Versions" = "瀏覽版本";
+"Discoverability_New" = "新檔案";
+"Discoverability_Open" = "開啟…";
+"Discoverability_Preview" = "預覽";
+"Discoverability_Strong" = "粗體";
+"Discoverability_Strikethrough" = "刪除線";
+"Discoverability_Emphasis" = "強調";
+"Discoverability_Headings" = "標題 1–6";
+"Discoverability_Blockquote" = "區塊引用";
+"Discoverability_List" = "列表";
+"Discoverability_Task_List" = "工作列表";
+"Discoverability_Ordered_List" = "已排序列表";
+"Discoverability_Ordered_Task_List" = "已排序工作列表";
+"Discoverability_Move_Line_Up" = "整行上移";
+"Discoverability_Move_Line_Down" = "整行下移";
+"Discoverability_Focus" = "焦點模式";
+"Discoverability_Typewriter" = "打字機模式";
+"Discoverability_Share" = "分享";
+"Discoverability_Export_PDF" = "匯出 PDF";
+"Discoverability_Export_Markdown" = "匯出 Markdown";
+"Discoverability_Export_HTML" = "匯出 HTML";
+"Discoverability_Export_Word" = "匯出 Microsoft Word";
+"Discoverability_Export_Project_Archive" = "匯出 Project Archive";
+"Discoverability_Configure_Keyboard" = "配置鍵盤";
+"Discoverability_Settings" = "設定";
+"Discoverability_Configure_Keyboard" = "配置鍵盤";
+"Discoverability_Settings" = "設定";
+"Discoverability_Increase_Size" = "加大字型";
+"Discoverability_Decrease_Size" = "縮小字型";
+"Discoverability_Default_Size" = "預設字型";
+"Discoverability_Find_Next" = "尋找下一個";
+"Discoverability_Find_Previous" = "尋找上一個";
+"Discoverability_Find" = "尋找";
+"Discoverability_Help" = "協助";
+"Discoverability_Stats" = "統計數據";
+
+/*------
+ Preview
+ ------*/
+
+/* Title shown in preview. */
+"Preview_Title" = "預覽";
+
+/* Empty preview placeholder. */
+"Preview_Content_Placeholder" = "沒有可預覽的內容";
+
+/* Action to change template. */
+"Preview_Template_Action" = "切換至已選項目";
+
+/* Action to change template. */
+"Action_Configure_Templates" = "配置範本";
+
+/*---------------
+ Template Install
+ ---------------*/
+
+/* Alert message after a template is successfully installed. */
+"Template_Installed_Title" = "已安裝的「%@」範本";
+
+/* Alert info text after a template is successfully installed. */
+"Template_Installed_Description" = "您可以在「預覽」中存取範本。您可以在「設定」中卸載範本。";
+
+/*-------
+ Settings
+ -------*/
+
+/* Button to open settings. */
+"Settings_Title" = "設定";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "深色應用程式圖示";
+
+/* Settings panes. */
+"Settings_General_Title" = "一般";
+"Settings_Files_Title" = "檔案";
+"Settings_Library_Title" = "資料庫";
+"Settings_Editor_Title" = "編輯器";
+"Settings_Templates_Title" = "範本";
+
+/* Appearance section in settings. */
+"Settings_Appearance_Section_Title" = "外觀";
+
+/* Sharing accounts section in settings. */
+"Settings_Accounts_Section_Title" = "共享帳戶";
+
+"Settings_Accounts_Medium_Add" = "新增 Medium 帳戶…";
+"Settings_Accounts_Medium_Remove" = "移除 Medium…";
+"Settings_Accounts_Medium_Remove_Confirmation" = "移除 Medium";
+"Settings_Accounts_Medium_Add_Title" = "Medium";
+"Settings_Accounts_Medium_Add_Message" = "iA Writer 建立的草稿，讓您可以在發佈前審閱。";
+"Settings_Accounts_Medium_Get_Token" = "取得 Medium 令牌";
+"Settings_Accounts_Medium_Add_Token_Placeholder" = "令牌";
+"Settings_Accounts_Medium_Invalid_Token_Title" = "令牌無效";
+"Settings_Accounts_Medium_Invalid_Token_Message" = "請檢查您輸入有效的 Medium 令牌。";
+
+"Settings_Accounts_WordPress_Add" = "新增 WordPress 帳戶…";
+"Settings_Accounts_WordPress_Remove" = "移除 WordPress…";
+"Settings_Accounts_WordPress_Remove_Confirmation" = "移除 WordPress";
+"Settings_Accounts_WordPress_Add_Title" = "WordPress";
+"Settings_Accounts_WordPress_Add_Message" = "iA Writer 建立的草稿，讓您可以在發佈前審閱。\n\n僅以 Jetpack 支援個人 WordPress 網站。\n\n如果您的帳戶有多於一個網站，帖文會建立到您的主要網站。";
+"Settings_Accounts_WordPress_About_Jetpack" = "關於 Jetpack";
+"Settings_Accounts_WordPress_Authorize" = "授權";
+
+/*-------------
+ Files Settings
+ -------------*/
+
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "正在處理 Markdown";
+"Settings_Markdown_Section_Footer" = "這樣會影響匯出項目的格式和預覽結果。";
+"Settings_Markdown_Lazy_Paragraphs" = "按一下返回鍵以開新一段";
+"Settings_Markdown_Smart_Punctuation" = "智能標點";
+"Settings_Markdown_Process_Metadata" = "處理元數據";
+
+"Default_File_Extension_Section_Title" = "預設檔案副檔名";
+"Default_File_Extension_Section_Footer" = "新檔案均以此為副檔名。僅允許使用純文字檔案格式。";
+
+/*--------------
+ Library Settings
+ --------------*/
+
+/* Library section in settings. */
+"Settings_Library_Appearance_Section_Title" = "外觀";
+"Settings_Library_Show_Text_Excerpts" = "顯示文字摘錄";
+"Settings_Library_Show_Extensions" = "顯示檔案副檔名";
+"Settings_Library_Show_Extensions" = "顯示檔案副檔名";
+"Settings_Library_Pin_Folders_To_Top" = "釘選置頂資料夾";
+
+/* Sort by section in settings. */
+"Settings_Library_Sort_By_Section_Title" = "排序方式";
+"Settings_Library_Sort_By_Edit" = "排序方式";
+
+/*--------------
+ Editor Settings
+ --------------*/
+
+/* Syntax control section in settings. */
+"Settings_Editor_Syntax_Control_Section_Title" = "語法控制";
+
+/* Editor section in settings. */
+"Settings_Editor_Appearance_Section_Title" = "外觀";
+"Settings_Editor_Show_Stats" = "顯示統計數據";
+
+/* Typography section in settings. */
+"Settings_Editor_Typography_Section_Title" = "字體排版";
+"Settings_Editor_Line_Length_Limit_Edit" = "每行長度上限";
+"Settings_Editor_Font" = "字體";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Focus_Mode_Section_Title" = "焦點模式";
+"Settings_Editor_Focus_Mode" = "焦點模式";
+"Settings_Editor_Focus_Mode_Scope" = "範圍";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Keyboard_Section_Title" = "自訂鍵盤";
+"Settings_Editor_Keyboard_Configure" = "配置鍵盤";
+"Settings_Editor_Keyboard_Section_Footer" = "要快速存取配置模式，您可以長按住自訂鍵盤上的白色鍵。";
+
+/* Smart substitutions section in settings. */
+"Settings_Editor_Text_Input_Section_Title" = "文字輸入";
+"Settings_Editor_Text_Input_Section_Footer" = "要啟用拼字檢查、智能引用和短橫線，請前往設定→一般→鍵盤。";
+"Settings_Editor_Check_Spelling" = "拼字檢查";
+"Settings_Editor_Smart_Quotes" = "智能引用";
+"Settings_Editor_Smart_Dashes" = "智能短橫線";
+"Settings_Editor_Smart_Inset_Delete" = "智能複製/貼上";
+
+/* Tabs vs spaces settings. */
+"Settings_Editor_Text_Indentation" = "縮排按鍵為";
+"Settings_Editor_Text_Indentation_Tabs" = "Tab";
+"Settings_Editor_Text_Indentation_Spaces" = "空白鍵";
+
+
+/* Find settings. */
+"Settings_Editor_Find_Section_Title" = "文本查找";
+"Settings_Editor_Find_Regular_Expression" = "使用常用形式";
+
+/*----------------
+ Templates Settings
+ ----------------*/
+
+/* Section title for built-in templates. */
+"Settings_Templates_Default_Templates_Section_Title" = "預設範本";
+
+/* Section title for users templates. */
+"Settings_Templates_Custom_Templates_Section_Title" = "自訂範本";
+
+/* Action title to get more templates. */
+"Settings_Templates_Get_More" = "取得更多範本";
+
+/* Action to change template. */
+"Settings_Templates_Appearance_Section_Title" = "外觀";
+"Settings_Templates_Appearance_Center_Headings" = "置中標題";
+"Settings_Templates_Appearance_Number_Headings" = "數字標題";
+"Settings_Templates_Appearance_Indent_Paragraphs" = "段落縮排";
+"Settings_Templates_Appearance_Invert_Preview_Colors" = "反轉預覽顏色";
+
+/* Printing & PDF export section in settings. */
+"Settings_Printing_And_PDF_Export_Section_Title" = "列印和匯出 PDF";
+"Settings_Printing_And_PDF_Export_Include_Title_Page" = "包括標題頁";
+"Settings_Printing_And_PDF_Export_Include_Header" = "包括標題";
+"Settings_Printing_And_PDF_Export_Include_Footer" = "包括註腳";
+
+/* Author name section in settings. */
+"Settings_Templates_Author_Name_Section_Title" = "作者名稱";
+"Settings_Templates_Author_Name_Placeholder" = "沒有";
+
+/* Action to change preferred paper size. */
+"Settings_Paper_Size_Section_Title" = "紙張大小";
+
+/* Action to share template. */
+"Table_View_Action_Share" = "分享";
+

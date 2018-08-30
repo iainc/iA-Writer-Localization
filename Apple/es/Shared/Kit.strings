@@ -16,8 +16,8 @@
 "Default_Smart_Folder_Name" = "Sin título";
 "Default_Smart_Folder_Recently_Modified_Name" = "Recientemente modificado";
 
-"Paper_Size_A4" = "Papel A4";
-"Paper_Size_US_Letter" = "Papel carta de los EE. UU.";
+"Paper_Size_A4" = "A4";
+"Paper_Size_US_Letter" = "US Letter";
 
 /*----
  Dates
@@ -181,7 +181,7 @@
 "Library_Sort_By_Search_Rank_Ascending" = "Menos relevante arriba";
 "Library_Sort_By_Search_Rank_Descending" = "Más relevante arriba";
 
-"Library_Sort_By_Part_Joiner" = ",";
+"Library_Sort_By_Part_Joiner" = ", ";
 
 /*----------
  Focus Scope

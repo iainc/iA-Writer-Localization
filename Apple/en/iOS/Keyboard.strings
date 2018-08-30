@@ -1,0 +1,54 @@
+
+"Key_Picker_Title" = "Keys";
+
+"Key_Picker_Button_Reset" = "Reset";
+
+"Key_Picker_Message_Reset" = "Are you sure you would like to reset the keyboard layout? All your modifications will be lost.";
+"Key_Picker_Action_Reset" = "Reset Keyboard Layout";
+"Key_Picker_Action_Cancel" = "Cancel";
+
+"Find_Placeholder" = "Find";
+"Find_Replace_Placeholder" = "Replace";
+
+"Key_Description_Find" = "Find Bar";
+"Key_Description_Show_Find" = "Show Find Bar";
+"Key_Description_Hide_Find" = "Hide Find Bar";
+"Key_Description_Find_Next" = "Find Next";
+"Key_Description_Find_Previous" = "Find Previous";
+"Key_Description_Replace" = "Replace";
+"Key_Description_Replace_All" = "Replace All";
+
+"Key_Description_Search" = "Search";
+"Key_Description_Command" = "Commands";
+
+"Key_Description_Undo" = "Undo";
+"Key_Description_Redo" = "Redo";
+
+"Key_Description_Move_Up" = "Up Arrow";
+"Key_Description_Move_Down" = "Down Arrow";
+"Key_Description_Move_Left" = "Left Arrow";
+"Key_Description_Move_Right" = "Right Arrow";
+
+"Key_Description_Dismiss_Menu" = "Dismiss Menu";
+
+"Key_Title_Return" = "return";
+"Key_Title_Shift_Right" = "tab";
+"Key_Title_Shift_Left" = "backtab";
+"Key_Title_Home" = "home";
+"Key_Title_End" = "end";
+"Key_Title_Shift_Up" = "move\ntext ↑";
+"Key_Title_Shift_Down" = "move\ntext ↓";
+"Key_Title_Undo" = "undo";
+"Key_Title_Redo" = "redo";
+
+"Key_Description_Return" = "Return";
+"Key_Description_Delete_Forward" = "Delete Forward";
+"Key_Description_Delete_Backward" = "Delete Backward";
+"Key_Description_Dismiss_Keyboard" = "Hide Keyboard";
+"Key_Description_Shift_Left" = "Outdent";
+"Key_Description_Shift_Right" = "Indent";
+"Key_Description_Shift_Up" = "Move Up";
+"Key_Description_Shift_Down" = "Move Down";
+"Key_Description_Dismiss_Keyboard" = "Dismiss Keyboard";
+"Key_Description_Move_To_Beginning" = "Go to Beginning of Document";
+"Key_Description_Move_To_End" = "Go to End of Document";

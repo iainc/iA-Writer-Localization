@@ -16,8 +16,8 @@
 "Default_Smart_Folder_Name" = "未命名";
 "Default_Smart_Folder_Recently_Modified_Name" = "最近修改";
 
-"Paper_Size_A4" = "A4 紙";
-"Paper_Size_US_Letter" = "US Letter 紙張尺寸";
+"Paper_Size_A4" = "A4";
+"Paper_Size_US_Letter" = "US Letter";
 
 /*----
  Dates

@@ -1,0 +1,54 @@
+
+"Key_Picker_Title" = "Teclas";
+
+"Key_Picker_Button_Reset" = "Repor";
+
+"Key_Picker_Message_Reset" = "Tem a certeza de querer repor a configuração do teclado? Perderá todas as suas modificações.";
+"Key_Picker_Action_Reset" = "Repor Configuração do Teclado";
+"Key_Picker_Action_Cancel" = "Cancelar";
+
+"Find_Placeholder" = "Encontrar";
+"Find_Replace_Placeholder" = "Substituir";
+
+"Key_Description_Find" = "Barra de Encontrar";
+"Key_Description_Show_Find" = "Mostrar Barra de Encontrar";
+"Key_Description_Hide_Find" = "Ocultar Barra de Encontrar";
+"Key_Description_Find_Next" = "Encontrar Próximo";
+"Key_Description_Find_Previous" = "Encontrar Anterior";
+"Key_Description_Replace" = "Substituir";
+"Key_Description_Replace_All" = "Substituir Todos";
+
+"Key_Description_Search" = "Procurar";
+"Key_Description_Command" = "Comandos";
+
+"Key_Description_Undo" = "Desfazer";
+"Key_Description_Redo" = "Refazer";
+
+"Key_Description_Move_Up" = "Seta para Cima";
+"Key_Description_Move_Down" = "Seta para Baixo";
+"Key_Description_Move_Left" = "Seta para a Esquerda";
+"Key_Description_Move_Right" = "Seta para a Direita";
+
+"Key_Description_Dismiss_Menu" = "Dispensar Menu";
+
+"Key_Title_Return" = "voltar";
+"Key_Title_Shift_Right" = "tabulação";
+"Key_Title_Shift_Left" = "retroceder";
+"Key_Title_Home" = "início";
+"Key_Title_End" = "fim";
+"Key_Title_Shift_Up" = "mover\ntexto ↑";
+"Key_Title_Shift_Down" = "mover\ntexto ↓";
+"Key_Title_Undo" = "desfazer";
+"Key_Title_Redo" = "refazer";
+
+"Key_Description_Return" = "Voltar";
+"Key_Description_Delete_Forward" = "Eliminar para a Frente";
+"Key_Description_Delete_Backward" = "Eliminar para Trás";
+"Key_Description_Dismiss_Keyboard" = "Dispensar Teclado";
+"Key_Description_Shift_Left" = "Recuo invertido";
+"Key_Description_Shift_Right" = "Recuo";
+"Key_Description_Shift_Up" = "Mover para Cima";
+"Key_Description_Shift_Down" = "Mover para Baixo";
+"Key_Description_Dismiss_Keyboard" = "Dispensar Teclado";
+"Key_Description_Move_To_Beginning" = "Ir para o Início do Documento";
+"Key_Description_Move_To_End" = "Ir para o Fim do Documento";

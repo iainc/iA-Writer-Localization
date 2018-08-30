@@ -1,0 +1,833 @@
+
+/*-----------
+ Library Root
+ -----------*/
+
+/* Title for root library view. */
+"Library_Title" = "Bibliothek";
+
+/* Title for root library view. */
+"Library_Locations_Section_Title" = "Ablagen";
+
+/* Title for root library view. */
+"Library_Favorites_Section_Title" = "Favoriten";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Add_Favorite" = "Zu Favoriten hinzufügen";
+
+/* Title for root library view. */
+"Library_Smart_Folders_Section_Title" = "Smart Folder";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_New_Smart_Folder" = "Neuer Smart Folder…";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Edit_Smart_Folder" = "Bearbeiten";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Title_Add_Favorite_Folder" = "Favoriten hinzufügen";
+
+/* Title for help action to open twitter page for iA Writer. */
+"Help_Action_Open_Twitter" = "iA Writer auf Twitter";
+
+/* Title for help action to open release notes and other updates. */
+"Help_Action_News" = "What’s New";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Feedback_And_Support" = "Feedback und Support";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Newsletter" = "Newsletter abonnieren";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Review" = "iA Writer weiterempfehlen";
+
+/* Title for release notes screen. */
+"Help_Title_News" = "What’s New";
+
+/*------
+ Backups
+ ------*/
+
+/* Title for all backups. */
+"Backups_Title" = "Backups";
+
+/* Message under title when browsing backups. */
+"Backup_Submitem_Message" = "Dokumente aus anderen Apps werden auf diesem %@ als Backups abgespeichert. Wenn der Dokumentname ändert behalten die vorangehende Versionen ihren ursprünglichen Namen.";
+
+/* Button title to restore a backup. */
+"Backups_Restore_Button_Title" = "Wiederherstellen";
+
+/* Title for backup restoration destination picker. */
+"Backups_Restore_Picker_Title" = "Dokument wiederherstellen";
+
+/* Prompt at the top of backup restoration destination picker. */
+"Backups_Restore_Picker_Prompt" = "Zielort für das wiederhergestellte Dokument wählen.";
+
+/* Placeholder shown when there are no backups. */
+"Backups_Placeholder" = "Keine Backups";
+
+/* Title for swipe action to browse backups. */
+"Table_View_Action_Browse_Backups" = "Backups durchstöbern";
+
+/* Button description to browse all backups. */
+"Backups_Button_Title" = "Backups durchstöbern";
+
+/* Action in editor to browse backups for currently opened file from other apps. */
+"Action_Browse_Backups" = "Backups durchstöbern";
+
+/*------
+ Library
+ ------*/
+
+/* Button to move to move files or folders. */
+"Button_Move" = "Verschieben";
+
+/* Button to delete. */
+"Button_Delete" = "Löschen";
+
+/* Button to select all visible items. */
+"Button_Select_All" = "Alles auswählen";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "Auswahl aufheben";
+
+/* Button to save. */
+"Button_Save" = "Speichern";
+
+/* Action to move files or folders. */
+"Action_Move" = "Verschieben…";
+
+/* Action to rename. */
+"Action_Rename" = "Umbenennen…";
+
+/* Action to rename. */
+"Action_Remove" = "Entfernen";
+
+/* Action to delete. */
+"Action_Delete" = "Löschen…";
+
+/* Action to open file or folder info. */
+"Action_Get_Info" = "Info";
+
+/* Action to add folder to favorites. */
+"Action_Remove_External_File" = "Entfernen";
+
+/* Action to add folder to favorites. */
+"Action_Add_Favorite" = "Zu Favoriten hinzufügen";
+
+/* Action to add folder to favorites. */
+"Action_Remove_Favorite" = "Von Favoriten entfernen";
+
+/* Action to browse file versions. */
+"Action_Browse_Versions" = "Versionen durchsuchen";
+
+/* Action to browse file versions. */
+"Action_Find_And_Replace" = "Finden und ersetzen";
+
+/* Generic update button. */
+"Action_Update" = "Aktualisieren";
+
+/* Action to switch to night mode. */
+"Action_Night_Mode" = "Nacht-Modus";
+
+/* Action to switch to night mode. */
+"Action_Day_Mode" = "Tag-Modus";
+
+/* Action to configure keyboard. */
+"Action_Configure_Keyboard" = "Tastatur einstellen";
+
+/* Button to create new folder. */
+"Button_New_Folder" = "Neuer Ordner";
+
+/* Button to change sorting order. */
+"Button_Sort_By" = "Sortieren nach";
+
+/* Generic to confirm selection in action sheet picker. */
+"Action_Set_Selected" = "Verwende Auswahl";
+
+/* New folder destination folder picker title. */
+"New_Folder_Location_Title" = "Neuer Ordner";
+
+/* New folder destination folder picker prompt. */
+"New_Folder_Location_Prompt" = "Neuer Ordner ablegen unter…";
+
+/* File import destination folder picker title. */
+"File_Import_Title" = "Importieren";
+
+/* New folder destination folder picker prompt. */
+"File_Import_Prompt" = "Importiertes Dokument ablegen unter…";
+
+/* New file destination folder picker title. */
+"New_File_Location_Title" = "Neues Dokument";
+
+/* New file destination folder picker prompt. */
+"New_File_Location_Prompt" = "Neues Dokument ablegen unter…";
+
+/* Action to configure smart folder. */
+"Action_Edit_Smart_Folder" = "Smart Folder bearbeiten";
+
+/* Action to configure library. */
+"Action_Configure_Library" = "Bibiliothek konfigurieren";
+
+/* Action to delete smart folder. */
+"Action_Delete_Smart_Folder" = "Smart Folder löschen";
+
+/* Excerpt for empty documents. */
+"Library_Excerpt_Empty" = "Kein Inhalt";
+
+/* Excerpt for unindexed documents. */
+"Library_Excerpt_Updating" = "Aktualisiere…";
+
+/* Library empty message in folders. */
+"Library_Empty_Folder" = "Keine Dokumente";
+
+/* Library empty message in folders. */
+"Library_Empty_External_Files" = "Keine externen Dokumente";
+
+/* Library empty message in extenal files location. */
+"Library_Empty_External_Files_Message" = "Um Ihre Dokumente hinzuzufügen, drücken Sie bitte auf +.";
+
+/* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
+"Library_Empty_External_Files_Message_Install" = "Um direkt auf Dokumente in Dropbox, Google Drive und weitere Apps zugreifen zu können, laden Sie bitte die entsprechenden Applikationen aus dem App Store herunter, dann pressen Sie + um Ihre Dokumente hinzuzufügen.";
+
+/* Library empty message in smart folders. */
+"Library_Empty_Smart_Folder" = "Kein Suchergebnis";
+
+/* Title for external files section. */
+"Library_External_Files_Section_Title" = "Extern";
+
+/* Title for action to open external files location. */
+"Library_External_Files" = "Extern";
+
+/* Title for action to open external files picker. */
+"Library_External_Files_Open" = "Öffnen…";
+
+/* Title for move to folder destination picker title. */
+"Move_Title" = "Verschieben";
+
+/*-----
+ Editor
+ -----*/
+
+/* Title for content block warning list. */
+"Content_Block_Warnings_Title" = "Content-Blocks";
+
+/* Prompt for content block warning list. */
+"Content_Block_Warnings_Prompt" = "Inhalt konnte nich vollständig verarbeitet werden.";
+
+/* Action to continue content block processing despite warnings. */
+"Content_Block_Warnings_Continue" = "Weiter";
+
+/* Title for content block picker. */
+"Content_Block_Picker_Title" = "Content-Block hinzufügen";
+
+/* Action sheet action to enable focus mode. */
+"Action_Enable_Focus_Mode" = "Enable Focus Mode";
+
+/* Action sheet action to disable focus mode. */
+"Action_Disable_Focus_Mode" = "Disable Focus Mode";
+
+/* Action sheet action to enable syntax control. */
+"Action_Enable_Syntax_Control" = "Syntax einblenden";
+
+/* Action sheet action to disable syntax control. */
+"Action_Disable_Syntax_Control" = "Syntax ausblenden";
+
+/* Action sheet action to enable syntax control. */
+"Action_Show_Stats" = "Statistiken einblenden";
+
+/* Action sheet action to disable syntax control. */
+"Action_Hide_Stats" = "Statistiken ausblenden";
+
+/* Action sheet action. */
+"Action_Configure_Editor" = "Editor konfigurieren";
+
+/*---------
+ Menu Items
+ ---------*/
+
+/* Menu item title for text transformations. */
+"Menu_Item_Transform" = "Transformationen…";
+
+/* Menu item title for transforming text to upper case. */
+"Menu_Item_Transform_To_Upper_Case" = "Großbuchstaben";
+
+/* Menu item title for transforming text to lower case. */
+"Menu_Item_Transform_To_Lower_Case" = "Kleinbuchstaben";
+
+/* Menu item title for captilizing first letter of every word. */
+"Menu_Item_Transform_To_Capitalized" = "Als Überschrift groß schreiben";
+
+/* Menu item title for transforming text to title case. */
+"Menu_Item_Transform_To_Title_Case" = "Anfangsbuchstaben groß";
+
+/* Menu item title for copying HTML. */
+"Menu_Item_Copy_HTML" = "HTML kopieren";
+
+/* Menu item title for copying formatted text. */
+"Menu_Item_Copy_Formatted" = "Kopieren mit Format";
+
+/*----------
+ Table Views
+ ----------*/
+
+/* Table view swipe action title. */
+"Table_View_Action_Delete" = "Löschen";
+
+/* Table view swipe action title. */
+"Table_View_Action_Remove" = "Entfernen";
+
+/* Table view swipe action title. */
+"Table_View_Action_More" = "Mehr";
+
+/* Table view swipe action title. */
+"Table_View_Action_Hide" = "Ausblenden";
+
+/*------------
+ Folder Picker
+ ------------*/
+
+/* Section title for recent folder section. */
+"Library_Picker_Recent_Section_Title" = "Benutzte Dokumente";
+
+/* Section title for all folders section. */
+"Library_Picker_All_Section_Title" = "Alle";
+
+/*------------------
+ Smart Folder Editor
+ ------------------*/
+
+/* Smart folder editor title while editing an existing smart folder. */
+"Smart_Folder_Editor_Edit_Title" = "Smart Folder bearbeiten";
+
+/* Smart folder editor title while creating a new smart folder. */
+"Smart_Folder_Editor_New_Title" = "Neuer Smart Folder";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Name_Section_Title" = "Name";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Rules_Section_Title" = "Regeln";
+
+/* Smart folder action to add a new rule. */
+"Smart_Folder_Editor_New_Rule_Action" = "Neue Regel…";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Section_Title" = "Begrenzung";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Action" = "Begrenze auf %@ Einträge";
+
+/* Smart folder rule name. */
+"Smart_Folder_Rule_Search" = "Suchen";
+
+/* Smart folder rule name.*/
+"Smart_Folder_Rule_Library_Kind" = "Dokumentart";
+
+/* Smart folder rule name. */
+"Smart_Folder_Rule_Extension" = "Dateierweiterung";
+
+/* Title for kinds shown while editing a rule. */
+"Smart_Folder_Rule_Library_Kind_Folder_Title" = "Ordner";
+"Smart_Folder_Rule_Library_Kind_Text_Title" = "Text";
+"Smart_Folder_Rule_Library_Kind_Other_Title" = "Anderes";
+
+/* Title for kinds shown as a part of a sentence. */
+"Smart_Folder_Rule_Library_Kind_Folder" = "Ordner";
+"Smart_Folder_Rule_Library_Kind_Text" = "Text";
+"Smart_Folder_Rule_Library_Kind_Other" = "Anderes";
+
+/* Smart folder section on matching type. */
+"Smart_Folder_Match_Section_Title" = "Angezeigte Einträge befolgen";
+"Smart_Folder_Match_All" = "Alle folgenden Regeln";
+"Smart_Folder_Match_Any" = "Einer der folgenden Regeln";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Section_Title" = "Sortiere nach";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Custom" = "Benutzerdefinierte Sortierung";
+
+/* Button to show sort by options. */
+"Smart_Folder_Sort_By_Custom_Edit" = "Sortieren nach";
+
+/*----------
+ Rule Editor
+ ----------*/
+
+/* Placeholder for text variables in predicates. */
+"Predicate_Placeholder_Text" = "Text";
+
+/* Predicate operator names. */
+"Predicate_Operator_Less_Than_Title" = "Weniger als";
+"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "Weniger als oder gleich";
+"Predicate_Operator_Greater_Than_Title" = "Mehr als";
+"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "Größer oder gleich";
+"Predicate_Operator_Equal_To_Title" = "Ist";
+"Predicate_Operator_Not_Equal_To_Title" = "Ist nicht";
+"Predicate_Operator_Matches_Title" = "Entspricht genau";
+"Predicate_Operator_Like_Title" = "Entspricht";
+"Predicate_Operator_Begins_With_Title" = "Fängt an mit";
+"Predicate_Operator_Ends_With_Title" = "Ended mit";
+"Predicate_Operator_Contains_Title" = "Enthält";
+
+/* Predicate operator names in sentence. */
+"Predicate_Operator_Less_Than" = "weniger als";
+"Predicate_Operator_Less_Than_Or_Equal_To" = "ist weniger oder gleich wie";
+"Predicate_Operator_Greater_Than" = "ist größer als";
+"Predicate_Operator_Greater_Than_Or_Equal_To" = "ist größer oder gleich wie";
+"Predicate_Operator_Equal_To" = "ist";
+"Predicate_Operator_Not_Equal_To" = "ist nicht";
+"Predicate_Operator_Matches" = "entspricht genau";
+"Predicate_Operator_Like" = "entspricht";
+"Predicate_Operator_Begins_With" = "fängt an mit";
+"Predicate_Operator_Ends_With" = "endet mit";
+"Predicate_Operator_Contains" = "enthält";
+
+/* Placeholder for text inputs. */
+"Predicate_String_Placeholder" = "Text";
+
+/* Joiner for predicate sentences: “kind` `is` `folder”. */
+"Predicate_Part_Joiner" = " ";
+
+/* Predicate format for text values: Extension is `“txt”`. */
+"Predicate_Quoted_Value" = "“%@”";
+
+/* Rule editor title while adding a new rule. */
+"Rule_Editor_New_Title" = "Neue Regel";
+
+/* Rule editor title while editing an existin rule. */
+"Rule_Editor_Edit_Title" = "Regel bearbeiten";
+
+/*--
+ Add
+ --*/
+
+/* Action to open camera. */
+"Action_Take_Photo" = "Bild erstellen…";
+
+/* Action to open photo library. */
+"Action_Choose_Photo" = "Bild aussuchen…";
+
+/* Action to create new file. */
+"Action_New_File" = "Neues Dokument";
+
+/* Title for alert to create new folder. */
+"New_File_Alert_Title" = "Dokumentname eingeben";
+
+/* Action to create new folder. */
+"Action_Create_File" = "Dokument erstellen";
+
+/* Title for alert to create new folder. */
+"New_Folder_Alert_Title" = "Ordnername eingeben";
+
+/* Action to create new folder. */
+"Action_Create_Folder" = "Ordner erstellen";
+
+/* Title for alert to enter photo name. */
+"Photo_Name_Alert_Title" = "Bildname eingeben";
+
+/* Action to add a photo. */
+"Action_Add_Photo" = "Bild hinzufügen";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Find" = "Finden";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Replace" = "Ersetzen";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Confirmation" = "Umbenennen";
+
+/*---------
+ Table Size
+ ---------*/
+
+/* Columns number label in table size picker. */
+"Table_Size_Picker_Columns" = "Spalten";
+
+/* Rows number label in table size picker. */
+"Table_Size_Picker_Rows" = "Zeilen";
+
+/* Action title to add table with a selected size. */
+"Action_Add_Table" = "Tabelle hinzufügen";
+
+/* Action title to add selected date. */
+"Action_Add_Date" = "Datum hinzufügen";
+
+/*---
+ Info 
+ ---*/
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "Verändert";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "Erstellt";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "Name";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "Dateierweiterung";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "Größe";
+
+/*-----
+ Export
+ -----*/
+
+/* Share sheet Medium activity option */
+"Share_Sheet_Medium_Activity_Title" = "Neuer Entwurf auf Medium";
+
+/* Share sheet WordPress activity option */
+"Share_Sheet_WordPress_Activity_Title" = "Neuer Entwurf auf WordPress";
+
+/* Share sheet `open file in app` activity option */
+"Share_Sheet_Open_In_Activity_Title" = "Öffnen in…";
+
+/* Share sheet 'Save to…" activity option */
+"Save_To_Export_Label" = "Speichern unter…";
+
+/* Sharing button title. */
+"Button_Share" = "Sharen";
+
+/* Sharing button title. */
+"Action_Share" = "Sharen…";
+
+/* Action menu title. */
+"Action_Export" = "Exportieren…";
+
+/* Action menu title. */
+"Action_Print" = "Drucken…";
+
+/* Action menu title. */
+"Action_Print_Formatted" = "Drucke formatiert…";
+
+/* Action menu title. */
+"Action_Print_Plain_Text" = "Drucke Klartext…";
+
+/* Action menu title. */
+"Action_Export_Markdown" = "Exportiere als Markdown…";
+
+/* Action menu title. */
+"Action_Export_HTML" = "Exportiere als HTML…";
+
+/* Action menu title. */
+"Action_Export_PDF" = "Exportiere als PDF…";
+
+/* Action menu title. */
+"Action_Export_Word" = "Exportiere als MS Word…";
+
+/* Action menu title. */
+"Action_Export_Project_Archive" = "Exportiere als Projekt-Archiv…";
+
+/*--------------
+ Version Browser
+ --------------*/
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "Versionen-Konflikt";
+
+/* Version browser title */
+"Version_Browser_Title" = "Versionen";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "Aktuell";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "Alle verfügbaren Versionen von %@.";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "Suchen Sie eine ältere Version zur Wiederherstellung aus. Wählen Sie die bestehende und eine ältere Version aus, um beide Versionen zu behalten.";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "Dokumentänderungen sind nicht auflösbar. Wählen Sie das Dokument aus, das Sie behalten möchten.";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "Versionenkonflikt in %@.";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "Behalte";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "Behalte beide";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "Behalte alle";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "Behalte %d";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "Wiederherstellen";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "Stelle letzte Version wieder her, erstelle %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "Erstelle %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "Versionen können nicht gelesen werden";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "iCloud-Fehler: “%@”.";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "Unbekannter Fehler";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "Netzwerk nicht erreichbar.";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "Verbindung konnte nicht hergestellt werden.";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder for Quick Search field. */
+"Quick_Search_Placeholder" = "Schnellsuche";
+
+/* Quick Search recent files section title. */
+"Quick_Search_Recent_Files_Section_Title" = "Benutzte Dokumente";
+
+/* Quick Search files section title. */
+"Quick_Search_Files_Section_Title" = "Dokumente";
+
+/* Quick Search recent actions section title. */
+"Quick_Search_Recent_Actions_Section_Title" = "Benutzte Funktionen";
+
+/* Quick Search actions search section title. */
+"Quick_Search_Actions_Section_Title" = "Funktionen";
+
+/*--------------------------
+ Key Commands & Quick Search
+ --------------------------*/
+
+/* Quick Search key command titles. */
+"Discoverability_Quick_Search_Select_Next_Result" = "Nächstes Resultat";
+"Discoverability_Quick_Search_Select_Previous_Result" = "Vorheriges Resultat";
+"Discoverability_Quick_Search" = "Schnellsuche";
+
+/* General action key command titles. */
+"Discoverability_New" = "Neues Dokument";
+"Discoverability_Night_Mode" = "Nachtmodus";
+
+/* Editor action key command titles. */
+"Discoverability_Syntax" = "Syntax-Hervorhebung";
+"Discoverability_Browse_Versions" = "Versionen durchsuchen";
+"Discoverability_New" = "Neues Dokument";
+"Discoverability_Open" = "Öffnen…";
+"Discoverability_Preview" = "Vorschau";
+"Discoverability_Strong" = "Fett";
+"Discoverability_Strikethrough" = "Durchstreichen";
+"Discoverability_Emphasis" = "Emphase";
+"Discoverability_Headings" = "Überschrift 1–6";
+"Discoverability_Blockquote" = "Blockzitat";
+"Discoverability_List" = "Liste";
+"Discoverability_Task_List" = "Aufgabenliste";
+"Discoverability_Ordered_List" = "Geordnete Liste";
+"Discoverability_Ordered_Task_List" = "Geordnete Aufgabenliste";
+"Discoverability_Move_Line_Up" = "Zeile nach oben";
+"Discoverability_Move_Line_Down" = "Zeile nach unten";
+"Discoverability_Focus" = "Fokus";
+"Discoverability_Typewriter" = "Schreibmaschinen-Modus";
+"Discoverability_Share" = "Sharen";
+"Discoverability_Export_PDF" = "Exportiere PDF";
+"Discoverability_Export_Markdown" = "Exportiere Markdown";
+"Discoverability_Export_HTML" = "Exportiere HTML";
+"Discoverability_Export_Word" = "Exportiere Microsoft Word";
+"Discoverability_Export_Project_Archive" = "Exportiere Projekt-Archiv";
+"Discoverability_Configure_Keyboard" = "Tastatur einstellen";
+"Discoverability_Settings" = "Einstellungen";
+"Discoverability_Configure_Keyboard" = "Tastatur einstellen";
+"Discoverability_Settings" = "Einstellungen";
+"Discoverability_Increase_Size" = "Größer";
+"Discoverability_Decrease_Size" = "Originalgröße";
+"Discoverability_Default_Size" = "Kleiner";
+"Discoverability_Find_Next" = "Nächster Eintrag";
+"Discoverability_Find_Previous" = "Vorheriger Eintrag";
+"Discoverability_Find" = "Finden";
+"Discoverability_Help" = "Hilfe";
+"Discoverability_Stats" = "Statistiken";
+
+/*------
+ Preview
+ ------*/
+
+/* Title shown in preview. */
+"Preview_Title" = "Vorschau";
+
+/* Empty preview placeholder. */
+"Preview_Content_Placeholder" = "Keine Vorschau";
+
+/* Action to change template. */
+"Preview_Template_Action" = "Auswahl aktivieren";
+
+/* Action to change template. */
+"Action_Configure_Templates" = "Vorlagen anpassen";
+
+/*---------------
+ Template Install
+ ---------------*/
+
+/* Alert message after a template is successfully installed. */
+"Template_Installed_Title" = "Vorlage “%@” installiert";
+
+/* Alert info text after a template is successfully installed. */
+"Template_Installed_Description" = "Die Vorlagen befinden sich unter Voransicht. Unter Einstellungen können Sie sie entfernen.";
+
+/*-------
+ Settings
+ -------*/
+
+/* Button to open settings. */
+"Settings_Title" = "Einstellungen";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "Dark App Icon";
+
+/* Settings panes. */
+"Settings_General_Title" = "Allgemein";
+"Settings_Files_Title" = "Dokumente";
+"Settings_Library_Title" = "Bibliothek";
+"Settings_Editor_Title" = "Editor";
+"Settings_Templates_Title" = "Vorlagen";
+
+/* Appearance section in settings. */
+"Settings_Appearance_Section_Title" = "Anzeigen";
+
+/* Sharing accounts section in settings. */
+"Settings_Accounts_Section_Title" = "Sharing-Dienste";
+
+"Settings_Accounts_Medium_Add" = "Medium-Konto hinzufügen…";
+"Settings_Accounts_Medium_Remove" = "Medium-Konto entfernen…";
+"Settings_Accounts_Medium_Remove_Confirmation" = "Medium entfernen";
+"Settings_Accounts_Medium_Add_Title" = "Medium";
+"Settings_Accounts_Medium_Add_Message" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung einsehen können.";
+"Settings_Accounts_Medium_Get_Token" = "Token auf Medium einholen";
+"Settings_Accounts_Medium_Add_Token_Placeholder" = "Token";
+"Settings_Accounts_Medium_Invalid_Token_Title" = "Ungültiges Token";
+"Settings_Accounts_Medium_Invalid_Token_Message" = "Stellen Sie sicher dass Sie ein gültiges Medium-Token verwenden.";
+
+"Settings_Accounts_WordPress_Add" = "WordPress-Konto hinzufügen…";
+"Settings_Accounts_WordPress_Remove" = "WordPress entfernen…";
+"Settings_Accounts_WordPress_Remove_Confirmation" = "WordPress entfernen";
+"Settings_Accounts_WordPress_Add_Title" = "WordPress";
+"Settings_Accounts_WordPress_Add_Message" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung einsehen können.\n\nSelbst-gehostete WordPress-Seiten müssen mit Jetpack versehen werden.\n\nFalls Sie mehr als einen Blog verwenden, werden die Einträge auf Ihren Hauptblog hochgeladen.";
+"Settings_Accounts_WordPress_About_Jetpack" = "Über Jetpack";
+"Settings_Accounts_WordPress_Authorize" = "Autorisieren";
+
+/*-------------
+ Files Settings
+ -------------*/
+
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Markdown-Interpretation";
+"Settings_Markdown_Section_Footer" = "Für formatiertes Exportieren und Drucken.";
+"Settings_Markdown_Lazy_Paragraphs" = "Einfacher Umbruch definiert Abschnitt";
+"Settings_Markdown_Smart_Punctuation" = "Intelligente Zeichensetzung";
+"Settings_Markdown_Process_Metadata" = "Meta-Daten einarbeiten";
+
+"Default_File_Extension_Section_Title" = "Standard-Datenerweiterung";
+"Default_File_Extension_Section_Footer" = "Neue Dokumente werden diese Dateierweiterung verwenden. Nur Klartextendungen sind erlaubt.";
+
+/*--------------
+ Library Settings
+ --------------*/
+
+/* Library section in settings. */
+"Settings_Library_Appearance_Section_Title" = "Anzeigen";
+"Settings_Library_Show_Text_Excerpts" = "Textauszüge einblenden";
+"Settings_Library_Show_Extensions" = "Datei-Endungen anzeigen";
+"Settings_Library_Show_Extensions" = "Datei-Endungen anzeigen";
+"Settings_Library_Pin_Folders_To_Top" = "Ordner zu oberst";
+
+/* Sort by section in settings. */
+"Settings_Library_Sort_By_Section_Title" = "Ordner Sortieren";
+"Settings_Library_Sort_By_Edit" = "Sortieren nach…";
+
+/*--------------
+ Editor Settings
+ --------------*/
+
+/* Syntax control section in settings. */
+"Settings_Editor_Syntax_Control_Section_Title" = "Syntax";
+
+/* Editor section in settings. */
+"Settings_Editor_Appearance_Section_Title" = "Anzeigen";
+"Settings_Editor_Show_Stats" = "Statistiken einblenden";
+
+/* Typography section in settings. */
+"Settings_Editor_Typography_Section_Title" = "Typografie";
+"Settings_Editor_Line_Length_Limit_Edit" = "Maximale Zeilenlänge";
+"Settings_Editor_Font" = "Schrift";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Focus_Mode_Section_Title" = "Fokus";
+"Settings_Editor_Focus_Mode" = "Fokus";
+"Settings_Editor_Focus_Mode_Scope" = "Bereich";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Keyboard_Section_Title" = "Benutzerdefinierte Tastatur";
+"Settings_Editor_Keyboard_Configure" = "Tastatur einstellen";
+"Settings_Editor_Keyboard_Section_Footer" = "Für einen schnelleren Zugriff, halten Sie eine der weissen oder hellgrauen Tasten in der benutzerdefinierten Tastatur gedrückt.";
+
+/* Smart substitutions section in settings. */
+"Settings_Editor_Text_Input_Section_Title" = "Texteingabe";
+"Settings_Editor_Text_Input_Section_Footer" = "Rechtschreibung, Intelligente Anführungszeichen und Bindestriche können eingestellt werden unter: Einstellungen → Allgemein → Tastatur.";
+"Settings_Editor_Check_Spelling" = "Rechtschreibung";
+"Settings_Editor_Smart_Quotes" = "Intelligente Anführungszeichen";
+"Settings_Editor_Smart_Dashes" = "Intelligente Bindestriche";
+"Settings_Editor_Smart_Inset_Delete" = "Intelligentes Copy/Paste";
+
+/* Tabs vs spaces settings. */
+"Settings_Editor_Text_Indentation" = "Texteinrückung mit:";
+"Settings_Editor_Text_Indentation_Tabs" = "Tabs";
+"Settings_Editor_Text_Indentation_Spaces" = "Leerzeichen";
+
+
+/* Find settings. */
+"Settings_Editor_Find_Section_Title" = "Textsuche";
+"Settings_Editor_Find_Regular_Expression" = "Reguläre Ausdrücke verwenden";
+
+/*----------------
+ Templates Settings
+ ----------------*/
+
+/* Section title for built-in templates. */
+"Settings_Templates_Default_Templates_Section_Title" = "Standard Vorlagen";
+
+/* Section title for users templates. */
+"Settings_Templates_Custom_Templates_Section_Title" = "Benutzerdefinierte Vorlagen";
+
+/* Action title to get more templates. */
+"Settings_Templates_Get_More" = "Weitere Templates…";
+
+/* Action to change template. */
+"Settings_Templates_Appearance_Section_Title" = "Anzeigen";
+"Settings_Templates_Appearance_Center_Headings" = "Überschriften zentrieren";
+"Settings_Templates_Appearance_Number_Headings" = "Titel nummerieren";
+"Settings_Templates_Appearance_Indent_Paragraphs" = "Abschnitte einrücken";
+"Settings_Templates_Appearance_Invert_Preview_Colors" = "Vorschaufarben invertieren";
+
+/* Printing & PDF export section in settings. */
+"Settings_Printing_And_PDF_Export_Section_Title" = "Drucken & PDF-Export";
+"Settings_Printing_And_PDF_Export_Include_Title_Page" = "Titelseite einfügen";
+"Settings_Printing_And_PDF_Export_Include_Header" = "Kopfzeile einfügen";
+"Settings_Printing_And_PDF_Export_Include_Footer" = "Fußzeile einfügen";
+
+/* Author name section in settings. */
+"Settings_Templates_Author_Name_Section_Title" = "Autoren-Name";
+"Settings_Templates_Author_Name_Placeholder" = "Leer";
+
+/* Action to change preferred paper size. */
+"Settings_Paper_Size_Section_Title" = "Papiergröße";
+
+/* Action to share template. */
+"Table_View_Action_Share" = "Teilen";
+

@@ -1,0 +1,15 @@
+
+"Increase_Text_Size" = "Augmenter la taille du texte";
+"Default_Text_Size" = "Taille du texte par défaut";
+"Decrease_Text_Size" = "Réduire la taille du texte";
+
+"Button_Compose" = "Nouveau fichier";
+"Button_Preview" = "Aperçu";
+"Button_Search" = "Rechercher";
+"Button_Appearance" = "Afficher les options";
+"Button_Action" = "Actions du fichier";
+"Button_Move_Selected" = "Déplacer la sélection";
+"Button_Delete_Selected" = "Supprimer la sélection";
+"Button_Rename_Selected" = "Renommer la sélection";
+"Button_Add_Folder" = "Ajouter un dossier";
+"Button_Settings" = "Réglages";

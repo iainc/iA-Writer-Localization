@@ -1,0 +1,15 @@
+
+"Increase_Text_Size" = "加大字型";
+"Default_Text_Size" = "預設字型";
+"Decrease_Text_Size" = "縮小字型";
+
+"Button_Compose" = "新檔案";
+"Button_Preview" = "預覽";
+"Button_Search" = "搜尋";
+"Button_Appearance" = "查看選項";
+"Button_Action" = "檔案操作";
+"Button_Move_Selected" = "移動已選項目";
+"Button_Delete_Selected" = "刪除已選項目";
+"Button_Rename_Selected" = "重新命名已選項目";
+"Button_Add_Folder" = "新增資料夾";
+"Button_Settings" = "設定";

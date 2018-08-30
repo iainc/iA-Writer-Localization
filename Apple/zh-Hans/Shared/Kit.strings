@@ -16,8 +16,8 @@
 "Default_Smart_Folder_Name" = "无标题";
 "Default_Smart_Folder_Recently_Modified_Name" = "最新修改";
 
-"Paper_Size_A4" = "A4纸张";
-"Paper_Size_US_Letter" = "美式信笺";
+"Paper_Size_A4" = "A4";
+"Paper_Size_US_Letter" = "US Letter";
 
 /*----
  Dates
@@ -181,7 +181,7 @@
 "Library_Sort_By_Search_Rank_Ascending" = "相关度倒序";
 "Library_Sort_By_Search_Rank_Descending" = "相关度顺序";
 
-"Library_Sort_By_Part_Joiner" = "， ";
+"Library_Sort_By_Part_Joiner" = "，";
 
 /*----------
  Focus Scope

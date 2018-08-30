@@ -1,0 +1,833 @@
+
+/*-----------
+ Library Root
+ -----------*/
+
+/* Title for root library view. */
+"Library_Title" = "ライブラリ";
+
+/* Title for root library view. */
+"Library_Locations_Section_Title" = "保存場所";
+
+/* Title for root library view. */
+"Library_Favorites_Section_Title" = "お気に入り";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Add_Favorite" = "お気に入りに追加…";
+
+/* Title for root library view. */
+"Library_Smart_Folders_Section_Title" = "スマートフォルダ";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_New_Smart_Folder" = "スマートフォルダを作成…";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Edit_Smart_Folder" = "編集";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Title_Add_Favorite" = "お気に入りに追加";
+
+/* Title for help action to open twitter page for iA Writer. */
+"Help_Action_Open_Twitter" = "iA WriterのTwitter";
+
+/* Title for help action to open release notes and other updates. */
+"Help_Action_News" = "What’s New";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Feedback_And_Support" = "フィードバックとサポート";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Newsletter" = "ニュースレターに登録する";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Review" = "iA Writerをおすすめする";
+
+/* Title for release notes screen. */
+"Help_Title_News" = "What’s New";
+
+/*------
+ Backups
+ ------*/
+
+/* Title for all backups. */
+"Backups_Title" = "バックアップ";
+
+/* Message under title when browsing backups. */
+"Backup_Submitem_Message" = "別のアプリで作成されたファイルを編集した時この%@にバックアップが作成されます。ファイル名が変更された時は以前のバックアップは元ファイル名のまま変更されません。";
+
+/* Button title to restore a backup. */
+"Backups_Restore_Button_Title" = "復元";
+
+/* Title for backup restoration destination picker. */
+"Backups_Restore_Picker_Title" = "ファイルを復元";
+
+/* Prompt at the top of backup restoration destination picker. */
+"Backups_Restore_Picker_Prompt" = "復元するァイルの保存先を選択してください。";
+
+/* Placeholder shown when there are no backups. */
+"Backups_Placeholder" = "バックアップなし";
+
+/* Title for swipe action to browse backups. */
+"Table_View_Action_Browse_Backups" = "バックアップをブラウズ";
+
+/* Button description to browse all backups. */
+"Backups_Button_Title" = "バックアップをブラウズ";
+
+/* Action in editor to browse backups for currently opened file from other apps. */
+"Action_Browse_Backups" = "バックアップをブラウズする";
+
+/*------
+ Library
+ ------*/
+
+/* Button to move to move files or folders. */
+"Button_Move" = "移動";
+
+/* Button to delete. */
+"Button_Delete" = "削除";
+
+/* Button to select all visible items. */
+"Button_Select_All" = "全て選択";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "全て選択解除";
+
+/* Button to save. */
+"Button_Save" = "保存";
+
+/* Action to move files or folders. */
+"Action_Move" = "移動…";
+
+/* Action to rename. */
+"Action_Rename" = "名前を変更…";
+
+/* Action to rename. */
+"Action_Remove" = "削除";
+
+/* Action to delete. */
+"Action_Delete" = "削除…";
+
+/* Action to open file or folder info. */
+"Action_Get_Info" = "情報";
+
+/* Action to add folder to favorites. */
+"Action_Remove_External_File" = "削除";
+
+/* Action to add folder to favorites. */
+"Action_Add_Favorite" = "お気に入りに追加";
+
+/* Action to add folder to favorites. */
+"Action_Remove_Favorite" = "お気に入りから削除";
+
+/* Action to browse file versions. */
+"Action_Browse_Versions" = "バージョンを閲覧する";
+
+/* Action to browse file versions. */
+"Action_Find_And_Replace" = "検索と置換";
+
+/* Generic update button. */
+"Action_Update" = "アップデートする";
+
+/* Action to switch to night mode. */
+"Action_Night_Mode" = "ナイトモード";
+
+/* Action to switch to night mode. */
+"Action_Day_Mode" = "デイモード";
+
+/* Action to configure keyboard. */
+"Action_Configure_Keyboard" = "キーボードをカスタマイズ";
+
+/* Button to create new folder. */
+"Button_New_Folder" = "新規フォルダ";
+
+/* Button to change sorting order. */
+"Button_Sort_By" = "並べ替え";
+
+/* Generic to confirm selection in action sheet picker. */
+"Action_Set_Selected" = "設定を反映";
+
+/* New folder destination folder picker title. */
+"New_Folder_Location_Title" = "新規フォルダ";
+
+/* New folder destination folder picker prompt. */
+"New_Folder_Location_Prompt" = "新規フォルダの作成場所を選択…";
+
+/* File import destination folder picker title. */
+"File_Import_Title" = "読み込む";
+
+/* New folder destination folder picker prompt. */
+"File_Import_Prompt" = "ファイルの読み込み先を選択…";
+
+/* New file destination folder picker title. */
+"New_File_Location_Title" = "新規ファイル";
+
+/* New file destination folder picker prompt. */
+"New_File_Location_Prompt" = "新規ファイルの作成場所を指定…";
+
+/* Action to configure smart folder. */
+"Action_Edit_Smart_Folder" = "スマートフォルダを編集";
+
+/* Action to configure library. */
+"Action_Configure_Library" = "ライブラリを設定";
+
+/* Action to delete smart folder. */
+"Action_Delete_Smart_Folder" = "スマートフォルダを削除";
+
+/* Excerpt for empty documents. */
+"Library_Excerpt_Empty" = "コンテンツなし";
+
+/* Excerpt for unindexed documents. */
+"Library_Excerpt_Updating" = "アップデート中…";
+
+/* Library empty message in folders. */
+"Library_Empty_Folder" = "ファイルなし";
+
+/* Library empty message in folders. */
+"Library_Empty_External_Files" = "ファイルがありません";
+
+/* Library empty message in extenal files location. */
+"Library_Empty_External_Files_Message" = "その他のサービスを利用するためには、App Storeから各アプリをダウンロードした上で、プラスボタンをタップしてファイルを追加してください。";
+
+/* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
+"Library_Empty_External_Files_Message_Install" = "Dropbox、Google Drive、その他のサービスを利用するためには、App Storeから各アプリをダウンロードした上で、プラスボタンをタップしてファイルを追加してください。";
+
+/* Library empty message in smart folders. */
+"Library_Empty_Smart_Folder" = "ルールに合致するファイルがありせん";
+
+/* Title for external files section. */
+"Library_External_Files_Section_Title" = "外部";
+
+/* Title for action to open external files location. */
+"Library_External_Files" = "ファイル";
+
+/* Title for action to open external files picker. */
+"Library_External_Files_Open" = "開く…";
+
+/* Title for move to folder destination picker title. */
+"Move_Title" = "移動";
+
+/*-----
+ Editor
+ -----*/
+
+/* Title for content block warning list. */
+"Content_Block_Warnings_Title" = "コンテンツブロック";
+
+/* Prompt for content block warning list. */
+"Content_Block_Warnings_Prompt" = "いくつかのコンテンツを処理できません。";
+
+/* Action to continue content block processing despite warnings. */
+"Content_Block_Warnings_Continue" = "続ける";
+
+/* Title for content block picker. */
+"Content_Block_Picker_Title" = "コンテンツブロックを追加";
+
+/* Action sheet action to enable focus mode. */
+"Action_Enable_Focus_Mode" = "启用聚焦模式";
+
+/* Action sheet action to disable focus mode. */
+"Action_Disable_Focus_Mode" = "禁用聚焦模式";
+
+/* Action sheet action to enable syntax control. */
+"Action_Enable_Syntax_Control" = "シンタックスを表示";
+
+/* Action sheet action to disable syntax control. */
+"Action_Disable_Syntax_Control" = "シンタックスを非表示";
+
+/* Action sheet action to enable syntax control. */
+"Action_Show_Stats" = "統計を表示";
+
+/* Action sheet action to disable syntax control. */
+"Action_Hide_Stats" = "統計を非表示";
+
+/* Action sheet action. */
+"Action_Configure_Editor" = "エディタの設定";
+
+/*---------
+ Menu Items
+ ---------*/
+
+/* Menu item title for text transformations. */
+"Menu_Item_Transform" = "変換…";
+
+/* Menu item title for transforming text to upper case. */
+"Menu_Item_Transform_To_Upper_Case" = "大文字にする";
+
+/* Menu item title for transforming text to lower case. */
+"Menu_Item_Transform_To_Lower_Case" = "小文字にする";
+
+/* Menu item title for captilizing first letter of every word. */
+"Menu_Item_Transform_To_Capitalized" = "語頭を大文字にする";
+
+/* Menu item title for transforming text to title case. */
+"Menu_Item_Transform_To_Title_Case" = "語頭を大文字にする（ヘッドラインスタイル）";
+
+/* Menu item title for copying HTML. */
+"Menu_Item_Copy_HTML" = "HTMLをコピー";
+
+/* Menu item title for copying formatted text. */
+"Menu_Item_Copy_Formatted" = "フォーマット済テキストをコピー";
+
+/*----------
+ Table Views
+ ----------*/
+
+/* Table view swipe action title. */
+"Table_View_Action_Delete" = "削除";
+
+/* Table view swipe action title. */
+"Table_View_Action_Remove" = "取り除く";
+
+/* Table view swipe action title. */
+"Table_View_Action_More" = "その他";
+
+/* Table view swipe action title. */
+"Table_View_Action_Hide" = "隠す";
+
+/*------------
+ Folder Picker
+ ------------*/
+
+/* Section title for recent folder section. */
+"Library_Picker_Recent_Section_Title" = "最近";
+
+/* Section title for all folders section. */
+"Library_Picker_All_Section_Title" = "すべて";
+
+/*------------------
+ Smart Folder Editor
+ ------------------*/
+
+/* Smart folder editor title while editing an existing smart folder. */
+"Smart_Folder_Editor_Edit_Title" = "スマートフォルダを編集";
+
+/* Smart folder editor title while creating a new smart folder. */
+"Smart_Folder_Editor_New_Title" = "新規スマートフォルダ";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Name_Section_Title" = "名前";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Rules_Section_Title" = "ルール";
+
+/* Smart folder action to add a new rule. */
+"Smart_Folder_Editor_New_Rule_Action" = "新しいルール…";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Section_Title" = "上限";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Action" = "上限を %@ アイテムにする";
+
+/* Smart folder rule name. */
+"Smart_Folder_Rule_Search" = "検索";
+
+/* Smart folder rule name.*/
+"Smart_Folder_Rule_Library_Kind" = "種類";
+
+/* Smart folder rule name. */
+"Smart_Folder_Rule_Extension" = "拡張子";
+
+/* Title for kinds shown while editing a rule. */
+"Smart_Folder_Rule_Library_Kind_Folder_Title" = "フォルダ";
+"Smart_Folder_Rule_Library_Kind_Text_Title" = "テキスト";
+"Smart_Folder_Rule_Library_Kind_Other_Title" = "その他";
+
+/* Title for kinds shown as a part of a sentence. */
+"Smart_Folder_Rule_Library_Kind_Folder" = "フォルダ";
+"Smart_Folder_Rule_Library_Kind_Text" = "テキスト";
+"Smart_Folder_Rule_Library_Kind_Other" = "その他";
+
+/* Smart folder section on matching type. */
+"Smart_Folder_Match_Section_Title" = "条件";
+"Smart_Folder_Match_All" = "全ての条件に合うアイテム";
+"Smart_Folder_Match_Any" = "いずれかの条件に合うアイテム";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Section_Title" = "並べ替え";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Custom" = "並べ替えを変更する";
+
+/* Button to show sort by options. */
+"Smart_Folder_Sort_By_Custom_Edit" = "順番";
+
+/*----------
+ Rule Editor
+ ----------*/
+
+/* Placeholder for text variables in predicates. */
+"Predicate_Placeholder_Text" = "テキスト";
+
+/* Predicate operator names. */
+"Predicate_Operator_Less_Than_Title" = "より下";
+"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "以下";
+"Predicate_Operator_Greater_Than_Title" = "より上";
+"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "以上";
+"Predicate_Operator_Equal_To_Title" = "である";
+"Predicate_Operator_Not_Equal_To_Title" = "ではない";
+"Predicate_Operator_Matches_Title" = "一致";
+"Predicate_Operator_Like_Title" = "Like";
+"Predicate_Operator_Begins_With_Title" = "で始まる";
+"Predicate_Operator_Ends_With_Title" = "で終わる";
+"Predicate_Operator_Contains_Title" = "を含む";
+
+/* Predicate operator names in sentence. */
+"Predicate_Operator_Less_Than" = "より下";
+"Predicate_Operator_Less_Than_Or_Equal_To" = "以下";
+"Predicate_Operator_Greater_Than" = "より上";
+"Predicate_Operator_Greater_Than_Or_Equal_To" = "以上";
+"Predicate_Operator_Equal_To" = "である";
+"Predicate_Operator_Not_Equal_To" = "ではない";
+"Predicate_Operator_Matches" = "一致";
+"Predicate_Operator_Like" = "like";
+"Predicate_Operator_Begins_With" = "で始まる";
+"Predicate_Operator_Ends_With" = "で終わる";
+"Predicate_Operator_Contains" = "を含む";
+
+/* Placeholder for text inputs. */
+"Predicate_String_Placeholder" = "テキスト";
+
+/* Joiner for predicate sentences: “kind` `is` `folder”. */
+"Predicate_Part_Joiner" = " ";
+
+/* Predicate format for text values: Extension is `“txt”`. */
+"Predicate_Quoted_Value" = "「%@」";
+
+/* Rule editor title while adding a new rule. */
+"Rule_Editor_New_Title" = "新規ルール";
+
+/* Rule editor title while editing an existin rule. */
+"Rule_Editor_Edit_Title" = "ルールを編集";
+
+/*--
+ Add
+ --*/
+
+/* Action to open camera. */
+"Action_Take_Photo" = "写真を撮る…";
+
+/* Action to open photo library. */
+"Action_Choose_Photo" = "写真を選択…";
+
+/* Action to create new file. */
+"Action_New_File" = "新規ファイル";
+
+/* Title for alert to create new folder. */
+"New_File_Alert_Title" = "ファイル名を入力";
+
+/* Action to create new folder. */
+"Action_Create_File" = "新規ファイル";
+
+/* Title for alert to create new folder. */
+"New_Folder_Alert_Title" = "フォルダ名を入力";
+
+/* Action to create new folder. */
+"Action_Create_Folder" = "フォルダを作成";
+
+/* Title for alert to enter photo name. */
+"Photo_Name_Alert_Title" = "写真名を入力";
+
+/* Action to add a photo. */
+"Action_Add_Photo" = "写真を追加";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Find" = "検索";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Replace" = "置換";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Confirmation" = "変更";
+
+/*---------
+ Table Size
+ ---------*/
+
+/* Columns number label in table size picker. */
+"Table_Size_Picker_Columns" = "列";
+
+/* Rows number label in table size picker. */
+"Table_Size_Picker_Rows" = "行";
+
+/* Action title to add table with a selected size. */
+"Action_Add_Table" = "テーブルを追加";
+
+/* Action title to add selected date. */
+"Action_Add_Date" = "日付を追加";
+
+/*---
+ Info 
+ ---*/
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "変更日";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "作成日";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "名前";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "拡張子";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "サイズ";
+
+/*-----
+ Export
+ -----*/
+
+/* Share sheet Medium activity option */
+"Share_Sheet_Medium_Activity_Title" = "Medium で新規下書き";
+
+/* Share sheet WordPress activity option */
+"Share_Sheet_WordPress_Activity_Title" = "WordPress で新規下書き";
+
+/* Share sheet `open file in app` activity option */
+"Share_Sheet_Open_In_Activity_Title" = "別のアプリで開く…";
+
+/* Share sheet 'Save to…" activity option */
+"Save_To_Export_Label" = "別に保存…";
+
+/* Sharing button title. */
+"Button_Share" = "共有";
+
+/* Sharing button title. */
+"Action_Share" = "共有…";
+
+/* Action menu title. */
+"Action_Export" = "書き出し…";
+
+/* Action menu title. */
+"Action_Print" = "印刷…";
+
+/* Action menu title. */
+"Action_Print_Formatted" = "フォーマット済印刷…";
+
+/* Action menu title. */
+"Action_Print_Plain_Text" = "プレーンテキストを印刷…";
+
+/* Action menu title. */
+"Action_Export_Markdown" = "Markdownを書き出し…";
+
+/* Action menu title. */
+"Action_Export_HTML" = "HTMLを書き出し…";
+
+/* Action menu title. */
+"Action_Export_PDF" = "PDFを書き出し…";
+
+/* Action menu title. */
+"Action_Export_Word" = "Microsoft Wordを書き出し…";
+
+/* Action menu title. */
+"Action_Export_Project_Archive" = "プロジェクトアーカイブを書き出し…";
+
+/*--------------
+ Version Browser
+ --------------*/
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "同期の競合";
+
+/* Version browser title */
+"Version_Browser_Title" = "バージョン";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "最新";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "%@ のすべてのバージョン";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "復元するバージョンを選択してください。古いバージョンを別ファイルで保存するには、最新のバージョンと合わせて選択してください。";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "変更内容が同期されていません。保持したいドキュメントを選んでください。";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "%@ の競合するバージョン";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "保持";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "どちらも保持";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "すべて保持";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "%d を保持";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "復元";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "最新のバージョンに復元して %d を作成";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "%d を作成";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "バージョンを読み込めません";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "iCloud エラー: “%@”。";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "不明なエラー";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "ネットワークに接続していません。";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "接続できません。";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder for Quick Search field. */
+"Quick_Search_Placeholder" = "クイック検索";
+
+/* Quick Search recent files section title. */
+"Quick_Search_Recent_Files_Section_Title" = "最近のファイル";
+
+/* Quick Search files section title. */
+"Quick_Search_Files_Section_Title" = "ファイル";
+
+/* Quick Search recent actions section title. */
+"Quick_Search_Recent_Actions_Section_Title" = "最近のアクション";
+
+/* Quick Search actions search section title. */
+"Quick_Search_Actions_Section_Title" = "アクション";
+
+/*--------------------------
+ Key Commands & Quick Search
+ --------------------------*/
+
+/* Quick Search key command titles. */
+"Discoverability_Quick_Search_Select_Next_Result" = "次を選択";
+"Discoverability_Quick_Search_Select_Previous_Result" = "前を選択";
+"Discoverability_Quick_Search" = "すぐに開く";
+
+/* General action key command titles. */
+"Discoverability_New" = "新規ファイル";
+"Discoverability_Night_Mode" = "ナイトモード";
+
+/* Editor action key command titles. */
+"Discoverability_Syntax" = "シンタックスハイライト";
+"Discoverability_Browse_Versions" = "古いバージョンを見る";
+"Discoverability_New" = "新規ファイル";
+"Discoverability_Open" = "開く…";
+"Discoverability_Preview" = "プレビュー";
+"Discoverability_Strong" = "太字";
+"Discoverability_Strikethrough" = "取消線";
+"Discoverability_Emphasis" = "斜体";
+"Discoverability_Headings" = "見出し 1–6";
+"Discoverability_Blockquote" = "ブロック引用";
+"Discoverability_List" = "リスト";
+"Discoverability_Task_List" = "タスクリスト";
+"Discoverability_Ordered_List" = "番号付きリスト";
+"Discoverability_Ordered_Task_List" = "番号付きタスクリスト";
+"Discoverability_Move_Line_Up" = "行移動上";
+"Discoverability_Move_Line_Down" = "行移動下";
+"Discoverability_Focus" = "フォーカスモード";
+"Discoverability_Typewriter" = "タイプライターモード";
+"Discoverability_Share" = "共有";
+"Discoverability_Export_PDF" = "PDFに書き出し";
+"Discoverability_Export_Markdown" = "Markdownに書き出し";
+"Discoverability_Export_HTML" = "HTMLに書き出し";
+"Discoverability_Export_Word" = "Microsoft Wordに書き出し";
+"Discoverability_Export_Project_Archive" = "プロジェクトアーカイブに書き出し";
+"Discoverability_Configure_Keyboard" = "キーボードをカスタマイズ";
+"Discoverability_Settings" = "設定";
+"Discoverability_Configure_Keyboard" = "キーボードをカスタマイズ";
+"Discoverability_Settings" = "設定";
+"Discoverability_Increase_Size" = "文字を大きく";
+"Discoverability_Decrease_Size" = "文字を小さく";
+"Discoverability_Default_Size" = "デフォルトの文字サイズ";
+"Discoverability_Find_Next" = "次を検索";
+"Discoverability_Find_Previous" = "前を検索";
+"Discoverability_Find" = "ファイル内を検索";
+"Discoverability_Help" = "？";
+"Discoverability_Stats" = "統計を";
+
+/*------
+ Preview
+ ------*/
+
+/* Title shown in preview. */
+"Preview_Title" = "プレビュー";
+
+/* Empty preview placeholder. */
+"Preview_Content_Placeholder" = "プレビューできるコンテンツがありません";
+
+/* Action to change template. */
+"Preview_Template_Action" = "切り替える";
+
+/* Action to change template. */
+"Action_Configure_Templates" = "テンプレートの設定";
+
+/*---------------
+ Template Install
+ ---------------*/
+
+/* Alert message after a template is successfully installed. */
+"Template_Installed_Title" = "テンプレート “%@” をインストールしました";
+
+/* Alert info text after a template is successfully installed. */
+"Template_Installed_Description" = "プレビュー画面からテンプレートにアクセスできます。アンインストールは設定から行ってください。";
+
+/*-------
+ Settings
+ -------*/
+
+/* Button to open settings. */
+"Settings_Title" = "設定";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "Dark App Icon";
+
+/* Settings panes. */
+"Settings_General_Title" = "一般";
+"Settings_Files_Title" = "ファイル";
+"Settings_Library_Title" = "ライブラリ";
+"Settings_Editor_Title" = "エディタ";
+"Settings_Templates_Title" = "テンプレート";
+
+/* Appearance section in settings. */
+"Settings_Appearance_Section_Title" = "アピアランス";
+
+/* Sharing accounts section in settings. */
+"Settings_Accounts_Section_Title" = "アカウント共有";
+
+"Settings_Accounts_Medium_Add" = "Mediumアカウントを追加…";
+"Settings_Accounts_Medium_Remove" = "Mediumを除外…";
+"Settings_Accounts_Medium_Remove_Confirmation" = "Mediumを除外";
+"Settings_Accounts_Medium_Add_Title" = "Medium";
+"Settings_Accounts_Medium_Add_Message" = "iA Writerから下書きを作成します。公開前に内容を確認できます。";
+"Settings_Accounts_Medium_Get_Token" = "Mediumでトークンを取得";
+"Settings_Accounts_Medium_Add_Token_Placeholder" = "トークン";
+"Settings_Accounts_Medium_Invalid_Token_Title" = "無効なトークン";
+"Settings_Accounts_Medium_Invalid_Token_Message" = "Mediumで作成された有効なトークンであるか確認してください。";
+
+"Settings_Accounts_WordPress_Add" = "WordPressアカウントを追加…";
+"Settings_Accounts_WordPress_Remove" = "WordPressを除外…";
+"Settings_Accounts_WordPress_Remove_Confirmation" = "WordPressを除外";
+"Settings_Accounts_WordPress_Add_Title" = "WordPress";
+"Settings_Accounts_WordPress_Add_Message" = "iA Writerから下書きを作成します。公開前に内容を確認できます。\n\nセルフホスティングサーバーにはJetpackが必要です。\n\n複数のサイトをご利用の場合プライマリサイトに下書きを作成します。";
+"Settings_Accounts_WordPress_About_Jetpack" = "Jetpackについて";
+"Settings_Accounts_WordPress_Authorize" = "許可";
+
+/*-------------
+ Files Settings
+ -------------*/
+
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Markdown処理";
+"Settings_Markdown_Section_Footer" = "設定はファイル書き出しとプレビュー画面に反映されます。";
+"Settings_Markdown_Lazy_Paragraphs" = "一回のリターンキーで新しい段落を開始";
+"Settings_Markdown_Smart_Punctuation" = "スマート句読点";
+"Settings_Markdown_Process_Metadata" = "メタデータを処理";
+
+"Default_File_Extension_Section_Title" = "デフォルトの拡張子";
+"Default_File_Extension_Section_Footer" = "新規ファイルは指定した拡張子で作成されます。リッチフォーマットには非対応。";
+
+/*--------------
+ Library Settings
+ --------------*/
+
+/* Library section in settings. */
+"Settings_Library_Appearance_Section_Title" = "アピアランス";
+"Settings_Library_Show_Text_Excerpts" = "本文の一部を表示";
+"Settings_Library_Show_Extensions" = "拡張子を表示";
+"Settings_Library_Show_Extensions" = "拡張子を表示";
+"Settings_Library_Pin_Folders_To_Top" = "フォルダを常に上に表示";
+
+/* Sort by section in settings. */
+"Settings_Library_Sort_By_Section_Title" = "並べ替え";
+"Settings_Library_Sort_By_Edit" = "並べ替え";
+
+/*--------------
+ Editor Settings
+ --------------*/
+
+/* Syntax control section in settings. */
+"Settings_Editor_Syntax_Control_Section_Title" = "シンタックスコントロール";
+
+/* Editor section in settings. */
+"Settings_Editor_Appearance_Section_Title" = "アピアランス";
+"Settings_Editor_Show_Stats" = "統計を表示";
+
+/* Typography section in settings. */
+"Settings_Editor_Typography_Section_Title" = "タイポグラフィ";
+"Settings_Editor_Line_Length_Limit_Edit" = "1行の最大長";
+"Settings_Editor_Font" = "フォント";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Focus_Mode_Section_Title" = "フォーカスモード";
+"Settings_Editor_Focus_Mode" = "フォーカスモード";
+"Settings_Editor_Focus_Mode_Scope" = "範囲";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Keyboard_Section_Title" = "カスタムキーボード";
+"Settings_Editor_Keyboard_Configure" = "キーボードをカスタマイズ";
+"Settings_Editor_Keyboard_Section_Footer" = "素早くキーをカスタマイズするにはカスタムキーボード上のいずれかのキーをタップ&ホールドしてください。";
+
+/* Smart substitutions section in settings. */
+"Settings_Editor_Text_Input_Section_Title" = "テキスト入力";
+"Settings_Editor_Text_Input_Section_Footer" = "スペルチェック、スマートクオート、スマートダッシュは、設定 → 一般 → キーボードから設定できます。";
+"Settings_Editor_Check_Spelling" = "スペルチェック";
+"Settings_Editor_Smart_Quotes" = "スマートクオート";
+"Settings_Editor_Smart_Dashes" = "スマートダッシュ";
+"Settings_Editor_Smart_Inset_Delete" = "スマートコピー/ペースト";
+
+/* Tabs vs spaces settings. */
+"Settings_Editor_Text_Indentation" = "インデント";
+"Settings_Editor_Text_Indentation_Tabs" = "タブ";
+"Settings_Editor_Text_Indentation_Spaces" = "スペース";
+
+
+/* Find settings. */
+"Settings_Editor_Find_Section_Title" = "テキスト検索";
+"Settings_Editor_Find_Regular_Expression" = "正規表現を使用";
+
+/*----------------
+ Templates Settings
+ ----------------*/
+
+/* Section title for built-in templates. */
+"Settings_Templates_Default_Templates_Section_Title" = "デフォルトテンプレート";
+
+/* Section title for users templates. */
+"Settings_Templates_Custom_Templates_Section_Title" = "カスタムテンプレート";
+
+/* Action title to get more templates. */
+"Settings_Templates_Get_More" = "テンプレートを取得";
+
+/* Action to change template. */
+"Settings_Templates_Appearance_Section_Title" = "アピアランス";
+"Settings_Templates_Appearance_Center_Headings" = "見出しを中央に揃える";
+"Settings_Templates_Appearance_Number_Headings" = "見出しに番号を振る";
+"Settings_Templates_Appearance_Indent_Paragraphs" = "段落をインデント";
+"Settings_Templates_Appearance_Invert_Preview_Colors" = "プレビューの色を反転";
+
+/* Printing & PDF export section in settings. */
+"Settings_Printing_And_PDF_Export_Section_Title" = "印刷とPDF書き出し";
+"Settings_Printing_And_PDF_Export_Include_Title_Page" = "タイトルページを含める";
+"Settings_Printing_And_PDF_Export_Include_Header" = "ヘッダーを含める";
+"Settings_Printing_And_PDF_Export_Include_Footer" = "フッターを含める";
+
+/* Author name section in settings. */
+"Settings_Templates_Author_Name_Section_Title" = "作者名";
+"Settings_Templates_Author_Name_Placeholder" = "なし";
+
+/* Action to change preferred paper size. */
+"Settings_Paper_Size_Section_Title" = "用紙サイズ";
+
+/* Action to share template. */
+"Table_View_Action_Share" = "共有";
+
