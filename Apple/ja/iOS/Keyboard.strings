@@ -1,0 +1,54 @@
+
+"Key_Picker_Title" = "キー";
+
+"Key_Picker_Button_Reset" = "リセット";
+
+"Key_Picker_Message_Reset" = "本当にキーボードレイアウトをリセットしますか？全ての変更は消去されます。";
+"Key_Picker_Action_Reset" = "キーボードレイアウトをリセット";
+"Key_Picker_Action_Cancel" = "キャンセル";
+
+"Find_Placeholder" = "検索";
+"Find_Replace_Placeholder" = "置換";
+
+"Key_Description_Find" = "検索バー";
+"Key_Description_Show_Find" = "検索バーを表示";
+"Key_Description_Hide_Find" = "検索バーを隠す";
+"Key_Description_Find_Next" = "次を検索";
+"Key_Description_Find_Previous" = "前を検索";
+"Key_Description_Replace" = "置換";
+"Key_Description_Replace_All" = "全て置換";
+
+"Key_Description_Search" = "検索";
+"Key_Description_Command" = "コマンド";
+
+"Key_Description_Undo" = "取り消す";
+"Key_Description_Redo" = "やり直し";
+
+"Key_Description_Move_Up" = "上矢印";
+"Key_Description_Move_Down" = "下矢印";
+"Key_Description_Move_Left" = "左矢印";
+"Key_Description_Move_Right" = "Right Arrow";
+
+"Key_Description_Dismiss_Menu" = "ダイアログを閉じる";
+
+"Key_Title_Return" = "リターン";
+"Key_Title_Shift_Right" = "タブ";
+"Key_Title_Shift_Left" = "バックタブ";
+"Key_Title_Home" = "ホーム";
+"Key_Title_End" = "エンド";
+"Key_Title_Shift_Up" = "move\ntext ↑";
+"Key_Title_Shift_Down" = "move\ntext ↓";
+"Key_Title_Undo" = "取り消す";
+"Key_Title_Redo" = "やり直す";
+
+"Key_Description_Return" = "リターン";
+"Key_Description_Delete_Forward" = "次を削除";
+"Key_Description_Delete_Backward" = "前を削除";
+"Key_Description_Dismiss_Keyboard" = "キーボードを隠す";
+"Key_Description_Shift_Left" = "アウトデント";
+"Key_Description_Shift_Right" = "インデント";
+"Key_Description_Shift_Up" = "行移動上";
+"Key_Description_Shift_Down" = "行移動下";
+"Key_Description_Dismiss_Keyboard" = "キーボードを隠す";
+"Key_Description_Move_To_Beginning" = "ドキュメントの先頭へ移動";
+"Key_Description_Move_To_End" = "ドキュメントの最後へ移動";

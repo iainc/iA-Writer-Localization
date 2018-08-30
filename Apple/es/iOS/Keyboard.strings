@@ -1,0 +1,54 @@
+
+"Key_Picker_Title" = "Llaves";
+
+"Key_Picker_Button_Reset" = "Restablecer";
+
+"Key_Picker_Message_Reset" = "¿Seguro que quieres restablecer el diseño del teclado? Se perderán todas tus modificaciones.";
+"Key_Picker_Action_Reset" = "Restablecer el diseño del teclado";
+"Key_Picker_Action_Cancel" = "Cancelar";
+
+"Find_Placeholder" = "Buscar";
+"Find_Replace_Placeholder" = "Reemplazar";
+
+"Key_Description_Find" = "Barra de búsqueda";
+"Key_Description_Show_Find" = "Mostrar barra de búsqueda";
+"Key_Description_Hide_Find" = "Ocultar barra de búsqueda";
+"Key_Description_Find_Next" = "Buscar siguiente";
+"Key_Description_Find_Previous" = "Buscar anterior";
+"Key_Description_Replace" = "Reemplazar";
+"Key_Description_Replace_All" = "Reemplazar todo";
+
+"Key_Description_Search" = "Buscar";
+"Key_Description_Command" = "Comandos";
+
+"Key_Description_Undo" = "Deshacer";
+"Key_Description_Redo" = "Rehacer";
+
+"Key_Description_Move_Up" = "Flecha arriba";
+"Key_Description_Move_Down" = "Flecha abajo";
+"Key_Description_Move_Left" = "Flecha izquierda";
+"Key_Description_Move_Right" = "Flecha derecha";
+
+"Key_Description_Dismiss_Menu" = "Descartar menú";
+
+"Key_Title_Return" = "volver";
+"Key_Title_Shift_Right" = "tabulador";
+"Key_Title_Shift_Left" = "tabular atrás";
+"Key_Title_Home" = "inicio";
+"Key_Title_End" = "fin";
+"Key_Title_Shift_Up" = "mover\ntexto ↑";
+"Key_Title_Shift_Down" = "mover\ntexto ↓";
+"Key_Title_Undo" = "deshacer";
+"Key_Title_Redo" = "rehacer";
+
+"Key_Description_Return" = "Volver";
+"Key_Description_Delete_Forward" = "Eliminar hacia adelante";
+"Key_Description_Delete_Backward" = "Eliminar hacia atrás";
+"Key_Description_Dismiss_Keyboard" = "Descartar teclado";
+"Key_Description_Shift_Left" = "Alargar";
+"Key_Description_Shift_Right" = "Sangrar";
+"Key_Description_Shift_Up" = "Mover arriba";
+"Key_Description_Shift_Down" = "Mover abajo";
+"Key_Description_Dismiss_Keyboard" = "Descartar teclado";
+"Key_Description_Move_To_Beginning" = "Ir al comienzo del documento";
+"Key_Description_Move_To_End" = "Ir al final del documento";
