@@ -1,0 +1,54 @@
+
+"Key_Picker_Title" = "Touches";
+
+"Key_Picker_Button_Reset" = "Réinitialiser";
+
+"Key_Picker_Message_Reset" = "Souhaitez-vous vraiment réinitialiser la configuration du clavier ? Toutes vos modifications seront perdues.";
+"Key_Picker_Action_Reset" = "Réinitialiser la configuration du clavier";
+"Key_Picker_Action_Cancel" = "Annuler";
+
+"Find_Placeholder" = "Trouver";
+"Find_Replace_Placeholder" = "Remplacer";
+
+"Key_Description_Find" = "Barre de recherche";
+"Key_Description_Show_Find" = "Afficher la barre de recherche";
+"Key_Description_Hide_Find" = "Masquer la barre de recherche";
+"Key_Description_Find_Next" = "Trouver suivant";
+"Key_Description_Find_Previous" = "Trouver précédent";
+"Key_Description_Replace" = "Remplacer";
+"Key_Description_Replace_All" = "Remplacer tout";
+
+"Key_Description_Search" = "Rechercher";
+"Key_Description_Command" = "Commandes";
+
+"Key_Description_Undo" = "Annuler";
+"Key_Description_Redo" = "Refaire";
+
+"Key_Description_Move_Up" = "Flèche haut";
+"Key_Description_Move_Down" = "Flèche bas";
+"Key_Description_Move_Left" = "Flèche gauche";
+"Key_Description_Move_Right" = "Flèche droite";
+
+"Key_Description_Dismiss_Menu" = "Supprimer le menu";
+
+"Key_Title_Return" = "Retour";
+"Key_Title_Shift_Right" = "Tabulation";
+"Key_Title_Shift_Left" = "Tabulation arrière";
+"Key_Title_Home" = "Accueil";
+"Key_Title_End" = "Fin";
+"Key_Title_Shift_Up" = "Déplacer\nTexte ↑";
+"Key_Title_Shift_Down" = "Déplacer\nTexte ↓";
+"Key_Title_Undo" = "Annuler";
+"Key_Title_Redo" = "Refaire";
+
+"Key_Description_Return" = "Retour";
+"Key_Description_Delete_Forward" = "Supprimer";
+"Key_Description_Delete_Backward" = "Retour arrière";
+"Key_Description_Dismiss_Keyboard" = "Supprimer le clavier";
+"Key_Description_Shift_Left" = "Désindenter";
+"Key_Description_Shift_Right" = "Indenter";
+"Key_Description_Shift_Up" = "Déplacer vers le haut";
+"Key_Description_Shift_Down" = "Déplacer vers le bas";
+"Key_Description_Dismiss_Keyboard" = "Supprimer le clavier";
+"Key_Description_Move_To_Beginning" = "Aller au début du document";
+"Key_Description_Move_To_End" = "Aller à la fin du document";

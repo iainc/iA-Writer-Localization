@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Move_Prompt</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Elija una nueva carpeta para %#@item@.</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>este elemento</string>
+			<key>other</key>
+			<string>estos elementos</string>
+		</dict>
+	</dict>
+	<key>Move_Subitem_Message</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@item@</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d elemento</string>
+			<key>other</key>
+			<string>%d elementos</string>
+		</dict>
+	</dict>
+	<key>Rename_Alert_Message</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@item@</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Indica el nuevo nombre de este elemento.</string>
+			<key>other</key>
+			<string>Indica el texto para buscar y reemplazar.</string>
+		</dict>
+	</dict>
+	<key>Rename_Alert_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Renombrar %#@item@</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Elemento</string>
+			<key>other</key>
+			<string>Elementos</string>
+		</dict>
+	</dict>
+	<key>Settings_Editor_Line_Length_Limit</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@characters@</string>
+		<key>characters</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d caracter</string>
+			<key>other</key>
+			<string>%d caracteres</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

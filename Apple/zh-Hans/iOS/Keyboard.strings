@@ -1,0 +1,54 @@
+
+"Key_Picker_Title" = "按键";
+
+"Key_Picker_Button_Reset" = "重置​​";
+
+"Key_Picker_Message_Reset" = "是否确定重置键盘布局？所有更改都将丢失。";
+"Key_Picker_Action_Reset" = "重置键盘布局";
+"Key_Picker_Action_Cancel" = "取消​​";
+
+"Find_Placeholder" = "查找";
+"Find_Replace_Placeholder" = "替换";
+
+"Key_Description_Find" = "查找栏";
+"Key_Description_Show_Find" = "显示查找栏";
+"Key_Description_Hide_Find" = "隐藏查找栏";
+"Key_Description_Find_Next" = "查找​​下一个";
+"Key_Description_Find_Previous" = "查找​​上一个";
+"Key_Description_Replace" = "替换";
+"Key_Description_Replace_All" = "替换全部";
+
+"Key_Description_Search" = "搜索";
+"Key_Description_Command" = "命令";
+
+"Key_Description_Undo" = "撤销";
+"Key_Description_Redo" = "重做";
+
+"Key_Description_Move_Up" = "上箭头";
+"Key_Description_Move_Down" = "下箭头";
+"Key_Description_Move_Left" = "左箭头";
+"Key_Description_Move_Right" = "右箭头";
+
+"Key_Description_Dismiss_Menu" = "关闭菜单";
+
+"Key_Title_Return" = "回车";
+"Key_Title_Shift_Right" = "跳格";
+"Key_Title_Shift_Left" = "反跳格";
+"Key_Title_Home" = "顶部";
+"Key_Title_End" = "底部";
+"Key_Title_Shift_Up" = "移动\n文本上移";
+"Key_Title_Shift_Down" = "移动\n文本下移";
+"Key_Title_Undo" = "撤消";
+"Key_Title_Redo" = "恢复";
+
+"Key_Description_Return" = "回车";
+"Key_Description_Delete_Forward" = "向前删除";
+"Key_Description_Delete_Backward" = "向后删除";
+"Key_Description_Dismiss_Keyboard" = "关闭键盘";
+"Key_Description_Shift_Left" = "减少缩进";
+"Key_Description_Shift_Right" = "缩进";
+"Key_Description_Shift_Up" = "向上";
+"Key_Description_Shift_Down" = "向下";
+"Key_Description_Dismiss_Keyboard" = "关闭键盘";
+"Key_Description_Move_To_Beginning" = "前往文档顶部";
+"Key_Description_Move_To_End" = "前往文档底部";

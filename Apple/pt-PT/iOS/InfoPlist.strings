@@ -1,0 +1,6 @@
+
+"UIApplicationShortcutItemTitleCompose" = "Novo Ficheiro";
+"UIApplicationShortcutItemTitleSearch" = "Procura Rápida";
+"NSPhotoLibraryUsageDescription" = "Para acrescentar uma foto à Biblioteca.";
+"NSCameraUsageDescription" = "Para acrescentar uma foto à Biblioteca.";
+"NSPhotoLibraryAddUsageDescription" = "Para guardar imagens na Biblioteca de Fotos.";

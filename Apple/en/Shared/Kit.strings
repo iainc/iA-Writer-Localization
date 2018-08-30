@@ -16,8 +16,8 @@
 "Default_Smart_Folder_Name" = "Untitled";
 "Default_Smart_Folder_Recently_Modified_Name" = "Recently Modified";
 
-"Paper_Size_A4" = "A4 Paper";
-"Paper_Size_US_Letter" = "US Letter Paper";
+"Paper_Size_A4" = "A4";
+"Paper_Size_US_Letter" = "US Letter";
 
 /*----
  Dates

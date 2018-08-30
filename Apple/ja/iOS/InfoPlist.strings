@@ -1,0 +1,6 @@
+
+"UIApplicationShortcutItemTitleCompose" = "新規ファイル";
+"UIApplicationShortcutItemTitleSearch" = "すぐに開く";
+"NSPhotoLibraryUsageDescription" = "ライブラリに写真を追加。";
+"NSCameraUsageDescription" = "ライブラリに写真を追加。";
+"NSPhotoLibraryAddUsageDescription" = "To save images to Photo Library.";

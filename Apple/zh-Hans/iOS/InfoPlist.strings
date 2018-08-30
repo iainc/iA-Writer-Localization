@@ -1,0 +1,6 @@
+
+"UIApplicationShortcutItemTitleCompose" = "新建文件";
+"UIApplicationShortcutItemTitleSearch" = "快速搜索";
+"NSPhotoLibraryUsageDescription" = "添加照片到资料库。";
+"NSCameraUsageDescription" = "添加照片到资料库。";
+"NSPhotoLibraryAddUsageDescription" = "保存图像到相册。";

@@ -1,0 +1,54 @@
+
+"Key_Picker_Title" = "Tasten";
+
+"Key_Picker_Button_Reset" = "Zurücksetzen";
+
+"Key_Picker_Message_Reset" = "Sind Sie sicher, dass Sie das Tastatur-Anordnung zurücksetzen möchten? Ihre bisherigen Anpassungen werden vollständig aufgehoben.";
+"Key_Picker_Action_Reset" = "Tastatur-Anordnung zurücksetzen";
+"Key_Picker_Action_Cancel" = "Abbrechen";
+
+"Find_Placeholder" = "Finden";
+"Find_Replace_Placeholder" = "Ersetzen";
+
+"Key_Description_Find" = "Suchfeld";
+"Key_Description_Show_Find" = "Suchfeld anzeigen";
+"Key_Description_Hide_Find" = "Suchfeld ausblenden";
+"Key_Description_Find_Next" = "Nächster Eintrag";
+"Key_Description_Find_Previous" = "Vorheriger Eintrag";
+"Key_Description_Replace" = "Ersetzen";
+"Key_Description_Replace_All" = "Alles ersetzen";
+
+"Key_Description_Search" = "Suche";
+"Key_Description_Command" = "Befehle";
+
+"Key_Description_Undo" = "Widerrufen";
+"Key_Description_Redo" = "Wiederholen";
+
+"Key_Description_Move_Up" = "Up Arrow";
+"Key_Description_Move_Down" = "Pfeil nach unten";
+"Key_Description_Move_Left" = "Pfeil links";
+"Key_Description_Move_Right" = "Pfeil rechts";
+
+"Key_Description_Dismiss_Menu" = "Menu schließen";
+
+"Key_Title_Return" = "Umbruch";
+"Key_Title_Shift_Right" = "Tabulator";
+"Key_Title_Shift_Left" = "Rückwärts-Tabulator";
+"Key_Title_Home" = "Zum Dokument-Anfang";
+"Key_Title_End" = "Zum Dokument-Ende";
+"Key_Title_Shift_Up" = "Verschiebe\nText ↑";
+"Key_Title_Shift_Down" = "Verschiebe\nText ↓";
+"Key_Title_Undo" = "Widerrufen";
+"Key_Title_Redo" = "Wiederholen";
+
+"Key_Description_Return" = "Umbruch";
+"Key_Description_Delete_Forward" = "Vorwärts löschen";
+"Key_Description_Delete_Backward" = "Rückwärts löschen";
+"Key_Description_Dismiss_Keyboard" = "Tastatur ausblenden";
+"Key_Description_Shift_Left" = "Hängender Einzug";
+"Key_Description_Shift_Right" = "Einzug";
+"Key_Description_Shift_Up" = "Verschiebe nach oben";
+"Key_Description_Shift_Down" = "Verschiebe nach unten";
+"Key_Description_Dismiss_Keyboard" = "Tastatur ausblenden";
+"Key_Description_Move_To_Beginning" = "Zum Dokument-Anfang";
+"Key_Description_Move_To_End" = "Zum Dokument-Ende";
