@@ -3,11 +3,11 @@
  Menus
  -----*/
 
-/* Menu title to enable night mode. */
-"Menu_Enable_Night_Mode" = "夜間模式";
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "使用暗色模式";
 
-/* Menu title to disable night mode and enable day mode. */
-"Menu_Disable_Night_Mode" = "日間模式";
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "使用淺色模式";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "資料庫新文件";
@@ -181,6 +181,12 @@
  Library
  ------*/
 
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "自訂";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "在目前的檢視畫面中使用自訂分類排序";
+
 /* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
 "Library_Location_Description" = "資料庫位置適用於快速存取您在 iCloud 外大部分文件。它們已被編入索引以進行快速導航和全文搜索。過大的資料夾可能會影響整體表現。";
 
@@ -190,12 +196,12 @@
 /* Go menu item title to go forward. */
 "Library_Go_Forward" = "向前";
 
-/* Open indicator text in table view. */
-"Library_Open_Indicator_Text" = "已開啟";
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "上層資料夾";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "刪除";
+"Library_Delete_Action_Title" = "刪除…";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "您是否確定要刪除「%@」？";
@@ -237,6 +243,9 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "取得資訊";
 
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "複製資料庫路徑";
+
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "排序方式";
 
@@ -246,8 +255,17 @@
 /* Menu to remove items from favorites. */
 "Library_Action_Remove_Favorite" = "從最愛移除";
 
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "在位置重新命名";
+
 /* Menu to remove items from locations. */
 "Library_Action_Remove_Location" = "從位置移除";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "編輯…";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "複製";
 
 /* Menu to show currently selected document in Finder. */
 "Show_In_Finder" = "在 Finder 顯示";
@@ -291,11 +309,26 @@
 /* Library info popover label for file size. */
 "Library_Info_Size" = "大小";
 
+/* Organizer section title. */
 "Library_Root_Locations" = "位置";
 
+/* Organizer section title. */
 "Library_Root_Favorites" = "最愛";
 
+/* Organizer section title. */
 "Library_Root_Smart_Folders" = "智能資料夾";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "主題標籤";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "拖移資料夾和檔案至此以供快速存取";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "設定收集檔案的自訂規則";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "撰寫 #tags 以為檔案建立群組";
 
 /*-----
  Editor
@@ -404,6 +437,24 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "範本";
 
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "新增帳戶…";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "移除帳戶";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "您確定要重設驗證權杖嗎？";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "此動作無法還原。";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "您想要啟用 iA Writer URL 命令嗎？";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "您可以稍後前往「偏好」修改。";
+
 /*-----------
  Quick Search
  -----------*/
@@ -417,6 +468,9 @@
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
 "Content_Block_Processing_Alert_Message" = "無法處理一件些內容。";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "無法完成操作。";
 
 /*--------
  Touch Bar

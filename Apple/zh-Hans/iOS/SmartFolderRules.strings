@@ -1,0 +1,30 @@
+
+/* This file is used for localizing smart folder rule summaries. Rules in this file should read as sentences. Use sentence capitalization for the rule a whole. */
+/* NOTE: Do NOT translate comparison types (like “is less than” or “begins with”) directly. Please always check English value for the intended usage for the particular case. */
+
+/* Date modified kind rule templates. */
+"%[dateModified]@ %[is less than]@ %@" = "%1$[修改日期]@ %2$[早于]@ %3$@";
+"%[dateModified]@ %[is greater than]@ %@" = "%1$[修改日期]@ %2$[晚于]@ %3$@";
+
+/* Date modified relative rule templates. */
+"%[dateModified]@ %[begins with]@ %@" = "%1$[修改日期]@ %2$[是最近]@ %3$@ 天";
+"%[dateModified]@ %[ends with]@ %@" = "%1$[修改日期]@ %2$[不是最近]@ %3$@ 天";
+
+/* Library item kind rule templates. */
+"%[kind]@ %[is]@ %[text]@" = "%1$[种类]@ %2$[是]@ %3$[文本]@";
+"%[kind]@ %[is not]@ %[text]@" = "%1$[种类]@ %2$[不是]@ %3$[文本]@";
+"%[kind]@ %[is]@ %[folder]@" = "%1$[种类]@ %2$[是]@ %3$[文件夹]@";
+"%[kind]@ %[is not]@ %[folder]@" = "%1$[种类]@ %2$[不是]@ %3$[文件夹]@";
+"%[kind]@ %[is]@ %[other]@" = "%1$[种类]@ %2$[是]@ %3$[其他]@";
+"%[kind]@ %[is not]@ %[other]@" = "%1$[种类]@ %2$[不是]@ %3$[其他]@";
+
+/* Search rule templates. */
+"%[search]@ %[matches]@ %@" = "%1$[搜索]@ %2$[匹配]@ %3$@";
+
+/* Library item parent path rule templates. */
+"%[parentPath]@ %[is]@ %@" = "%1$[母路径]@ %2$[是]@ %3$@";
+"%[parentPath]@ %[is not]@ %@" = "%1$[母路径]@ %2$[不是]@ %3$@";
+
+/* Library item ancestor path rule templates. */
+"%[ancestorPath]@ %[is]@ %@" = "%1$[祖先路径]@ %2$[是]@ %3$@";
+"%[ancestorPath]@ %[is not]@ %@" = "%1$[祖先路径]@ %2$[不是]@ %3$@";

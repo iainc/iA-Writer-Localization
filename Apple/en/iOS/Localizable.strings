@@ -18,6 +18,9 @@
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Smart Folders";
 
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "Hashtags";
+
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_New_Smart_Folder" = "New Smart Folder…";
 
@@ -42,8 +45,8 @@
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Review" = "Recommend iA Writer";
 
-/* Title for release notes screen. */
-"Help_Title_News" = "What’s New";
+/* Title for action to open main help page. */
+"Help_Action_Main" = "iA Writer Help";
 
 /*------
  Backups
@@ -97,6 +100,9 @@
 
 /* Action to move files or folders. */
 "Action_Move" = "Move…";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "Duplicate";
 
 /* Action to rename. */
 "Action_Rename" = "Rename…";
@@ -194,6 +200,9 @@
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "No Files Match Rules";
 
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "No Files With Hashtag";
+
 /* Title for external files section. */
 "Library_External_Files_Section_Title" = "External";
 
@@ -262,6 +271,9 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Item_Transform_To_Title_Case" = "Title Case";
 
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "Copy Library Path";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "Copy HTML";
 
@@ -319,25 +331,6 @@
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Action" = "Limit to %@ Items";
 
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Search" = "Search";
-
-/* Smart folder rule name.*/
-"Smart_Folder_Rule_Library_Kind" = "Kind";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Extension" = "Extension";
-
-/* Title for kinds shown while editing a rule. */
-"Smart_Folder_Rule_Library_Kind_Folder_Title" = "Folder";
-"Smart_Folder_Rule_Library_Kind_Text_Title" = "Text";
-"Smart_Folder_Rule_Library_Kind_Other_Title" = "Other";
-
-/* Title for kinds shown as a part of a sentence. */
-"Smart_Folder_Rule_Library_Kind_Folder" = "folder";
-"Smart_Folder_Rule_Library_Kind_Text" = "text";
-"Smart_Folder_Rule_Library_Kind_Other" = "other";
-
 /* Smart folder section on matching type. */
 "Smart_Folder_Match_Section_Title" = "Show Items That Match";
 "Smart_Folder_Match_All" = "All of the following rules";
@@ -359,40 +352,14 @@
 /* Placeholder for text variables in predicates. */
 "Predicate_Placeholder_Text" = "Text";
 
-/* Predicate operator names. */
-"Predicate_Operator_Less_Than_Title" = "Less Than";
-"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "Less Than or Equal To";
-"Predicate_Operator_Greater_Than_Title" = "Greater Than";
-"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "Greater Than or Equal To";
-"Predicate_Operator_Equal_To_Title" = "Is";
-"Predicate_Operator_Not_Equal_To_Title" = "Is Not";
-"Predicate_Operator_Matches_Title" = "Matches";
-"Predicate_Operator_Like_Title" = "Like";
-"Predicate_Operator_Begins_With_Title" = "Begins With";
-"Predicate_Operator_Ends_With_Title" = "Ends With";
-"Predicate_Operator_Contains_Title" = "Contains";
-
-/* Predicate operator names in sentence. */
-"Predicate_Operator_Less_Than" = "less than";
-"Predicate_Operator_Less_Than_Or_Equal_To" = "is less than or equal to";
-"Predicate_Operator_Greater_Than" = "is greater than";
-"Predicate_Operator_Greater_Than_Or_Equal_To" = "is greater than or equal to";
-"Predicate_Operator_Equal_To" = "is";
-"Predicate_Operator_Not_Equal_To" = "is not";
-"Predicate_Operator_Matches" = "matches";
-"Predicate_Operator_Like" = "like";
-"Predicate_Operator_Begins_With" = "begins with";
-"Predicate_Operator_Ends_With" = "ends with";
-"Predicate_Operator_Contains" = "contains";
-
-/* Placeholder for text inputs. */
-"Predicate_String_Placeholder" = "Text";
-
-/* Joiner for predicate sentences: “kind` `is` `folder”. */
-"Predicate_Part_Joiner" = " ";
-
 /* Predicate format for text values: Extension is `“txt”`. */
 "Predicate_Quoted_Value" = "“%@”";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "Date";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "Set Date";
 
 /* Rule editor title while adding a new rule. */
 "Rule_Editor_New_Title" = "New Rule";
@@ -697,6 +664,7 @@
 "Settings_Library_Title" = "Library";
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Templates";
+"Settings_URL_Scheme_Title" = "URL Commands";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "Appearance";
@@ -725,13 +693,6 @@
 /*-------------
  Files Settings
  -------------*/
-
-/* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Markdown Processing";
-"Settings_Markdown_Section_Footer" = "These affect formatted exports and Preview.";
-"Settings_Markdown_Lazy_Paragraphs" = "Single Return Starts a New Paragraph";
-"Settings_Markdown_Smart_Punctuation" = "Smart Punctuation";
-"Settings_Markdown_Process_Metadata" = "Process Metadata";
 
 "Default_File_Extension_Section_Title" = "Default File Extension";
 "Default_File_Extension_Section_Footer" = "New files will have this extension. Only plain text extensions are allowed.";
@@ -772,10 +733,16 @@
 "Settings_Editor_Focus_Mode" = "Focus Mode";
 "Settings_Editor_Focus_Mode_Scope" = "Scope";
 
-/* Focus mode section in settings. */
+/* Keyboard section in settings. */
 "Settings_Editor_Keyboard_Section_Title" = "Custom Keyboard";
+"Settings_Editor_Keyboard_Prefers_Popover" = "Always Use Keyboard Popover";
 "Settings_Editor_Keyboard_Configure" = "Configure Keyboard";
 "Settings_Editor_Keyboard_Section_Footer" = "For quicker access to configuration mode, you can tap and hold a white key in the custom keyboard.";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "Hardware Keyboard";
+"Settings_Editor_Hardware_Keyboard_Footer" = "Keyboard bars will be hidden when a hardware keyboard is connected.";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "Hide Keyboard Bars";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Text Input";
@@ -815,6 +782,13 @@
 "Settings_Templates_Appearance_Indent_Paragraphs" = "Indent Paragraphs";
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "Invert Preview Colors";
 
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Markdown Processing";
+"Settings_Markdown_Lazy_Paragraphs" = "Single Return Starts a New Paragraph";
+"Settings_Markdown_Smart_Punctuation" = "Smart Punctuation";
+"Settings_Markdown_Hide_Metadata" = "Hide Metadata";
+"Settings_Markdown_Hide_Hashtags" = "Hide Hashtags";
+
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "Printing & PDF Export";
 "Settings_Printing_And_PDF_Export_Include_Title_Page" = "Include Title Page";
@@ -831,3 +805,37 @@
 /* Action to share template. */
 "Table_View_Action_Share" = "Share";
 
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "Enable URL Commands";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "Auth Token";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "Auth token is required for some URL commands.";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "Copy";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "Reset…";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "Enable URL Commands";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "Would you like to enable iA Writer URL commands? You can change this later in Settings.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "Reset Auth Token";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "Are you sure you want to reset the auth token? This action can’t be undone.";

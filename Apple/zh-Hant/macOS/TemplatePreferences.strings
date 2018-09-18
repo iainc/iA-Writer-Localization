@@ -1,6 +1,12 @@
 
+/* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
+"1tl-et-2n4.title" = "按一次下一行以開始新段落";
+
 /* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
 "561-vh-uzh.ibShadowedToolTip" = "在預覽以夜間模式反轉顏色。自訂範本必須執行夜間模式以反轉顏色。";
+
+/* Class = "NSButtonCell"; title = "Hide metadata"; ObjectID = "794-EH-QRk"; */
+"794-EH-QRk.title" = "隱藏元數據";
 
 /* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
 "GBp-vd-erZ.title" = "開啟文檔";
@@ -14,14 +20,17 @@
 /* Class = "NSButtonCell"; title = "Headers"; ObjectID = "NlF-W4-pAH"; */
 "NlF-W4-pAH.title" = "標題";
 
-/* Class = "NSTextFieldCell"; title = "Print:"; ObjectID = "P09-gF-Ui9"; */
-"P09-gF-Ui9.title" = "列印：";
+/* Class = "NSTextFieldCell"; title = "Printing & PDF Export:"; ObjectID = "P09-gF-Ui9"; */
+"P09-gF-Ui9.title" = "列印與匯出 PDF：";
 
 /* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
 "aq5-yb-Aik.title" = "段落縮排";
 
 /* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
 "c4c-Wj-hKb.title" = "標題置中";
+
+/* Class = "NSButtonCell"; title = "Hide hashtags"; ObjectID = "cVG-Tj-Zs0"; */
+"cVG-Tj-Zs0.title" = "隱藏主題標籤";
 
 /* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
 "eLo-eM-g9t.title" = "頁尾";
@@ -34,6 +43,9 @@
 
 /* Class = "NSButtonCell"; title = "Uninstall Template"; ObjectID = "h5a-TI-YPT"; */
 "h5a-TI-YPT.title" = "解除安裝範本";
+
+/* Class = "NSTextFieldCell"; title = "Markdown processing:"; ObjectID = "hUt-3b-BEn"; */
+"hUt-3b-BEn.title" = "Markdown 處理：";
 
 /* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
 "nwP-qK-Y5q.title" = "取得更多範本";
@@ -49,6 +61,9 @@
 
 /* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
 "wLN-Zi-CIU.title" = "封面頁面";
+
+/* Class = "NSButtonCell"; title = "Apply smart punctuation"; ObjectID = "xcN-na-4AD"; */
+"xcN-na-4AD.title" = "套用智能標點符號";
 
 /* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
 "y8E-dF-Bfw.title" = "安裝範本";

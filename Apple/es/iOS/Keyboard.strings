@@ -44,11 +44,12 @@
 "Key_Description_Return" = "Volver";
 "Key_Description_Delete_Forward" = "Eliminar hacia adelante";
 "Key_Description_Delete_Backward" = "Eliminar hacia atrás";
-"Key_Description_Dismiss_Keyboard" = "Descartar teclado";
+"Key_Description_Delete_Paragraph" = "Eliminar párrafo";
+"Key_Description_Dismiss_Keyboard" = "Ocultar teclado";
 "Key_Description_Shift_Left" = "Alargar";
 "Key_Description_Shift_Right" = "Sangrar";
-"Key_Description_Shift_Up" = "Mover arriba";
-"Key_Description_Shift_Down" = "Mover abajo";
-"Key_Description_Dismiss_Keyboard" = "Descartar teclado";
+"Key_Description_Shift_Up" = "Mover párrafo arriba";
+"Key_Description_Shift_Down" = "Mover párrafo abajo";
+"Key_Description_Dismiss_Keyboard" = "Ocultar teclado";
 "Key_Description_Move_To_Beginning" = "Ir al comienzo del documento";
 "Key_Description_Move_To_End" = "Ir al final del documento";

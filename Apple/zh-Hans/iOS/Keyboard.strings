@@ -44,11 +44,12 @@
 "Key_Description_Return" = "回车";
 "Key_Description_Delete_Forward" = "向前删除";
 "Key_Description_Delete_Backward" = "向后删除";
-"Key_Description_Dismiss_Keyboard" = "关闭键盘";
+"Key_Description_Delete_Paragraph" = "删除段落";
+"Key_Description_Dismiss_Keyboard" = "隐藏键盘";
 "Key_Description_Shift_Left" = "减少缩进";
 "Key_Description_Shift_Right" = "缩进";
-"Key_Description_Shift_Up" = "向上";
-"Key_Description_Shift_Down" = "向下";
-"Key_Description_Dismiss_Keyboard" = "关闭键盘";
+"Key_Description_Shift_Up" = "上移段落";
+"Key_Description_Shift_Down" = "下移段落";
+"Key_Description_Dismiss_Keyboard" = "隐藏键盘";
 "Key_Description_Move_To_Beginning" = "前往文档顶部";
 "Key_Description_Move_To_End" = "前往文档底部";

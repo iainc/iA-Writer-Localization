@@ -18,6 +18,9 @@
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "智能資料夾";
 
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "主題標籤";
+
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_New_Smart_Folder" = "新增智能資料夾…";
 
@@ -42,8 +45,8 @@
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Review" = "推薦 iA Writer";
 
-/* Title for release notes screen. */
-"Help_Title_News" = "新增功能";
+/* Title for action to open main help page. */
+"Help_Action_Main" = "iA Writer 幫助";
 
 /*------
  Backups
@@ -97,6 +100,9 @@
 
 /* Action to move files or folders. */
 "Action_Move" = "移動…";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "複製";
 
 /* Action to rename. */
 "Action_Rename" = "重新命名…";
@@ -194,6 +200,9 @@
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "沒有符合條件的檔案";
 
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "沒有含主題標籤的檔案";
+
 /* Title for external files section. */
 "Library_External_Files_Section_Title" = "外部";
 
@@ -262,6 +271,9 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Item_Transform_To_Title_Case" = "標題格式";
 
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "複製資料庫路徑";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "複製 HTML";
 
@@ -319,25 +331,6 @@
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Action" = "以 %@ 個項目為限";
 
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Search" = "搜尋";
-
-/* Smart folder rule name.*/
-"Smart_Folder_Rule_Library_Kind" = "類別";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Extension" = "副檔名";
-
-/* Title for kinds shown while editing a rule. */
-"Smart_Folder_Rule_Library_Kind_Folder_Title" = "資料夾";
-"Smart_Folder_Rule_Library_Kind_Text_Title" = "文字";
-"Smart_Folder_Rule_Library_Kind_Other_Title" = "其他";
-
-/* Title for kinds shown as a part of a sentence. */
-"Smart_Folder_Rule_Library_Kind_Folder" = "資料夾";
-"Smart_Folder_Rule_Library_Kind_Text" = "文字";
-"Smart_Folder_Rule_Library_Kind_Other" = "其他";
-
 /* Smart folder section on matching type. */
 "Smart_Folder_Match_Section_Title" = "顯示匹配的項目";
 "Smart_Folder_Match_All" = "符合以下所有條件";
@@ -359,40 +352,14 @@
 /* Placeholder for text variables in predicates. */
 "Predicate_Placeholder_Text" = "文字";
 
-/* Predicate operator names. */
-"Predicate_Operator_Less_Than_Title" = "小於";
-"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "小於或等於";
-"Predicate_Operator_Greater_Than_Title" = "大於";
-"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "大於或等於";
-"Predicate_Operator_Equal_To_Title" = "是";
-"Predicate_Operator_Not_Equal_To_Title" = "不是";
-"Predicate_Operator_Matches_Title" = "匹配";
-"Predicate_Operator_Like_Title" = "近似";
-"Predicate_Operator_Begins_With_Title" = "以此開頭：";
-"Predicate_Operator_Ends_With_Title" = "以此作結：";
-"Predicate_Operator_Contains_Title" = "包括";
-
-/* Predicate operator names in sentence. */
-"Predicate_Operator_Less_Than" = "小於";
-"Predicate_Operator_Less_Than_Or_Equal_To" = "小於或等於";
-"Predicate_Operator_Greater_Than" = "大於";
-"Predicate_Operator_Greater_Than_Or_Equal_To" = "小於或等於";
-"Predicate_Operator_Equal_To" = "是";
-"Predicate_Operator_Not_Equal_To" = "不是";
-"Predicate_Operator_Matches" = "匹配";
-"Predicate_Operator_Like" = "近似";
-"Predicate_Operator_Begins_With" = "以此開頭：";
-"Predicate_Operator_Ends_With" = "以此作結：";
-"Predicate_Operator_Contains" = "包括";
-
-/* Placeholder for text inputs. */
-"Predicate_String_Placeholder" = "文字";
-
-/* Joiner for predicate sentences: “kind` `is` `folder”. */
-"Predicate_Part_Joiner" = " ";
-
 /* Predicate format for text values: Extension is `“txt”`. */
 "Predicate_Quoted_Value" = "「%@」";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "日期";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "設定日期";
 
 /* Rule editor title while adding a new rule. */
 "Rule_Editor_New_Title" = "新增條件";
@@ -614,13 +581,13 @@
 "Discoverability_Quick_Search" = "快速搜尋";
 
 /* General action key command titles. */
-"Discoverability_New" = "新檔案";
+"Discoverability_New" = "新";
 "Discoverability_Night_Mode" = "夜間模式";
 
 /* Editor action key command titles. */
 "Discoverability_Syntax" = "凸顯語法";
 "Discoverability_Browse_Versions" = "瀏覽版本";
-"Discoverability_New" = "新檔案";
+"Discoverability_New" = "新";
 "Discoverability_Open" = "開啟…";
 "Discoverability_Preview" = "預覽";
 "Discoverability_Strong" = "粗體";
@@ -697,6 +664,7 @@
 "Settings_Library_Title" = "資料庫";
 "Settings_Editor_Title" = "編輯器";
 "Settings_Templates_Title" = "範本";
+"Settings_URL_Scheme_Title" = "URL 命令";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "外觀";
@@ -725,13 +693,6 @@
 /*-------------
  Files Settings
  -------------*/
-
-/* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "正在處理 Markdown";
-"Settings_Markdown_Section_Footer" = "這樣會影響匯出項目的格式和預覽結果。";
-"Settings_Markdown_Lazy_Paragraphs" = "按一下返回鍵以開新一段";
-"Settings_Markdown_Smart_Punctuation" = "智能標點";
-"Settings_Markdown_Process_Metadata" = "處理元數據";
 
 "Default_File_Extension_Section_Title" = "預設檔案副檔名";
 "Default_File_Extension_Section_Footer" = "新檔案均以此為副檔名。僅允許使用純文字檔案格式。";
@@ -772,10 +733,16 @@
 "Settings_Editor_Focus_Mode" = "焦點模式";
 "Settings_Editor_Focus_Mode_Scope" = "範圍";
 
-/* Focus mode section in settings. */
+/* Keyboard section in settings. */
 "Settings_Editor_Keyboard_Section_Title" = "自訂鍵盤";
+"Settings_Editor_Keyboard_Prefers_Popover" = "永遠使用彈出式鍵盤";
 "Settings_Editor_Keyboard_Configure" = "配置鍵盤";
 "Settings_Editor_Keyboard_Section_Footer" = "要快速存取配置模式，您可以長按住自訂鍵盤上的白色鍵。";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "硬體鍵盤";
+"Settings_Editor_Hardware_Keyboard_Footer" = "連接硬體鍵盤時，將隱藏鍵盤欄。";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "隱藏鍵盤欄";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "文字輸入";
@@ -815,6 +782,13 @@
 "Settings_Templates_Appearance_Indent_Paragraphs" = "段落縮排";
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "反轉預覽顏色";
 
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "正在處理 Markdown";
+"Settings_Markdown_Lazy_Paragraphs" = "按一下返回鍵以開新一段";
+"Settings_Markdown_Smart_Punctuation" = "智能標點";
+"Settings_Markdown_Hide_Metadata" = "隱藏元數據";
+"Settings_Markdown_Hide_Hashtags" = "隱藏主題標籤";
+
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "列印和匯出 PDF";
 "Settings_Printing_And_PDF_Export_Include_Title_Page" = "包括標題頁";
@@ -831,3 +805,37 @@
 /* Action to share template. */
 "Table_View_Action_Share" = "分享";
 
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "啟用 URL 命令";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "驗證權杖";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "部分 URL 命令需要驗證權杖。";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "複製";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "重設…";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "啟用 URL 命令";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "您想要啟用 iA Writer URL 命令嗎？您可以稍後前往「設定」修改。";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "重設驗證權杖";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "您確定要重設驗證權杖嗎？此動作無法還原。";

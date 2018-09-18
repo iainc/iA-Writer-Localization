@@ -12,4 +12,5 @@
 "Button_Delete_Selected" = "删除选中项";
 "Button_Rename_Selected" = "重命名选中项";
 "Button_Add_Folder" = "添加文件夹";
+"Button_Duplicate" = "复制";
 "Button_Settings" = "设置";

@@ -18,6 +18,9 @@
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "智能文件夹";
 
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "标签";
+
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_New_Smart_Folder" = "新建智能文件夹…";
 
@@ -42,8 +45,8 @@
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Review" = "推荐iA Writer";
 
-/* Title for release notes screen. */
-"Help_Title_News" = "新增内容";
+/* Title for action to open main help page. */
+"Help_Action_Main" = "iA Writer帮助";
 
 /*------
  Backups
@@ -97,6 +100,9 @@
 
 /* Action to move files or folders. */
 "Action_Move" = "移动​​…";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "复制";
 
 /* Action to rename. */
 "Action_Rename" = "重命名…";
@@ -194,6 +200,9 @@
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "无符合条件的文件";
 
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "未找到带标签的文件";
+
 /* Title for external files section. */
 "Library_External_Files_Section_Title" = "外部";
 
@@ -262,6 +271,9 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Item_Transform_To_Title_Case" = "首字母大写";
 
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "复制资料库路径";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "复制HTML";
 
@@ -319,25 +331,6 @@
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Action" = "上限为%@个项目";
 
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Search" = "搜索";
-
-/* Smart folder rule name.*/
-"Smart_Folder_Rule_Library_Kind" = "种类";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Extension" = "扩展名";
-
-/* Title for kinds shown while editing a rule. */
-"Smart_Folder_Rule_Library_Kind_Folder_Title" = "文件夹​​";
-"Smart_Folder_Rule_Library_Kind_Text_Title" = "文本​​";
-"Smart_Folder_Rule_Library_Kind_Other_Title" = "其他​​";
-
-/* Title for kinds shown as a part of a sentence. */
-"Smart_Folder_Rule_Library_Kind_Folder" = "文件夹";
-"Smart_Folder_Rule_Library_Kind_Text" = "文本";
-"Smart_Folder_Rule_Library_Kind_Other" = "其他";
-
 /* Smart folder section on matching type. */
 "Smart_Folder_Match_Section_Title" = "显示符合的项目";
 "Smart_Folder_Match_All" = "所有下列规则";
@@ -359,40 +352,14 @@
 /* Placeholder for text variables in predicates. */
 "Predicate_Placeholder_Text" = "文本​​";
 
-/* Predicate operator names. */
-"Predicate_Operator_Less_Than_Title" = "小于";
-"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "小于或等于";
-"Predicate_Operator_Greater_Than_Title" = "大于";
-"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "大于或等于";
-"Predicate_Operator_Equal_To_Title" = "是";
-"Predicate_Operator_Not_Equal_To_Title" = "不是";
-"Predicate_Operator_Matches_Title" = "匹配";
-"Predicate_Operator_Like_Title" = "类似于";
-"Predicate_Operator_Begins_With_Title" = "开头是";
-"Predicate_Operator_Ends_With_Title" = "末尾是";
-"Predicate_Operator_Contains_Title" = "包含";
-
-/* Predicate operator names in sentence. */
-"Predicate_Operator_Less_Than" = "小于";
-"Predicate_Operator_Less_Than_Or_Equal_To" = "小于或等于";
-"Predicate_Operator_Greater_Than" = "大于";
-"Predicate_Operator_Greater_Than_Or_Equal_To" = "大于或等于";
-"Predicate_Operator_Equal_To" = "是";
-"Predicate_Operator_Not_Equal_To" = "不是";
-"Predicate_Operator_Matches" = "匹配";
-"Predicate_Operator_Like" = "类似于";
-"Predicate_Operator_Begins_With" = "开头是";
-"Predicate_Operator_Ends_With" = "末尾是";
-"Predicate_Operator_Contains" = "包含";
-
-/* Placeholder for text inputs. */
-"Predicate_String_Placeholder" = "文本​​";
-
-/* Joiner for predicate sentences: “kind` `is` `folder”. */
-"Predicate_Part_Joiner" = " ";
-
 /* Predicate format for text values: Extension is `“txt”`. */
 "Predicate_Quoted_Value" = "“%@”";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "日期";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "设置日期";
 
 /* Rule editor title while adding a new rule. */
 "Rule_Editor_New_Title" = "新规则";
@@ -614,13 +581,13 @@
 "Discoverability_Quick_Search" = "快速搜索";
 
 /* General action key command titles. */
-"Discoverability_New" = "新建文件";
+"Discoverability_New" = "新建";
 "Discoverability_Night_Mode" = "夜间模式";
 
 /* Editor action key command titles. */
 "Discoverability_Syntax" = "语法高亮";
 "Discoverability_Browse_Versions" = "浏览版本";
-"Discoverability_New" = "新建文件";
+"Discoverability_New" = "新建";
 "Discoverability_Open" = "打开…";
 "Discoverability_Preview" = "预览";
 "Discoverability_Strong" = "粗体";
@@ -697,6 +664,7 @@
 "Settings_Library_Title" = "资料库";
 "Settings_Editor_Title" = "编辑器";
 "Settings_Templates_Title" = "模板";
+"Settings_URL_Scheme_Title" = "URL命令";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "外观";
@@ -725,13 +693,6 @@
 /*-------------
  Files Settings
  -------------*/
-
-/* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Markdown处理";
-"Settings_Markdown_Section_Footer" = "这些会影响到格式化导出和预览。";
-"Settings_Markdown_Lazy_Paragraphs" = "单次回车开启新段落";
-"Settings_Markdown_Smart_Punctuation" = "智能标点";
-"Settings_Markdown_Process_Metadata" = "处理元数据";
 
 "Default_File_Extension_Section_Title" = "默认文件扩展名";
 "Default_File_Extension_Section_Footer" = "新文件所使用的扩展名。只允许纯文本类型的扩展名。";
@@ -772,10 +733,16 @@
 "Settings_Editor_Focus_Mode" = "聚焦模式";
 "Settings_Editor_Focus_Mode_Scope" = "范围";
 
-/* Focus mode section in settings. */
+/* Keyboard section in settings. */
 "Settings_Editor_Keyboard_Section_Title" = "自定义键盘";
+"Settings_Editor_Keyboard_Prefers_Popover" = "始终使用软键盘";
 "Settings_Editor_Keyboard_Configure" = "配置键盘";
 "Settings_Editor_Keyboard_Section_Footer" = "欲更快访问配置模式，可轻点并长按自定义键盘中的任一白色键。";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "硬键盘";
+"Settings_Editor_Hardware_Keyboard_Footer" = "键盘栏将在连接硬键盘后隐藏";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "隐藏键盘栏";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "文本输入";
@@ -815,6 +782,13 @@
 "Settings_Templates_Appearance_Indent_Paragraphs" = "缩进段落";
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "反转预览颜色";
 
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Markdown处理";
+"Settings_Markdown_Lazy_Paragraphs" = "单次回车开启新段落";
+"Settings_Markdown_Smart_Punctuation" = "智能标点";
+"Settings_Markdown_Hide_Metadata" = "隐藏元数据";
+"Settings_Markdown_Hide_Hashtags" = "隐藏标签";
+
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "打印和导出PDF";
 "Settings_Printing_And_PDF_Export_Include_Title_Page" = "包含标题页";
@@ -831,3 +805,37 @@
 /* Action to share template. */
 "Table_View_Action_Share" = "分享";
 
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "启用URL命令";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "验证令牌";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "部分URL命令需要验证令牌。";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "复制";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "重置​​……";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "启用URL命令";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "是否启用iA Writer的URL命令？您以后可在设置中更改此项。";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "重置验证令牌";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "是否重置验证令牌？此操作无法撤销。";

@@ -44,11 +44,12 @@
 "Key_Description_Return" = "輸入鍵";
 "Key_Description_Delete_Forward" = "向前刪除";
 "Key_Description_Delete_Backward" = "向後刪除";
-"Key_Description_Dismiss_Keyboard" = "關閉鍵盤";
+"Key_Description_Delete_Paragraph" = "刪除段落";
+"Key_Description_Dismiss_Keyboard" = "隱藏鍵盤";
 "Key_Description_Shift_Left" = "取消縮排";
 "Key_Description_Shift_Right" = "縮排";
-"Key_Description_Shift_Up" = "上移";
-"Key_Description_Shift_Down" = "下移";
-"Key_Description_Dismiss_Keyboard" = "關閉鍵盤";
+"Key_Description_Shift_Up" = "將段落往上移";
+"Key_Description_Shift_Down" = "將段落往下移";
+"Key_Description_Dismiss_Keyboard" = "隱藏鍵盤";
 "Key_Description_Move_To_Beginning" = "前往文檔頂端";
 "Key_Description_Move_To_End" = "前往文檔末端";
