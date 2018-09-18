@@ -1,15 +1,18 @@
 
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "2TI-Xg-Wpo"; */
-"2TI-Xg-Wpo.title" = "移除帳戶";
+/* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
+"7Ng-I8-X9P.title" = "符合系統外觀";
 
-/* Class = "NSButtonCell"; title = "Night mode"; ObjectID = "4sT-yx-tZi"; */
-"4sT-yx-tZi.title" = "夜間模式";
+/* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "自動化：";
 
-/* Class = "NSButtonCell"; title = "Show dark icon in the Dock when launched"; ObjectID = "6bs-8A-CNl"; */
-"6bs-8A-CNl.title" = "在 Dock 顯示暗色圖標";
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
+"8Ra-gX-fPi.title" = "暗色";
 
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "7WB-bC-fey"; */
-"7WB-bC-fey.title" = "移除帳戶";
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "ACg-Xt-HjR"; */
+"ACg-Xt-HjR.title" = "暗色";
+
+/* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
+"BDr-jl-Y9p.title" = "Dock 圖標：";
 
 /* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
 "E5V-bl-YDo.title" = "WordPress：";
@@ -26,17 +29,26 @@
 /* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
 "Lup-ic-GtQ.title" = "帳戶名稱";
 
-/* Class = "NSTextFieldCell"; title = "Colors:"; ObjectID = "Rnn-Wj-4HI"; */
-"Rnn-Wj-4HI.title" = "色彩：";
+/* Class = "NSButtonCell"; title = "Enable URL commands"; ObjectID = "Oh0-bg-EXQ"; */
+"Oh0-bg-EXQ.title" = "啟用 URL 命令";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
+"Rnn-Wj-4HI.title" = "外觀：";
 
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
 "SWw-D8-EqL.title" = "淡入/淡出";
 
-/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "W2O-dO-Pds"; */
-"W2O-dO-Pds.title" = "新增帳戶";
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
+"U8m-wr-wFI.title" = "淺色";
 
-/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "ar9-tg-u1B"; */
-"ar9-tg-u1B.title" = "新增帳戶";
+/* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "管理…";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "W2O-dO-Pds"; */
+"W2O-dO-Pds.title" = "移除帳戶";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "ar9-tg-u1B"; */
+"ar9-tg-u1B.title" = "移除帳戶";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
 "c8E-lj-f6I.title" = "隱藏";
@@ -52,3 +64,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
 "sN4-AX-e4A.title" = "帳戶名稱";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
+"vB9-wl-rUL.title" = "淺色";
+
+/* Class = "NSButtonCell"; title = "Match app appearance"; ObjectID = "zYE-q5-H6k"; */
+"zYE-q5-H6k.title" = "符合應用程式外觀";

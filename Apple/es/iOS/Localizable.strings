@@ -18,6 +18,9 @@
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Carpetas inteligentes";
 
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "Hashtags";
+
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_New_Smart_Folder" = "Nueva carpeta inteligente...";
 
@@ -42,8 +45,8 @@
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Review" = "Recomendar iA Writer";
 
-/* Title for release notes screen. */
-"Help_Title_News" = "Novedades";
+/* Title for action to open main help page. */
+"Help_Action_Main" = "Ayuda de iA Writer";
 
 /*------
  Backups
@@ -97,6 +100,9 @@
 
 /* Action to move files or folders. */
 "Action_Move" = "Mover...";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "Duplicar";
 
 /* Action to rename. */
 "Action_Rename" = "Renombrar...";
@@ -194,6 +200,9 @@
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "Sin reglas de coincidencia de archivos";
 
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "No hay archivos con el hashtag";
+
 /* Title for external files section. */
 "Library_External_Files_Section_Title" = "Externo";
 
@@ -262,6 +271,9 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Item_Transform_To_Title_Case" = "Mayúsculas de título";
 
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "Copiar ruta de la biblioteca";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "Copiar HTML";
 
@@ -319,25 +331,6 @@
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Action" = "Limitar a %@ artículos";
 
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Search" = "Buscar";
-
-/* Smart folder rule name.*/
-"Smart_Folder_Rule_Library_Kind" = "Tipo";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Extension" = "Extensión";
-
-/* Title for kinds shown while editing a rule. */
-"Smart_Folder_Rule_Library_Kind_Folder_Title" = "Carpeta";
-"Smart_Folder_Rule_Library_Kind_Text_Title" = "Texto";
-"Smart_Folder_Rule_Library_Kind_Other_Title" = "Otros";
-
-/* Title for kinds shown as a part of a sentence. */
-"Smart_Folder_Rule_Library_Kind_Folder" = "carpeta";
-"Smart_Folder_Rule_Library_Kind_Text" = "texto";
-"Smart_Folder_Rule_Library_Kind_Other" = "otro";
-
 /* Smart folder section on matching type. */
 "Smart_Folder_Match_Section_Title" = "Mostrar elementos que coinciden";
 "Smart_Folder_Match_All" = "Todas las siguientes reglas";
@@ -359,40 +352,14 @@
 /* Placeholder for text variables in predicates. */
 "Predicate_Placeholder_Text" = "Texto";
 
-/* Predicate operator names. */
-"Predicate_Operator_Less_Than_Title" = "Menos que";
-"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "Menor o igual que";
-"Predicate_Operator_Greater_Than_Title" = "Mayor que";
-"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "Mayor o igual que";
-"Predicate_Operator_Equal_To_Title" = "Es";
-"Predicate_Operator_Not_Equal_To_Title" = "No es";
-"Predicate_Operator_Matches_Title" = "Coincide";
-"Predicate_Operator_Like_Title" = "Como";
-"Predicate_Operator_Begins_With_Title" = "Empieza con";
-"Predicate_Operator_Ends_With_Title" = "Termina con";
-"Predicate_Operator_Contains_Title" = "Contiene";
-
-/* Predicate operator names in sentence. */
-"Predicate_Operator_Less_Than" = "menor que";
-"Predicate_Operator_Less_Than_Or_Equal_To" = "es menor o igual que";
-"Predicate_Operator_Greater_Than" = "es mayor que";
-"Predicate_Operator_Greater_Than_Or_Equal_To" = "es mayor o igual que";
-"Predicate_Operator_Equal_To" = "es";
-"Predicate_Operator_Not_Equal_To" = "no es";
-"Predicate_Operator_Matches" = "coincide";
-"Predicate_Operator_Like" = "como";
-"Predicate_Operator_Begins_With" = "empieza con";
-"Predicate_Operator_Ends_With" = "termina con";
-"Predicate_Operator_Contains" = "contiene";
-
-/* Placeholder for text inputs. */
-"Predicate_String_Placeholder" = "Texto";
-
-/* Joiner for predicate sentences: “kind` `is` `folder”. */
-"Predicate_Part_Joiner" = " ";
-
 /* Predicate format for text values: Extension is `“txt”`. */
 "Predicate_Quoted_Value" = "«%@»";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "Fecha";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "Fijar fecha";
 
 /* Rule editor title while adding a new rule. */
 "Rule_Editor_New_Title" = "Nueva regla";
@@ -614,13 +581,13 @@
 "Discoverability_Quick_Search" = "Búsqueda rápida";
 
 /* General action key command titles. */
-"Discoverability_New" = "Nuevo archivo";
+"Discoverability_New" = "Nuevo";
 "Discoverability_Night_Mode" = "Modo nocturno";
 
 /* Editor action key command titles. */
 "Discoverability_Syntax" = "Resaltar sintaxis";
 "Discoverability_Browse_Versions" = "Examinar versiones";
-"Discoverability_New" = "Nuevo archivo";
+"Discoverability_New" = "Nuevo";
 "Discoverability_Open" = "Abrir...";
 "Discoverability_Preview" = "Vista previa";
 "Discoverability_Strong" = "Fuerte";
@@ -697,6 +664,7 @@
 "Settings_Library_Title" = "Biblioteca";
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Plantillas";
+"Settings_URL_Scheme_Title" = "Comandos de URL";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "Apariencia";
@@ -725,13 +693,6 @@
 /*-------------
  Files Settings
  -------------*/
-
-/* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Procesamiento de Markdown";
-"Settings_Markdown_Section_Footer" = "Afecta a las exportaciones formateadas y la vista previa.";
-"Settings_Markdown_Lazy_Paragraphs" = "Un retorno simple comienza un nuevo párrafo";
-"Settings_Markdown_Smart_Punctuation" = "Puntuación inteligente";
-"Settings_Markdown_Process_Metadata" = "Procesar metadatos";
 
 "Default_File_Extension_Section_Title" = "Extensión de archivo predeterminada";
 "Default_File_Extension_Section_Footer" = "Los nuevos archivos tendrán esta extensión. Solo se permiten extensiones de texto sin formato.";
@@ -772,10 +733,16 @@
 "Settings_Editor_Focus_Mode" = "Modo de enfoque";
 "Settings_Editor_Focus_Mode_Scope" = "Alcance";
 
-/* Focus mode section in settings. */
+/* Keyboard section in settings. */
 "Settings_Editor_Keyboard_Section_Title" = "Teclado personalizado";
+"Settings_Editor_Keyboard_Prefers_Popover" = "Usar siempre el popover del teclado";
 "Settings_Editor_Keyboard_Configure" = "Configurar teclado";
 "Settings_Editor_Keyboard_Section_Footer" = "Para acceder más rápido al modo de configuración, puedes mantener presionada una tecla blanca en el teclado personalizado.";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "Teclado hardware";
+"Settings_Editor_Hardware_Keyboard_Footer" = "Las barras del teclado se ocultarán al conectar un teclado hardware.";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "Ocultar barras del teclado";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Entrada de texto";
@@ -815,6 +782,13 @@
 "Settings_Templates_Appearance_Indent_Paragraphs" = "Sangrar párrafos";
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "Invertir colores de vista previa";
 
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Procesamiento de Markdown";
+"Settings_Markdown_Lazy_Paragraphs" = "Un retorno simple comienza un nuevo párrafo";
+"Settings_Markdown_Smart_Punctuation" = "Puntuación inteligente";
+"Settings_Markdown_Hide_Metadata" = "Ocultar metadatos";
+"Settings_Markdown_Hide_Hashtags" = "Ocultar hashtags";
+
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "Impresión y exportación de PDF";
 "Settings_Printing_And_PDF_Export_Include_Title_Page" = "Incluir página de título";
@@ -831,3 +805,37 @@
 /* Action to share template. */
 "Table_View_Action_Share" = "Compartir";
 
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "Habilitar comandos de URL";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "Token de autenticación";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "El token de autenticación es obligatorio para algunos comandos de URL.";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "Copiar";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "Restablecer...";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "Habilitar comandos de URL";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "¿Desea habilitar los comandos de URL de iA Writer? Puede cambiar esto más tarde en los ajustes.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "Restablecer token de autenticación";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "¿Seguro que quieres restablecer el token de autenticación? Esta acción no se puede deshacer.";

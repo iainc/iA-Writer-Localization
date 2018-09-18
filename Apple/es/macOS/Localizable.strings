@@ -3,11 +3,11 @@
  Menus
  -----*/
 
-/* Menu title to enable night mode. */
-"Menu_Enable_Night_Mode" = "Modo nocturno";
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "Usar apariencia oscura";
 
-/* Menu title to disable night mode and enable day mode. */
-"Menu_Disable_Night_Mode" = "Modo diurno";
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "Use apariencia clara";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Nuevo en la biblioteca";
@@ -181,6 +181,12 @@
  Library
  ------*/
 
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "Personalizado";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "Usar ordenación personalizada para la vista actual";
+
 /* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
 "Library_Location_Description" = "Las ubicaciones de la biblioteca son perfectas para acceder rápidamente a carpetas en las que la mayoría de los documentos no están en iCloud.\nEstán indexadas para una navegación rápida y búsqueda de texto completo.\nLas carpetas excesivamente grandes pueden afectar negativamente al rendimiento.";
 
@@ -190,12 +196,12 @@
 /* Go menu item title to go forward. */
 "Library_Go_Forward" = "Adelante";
 
-/* Open indicator text in table view. */
-"Library_Open_Indicator_Text" = "Está abierto";
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "Carpeta adjunta";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Borrar";
+"Library_Delete_Action_Title" = "Eliminar...";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "¿Seguro que quieres borrar «%@»?";
@@ -237,6 +243,9 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "Conseguir información";
 
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "Copiar ruta de la biblioteca";
+
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Ordenar por";
 
@@ -246,8 +255,17 @@
 /* Menu to remove items from favorites. */
 "Library_Action_Remove_Favorite" = "Eliminar de favoritos";
 
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "Renombrar en ubicaciones";
+
 /* Menu to remove items from locations. */
 "Library_Action_Remove_Location" = "Eliminar de ubicaciones";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "Editar...";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "Duplicar";
 
 /* Menu to show currently selected document in Finder. */
 "Show_In_Finder" = "Mostrar en el buscador";
@@ -291,11 +309,26 @@
 /* Library info popover label for file size. */
 "Library_Info_Size" = "Tamaño";
 
+/* Organizer section title. */
 "Library_Root_Locations" = "Ubicaciones";
 
+/* Organizer section title. */
 "Library_Root_Favorites" = "Favoritos";
 
+/* Organizer section title. */
 "Library_Root_Smart_Folders" = "Carpetas inteligentes";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "Hashtags";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "Arrastra aquí carpetas y archivos para acceder más rápido";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "Configura reglas personalizadas para reunir archivos";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "Escribe #tags para agrupar archivos";
 
 /*-----
  Editor
@@ -404,6 +437,24 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "Plantillas";
 
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "Añadir cuenta...";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "Eliminar cuenta";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "¿Seguro que quieres restablecer el token de autenticación?";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "Esta acción no se puede deshacer.";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "¿Quieres habilitar los comandos de URL de iA Writer?";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "Puedes cambiar esto más tarde en las preferencias.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -417,6 +468,9 @@
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
 "Content_Block_Processing_Alert_Message" = "No se pudo procesar algún contenido.";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "No se pudo completar la operación.";
 
 /*--------
  Touch Bar

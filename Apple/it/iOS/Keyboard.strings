@@ -44,11 +44,12 @@
 "Key_Description_Return" = "Invio";
 "Key_Description_Delete_Forward" = "Cancella avanti";
 "Key_Description_Delete_Backward" = "Cancella indietro";
-"Key_Description_Dismiss_Keyboard" = "Elimina tastiera";
+"Key_Description_Delete_Paragraph" = "Cancella paragrafo";
+"Key_Description_Dismiss_Keyboard" = "Nascondi tastiera";
 "Key_Description_Shift_Left" = "Rientro negativo";
 "Key_Description_Shift_Right" = "Rientro";
-"Key_Description_Shift_Up" = "Sposta su";
-"Key_Description_Shift_Down" = "Sposta già";
-"Key_Description_Dismiss_Keyboard" = "Elimina tastiera";
+"Key_Description_Shift_Up" = "Sposta su paragrafo";
+"Key_Description_Shift_Down" = "Sposta giù paragrafo";
+"Key_Description_Dismiss_Keyboard" = "Nascondi tastiera";
 "Key_Description_Move_To_Beginning" = "Vai all’inizio del documento";
 "Key_Description_Move_To_End" = "Vai alla fine del documento";

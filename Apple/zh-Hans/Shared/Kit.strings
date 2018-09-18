@@ -5,6 +5,11 @@
 "Button_Share" = "分享";
 "Button_Close" = "关闭";
 "Button_Continue" = "继续";
+"Button_Enable" = "启用";
+"Button_Disable" = "禁用";
+"Button_Reset" = "重置​​";
+
+"News_Title" = "新增内容";
 
 "Unknown_Error_Title" = "未知错误";
 "Unknown_Error" = "发生未知错误。";
@@ -111,6 +116,21 @@
 "Template_Error_Installed_Bundle_Title" = "模板已安装";
 "Template_Error_Installed_Bundle" = "模板已安装。";
 "Template_Error_Installed_Bundle_Recovery_Suggestion" = "如果模板在iA Writer中不可用，请查看文档。";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "无效参数";
+"URL_Scheme_Error_Invalid_Parameters" = "URL命令的调用参数无效。";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "查看URL命令文档。";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "验证令牌无效";
+"URL_Scheme_Error_Invalid_Auth_Token" = "URL命令的调用验证令牌无效。";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "请确保验证令牌正确。";
+
+"URL_Scheme_Auth_Token_Description" = "Auth token is required for some URL commands.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Auth token is required for some URL commands. Your devices share the same auth token using iCloud.";
 
 /*-------
  Storages

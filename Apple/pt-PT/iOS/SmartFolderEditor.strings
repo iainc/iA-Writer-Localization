@@ -1,0 +1,31 @@
+
+/* This file is used to localize smart folder rule editors. Parts of the rules are grouped together. Rules in this file should read as sentences, but each part of the rule must be capitalized as a sentence on its own. */
+/* Each part of the rule may include up to three substrings: [^This is a group header][This is a group name][$This is a group footer]. */
+/* NOTE: Do NOT translate comparison types (like “is less than” or “begins with”) directly. Please always check English value for the intended usage for the particular case. */
+
+/* Date modified kind rule templates. */
+"%[dateModified]@ %[is less than]@ %@" = "%1$[Data da modificação]@ %2$[É anterior a]@ %3$@";
+"%[dateModified]@ %[is greater than]@ %@" = "%1$[Data da modificação]@ %2$[É posterior a]@ %3$@";
+
+/* Date modified relative rule templates. */
+"%[dateModified]@ %[begins with]@ %@" = "%1$[Data da modificação]@ %2$[Está nos últimos]@ %3$[^Número de Dias]@";
+"%[dateModified]@ %[ends with]@ %@" = "%1$[Data da modificação]@ %2$[Não está nos últimos]@ %3$[^Número de Dias]@";
+
+/* Library item kind rule templates. */
+"%[kind]@ %[is]@ %[text]@" = "%1$[Tipo]@ %2$[É]@ %3$[Texto]@";
+"%[kind]@ %[is not]@ %[text]@" = "%1$[Tipo]@ %2$[Não é]@ %3$[Texto]@";
+"%[kind]@ %[is]@ %[folder]@" = "%1$[Tipo]@ %2$[É]@ %3$[Pasta]@";
+"%[kind]@ %[is not]@ %[folder]@" = "%1$[Tipo]@ %2$[Não é]@ %3$[Pasta]@";
+"%[kind]@ %[is]@ %[other]@" = "%1$[Tipo]@ %2$[É]@ %3$[Outro]@";
+"%[kind]@ %[is not]@ %[other]@" = "%1$[Tipo]@ %2$[Não é]@ %3$[Outro]@";
+
+/* Search rule templates. */
+"%[search]@ %[matches]@ %@" = "%1$[Procurar]@ %2$[Correspondências]@ %3$@";
+
+/* Library item parent path rule templates. */
+"%[parentPath]@ %[is]@ %@" = "%1$[Caminho anterior]@ %2$[É]@ %3$@";
+"%[parentPath]@ %[is not]@ %@" = "%1$[Caminho anterior]@ %2$[Não é]@ %3$@";
+
+/* Library item ancestor path rule templates. */
+"%[ancestorPath]@ %[is]@ %@" = "%1$[Caminho ascendente]@ %2$[É]@ %3$@";
+"%[ancestorPath]@ %[is not]@ %@" = "%1$[Caminho ascendente]@ %2$[Não é]@ %3$@";

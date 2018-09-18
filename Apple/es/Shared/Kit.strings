@@ -5,6 +5,11 @@
 "Button_Share" = "Compartir";
 "Button_Close" = "Cerrar";
 "Button_Continue" = "Continuar";
+"Button_Enable" = "Habilitar";
+"Button_Disable" = "Deshabilitar";
+"Button_Reset" = "Reiniciar";
+
+"News_Title" = "Novedades";
 
 "Unknown_Error_Title" = "Error desconocido";
 "Unknown_Error" = "Se ha producido un error desconocido.";
@@ -111,6 +116,21 @@
 "Template_Error_Installed_Bundle_Title" = "La plantilla está instalada";
 "Template_Error_Installed_Bundle" = "La plantilla ya está instalada.";
 "Template_Error_Installed_Bundle_Recovery_Suggestion" = "Comprueba la documentación si la plantilla no está disponible en iA Writer.";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "Parámetros no válidos";
+"URL_Scheme_Error_Invalid_Parameters" = "Se ha invocado el comando URL con parámetros no válidos.";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Comprueba la documentación del comando URL.";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Token de autenticación no válido.";
+"URL_Scheme_Error_Invalid_Auth_Token" = "Se ha invocado el comando URL con un token de autenticación no válido.";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Asegúrate de que el token de autenticación sea correcto.";
+
+"URL_Scheme_Auth_Token_Description" = "Auth token is required for some URL commands.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Auth token is required for some URL commands. Your devices share the same auth token using iCloud.";
 
 /*-------
  Storages

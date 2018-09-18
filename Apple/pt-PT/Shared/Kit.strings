@@ -5,6 +5,11 @@
 "Button_Share" = "Partilhar";
 "Button_Close" = "Fechar";
 "Button_Continue" = "Continuar";
+"Button_Enable" = "Ativar";
+"Button_Disable" = "Desativar";
+"Button_Reset" = "Reinicializar";
+
+"News_Title" = "Novidades";
 
 "Unknown_Error_Title" = "Erro desconhecido";
 "Unknown_Error" = "Ocorreu um erro desconhecido.";
@@ -111,6 +116,21 @@
 "Template_Error_Installed_Bundle_Title" = "O modelo foi instalado";
 "Template_Error_Installed_Bundle" = "O modelo já foi instalado.";
 "Template_Error_Installed_Bundle_Recovery_Suggestion" = "Consulte a documentação se o modelo não estiver disponível no iA Writer.";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "Parâmetros inválidos";
+"URL_Scheme_Error_Invalid_Parameters" = "O comando URL foi invocado com parâmetros inválidos.";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Consulte a documentação do comando URL.";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Código de Autorização Inválido";
+"URL_Scheme_Error_Invalid_Auth_Token" = "O comando URL foi invocado com um código de autorização inválido";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Certifique-se de que o código de autorização está correto.";
+
+"URL_Scheme_Auth_Token_Description" = "Auth token is required for some URL commands.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Auth token is required for some URL commands. Your devices share the same auth token using iCloud.";
 
 /*-------
  Storages

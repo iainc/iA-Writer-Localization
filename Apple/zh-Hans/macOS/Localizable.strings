@@ -3,11 +3,11 @@
  Menus
  -----*/
 
-/* Menu title to enable night mode. */
-"Menu_Enable_Night_Mode" = "夜间模式";
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "使用深色主题";
 
-/* Menu title to disable night mode and enable day mode. */
-"Menu_Disable_Night_Mode" = "日间模式";
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "使用浅色主题";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "在资料库中新建";
@@ -181,6 +181,12 @@
  Library
  ------*/
 
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "自定义​​";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "为当前视图使用自定义排序";
+
 /* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
 "Library_Location_Description" = "Library Location最适合快速访问iCloud以外存储文档最多的文件夹。\n系统已为它们建立索引，支持快速导航和全文本搜索。\n容量过大的文件夹可能会对系统性能造成不良影响。";
 
@@ -190,12 +196,12 @@
 /* Go menu item title to go forward. */
 "Library_Go_Forward" = "前进";
 
-/* Open indicator text in table view. */
-"Library_Open_Indicator_Text" = "已打开";
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "上一级文件夹";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "刪除";
+"Library_Delete_Action_Title" = "刪除……";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "是否确定删除“%@”？";
@@ -237,6 +243,9 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "获取信息";
 
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "复制资料库路径";
+
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "排序方式";
 
@@ -246,8 +255,17 @@
 /* Menu to remove items from favorites. */
 "Library_Action_Remove_Favorite" = "从收藏中​​删除";
 
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "在位置中重命名";
+
 /* Menu to remove items from locations. */
 "Library_Action_Remove_Location" = "从Locations中删除";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "编辑...";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "复制";
 
 /* Menu to show currently selected document in Finder. */
 "Show_In_Finder" = "在Finder中显示";
@@ -291,11 +309,26 @@
 /* Library info popover label for file size. */
 "Library_Info_Size" = "大小";
 
+/* Organizer section title. */
 "Library_Root_Locations" = "位置";
 
+/* Organizer section title. */
 "Library_Root_Favorites" = "收藏";
 
+/* Organizer section title. */
 "Library_Root_Smart_Folders" = "智能文件夹";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "标签";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "拖放文件夹和文件到这里创建快速访问";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "设置集合文件的自定义规则";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "为批量文件添加#tag";
 
 /*-----
  Editor
@@ -404,6 +437,24 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "模板";
 
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "添加账号……";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "移除账号";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "是否重置验证令牌？";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "此操作无法撤销。";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "是否启用iA Writer的URL命令？";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "您以后可在偏好中更改此项。";
+
 /*-----------
  Quick Search
  -----------*/
@@ -417,6 +468,9 @@
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
 "Content_Block_Processing_Alert_Message" = "部分内容无法处理。";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "无法完成操作。";
 
 /*--------
  Touch Bar

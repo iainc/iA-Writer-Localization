@@ -5,6 +5,11 @@
 "Button_Share" = "Partager";
 "Button_Close" = "Fermer";
 "Button_Continue" = "Continuer";
+"Button_Enable" = "Activer";
+"Button_Disable" = "Désactiver";
+"Button_Reset" = "Réinitialiser";
+
+"News_Title" = "Nouveautés";
 
 "Unknown_Error_Title" = "Erreur inconnue";
 "Unknown_Error" = "Une erreur inconnue s’est produite.";
@@ -111,6 +116,21 @@
 "Template_Error_Installed_Bundle_Title" = "Le modèle est installé.";
 "Template_Error_Installed_Bundle" = "Le modèle est déjà installé.";
 "Template_Error_Installed_Bundle_Recovery_Suggestion" = "Consultez la documentation si le modèle n’est pas disponible dans iA Writer.";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "Paramètres invalides";
+"URL_Scheme_Error_Invalid_Parameters" = "La commande URL a été appelée avec des paramèters invalides.";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Vérifiez la documentation de commande URL";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Jeton d’authentification invalide";
+"URL_Scheme_Error_Invalid_Auth_Token" = "La commande URL a été appelée avec un jeton d’authentification invalide.";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Assurez-vous que le jeton d’authentification est correct.";
+
+"URL_Scheme_Auth_Token_Description" = "Auth token is required for some URL commands.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Auth token is required for some URL commands. Your devices share the same auth token using iCloud.";
 
 /*-------
  Storages

@@ -1,10 +1,4 @@
 
-/* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
-"1tl-et-2n4.title" = "Il ritorno singolo inizia un nuovo paragrafo";
-
-/* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
-"794-EH-QRk.title" = "Elabora metadati";
-
 /* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon when no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "L’azione preferita verrà utilizzata quando premi ⌘N o fai clic sull’icona Dock quando non è aperto nessun altro file. Verrà utilizzata un’azione alternativa quando premi ⌥⌘N.";
 
@@ -14,20 +8,17 @@
 /* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
 "RP1-j6-hey.title" = "Azione preferita:";
 
+/* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
+"UWl-8e-UTr.title" = "I nuovi file avranno questa estensione. Sono consentite solo estensioni in plain text.";
+
 /* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "I file verranno creati \nautomaticamente nella Libreria.";
 
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "Nuovo nella Libreria";
 
-/* Class = "NSTextFieldCell"; title = "Markdown:"; ObjectID = "hUt-3b-BEn"; */
-"hUt-3b-BEn.title" = "Markdown:";
-
 /* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
 "vCs-49-KMB.title" = "Quando chiudi i file, ti verrà chiesto\nse vuoi salvarli.";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
 "whG-r6-ibK.title" = "Estensione predefinita:";
-
-/* Class = "NSButtonCell"; title = "Smart punctuation"; ObjectID = "xcN-na-4AD"; */
-"xcN-na-4AD.title" = "Punteggiatura intelligente";

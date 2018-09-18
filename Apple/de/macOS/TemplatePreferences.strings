@@ -1,6 +1,12 @@
 
+/* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
+"1tl-et-2n4.title" = "Einzelner Umbruch beginnt einen neuen Absatz.";
+
 /* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
 "561-vh-uzh.ibShadowedToolTip" = "Für Nachmodus-Farben in der Vorschau. Nicht automatisch. Nachtfarben müssen im Template definiert werden.";
+
+/* Class = "NSButtonCell"; title = "Hide metadata"; ObjectID = "794-EH-QRk"; */
+"794-EH-QRk.title" = "Metadaten ausblenden";
 
 /* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
 "GBp-vd-erZ.title" = "Dokumentation lesen";
@@ -14,14 +20,17 @@
 /* Class = "NSButtonCell"; title = "Headers"; ObjectID = "NlF-W4-pAH"; */
 "NlF-W4-pAH.title" = "Kopfzeile";
 
-/* Class = "NSTextFieldCell"; title = "Print:"; ObjectID = "P09-gF-Ui9"; */
-"P09-gF-Ui9.title" = "Drucken:";
+/* Class = "NSTextFieldCell"; title = "Printing & PDF Export:"; ObjectID = "P09-gF-Ui9"; */
+"P09-gF-Ui9.title" = "Drucken und PDF-Export:";
 
 /* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
 "aq5-yb-Aik.title" = "Abschnitteinzug";
 
 /* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
 "c4c-Wj-hKb.title" = "Überschriften zentrieren";
+
+/* Class = "NSButtonCell"; title = "Hide hashtags"; ObjectID = "cVG-Tj-Zs0"; */
+"cVG-Tj-Zs0.title" = "Hashtags ausblenden";
 
 /* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
 "eLo-eM-g9t.title" = "Fußzeile";
@@ -34,6 +43,9 @@
 
 /* Class = "NSButtonCell"; title = "Uninstall Template"; ObjectID = "h5a-TI-YPT"; */
 "h5a-TI-YPT.title" = "Template deinstallieren";
+
+/* Class = "NSTextFieldCell"; title = "Markdown processing:"; ObjectID = "hUt-3b-BEn"; */
+"hUt-3b-BEn.title" = "Markdown-Verarbeitung:";
 
 /* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
 "nwP-qK-Y5q.title" = "Mehr Templates";
@@ -49,6 +61,9 @@
 
 /* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
 "wLN-Zi-CIU.title" = "Titelseiten";
+
+/* Class = "NSButtonCell"; title = "Apply smart punctuation"; ObjectID = "xcN-na-4AD"; */
+"xcN-na-4AD.title" = "Intelligente Interpunktion anwenden";
 
 /* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
 "y8E-dF-Bfw.title" = "Template installieren";

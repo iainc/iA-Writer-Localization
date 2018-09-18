@@ -1,15 +1,18 @@
 
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "2TI-Xg-Wpo"; */
-"2TI-Xg-Wpo.title" = "Remover Conta";
+/* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
+"7Ng-I8-X9P.title" = "Correspondência com aspeto do sistema";
 
-/* Class = "NSButtonCell"; title = "Night mode"; ObjectID = "4sT-yx-tZi"; */
-"4sT-yx-tZi.title" = "Modo Noturno";
+/* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "Automação:";
 
-/* Class = "NSButtonCell"; title = "Show dark icon in the Dock when launched"; ObjectID = "6bs-8A-CNl"; */
-"6bs-8A-CNl.title" = "Mostrar ícone escuro na Dock";
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
+"8Ra-gX-fPi.title" = "Escurecido";
 
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "7WB-bC-fey"; */
-"7WB-bC-fey.title" = "Remover Conta";
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "ACg-Xt-HjR"; */
+"ACg-Xt-HjR.title" = "Escurecido";
+
+/* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
+"BDr-jl-Y9p.title" = "Ícone Dock:";
 
 /* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
 "E5V-bl-YDo.title" = "WordPress:";
@@ -26,17 +29,26 @@
 /* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
 "Lup-ic-GtQ.title" = "Nome da Conta";
 
-/* Class = "NSTextFieldCell"; title = "Colors:"; ObjectID = "Rnn-Wj-4HI"; */
-"Rnn-Wj-4HI.title" = "Cores:";
+/* Class = "NSButtonCell"; title = "Enable URL commands"; ObjectID = "Oh0-bg-EXQ"; */
+"Oh0-bg-EXQ.title" = "Ativar comandos URL";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
+"Rnn-Wj-4HI.title" = "Aspeto:";
 
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
 "SWw-D8-EqL.title" = "Aparecer/Desaparecer";
 
-/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "W2O-dO-Pds"; */
-"W2O-dO-Pds.title" = "Adicionar Conta";
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
+"U8m-wr-wFI.title" = "Iluminado";
 
-/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "ar9-tg-u1B"; */
-"ar9-tg-u1B.title" = "Adicionar Conta";
+/* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "Gerir...";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "W2O-dO-Pds"; */
+"W2O-dO-Pds.title" = "Remover Conta";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "ar9-tg-u1B"; */
+"ar9-tg-u1B.title" = "Remover Conta";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
 "c8E-lj-f6I.title" = "Ocultar";
@@ -52,3 +64,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
 "sN4-AX-e4A.title" = "Nome da Conta";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
+"vB9-wl-rUL.title" = "Iluminado";
+
+/* Class = "NSButtonCell"; title = "Match app appearance"; ObjectID = "zYE-q5-H6k"; */
+"zYE-q5-H6k.title" = "Correspondência com aspeto da aplicação";

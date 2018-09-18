@@ -12,4 +12,5 @@
 "Button_Delete_Selected" = "削除";
 "Button_Rename_Selected" = "名前を変更";
 "Button_Add_Folder" = "フォルダを追加";
+"Button_Duplicate" = "複製";
 "Button_Settings" = "設定";

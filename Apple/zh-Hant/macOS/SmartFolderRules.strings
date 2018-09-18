@@ -1,0 +1,34 @@
+
+/* Rules in this file should read as sentences, and should use sentence capitalization. */
+/* NOTE: Do NOT translate comparison types (like “is less than” or “begins with”) directly. Please always check English value for the intended usage for the particular case. */
+
+/* Date modified kind rule templates. */
+"%[dateModified]@ %[is less than]@ %@" = "%1$[修改日期]@ %2$[早於]@ %3$@";
+"%[dateModified]@ %[is greater than]@ %@" = "%1$[修改日期]@ %2$[晚於]@ %3$@";
+
+/* Date modified relative rule templates. */
+"%[dateModified]@ %[begins with]@ %@" = "%1$[修改日期]@ %2$[過去]@ %3$@ 天";
+"%[dateModified]@ %[ends with]@ %@" = "%1$[修改日期]@ %2$[非過去]@ %3$@ 天";
+
+/* Library item kind rule templates. */
+"%[kind]@ %[is]@ %[text]@" = "%1$[種類]@ %2$[是]@ %3$[文字]@";
+"%[kind]@ %[is not]@ %[text]@" = "%1$[種類]@ %2$[非]@ %3$[文字]@";
+"%[kind]@ %[is]@ %[folder]@" = "%1$[種類]@ %2$[是]@ %3$[資料夾]@";
+"%[kind]@ %[is not]@ %[folder]@" = "%1$[種類]@ %2$[非]@ %3$[資料夾]@";
+"%[kind]@ %[is]@ %[other]@" = "%1$[種類]@ %2$[是]@ %3$[其他]@";
+"%[kind]@ %[is not]@ %[other]@" = "%1$[種類]@ %2$[非]@ %3$[其他]@";
+
+/* Search rule templates. */
+"%[search]@ %[matches]@ %@" = "%1$[搜尋]@ %2$[符合]@ %3$@";
+
+/* Library item parent path rule templates. */
+"%[parentPath]@ %[is]@ %@" = "%1$[父路徑]@ %2$[是]@ %3$@";
+"%[parentPath]@ %[is not]@ %@" = "%1$[父路徑]@ %2$[非]@ %3$@";
+
+/* Library item ancestor path rule templates. */
+"%[ancestorPath]@ %[is]@ %@" = "%1$[上階路徑]@ %2$[是]@ %3$@";
+"%[ancestorPath]@ %[is not]@ %@" = "%1$[上階路徑]@ %2$[非]@ %3$@";
+
+/* Library item path extension rule templates. */
+"%[pathExtension]@ %[is]@ %@" = "%1$[副檔名]@ %2$[是]@ %3$@";
+"%[pathExtension]@ %[is not]@ %@" = "%1$[副檔名]@ %2$[非]@ %3$@";

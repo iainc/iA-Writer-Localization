@@ -13,19 +13,22 @@
 "Library_Favorites_Section_Title" = "Favoriten";
 
 /* Title for action to add a new smart folder in library root view. */
-"Library_Action_Add_Favorite" = "Zu Favoriten hinzufügen";
+"Library_Action_Add_Favorite" = "Zu Favoriten hinzufügen …";
 
 /* Title for root library view. */
-"Library_Smart_Folders_Section_Title" = "Smart Folder";
+"Library_Smart_Folders_Section_Title" = "Intelligente Ordner";
+
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "Hashtags";
 
 /* Title for action to add a new smart folder in library root view. */
-"Library_Action_New_Smart_Folder" = "Neuer Smart Folder…";
+"Library_Action_New_Smart_Folder" = "Neuer Intelligenter Ordner …";
 
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Edit_Smart_Folder" = "Bearbeiten";
 
 /* Title for action to add a new smart folder in library root view. */
-"Library_Title_Add_Favorite_Folder" = "Favoriten hinzufügen";
+"Library_Title_Add_Favorite" = "Favoriten hinzufügen";
 
 /* Title for help action to open twitter page for iA Writer. */
 "Help_Action_Open_Twitter" = "iA Writer auf Twitter";
@@ -42,8 +45,8 @@
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Review" = "iA Writer weiterempfehlen";
 
-/* Title for release notes screen. */
-"Help_Title_News" = "What’s New";
+/* Title for action to open main help page. */
+"Help_Action_Main" = "iA Writer Hilfe";
 
 /*------
  Backups
@@ -96,16 +99,19 @@
 "Button_Save" = "Speichern";
 
 /* Action to move files or folders. */
-"Action_Move" = "Verschieben…";
+"Action_Move" = "Verschieben …";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "Kopie erstellen";
 
 /* Action to rename. */
-"Action_Rename" = "Umbenennen…";
+"Action_Rename" = "Umbenennen …";
 
 /* Action to rename. */
 "Action_Remove" = "Entfernen";
 
 /* Action to delete. */
-"Action_Delete" = "Löschen…";
+"Action_Delete" = "Löschen …";
 
 /* Action to open file or folder info. */
 "Action_Get_Info" = "Info";
@@ -150,34 +156,34 @@
 "New_Folder_Location_Title" = "Neuer Ordner";
 
 /* New folder destination folder picker prompt. */
-"New_Folder_Location_Prompt" = "Neuer Ordner ablegen unter…";
+"New_Folder_Location_Prompt" = "Neuer Ordner ablegen unter …";
 
 /* File import destination folder picker title. */
 "File_Import_Title" = "Importieren";
 
 /* New folder destination folder picker prompt. */
-"File_Import_Prompt" = "Importiertes Dokument ablegen unter…";
+"File_Import_Prompt" = "Importiertes Dokument ablegen unter …";
 
 /* New file destination folder picker title. */
 "New_File_Location_Title" = "Neues Dokument";
 
 /* New file destination folder picker prompt. */
-"New_File_Location_Prompt" = "Neues Dokument ablegen unter…";
+"New_File_Location_Prompt" = "Neues Dokument ablegen unter …";
 
 /* Action to configure smart folder. */
-"Action_Edit_Smart_Folder" = "Smart Folder bearbeiten";
+"Action_Edit_Smart_Folder" = "Intelligenten Ordner bearbeiten";
 
 /* Action to configure library. */
-"Action_Configure_Library" = "Bibiliothek konfigurieren";
+"Action_Configure_Library" = "Bibliothek konfigurieren";
 
 /* Action to delete smart folder. */
-"Action_Delete_Smart_Folder" = "Smart Folder löschen";
+"Action_Delete_Smart_Folder" = "Intelligenten Ordner löschen";
 
 /* Excerpt for empty documents. */
 "Library_Excerpt_Empty" = "Kein Inhalt";
 
 /* Excerpt for unindexed documents. */
-"Library_Excerpt_Updating" = "Aktualisiere…";
+"Library_Excerpt_Updating" = "Aktualisiere …";
 
 /* Library empty message in folders. */
 "Library_Empty_Folder" = "Keine Dokumente";
@@ -194,6 +200,9 @@
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "Kein Suchergebnis";
 
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "Keine Datei mit Hashtag";
+
 /* Title for external files section. */
 "Library_External_Files_Section_Title" = "Extern";
 
@@ -201,7 +210,7 @@
 "Library_External_Files" = "Extern";
 
 /* Title for action to open external files picker. */
-"Library_External_Files_Open" = "Öffnen…";
+"Library_External_Files_Open" = "Öffnen …";
 
 /* Title for move to folder destination picker title. */
 "Move_Title" = "Verschieben";
@@ -248,7 +257,7 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Item_Transform" = "Transformationen…";
+"Menu_Item_Transform" = "Transformationen …";
 
 /* Menu item title for transforming text to upper case. */
 "Menu_Item_Transform_To_Upper_Case" = "Großbuchstaben";
@@ -261,6 +270,9 @@
 
 /* Menu item title for transforming text to title case. */
 "Menu_Item_Transform_To_Title_Case" = "Anfangsbuchstaben groß";
+
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "Bibliothekspfad kopieren";
 
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "HTML kopieren";
@@ -299,10 +311,10 @@
  ------------------*/
 
 /* Smart folder editor title while editing an existing smart folder. */
-"Smart_Folder_Editor_Edit_Title" = "Smart Folder bearbeiten";
+"Smart_Folder_Editor_Edit_Title" = "Intelligenten Ordner bearbeiten";
 
 /* Smart folder editor title while creating a new smart folder. */
-"Smart_Folder_Editor_New_Title" = "Neuer Smart Folder";
+"Smart_Folder_Editor_New_Title" = "Neuer Intelligenter Ordner";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Name_Section_Title" = "Name";
@@ -311,32 +323,13 @@
 "Smart_Folder_Editor_Rules_Section_Title" = "Regeln";
 
 /* Smart folder action to add a new rule. */
-"Smart_Folder_Editor_New_Rule_Action" = "Neue Regel…";
+"Smart_Folder_Editor_New_Rule_Action" = "Neue Regel …";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Section_Title" = "Begrenzung";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Action" = "Begrenze auf %@ Einträge";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Search" = "Suchen";
-
-/* Smart folder rule name.*/
-"Smart_Folder_Rule_Library_Kind" = "Dokumentart";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Extension" = "Dateierweiterung";
-
-/* Title for kinds shown while editing a rule. */
-"Smart_Folder_Rule_Library_Kind_Folder_Title" = "Ordner";
-"Smart_Folder_Rule_Library_Kind_Text_Title" = "Text";
-"Smart_Folder_Rule_Library_Kind_Other_Title" = "Anderes";
-
-/* Title for kinds shown as a part of a sentence. */
-"Smart_Folder_Rule_Library_Kind_Folder" = "Ordner";
-"Smart_Folder_Rule_Library_Kind_Text" = "Text";
-"Smart_Folder_Rule_Library_Kind_Other" = "Anderes";
 
 /* Smart folder section on matching type. */
 "Smart_Folder_Match_Section_Title" = "Angezeigte Einträge befolgen";
@@ -359,40 +352,14 @@
 /* Placeholder for text variables in predicates. */
 "Predicate_Placeholder_Text" = "Text";
 
-/* Predicate operator names. */
-"Predicate_Operator_Less_Than_Title" = "Weniger als";
-"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "Weniger als oder gleich";
-"Predicate_Operator_Greater_Than_Title" = "Mehr als";
-"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "Größer oder gleich";
-"Predicate_Operator_Equal_To_Title" = "Ist";
-"Predicate_Operator_Not_Equal_To_Title" = "Ist nicht";
-"Predicate_Operator_Matches_Title" = "Entspricht genau";
-"Predicate_Operator_Like_Title" = "Entspricht";
-"Predicate_Operator_Begins_With_Title" = "Fängt an mit";
-"Predicate_Operator_Ends_With_Title" = "Ended mit";
-"Predicate_Operator_Contains_Title" = "Enthält";
-
-/* Predicate operator names in sentence. */
-"Predicate_Operator_Less_Than" = "weniger als";
-"Predicate_Operator_Less_Than_Or_Equal_To" = "ist weniger oder gleich wie";
-"Predicate_Operator_Greater_Than" = "ist größer als";
-"Predicate_Operator_Greater_Than_Or_Equal_To" = "ist größer oder gleich wie";
-"Predicate_Operator_Equal_To" = "ist";
-"Predicate_Operator_Not_Equal_To" = "ist nicht";
-"Predicate_Operator_Matches" = "entspricht genau";
-"Predicate_Operator_Like" = "entspricht";
-"Predicate_Operator_Begins_With" = "fängt an mit";
-"Predicate_Operator_Ends_With" = "endet mit";
-"Predicate_Operator_Contains" = "enthält";
-
-/* Placeholder for text inputs. */
-"Predicate_String_Placeholder" = "Text";
-
-/* Joiner for predicate sentences: “kind` `is` `folder”. */
-"Predicate_Part_Joiner" = " ";
-
 /* Predicate format for text values: Extension is `“txt”`. */
 "Predicate_Quoted_Value" = "“%@”";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "Datum";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "Datum setzen";
 
 /* Rule editor title while adding a new rule. */
 "Rule_Editor_New_Title" = "Neue Regel";
@@ -405,10 +372,10 @@
  --*/
 
 /* Action to open camera. */
-"Action_Take_Photo" = "Bild erstellen…";
+"Action_Take_Photo" = "Bild erstellen …";
 
 /* Action to open photo library. */
-"Action_Choose_Photo" = "Bild aussuchen…";
+"Action_Choose_Photo" = "Bild aussuchen …";
 
 /* Action to create new file. */
 "Action_New_File" = "Neues Dokument";
@@ -486,43 +453,43 @@
 "Share_Sheet_WordPress_Activity_Title" = "Neuer Entwurf auf WordPress";
 
 /* Share sheet `open file in app` activity option */
-"Share_Sheet_Open_In_Activity_Title" = "Öffnen in…";
+"Share_Sheet_Open_In_Activity_Title" = "Öffnen in …";
 
 /* Share sheet 'Save to…" activity option */
-"Save_To_Export_Label" = "Speichern unter…";
+"Save_To_Export_Label" = "Speichern unter …";
 
 /* Sharing button title. */
-"Button_Share" = "Sharen";
+"Button_Share" = "Teilen";
 
 /* Sharing button title. */
-"Action_Share" = "Sharen…";
+"Action_Share" = "Teilen …";
 
 /* Action menu title. */
-"Action_Export" = "Exportieren…";
+"Action_Export" = "Exportieren …";
 
 /* Action menu title. */
-"Action_Print" = "Drucken…";
+"Action_Print" = "Drucken …";
 
 /* Action menu title. */
-"Action_Print_Formatted" = "Drucke formatiert…";
+"Action_Print_Formatted" = "Drucke formatiert …";
 
 /* Action menu title. */
-"Action_Print_Plain_Text" = "Drucke Klartext…";
+"Action_Print_Plain_Text" = "Drucke Klartext …";
 
 /* Action menu title. */
-"Action_Export_Markdown" = "Exportiere als Markdown…";
+"Action_Export_Markdown" = "Exportiere als Markdown …";
 
 /* Action menu title. */
-"Action_Export_HTML" = "Exportiere als HTML…";
+"Action_Export_HTML" = "Exportiere als HTML …";
 
 /* Action menu title. */
-"Action_Export_PDF" = "Exportiere als PDF…";
+"Action_Export_PDF" = "Exportiere als PDF …";
 
 /* Action menu title. */
-"Action_Export_Word" = "Exportiere als MS Word…";
+"Action_Export_Word" = "Exportiere als MS Word …";
 
 /* Action menu title. */
-"Action_Export_Project_Archive" = "Exportiere als Projekt-Archiv…";
+"Action_Export_Project_Archive" = "Exportiere als Projekt-Archiv …";
 
 /*--------------
  Version Browser
@@ -547,7 +514,7 @@
 "Version_Browser_Subitem_Message_Conflict" = "Dokumentänderungen sind nicht auflösbar. Wählen Sie das Dokument aus, das Sie behalten möchten.";
 
 /* Version browser subitem title, %@ = document name. */
-"Version_Browser_Subitem_Title_Conflict" = "Versionenkonflikt in %@.";
+"Version_Browser_Subitem_Title_Conflict" = "Versionen-Konflikt in %@.";
 
 /* Version browser action in conflict when 1 version is selected */
 "Version_Browser_Conflict_Keep" = "Behalte";
@@ -614,14 +581,14 @@
 "Discoverability_Quick_Search" = "Schnellsuche";
 
 /* General action key command titles. */
-"Discoverability_New" = "Neues Dokument";
+"Discoverability_New" = "New";
 "Discoverability_Night_Mode" = "Nachtmodus";
 
 /* Editor action key command titles. */
 "Discoverability_Syntax" = "Syntax-Hervorhebung";
 "Discoverability_Browse_Versions" = "Versionen durchsuchen";
-"Discoverability_New" = "Neues Dokument";
-"Discoverability_Open" = "Öffnen…";
+"Discoverability_New" = "New";
+"Discoverability_Open" = "Öffnen …";
 "Discoverability_Preview" = "Vorschau";
 "Discoverability_Strong" = "Fett";
 "Discoverability_Strikethrough" = "Durchstreichen";
@@ -636,7 +603,7 @@
 "Discoverability_Move_Line_Down" = "Zeile nach unten";
 "Discoverability_Focus" = "Fokus";
 "Discoverability_Typewriter" = "Schreibmaschinen-Modus";
-"Discoverability_Share" = "Sharen";
+"Discoverability_Share" = "Teilen";
 "Discoverability_Export_PDF" = "Exportiere PDF";
 "Discoverability_Export_Markdown" = "Exportiere Markdown";
 "Discoverability_Export_HTML" = "Exportiere HTML";
@@ -697,6 +664,7 @@
 "Settings_Library_Title" = "Bibliothek";
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Vorlagen";
+"Settings_URL_Scheme_Title" = "URL-Befehle";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "Anzeigen";
@@ -704,8 +672,8 @@
 /* Sharing accounts section in settings. */
 "Settings_Accounts_Section_Title" = "Sharing-Dienste";
 
-"Settings_Accounts_Medium_Add" = "Medium-Konto hinzufügen…";
-"Settings_Accounts_Medium_Remove" = "Medium-Konto entfernen…";
+"Settings_Accounts_Medium_Add" = "Medium-Konto hinzufügen …";
+"Settings_Accounts_Medium_Remove" = "Medium-Konto entfernen …";
 "Settings_Accounts_Medium_Remove_Confirmation" = "Medium entfernen";
 "Settings_Accounts_Medium_Add_Title" = "Medium";
 "Settings_Accounts_Medium_Add_Message" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung einsehen können.";
@@ -714,8 +682,8 @@
 "Settings_Accounts_Medium_Invalid_Token_Title" = "Ungültiges Token";
 "Settings_Accounts_Medium_Invalid_Token_Message" = "Stellen Sie sicher dass Sie ein gültiges Medium-Token verwenden.";
 
-"Settings_Accounts_WordPress_Add" = "WordPress-Konto hinzufügen…";
-"Settings_Accounts_WordPress_Remove" = "WordPress entfernen…";
+"Settings_Accounts_WordPress_Add" = "WordPress-Konto hinzufügen …";
+"Settings_Accounts_WordPress_Remove" = "WordPress entfernen …";
 "Settings_Accounts_WordPress_Remove_Confirmation" = "WordPress entfernen";
 "Settings_Accounts_WordPress_Add_Title" = "WordPress";
 "Settings_Accounts_WordPress_Add_Message" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung einsehen können.\n\nSelbst-gehostete WordPress-Seiten müssen mit Jetpack versehen werden.\n\nFalls Sie mehr als einen Blog verwenden, werden die Einträge auf Ihren Hauptblog hochgeladen.";
@@ -725,13 +693,6 @@
 /*-------------
  Files Settings
  -------------*/
-
-/* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Markdown-Interpretation";
-"Settings_Markdown_Section_Footer" = "Für formatiertes Exportieren und Drucken.";
-"Settings_Markdown_Lazy_Paragraphs" = "Einfacher Umbruch definiert Abschnitt";
-"Settings_Markdown_Smart_Punctuation" = "Intelligente Zeichensetzung";
-"Settings_Markdown_Process_Metadata" = "Meta-Daten einarbeiten";
 
 "Default_File_Extension_Section_Title" = "Standard-Datenerweiterung";
 "Default_File_Extension_Section_Footer" = "Neue Dokumente werden diese Dateierweiterung verwenden. Nur Klartextendungen sind erlaubt.";
@@ -749,7 +710,7 @@
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "Ordner Sortieren";
-"Settings_Library_Sort_By_Edit" = "Sortieren nach…";
+"Settings_Library_Sort_By_Edit" = "Sortieren nach …";
 
 /*--------------
  Editor Settings
@@ -772,10 +733,16 @@
 "Settings_Editor_Focus_Mode" = "Fokus";
 "Settings_Editor_Focus_Mode_Scope" = "Bereich";
 
-/* Focus mode section in settings. */
+/* Keyboard section in settings. */
 "Settings_Editor_Keyboard_Section_Title" = "Benutzerdefinierte Tastatur";
+"Settings_Editor_Keyboard_Prefers_Popover" = "Immer Tastatur-Popover verwenden";
 "Settings_Editor_Keyboard_Configure" = "Tastatur einstellen";
 "Settings_Editor_Keyboard_Section_Footer" = "Für einen schnelleren Zugriff, halten Sie eine der weissen oder hellgrauen Tasten in der benutzerdefinierten Tastatur gedrückt.";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "Hardware-Tastatur";
+"Settings_Editor_Hardware_Keyboard_Footer" = "Die Tastenleisten werden ausgeblendet, wenn eine Hardware-Tastatur angeschlossen ist.";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "Tastaturleisten ausblenden";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Texteingabe";
@@ -806,7 +773,7 @@
 "Settings_Templates_Custom_Templates_Section_Title" = "Benutzerdefinierte Vorlagen";
 
 /* Action title to get more templates. */
-"Settings_Templates_Get_More" = "Weitere Templates…";
+"Settings_Templates_Get_More" = "Weitere Templates …";
 
 /* Action to change template. */
 "Settings_Templates_Appearance_Section_Title" = "Anzeigen";
@@ -814,6 +781,13 @@
 "Settings_Templates_Appearance_Number_Headings" = "Titel nummerieren";
 "Settings_Templates_Appearance_Indent_Paragraphs" = "Abschnitte einrücken";
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "Vorschaufarben invertieren";
+
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Markdown-Interpretation";
+"Settings_Markdown_Lazy_Paragraphs" = "Einfacher Umbruch definiert Abschnitt";
+"Settings_Markdown_Smart_Punctuation" = "Intelligente Zeichensetzung";
+"Settings_Markdown_Hide_Metadata" = "Metadaten ausblenden";
+"Settings_Markdown_Hide_Hashtags" = "Hashtags ausblenden";
 
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "Drucken & PDF-Export";
@@ -831,3 +805,37 @@
 /* Action to share template. */
 "Table_View_Action_Share" = "Teilen";
 
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "URL-Befehle aktivieren";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "Authentifizierungs-Token";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "Für einige URL-Befehle ist ein Authentifizierungs-Token erforderlich.";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "Kopieren";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "Zurücksetzen …";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "URL-Befehle aktivieren";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "Möchten Sie iA Writer URL-Befehle aktivieren? Sie können dies später in den Einstellungen ändern.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "Authentifizierungs-Token zurücksetzen";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "Sind Sie sicher, dass Sie das Authentifizierungs-Token zurücksetzen möchten? Diese Aktion kann nicht rückgängig gemacht werden.";

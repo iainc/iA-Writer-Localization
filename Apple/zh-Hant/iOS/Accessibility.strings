@@ -12,4 +12,5 @@
 "Button_Delete_Selected" = "刪除已選項目";
 "Button_Rename_Selected" = "重新命名已選項目";
 "Button_Add_Folder" = "新增資料夾";
+"Button_Duplicate" = "複製";
 "Button_Settings" = "設定";

@@ -44,11 +44,12 @@
 "Key_Description_Return" = "リターン";
 "Key_Description_Delete_Forward" = "次を削除";
 "Key_Description_Delete_Backward" = "前を削除";
-"Key_Description_Dismiss_Keyboard" = "キーボードを隠す";
+"Key_Description_Delete_Paragraph" = "段落削除";
+"Key_Description_Dismiss_Keyboard" = "キーボード非表示";
 "Key_Description_Shift_Left" = "アウトデント";
 "Key_Description_Shift_Right" = "インデント";
-"Key_Description_Shift_Up" = "行移動上";
-"Key_Description_Shift_Down" = "行移動下";
-"Key_Description_Dismiss_Keyboard" = "キーボードを隠す";
+"Key_Description_Shift_Up" = "段落を上がる";
+"Key_Description_Shift_Down" = "段落を下がる";
+"Key_Description_Dismiss_Keyboard" = "キーボード非表示";
 "Key_Description_Move_To_Beginning" = "ドキュメントの先頭へ移動";
 "Key_Description_Move_To_End" = "ドキュメントの最後へ移動";

@@ -1,12 +1,6 @@
 
-/* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
-"1tl-et-2n4.title" = "Einfacher Zeilenumbruch für Absätze";
-
-/* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
-"794-EH-QRk.title" = "Metadaten verarbeiten";
-
 /* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon when no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
-"HPl-l1-HP7.title" = "Die bevorzugte Aktion wird verwendet, wenn Sie ⌘N drücken oder auf das Dock-Symbol klicken, wenn keine anderen Dateien geöffnet sind. Eine andere Aktion wird verwendet, wenn Sie ⌥⌘N drücken.";
+"HPl-l1-HP7.title" = "Die bevorzugte Aktion wird durch ⌘N ausgelöst—oder, sofern keine andere Dokumente geöffnet sind, durch Klick auf das Dock-Symbol. Bei ⌥⌘N gilt die alternative Aktion.";
 
 /* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */
 "Hli-Y7-4TC.title" = "Neu";
@@ -14,20 +8,17 @@
 /* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
 "RP1-j6-hey.title" = "Bevorzugte Aktion:";
 
+/* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
+"UWl-8e-UTr.title" = "Neue Dokumente werden diese Dateierweiterung verwenden. Nur Klartextendungen sind erlaubt.";
+
 /* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "Dateien werden automatisch zur \nBibliothek hinzugefügt.";
 
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "Neu in Bibliothek";
 
-/* Class = "NSTextFieldCell"; title = "Markdown:"; ObjectID = "hUt-3b-BEn"; */
-"hUt-3b-BEn.title" = "Markdown:";
-
 /* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
 "vCs-49-KMB.title" = "System wird nachfragen, ob Dateien vor \nSchliessung gespeichert werden sollen.";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
 "whG-r6-ibK.title" = "Standard-Erweiterung:";
-
-/* Class = "NSButtonCell"; title = "Smart punctuation"; ObjectID = "xcN-na-4AD"; */
-"xcN-na-4AD.title" = "Automatische Zeichensetzung";

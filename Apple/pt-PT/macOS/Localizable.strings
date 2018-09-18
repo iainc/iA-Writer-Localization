@@ -3,11 +3,11 @@
  Menus
  -----*/
 
-/* Menu title to enable night mode. */
-"Menu_Enable_Night_Mode" = "Modo Noturno";
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "Usar Aspeto Escurecido";
 
-/* Menu title to disable night mode and enable day mode. */
-"Menu_Disable_Night_Mode" = "Modo diurno";
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "Usar Aspeto Iluminado";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Novo na Biblioteca";
@@ -181,6 +181,12 @@
  Library
  ------*/
 
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "Personalizada";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "Usar a ordenação personalizada para esta visualização";
+
 /* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
 "Library_Location_Description" = "As Localizações na Biblioteca são ideais para aceder rapidamente a pastas, caso a maioria dos seus documentos esteja fora da iCloud.\nEstas localizações são indexadas, para permitir uma navegação rápida e uma pesquisa de texto completo.\nAs pastas de dimensões excessivas podem afetar negativamente o desempenho.";
 
@@ -190,12 +196,12 @@
 /* Go menu item title to go forward. */
 "Library_Go_Forward" = "Próximo";
 
-/* Open indicator text in table view. */
-"Library_Open_Indicator_Text" = "Está aberto";
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "Pasta de Conteúdos";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Eliminar";
+"Library_Delete_Action_Title" = "Eliminar...";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "Tem a certeza de que pretende eliminar “%@”?";
@@ -210,7 +216,7 @@
 "Library_Snippet_Empty" = "Documento vazio";
 
 /* Snippet for documents which weren’t downloaded yet. */
-"Library_Snippet_Updating" = "A atualizar...";
+"Library_Snippet_Updating" = "A atualizar…";
 
 /* Menu to create a new file when right-clicking empty space in document library. */
 "Library_Action_New_File" = "Novo Ficheiro";
@@ -237,6 +243,9 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "Obter Informações";
 
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "Copiar Caminho da Biblioteca";
+
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Ordenar por";
 
@@ -246,8 +255,17 @@
 /* Menu to remove items from favorites. */
 "Library_Action_Remove_Favorite" = "Remover dos Favoritos";
 
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "Renomear nas Localizações";
+
 /* Menu to remove items from locations. */
 "Library_Action_Remove_Location" = "Remover das Localizações";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "Editar...";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "Duplicar";
 
 /* Menu to show currently selected document in Finder. */
 "Show_In_Finder" = "Mostrar no Localizador";
@@ -291,11 +309,26 @@
 /* Library info popover label for file size. */
 "Library_Info_Size" = "Tamanho";
 
+/* Organizer section title. */
 "Library_Root_Locations" = "Localizações";
 
+/* Organizer section title. */
 "Library_Root_Favorites" = "Favoritos";
 
+/* Organizer section title. */
 "Library_Root_Smart_Folders" = "Pastas Inteligentes";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "Hashtags";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "Arraste pastas e ficheiros aqui para um acesso rápido";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "Definir regras personalizadas para reunir ficheiros";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "Escrever #tags em ficheiros de grupo";
 
 /*-----
  Editor
@@ -404,6 +437,24 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "Modelos";
 
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "Adicionar Conta...";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "Remover Conta";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Tem a certeza de que pretende reinicializar o código de autorização?";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "Esta ação não pode ser revertida.";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "Pretende ativar os comandos URL do ia Writer?";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "Pode alterar esta opção posteriormente nas Preferências.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -417,6 +468,9 @@
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
 "Content_Block_Processing_Alert_Message" = "Não foi possível processar todos os conteúdos.";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "Não foi possível concluir a operação.";
 
 /*--------
  Touch Bar

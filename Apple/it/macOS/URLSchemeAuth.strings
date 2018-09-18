@@ -1,0 +1,15 @@
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "Qtw-Vt-7f1"; */
+"Qtw-Vt-7f1.title" = "Copia";
+
+/* Class = "NSButtonCell"; title = "Reset…"; ObjectID = "R1I-WZ-XbW"; */
+"R1I-WZ-XbW.title" = "Ripristina";
+
+/* Class = "NSTextFieldCell"; title = "da39a3ee5e6b4b0d3255"; ObjectID = "uzB-vB-jcb"; */
+"uzB-vB-jcb.title" = "da39a3ee5e6b4b0d3255";
+
+/* Class = "NSTextFieldCell"; title = "Auth token is required for some URL commands."; ObjectID = "wZi-nG-fbl"; */
+"wZi-nG-fbl.title" = "Per alcuni comandi URL, è necessario il token d’autorizzazione.";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "yaf-iL-ZmK"; */
+"yaf-iL-ZmK.title" = "Fatto";
