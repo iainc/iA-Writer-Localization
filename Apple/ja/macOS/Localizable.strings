@@ -3,11 +3,11 @@
  Menus
  -----*/
 
-/* Menu title to enable night mode. */
-"Menu_Enable_Night_Mode" = "ナイトモード";
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "ダークアピアランスを使う";
 
-/* Menu title to disable night mode and enable day mode. */
-"Menu_Disable_Night_Mode" = "デイモード";
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "ライトアピアランスを使う";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "ライブラリー内に新規ファイル";
@@ -181,6 +181,12 @@
  Library
  ------*/
 
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "カスタム";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "現在の表示でカスタム並べ替えを使う";
+
 /* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
 "Library_Location_Description" = "Dropboxは現在の同期方法の終了を予定しています。\n素早いナビゲーションと全文検索に対応しています。\n過度に大きなフォルダはパフォーマンスに影響を与える恐れがあります。";
 
@@ -190,12 +196,12 @@
 /* Go menu item title to go forward. */
 "Library_Go_Forward" = "進む";
 
-/* Open indicator text in table view. */
-"Library_Open_Indicator_Text" = "オープン";
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "内包しているフォルダ";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "削除";
+"Library_Delete_Action_Title" = "削除…";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "“%@”を削除しますか？";
@@ -237,6 +243,9 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "Get Info";
 
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "ライブラリパスのコピー";
+
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "並べ替え";
 
@@ -246,8 +255,17 @@
 /* Menu to remove items from favorites. */
 "Library_Action_Remove_Favorite" = "お気に入りから削除";
 
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "ロケーションの名前変更";
+
 /* Menu to remove items from locations. */
 "Library_Action_Remove_Location" = "ロケーションから取り除く";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "編集…";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "複製";
 
 /* Menu to show currently selected document in Finder. */
 "Show_In_Finder" = "Finderに表示";
@@ -291,11 +309,26 @@
 /* Library info popover label for file size. */
 "Library_Info_Size" = "サイズ";
 
+/* Organizer section title. */
 "Library_Root_Locations" = "ロケーション";
 
+/* Organizer section title. */
 "Library_Root_Favorites" = "お気に入り";
 
+/* Organizer section title. */
 "Library_Root_Smart_Folders" = "スマートフォルダ";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "ハッシュタグ";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "クイックアクセスをするには、ここにフォルダやファイルをドラッグしてください";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "ファイルを収集するカスタムルールを設定する";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "#タグをグループファイルに書き込む";
 
 /*-----
  Editor
@@ -404,6 +437,24 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "テンプレート";
 
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "アカウント追加…";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "アカウント削除";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "認証トークンをリセットしてもよろしいですか?";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "この操作は元に戻すことができません。";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "iA WriterのURLコマンドを有効にしますか?";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "この設定は後から環境設定で変更することができます。";
+
 /*-----------
  Quick Search
  -----------*/
@@ -417,6 +468,9 @@
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
 "Content_Block_Processing_Alert_Message" = "いくつかのコンテンツを処理できませんでした。";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "操作を完了できませんでした。";
 
 /*--------
  Touch Bar

@@ -1,0 +1,27 @@
+
+/* Class = "NSButtonCell"; title = "Limit results to 25 items"; ObjectID = "6Lr-Jr-hBf"; */
+"6Lr-Jr-hBf.title" = "將結果限制在 25 個項目";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Cjy-N4-aaP"; */
+"Cjy-N4-aaP.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "any"; ObjectID = "JMA-4a-daC"; */
+"JMA-4a-daC.title" = "任何";
+
+/* Class = "NSMenuItem"; title = "all"; ObjectID = "LKA-KH-O3l"; */
+"LKA-KH-O3l.title" = "全部";
+
+/* Class = "NSTextFieldCell"; title = "Smart folder name:"; ObjectID = "QAd-Im-gBJ"; */
+"QAd-Im-gBJ.title" = "智能資料夾名稱：";
+
+/* Class = "NSTextFieldCell"; title = "Contains items that match"; ObjectID = "aQI-ZR-xQX"; */
+"aQI-ZR-xQX.title" = "包含符合的項目";
+
+/* Class = "NSButtonCell"; title = "Use custom sort order"; ObjectID = "bMu-5i-1IR"; */
+"bMu-5i-1IR.title" = "使用自訂分類排序";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "dmN-c8-ZCd"; */
+"dmN-c8-ZCd.title" = "儲存";
+
+/* Class = "NSTextFieldCell"; title = "of the following rules:"; ObjectID = "yum-8W-P2v"; */
+"yum-8W-P2v.title" = "關於下列規則：";

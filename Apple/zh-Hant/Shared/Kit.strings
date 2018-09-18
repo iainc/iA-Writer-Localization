@@ -5,6 +5,11 @@
 "Button_Share" = "分享";
 "Button_Close" = "關閉";
 "Button_Continue" = "繼續";
+"Button_Enable" = "啟用";
+"Button_Disable" = "停用";
+"Button_Reset" = "重設";
+
+"News_Title" = "新增功能";
 
 "Unknown_Error_Title" = "未知的錯誤";
 "Unknown_Error" = "發生未知錯誤";
@@ -111,6 +116,21 @@
 "Template_Error_Installed_Bundle_Title" = "範本已安裝";
 "Template_Error_Installed_Bundle" = "範本已安裝。";
 "Template_Error_Installed_Bundle_Recovery_Suggestion" = "若範本在 iA Writer 內不可用，請檢查文檔。";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "無效的參數";
+"URL_Scheme_Error_Invalid_Parameters" = "呼叫 URL 命令的參數無效。";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "檢查 URL 命令文檔。";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "無效的驗證權杖";
+"URL_Scheme_Error_Invalid_Auth_Token" = "呼叫 URL 命令的驗證權杖無效。";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "請確認使用正確的驗證權杖。";
+
+"URL_Scheme_Auth_Token_Description" = "Auth token is required for some URL commands.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Auth token is required for some URL commands. Your devices share the same auth token using iCloud.";
 
 /*-------
  Storages

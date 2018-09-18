@@ -18,6 +18,9 @@
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "スマートフォルダ";
 
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "ハッシュタグ";
+
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_New_Smart_Folder" = "スマートフォルダを作成…";
 
@@ -31,7 +34,7 @@
 "Help_Action_Open_Twitter" = "iA WriterのTwitter";
 
 /* Title for help action to open release notes and other updates. */
-"Help_Action_News" = "What’s New";
+"Help_Action_News" = "の新しい機能紹介";
 
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Feedback_And_Support" = "フィードバックとサポート";
@@ -42,8 +45,8 @@
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Review" = "iA Writerをおすすめする";
 
-/* Title for release notes screen. */
-"Help_Title_News" = "What’s New";
+/* Title for action to open main help page. */
+"Help_Action_Main" = "iA Writerヘルプ";
 
 /*------
  Backups
@@ -97,6 +100,9 @@
 
 /* Action to move files or folders. */
 "Action_Move" = "移動…";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "複製";
 
 /* Action to rename. */
 "Action_Rename" = "名前を変更…";
@@ -194,6 +200,9 @@
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "ルールに合致するファイルがありせん";
 
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "ハッシュタグの付いたファイルがありません";
+
 /* Title for external files section. */
 "Library_External_Files_Section_Title" = "外部";
 
@@ -223,10 +232,10 @@
 "Content_Block_Picker_Title" = "コンテンツブロックを追加";
 
 /* Action sheet action to enable focus mode. */
-"Action_Enable_Focus_Mode" = "启用聚焦模式";
+"Action_Enable_Focus_Mode" = "フォーカスモードを有効化";
 
 /* Action sheet action to disable focus mode. */
-"Action_Disable_Focus_Mode" = "禁用聚焦模式";
+"Action_Disable_Focus_Mode" = "フォーカスモードを無効化";
 
 /* Action sheet action to enable syntax control. */
 "Action_Enable_Syntax_Control" = "シンタックスを表示";
@@ -261,6 +270,9 @@
 
 /* Menu item title for transforming text to title case. */
 "Menu_Item_Transform_To_Title_Case" = "語頭を大文字にする（ヘッドラインスタイル）";
+
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "ライブラリのパスをコピー";
 
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "HTMLをコピー";
@@ -319,25 +331,6 @@
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Action" = "上限を %@ アイテムにする";
 
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Search" = "検索";
-
-/* Smart folder rule name.*/
-"Smart_Folder_Rule_Library_Kind" = "種類";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Extension" = "拡張子";
-
-/* Title for kinds shown while editing a rule. */
-"Smart_Folder_Rule_Library_Kind_Folder_Title" = "フォルダ";
-"Smart_Folder_Rule_Library_Kind_Text_Title" = "テキスト";
-"Smart_Folder_Rule_Library_Kind_Other_Title" = "その他";
-
-/* Title for kinds shown as a part of a sentence. */
-"Smart_Folder_Rule_Library_Kind_Folder" = "フォルダ";
-"Smart_Folder_Rule_Library_Kind_Text" = "テキスト";
-"Smart_Folder_Rule_Library_Kind_Other" = "その他";
-
 /* Smart folder section on matching type. */
 "Smart_Folder_Match_Section_Title" = "条件";
 "Smart_Folder_Match_All" = "全ての条件に合うアイテム";
@@ -359,40 +352,14 @@
 /* Placeholder for text variables in predicates. */
 "Predicate_Placeholder_Text" = "テキスト";
 
-/* Predicate operator names. */
-"Predicate_Operator_Less_Than_Title" = "より下";
-"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "以下";
-"Predicate_Operator_Greater_Than_Title" = "より上";
-"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "以上";
-"Predicate_Operator_Equal_To_Title" = "である";
-"Predicate_Operator_Not_Equal_To_Title" = "ではない";
-"Predicate_Operator_Matches_Title" = "一致";
-"Predicate_Operator_Like_Title" = "Like";
-"Predicate_Operator_Begins_With_Title" = "で始まる";
-"Predicate_Operator_Ends_With_Title" = "で終わる";
-"Predicate_Operator_Contains_Title" = "を含む";
-
-/* Predicate operator names in sentence. */
-"Predicate_Operator_Less_Than" = "より下";
-"Predicate_Operator_Less_Than_Or_Equal_To" = "以下";
-"Predicate_Operator_Greater_Than" = "より上";
-"Predicate_Operator_Greater_Than_Or_Equal_To" = "以上";
-"Predicate_Operator_Equal_To" = "である";
-"Predicate_Operator_Not_Equal_To" = "ではない";
-"Predicate_Operator_Matches" = "一致";
-"Predicate_Operator_Like" = "like";
-"Predicate_Operator_Begins_With" = "で始まる";
-"Predicate_Operator_Ends_With" = "で終わる";
-"Predicate_Operator_Contains" = "を含む";
-
-/* Placeholder for text inputs. */
-"Predicate_String_Placeholder" = "テキスト";
-
-/* Joiner for predicate sentences: “kind` `is` `folder”. */
-"Predicate_Part_Joiner" = " ";
-
 /* Predicate format for text values: Extension is `“txt”`. */
 "Predicate_Quoted_Value" = "「%@」";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "日付";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "日付設定";
 
 /* Rule editor title while adding a new rule. */
 "Rule_Editor_New_Title" = "新規ルール";
@@ -614,13 +581,13 @@
 "Discoverability_Quick_Search" = "すぐに開く";
 
 /* General action key command titles. */
-"Discoverability_New" = "新規ファイル";
+"Discoverability_New" = "新規";
 "Discoverability_Night_Mode" = "ナイトモード";
 
 /* Editor action key command titles. */
 "Discoverability_Syntax" = "シンタックスハイライト";
 "Discoverability_Browse_Versions" = "古いバージョンを見る";
-"Discoverability_New" = "新規ファイル";
+"Discoverability_New" = "新規";
 "Discoverability_Open" = "開く…";
 "Discoverability_Preview" = "プレビュー";
 "Discoverability_Strong" = "太字";
@@ -697,6 +664,7 @@
 "Settings_Library_Title" = "ライブラリ";
 "Settings_Editor_Title" = "エディタ";
 "Settings_Templates_Title" = "テンプレート";
+"Settings_URL_Scheme_Title" = "URLコマンド";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "アピアランス";
@@ -725,13 +693,6 @@
 /*-------------
  Files Settings
  -------------*/
-
-/* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Markdown処理";
-"Settings_Markdown_Section_Footer" = "設定はファイル書き出しとプレビュー画面に反映されます。";
-"Settings_Markdown_Lazy_Paragraphs" = "一回のリターンキーで新しい段落を開始";
-"Settings_Markdown_Smart_Punctuation" = "スマート句読点";
-"Settings_Markdown_Process_Metadata" = "メタデータを処理";
 
 "Default_File_Extension_Section_Title" = "デフォルトの拡張子";
 "Default_File_Extension_Section_Footer" = "新規ファイルは指定した拡張子で作成されます。リッチフォーマットには非対応。";
@@ -772,10 +733,16 @@
 "Settings_Editor_Focus_Mode" = "フォーカスモード";
 "Settings_Editor_Focus_Mode_Scope" = "範囲";
 
-/* Focus mode section in settings. */
+/* Keyboard section in settings. */
 "Settings_Editor_Keyboard_Section_Title" = "カスタムキーボード";
+"Settings_Editor_Keyboard_Prefers_Popover" = "キーボードのポップアップを常に使う";
 "Settings_Editor_Keyboard_Configure" = "キーボードをカスタマイズ";
 "Settings_Editor_Keyboard_Section_Footer" = "素早くキーをカスタマイズするにはカスタムキーボード上のいずれかのキーをタップ&ホールドしてください。";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "ハードウェアキーボード";
+"Settings_Editor_Hardware_Keyboard_Footer" = "キーボードバーはハードウェアキーボードが接続されると非表示になります。";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "キーボードバーを非表示";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "テキスト入力";
@@ -815,6 +782,13 @@
 "Settings_Templates_Appearance_Indent_Paragraphs" = "段落をインデント";
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "プレビューの色を反転";
 
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Markdown処理";
+"Settings_Markdown_Lazy_Paragraphs" = "一回のリターンキーで新しい段落を開始";
+"Settings_Markdown_Smart_Punctuation" = "スマート句読点";
+"Settings_Markdown_Hide_Metadata" = "メタデータを非表示";
+"Settings_Markdown_Hide_Hashtags" = "ハッシュタグを非表示";
+
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "印刷とPDF書き出し";
 "Settings_Printing_And_PDF_Export_Include_Title_Page" = "タイトルページを含める";
@@ -831,3 +805,37 @@
 /* Action to share template. */
 "Table_View_Action_Share" = "共有";
 
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "URLコマンドを有効にする";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "認証トークン";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "一部のURLコマンドでは認証トークンが必要です。";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "コピー";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "リセット…";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "URLコマンドを有効にする";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "iA WriterのURLコマンドを有効にしますか? この設定は後から環境設定で変更することができます。";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "認証トークン リセット";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "認証トークンをリセットしてもよろしいですか? この操作は元に戻すことができません。";

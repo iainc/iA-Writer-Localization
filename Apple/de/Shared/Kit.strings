@@ -5,6 +5,11 @@
 "Button_Share" = "Teilen";
 "Button_Close" = "Schließen";
 "Button_Continue" = "Weiter";
+"Button_Enable" = "Aktivieren";
+"Button_Disable" = "Deaktivieren";
+"Button_Reset" = "Reset";
+
+"News_Title" = "Was gibt's Neues";
 
 "Unknown_Error_Title" = "Unbekannter Fehler";
 "Unknown_Error" = "Ein unbekannter Fehler ist aufgetreten.";
@@ -112,6 +117,21 @@
 "Template_Error_Installed_Bundle" = "Template wurde schon installiert.";
 "Template_Error_Installed_Bundle_Recovery_Suggestion" = "Falls das Template nicht in iA Writer vorhanden sen sollte, lesen Sie bitte die Dokumentation.";
 
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "Invalid Parameters";
+"URL_Scheme_Error_Invalid_Parameters" = "URL command was called with invalid parameters.";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Check URL command documentation.";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Invalid Auth Token";
+"URL_Scheme_Error_Invalid_Auth_Token" = "URL command was called with an invalid auth token.";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Ensure that auth token is correct.";
+
+"URL_Scheme_Auth_Token_Description" = "Das Authentifizierungs-Token ist für einige URL-Befehle erforderlich.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Das Token ist für einige URL-Befehle erforderlich. Ihre Geräte teilen sich über iCloud dasselbe Authentifizierungs-Token.";
+
 /*-------
  Storages
  -------*/
@@ -153,10 +173,10 @@
  --------*/
 
 "External_Change_Error_Localized_Descrition" = "Das Dokument „%@“ würde auf einem anderen Gerät geändert.";
-"External_Change_Error_Recovery_Suggestion" = "Das Dokument wurde ausserhalb von iA Writer geändert. Falls Sie das Dokument innerhalb von iA Writer wiederherstellen, werden die Änderungen, die Sie ausserhalb vorgenommen haben, überschrieben.  Sie können mittels 'Speichern unter…' die Änderungen in einem anderen Dokument abspeichern.";
+"External_Change_Error_Recovery_Suggestion" = "Das Dokument wurde ausserhalb von iA Writer geändert. Falls Sie das Dokument innerhalb von iA Writer wiederherstellen, werden die Änderungen, die Sie ausserhalb vorgenommen haben, überschrieben.  Sie können mittels 'Speichern unter …' die Änderungen in einem anderen Dokument abspeichern.";
 "External_Change_Error_Keep_Action" = "iA Writer Version behalten";
 "External_Change_Error_Revert_Action" = "Wiederherstellen";
-"External_Change_Error_Save_As_Action" = "Speichern unter…";
+"External_Change_Error_Save_As_Action" = "Speichern unter …";
 
 /*-----------
  Sort Options

@@ -18,6 +18,9 @@
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Cartelle intelligenti";
 
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "Hashtag";
+
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_New_Smart_Folder" = "Nuova cartella intelligente...";
 
@@ -42,8 +45,8 @@
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Review" = "Consiglia iA Writer";
 
-/* Title for release notes screen. */
-"Help_Title_News" = "Le novità";
+/* Title for action to open main help page. */
+"Help_Action_Main" = "Guida di iA Writer";
 
 /*------
  Backups
@@ -97,6 +100,9 @@
 
 /* Action to move files or folders. */
 "Action_Move" = "Sposta...";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "Duplica";
 
 /* Action to rename. */
 "Action_Rename" = "Rinomina...";
@@ -194,6 +200,9 @@
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "Nessuna regola di corrispondenza file";
 
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "Nessun file con hashtag";
+
 /* Title for external files section. */
 "Library_External_Files_Section_Title" = "Esterno";
 
@@ -262,6 +271,9 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Item_Transform_To_Title_Case" = "Iniziali maiuscole";
 
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "Copia percorso libreria";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "Copia HTML";
 
@@ -319,25 +331,6 @@
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Action" = "Limite a %@ oggetti";
 
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Search" = "Cerca";
-
-/* Smart folder rule name.*/
-"Smart_Folder_Rule_Library_Kind" = "Tipo";
-
-/* Smart folder rule name. */
-"Smart_Folder_Rule_Extension" = "Estensione";
-
-/* Title for kinds shown while editing a rule. */
-"Smart_Folder_Rule_Library_Kind_Folder_Title" = "Cartella";
-"Smart_Folder_Rule_Library_Kind_Text_Title" = "Testo";
-"Smart_Folder_Rule_Library_Kind_Other_Title" = "Altro";
-
-/* Title for kinds shown as a part of a sentence. */
-"Smart_Folder_Rule_Library_Kind_Folder" = "cartella";
-"Smart_Folder_Rule_Library_Kind_Text" = "testo";
-"Smart_Folder_Rule_Library_Kind_Other" = "altro";
-
 /* Smart folder section on matching type. */
 "Smart_Folder_Match_Section_Title" = "Mostra oggetti corrispondenti";
 "Smart_Folder_Match_All" = "Tutte le regole seguenti";
@@ -359,40 +352,14 @@
 /* Placeholder for text variables in predicates. */
 "Predicate_Placeholder_Text" = "Testo";
 
-/* Predicate operator names. */
-"Predicate_Operator_Less_Than_Title" = "Minore di";
-"Predicate_Operator_Less_Than_Or_Equal_To_Title" = "Minore di o pari a";
-"Predicate_Operator_Greater_Than_Title" = "Maggiore di";
-"Predicate_Operator_Greater_Than_Or_Equal_To_Title" = "Maggiore di o pari a";
-"Predicate_Operator_Equal_To_Title" = "È";
-"Predicate_Operator_Not_Equal_To_Title" = "Non è";
-"Predicate_Operator_Matches_Title" = "Partite";
-"Predicate_Operator_Like_Title" = "Come";
-"Predicate_Operator_Begins_With_Title" = "Inizia per";
-"Predicate_Operator_Ends_With_Title" = "Termina per";
-"Predicate_Operator_Contains_Title" = "Contiene";
-
-/* Predicate operator names in sentence. */
-"Predicate_Operator_Less_Than" = "minore di";
-"Predicate_Operator_Less_Than_Or_Equal_To" = "è minore di o pari a";
-"Predicate_Operator_Greater_Than" = "è maggiore di";
-"Predicate_Operator_Greater_Than_Or_Equal_To" = "è maggiore di o pari a";
-"Predicate_Operator_Equal_To" = "è";
-"Predicate_Operator_Not_Equal_To" = "non è";
-"Predicate_Operator_Matches" = "corrisponde";
-"Predicate_Operator_Like" = "come";
-"Predicate_Operator_Begins_With" = "inizia per";
-"Predicate_Operator_Ends_With" = "termina per";
-"Predicate_Operator_Contains" = "contiene";
-
-/* Placeholder for text inputs. */
-"Predicate_String_Placeholder" = "Testo";
-
-/* Joiner for predicate sentences: “kind` `is` `folder”. */
-"Predicate_Part_Joiner" = " ";
-
 /* Predicate format for text values: Extension is `“txt”`. */
 "Predicate_Quoted_Value" = "«%@»";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "Data";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "Imposta data";
 
 /* Rule editor title while adding a new rule. */
 "Rule_Editor_New_Title" = "Nuova regola";
@@ -488,7 +455,7 @@
 /* Share sheet `open file in app` activity option */
 "Share_Sheet_Open_In_Activity_Title" = "Apri su...";
 
-/* Share sheet ’Save to…" activity option */
+/* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "Salva su...";
 
 /* Sharing button title. */
@@ -614,13 +581,13 @@
 "Discoverability_Quick_Search" = "Ricerca rapida";
 
 /* General action key command titles. */
-"Discoverability_New" = "Nuovo file";
+"Discoverability_New" = "Nuovo";
 "Discoverability_Night_Mode" = "Modalità notturna";
 
 /* Editor action key command titles. */
 "Discoverability_Syntax" = "Evidenzia sintassi";
 "Discoverability_Browse_Versions" = "Sfoglia versioni";
-"Discoverability_New" = "Nuovo file";
+"Discoverability_New" = "Nuovo";
 "Discoverability_Open" = "Apri...";
 "Discoverability_Preview" = "Anteprima";
 "Discoverability_Strong" = "Complessa";
@@ -697,6 +664,7 @@
 "Settings_Library_Title" = "Libreria";
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Modelli";
+"Settings_URL_Scheme_Title" = "Comandi URL";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "Aspetto";
@@ -725,13 +693,6 @@
 /*-------------
  Files Settings
  -------------*/
-
-/* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Elaborazione di markdown";
-"Settings_Markdown_Section_Footer" = "Questi riguardano le esportazioni formattate e l’anteprima.";
-"Settings_Markdown_Lazy_Paragraphs" = "Un invio singolo inizia un nuovo paragrafo";
-"Settings_Markdown_Smart_Punctuation" = "Punteggiatura intelligente";
-"Settings_Markdown_Process_Metadata" = "Elabora metadati";
 
 "Default_File_Extension_Section_Title" = "Estensione file predefinita";
 "Default_File_Extension_Section_Footer" = "I nuovi file avranno questa estensione. Sono consentite solo estensioni in plain text.";
@@ -772,10 +733,16 @@
 "Settings_Editor_Focus_Mode" = "Modalità focus";
 "Settings_Editor_Focus_Mode_Scope" = "Mirino";
 
-/* Focus mode section in settings. */
+/* Keyboard section in settings. */
 "Settings_Editor_Keyboard_Section_Title" = "Tastiera personalizzata";
+"Settings_Editor_Keyboard_Prefers_Popover" = "Usa sempre popover tastiera";
 "Settings_Editor_Keyboard_Configure" = "Configura tastiera";
 "Settings_Editor_Keyboard_Section_Footer" = "Per un accesso più rapido alla modalità della configurazione, puoi toccare e trattenere una chiave bianca nella tastiera personalizzata.";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "Tastiera hardware";
+"Settings_Editor_Hardware_Keyboard_Footer" = "Le barre di tastiera saranno nascoste quando una tastiera hardware è connessa.";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "Nascondi barre tastiera";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Input di testo";
@@ -815,6 +782,13 @@
 "Settings_Templates_Appearance_Indent_Paragraphs" = "Fai rientrare paragrafi";
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "Inverti colori anteprima";
 
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Elaborazione di markdown";
+"Settings_Markdown_Lazy_Paragraphs" = "Un invio singolo inizia un nuovo paragrafo";
+"Settings_Markdown_Smart_Punctuation" = "Punteggiatura intelligente";
+"Settings_Markdown_Hide_Metadata" = "Nascondi metadati";
+"Settings_Markdown_Hide_Hashtags" = "Nascondi hashtag";
+
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "Stampa e esportazione PDF";
 "Settings_Printing_And_PDF_Export_Include_Title_Page" = "Includi pagina del titolo";
@@ -831,3 +805,37 @@
 /* Action to share template. */
 "Table_View_Action_Share" = "Condividi";
 
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "Abilita comandi URL";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "Token autor.";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "Per alcuni comandi URL, è necessario il token d’autorizzazione.";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "Copia";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "Ripiristina";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "Abilita comandi URL";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "Vuoi abilitare i comandi URL di iA Writer? Puoi modificare successivamente questa opzione sulle Impostazioni.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "Ripristina Token Autor.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "Vuoi davvero ripristinare il token d’autorizzazione? Questa azione è irreversibile.";

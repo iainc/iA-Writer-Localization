@@ -1,0 +1,34 @@
+
+/* Rules in this file should read as sentences, and should use sentence capitalization. */
+/* NOTE: Do NOT translate comparison types (like “is less than” or “begins with”) directly. Please always check English value for the intended usage for the particular case. */
+
+/* Date modified kind rule templates. */
+"%[dateModified]@ %[is less than]@ %@" = "%1$[Data di modifica]@ %2$[è anteriore]@ %3$@";
+"%[dateModified]@ %[is greater than]@ %@" = "%1$[Data di modifica]@ %2$[è successiva]@ %3$@";
+
+/* Date modified relative rule templates. */
+"%[dateModified]@ %[begins with]@ %@" = "%1$[Data di modifica]@ %2$[è negli ultimi]@ %3$@ giorni";
+"%[dateModified]@ %[ends with]@ %@" = "%1$[Data di modifica]@ %2$[non è negli ultimi]@ %3$@ giorni";
+
+/* Library item kind rule templates. */
+"%[kind]@ %[is]@ %[text]@" = "%1$[Tipo]@ %2$[è]@ %3$[testo]@";
+"%[kind]@ %[is not]@ %[text]@" = "%1$[Tipo]@ %2$[non è]@ %3$[testo]@";
+"%[kind]@ %[is]@ %[folder]@" = "%1$[Tipo]@ %2$[è]@ %3$[cartella]@";
+"%[kind]@ %[is not]@ %[folder]@" = "%1$[Tipo]@ %2$[è]@ %3$[cartella]@";
+"%[kind]@ %[is]@ %[other]@" = "%1$[Tipo]@ %2$[è]@ %3$[altro]@";
+"%[kind]@ %[is not]@ %[other]@" = "%1$[Tipo]@ %2$[non è]@ %3$[altro]@";
+
+/* Search rule templates. */
+"%[search]@ %[matches]@ %@" = "%1$[Cerca]@ %2$[corrispondenti]@ %3$@";
+
+/* Library item parent path rule templates. */
+"%[parentPath]@ %[is]@ %@" = "%1$[Percorso padre]@ %2$[è]@ %3$@";
+"%[parentPath]@ %[is not]@ %@" = "%1$[Percorso padre]@ %2$[non è]@ %3$@";
+
+/* Library item ancestor path rule templates. */
+"%[ancestorPath]@ %[is]@ %@" = "%1$[Percorso predecessore]@ %2$[è]@ %3$@";
+"%[ancestorPath]@ %[is not]@ %@" = "%1$[Percorso predecessore]@ %2$[non è]@ %3$@";
+
+/* Library item path extension rule templates. */
+"%[pathExtension]@ %[is]@ %@" = "%1$[Estensione]@ %2$[è]@ %3$@";
+"%[pathExtension]@ %[is not]@ %@" = "%1$[Estensione]@ %2$[non è]@ %3$@";

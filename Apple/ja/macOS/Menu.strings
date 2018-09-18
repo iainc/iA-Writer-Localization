@@ -257,9 +257,6 @@
 /* Class = "NSMenuItem"; title = "Copy Formatted"; ObjectID = "6dA-y4-hCQ"; */
 "6dA-y4-hCQ.title" = "フォーマット済テキストをコピー";
 
-/* Class = "NSMenuItem"; title = "Stats Only"; ObjectID = "TcI-cP-nWB"; Note = "SKIP LOCALIZATION"; */
-"TcI-cP-nWB.title" = "統計情報";
-
 /* Class = "NSMenuItem"; title = "Sort Files By"; ObjectID = "7Tu-74-DMo"; */
 "7Tu-74-DMo.title" = "ファイルの並べ替え";
 
@@ -280,6 +277,9 @@
 
 /* Class = "NSMenuItem"; title = "Footnote"; ObjectID = "Aaw-jt-2hg"; */
 "Aaw-jt-2hg.title" = "脚注追加";
+
+/* Class = "NSMenuItem"; title = "Search Rank"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
+"Ac8-2T-zWZ.title" = "Date Modified";
 
 /* Class = "NSMenuItem"; title = "Show Filter Bar"; ObjectID = "CDK-JV-i5Y"; Note = "SKIP LOCALIZATION"; */
 "CDK-JV-i5Y.title" = "フィルターバーを表示";
@@ -326,7 +326,7 @@
 /* Class = "NSMenuItem"; title = "Share"; ObjectID = "IYK-Be-SXu"; */
 "IYK-Be-SXu.title" = "共有";
 
-/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "K0l-2A-eAA"; */
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "K0l-2A-eAA"; Note = "SKIP LOCALIZATION"; */
 "K0l-2A-eAA.title" = "Ascending";
 
 /* Class = "NSMenuItem"; title = "Make Title Case"; ObjectID = "KBV-gu-Ege"; */
@@ -350,14 +350,11 @@
 /* Class = "NSMenu"; title = "Structure"; ObjectID = "Ms4-vT-m4G"; */
 "Ms4-vT-m4G.title" = "構成";
 
-/* Class = "NSMenuItem"; title = "Name"; ObjectID = "N72-ZJ-nQT"; */
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "N72-ZJ-nQT"; Note = "SKIP LOCALIZATION"; */
 "N72-ZJ-nQT.title" = "名前";
 
 /* Class = "NSMenu"; ibExternalAccessibilityDescription = "Dock Menu"; ObjectID = "O60-31-O7a"; */
 "O60-31-O7a.ibExternalAccessibilityDescription" = "ドック メニュー";
-
-/* Class = "NSMenuItem"; title = "Default"; ObjectID = "Hl3-0o-vGs"; */
-"Hl3-0o-vGs.title" = "デフォルト";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "Ofm-dK-n9w"; Note = "SKIP LOCALIZATION"; */
 "Ofm-dK-n9w.title" = "全画面表示";
@@ -365,7 +362,7 @@
 /* Class = "NSMenuItem"; title = "Add Horizontal Rule"; ObjectID = "Pfk-jy-BKg"; */
 "Pfk-jy-BKg.title" = "水平線を追加";
 
-/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "Pqq-PE-FNk"; */
+/* Class = "NSMenuItem"; title = "Extension"; ObjectID = "Pqq-PE-FNk"; Note = "SKIP LOCALIZATION"; */
 "Pqq-PE-FNk.title" = "種類";
 
 /* Class = "NSMenuItem"; title = "Show Library"; ObjectID = "RKB-Zq-q2A"; Note = "SKIP LOCALIZATION"; */
@@ -388,6 +385,12 @@
 
 /* Class = "NSMenuItem"; title = "Blockquote"; ObjectID = "T8p-6L-CKh"; */
 "T8p-6L-CKh.title" = "ブロッククオート";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "TDj-hJ-cB4"; Note = "SKIP LOCALIZATION"; */
+"TDj-hJ-cB4.title" = "Default";
+
+/* Class = "NSMenuItem"; title = "Stats Only"; ObjectID = "TcI-cP-nWB"; Note = "SKIP LOCALIZATION"; */
+"TcI-cP-nWB.title" = "統計情報";
 
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "UVF-We-TtK"; Note = "SKIP LOCALIZATION"; */
 "UVF-We-TtK.title" = "タイプライター";
@@ -434,7 +437,7 @@
 /* Class = "NSMenuItem"; title = "Focus"; ObjectID = "Yvk-in-ABn"; */
 "Yvk-in-ABn.title" = "フォーカス";
 
-/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Z4R-Ya-gNJ"; */
+/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Z4R-Ya-gNJ"; Note = "SKIP LOCALIZATION"; */
 "Z4R-Ya-gNJ.title" = "更新日時";
 
 /* Class = "NSMenuItem"; title = "Contact Us on Twitter"; ObjectID = "ZCr-JT-kwd"; */
@@ -443,8 +446,8 @@
 /* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "ZGc-XD-4b3"; */
 "ZGc-XD-4b3.title" = "ライブラリー内に新規ファイル";
 
-/* Class = "NSMenuItem"; title = "Night Mode"; ObjectID = "ZaG-9j-uqb"; Note = "SKIP LOCALIZATION"; */
-"ZaG-9j-uqb.title" = "ナイトモード";
+/* Class = "NSMenuItem"; title = "Dark Appearance"; ObjectID = "ZaG-9j-uqb"; Note = "SKIP LOCALIZATION"; */
+"ZaG-9j-uqb.title" = "ダークアピアランス";
 
 /* Class = "NSMenu"; title = "Templates"; ObjectID = "ZfB-tX-XLB"; */
 "ZfB-tX-XLB.title" = "テンプレート";
@@ -509,7 +512,7 @@
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "pIo-vg-pZd"; */
 "pIo-vg-pZd.title" = "フェードイン・アウト";
 
-/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "pJe-0c-qV5"; */
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "pJe-0c-qV5"; Note = "SKIP LOCALIZATION"; */
 "pJe-0c-qV5.title" = "Descending";
 
 /* Class = "NSMenu"; title = "Preview Width"; ObjectID = "pqw-KA-huh"; */

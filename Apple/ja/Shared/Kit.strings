@@ -5,6 +5,11 @@
 "Button_Share" = "共有";
 "Button_Close" = "閉じる";
 "Button_Continue" = "続ける";
+"Button_Enable" = "有効にする";
+"Button_Disable" = "無効にする";
+"Button_Reset" = "リセット";
+
+"News_Title" = "の新しい機能紹介";
 
 "Unknown_Error_Title" = "不明なエラー";
 "Unknown_Error" = "不明なエラーが発生しました。";
@@ -111,6 +116,21 @@
 "Template_Error_Installed_Bundle_Title" = "インストール済みのテンプレート";
 "Template_Error_Installed_Bundle" = "テンプレートが既にインストールされています。";
 "Template_Error_Installed_Bundle_Recovery_Suggestion" = "テンプレートがiA Writerで利用できない場合はドキュメンテーション参照してください。";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "無効なパラメータ";
+"URL_Scheme_Error_Invalid_Parameters" = "URLコマンドは無効なパラメータです。";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "URLコマンド集を確認してください。";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "無効な認証トークン";
+"URL_Scheme_Error_Invalid_Auth_Token" = "URLコマンドは無効な認証トークンで呼び出されました。";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "認証トークンが正しいことを確認してください。";
+
+"URL_Scheme_Auth_Token_Description" = "一部のURLコマンドでは認証トークンが必要です。";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "一部のURLコマンドでは認証トークンが必要です。あなたのデバイスはiCloudを使用して同じ認証トークンを共有します。";
 
 /*-------
  Storages

@@ -1,0 +1,27 @@
+
+/* Class = "NSButtonCell"; title = "Limit results to 25 items"; ObjectID = "6Lr-Jr-hBf"; */
+"6Lr-Jr-hBf.title" = "Limiter les résultats à 25 éléments";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Cjy-N4-aaP"; */
+"Cjy-N4-aaP.title" = "Annuler";
+
+/* Class = "NSMenuItem"; title = "any"; ObjectID = "JMA-4a-daC"; */
+"JMA-4a-daC.title" = "n’importe lequel";
+
+/* Class = "NSMenuItem"; title = "all"; ObjectID = "LKA-KH-O3l"; */
+"LKA-KH-O3l.title" = "tous";
+
+/* Class = "NSTextFieldCell"; title = "Smart folder name:"; ObjectID = "QAd-Im-gBJ"; */
+"QAd-Im-gBJ.title" = "Nom du dossier intelligent :";
+
+/* Class = "NSTextFieldCell"; title = "Contains items that match"; ObjectID = "aQI-ZR-xQX"; */
+"aQI-ZR-xQX.title" = "Contient des éléments qui correspondent";
+
+/* Class = "NSButtonCell"; title = "Use custom sort order"; ObjectID = "bMu-5i-1IR"; */
+"bMu-5i-1IR.title" = "Utiliser un ordre de tri personnalisé";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "dmN-c8-ZCd"; */
+"dmN-c8-ZCd.title" = "Enregistrer";
+
+/* Class = "NSTextFieldCell"; title = "of the following rules:"; ObjectID = "yum-8W-P2v"; */
+"yum-8W-P2v.title" = "des règles suivantes :";

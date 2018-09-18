@@ -3,11 +3,11 @@
  Menus
  -----*/
 
-/* Menu title to enable night mode. */
-"Menu_Enable_Night_Mode" = "Night Mode";
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "Use Dark Appearance";
 
-/* Menu title to disable night mode and enable day mode. */
-"Menu_Disable_Night_Mode" = "Day Mode";
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "Use Light Appearance";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "New in Library";
@@ -181,6 +181,12 @@
  Library
  ------*/
 
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "Custom";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "Use custom sort order for current view";
+
 /* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
 "Library_Location_Description" = "Library Locations are ideal for quick access to folders with most of your documents outside iCloud.\nThey are indexed for quick navigation and full text search.\nExcessively large folders may negatively affect performance.";
 
@@ -190,12 +196,12 @@
 /* Go menu item title to go forward. */
 "Library_Go_Forward" = "Forward";
 
-/* Open indicator text in table view. */
-"Library_Open_Indicator_Text" = "Is Open";
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "Enclosing Folder";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Delete";
+"Library_Delete_Action_Title" = "Delete…";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "Are you sure you want to delete “%@”?";
@@ -237,6 +243,9 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "Get Info";
 
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "Copy Library Path";
+
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Sort By";
 
@@ -246,8 +255,17 @@
 /* Menu to remove items from favorites. */
 "Library_Action_Remove_Favorite" = "Remove from Favorites";
 
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "Rename in Locations";
+
 /* Menu to remove items from locations. */
 "Library_Action_Remove_Location" = "Remove from Locations";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "Edit…";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "Duplicate";
 
 /* Menu to show currently selected document in Finder. */
 "Show_In_Finder" = "Show in Finder";
@@ -291,11 +309,26 @@
 /* Library info popover label for file size. */
 "Library_Info_Size" = "Size";
 
+/* Organizer section title. */
 "Library_Root_Locations" = "Locations";
 
+/* Organizer section title. */
 "Library_Root_Favorites" = "Favorites";
 
+/* Organizer section title. */
 "Library_Root_Smart_Folders" = "Smart Folders";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "Hashtags";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "Drag folders and files here for quick access";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "Set up custom rules to gather files";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "Write #tags to group files";
 
 /*-----
  Editor
@@ -404,6 +437,24 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "Templates";
 
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "Add Account…";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "Remove Account";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Are you sure you want to reset the auth token?";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "This action can’t be undone.";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "Would you like to enable iA Writer URL commands?";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "You can change this later in Preferences.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -417,6 +468,9 @@
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
 "Content_Block_Processing_Alert_Message" = "Could not process some content.";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "Could not complete operation.";
 
 /*--------
  Touch Bar
