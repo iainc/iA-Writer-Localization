@@ -135,10 +135,10 @@
 "Action_Update" = "Atualizar";
 
 /* Action to switch to night mode. */
-"Action_Night_Mode" = "Modo Noturno";
+"Action_Dark_Mode" = "Usar Aspeto Escurecido";
 
 /* Action to switch to night mode. */
-"Action_Day_Mode" = "Modo Diurno";
+"Action_Light_Mode" = "Usar Aspeto Iluminado";
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Configurar Teclado";
@@ -552,6 +552,14 @@
 /* Network failure while attemting to browse versions. */
 "Version_Browser_Error_Network_Failure" = "Não foi possível ligar.";
 
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "O Serviço da Nuvem para Ficheiros da Aplicação Não Processou o Pedido";
+"Files_App_Service_Provider_Error_Localized_Description" = "O serviço da nuvem para ficheiros da aplicação não processou o pedido.";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "Se o erro continuar, por favor solicite apoio ao fornecedor do seu serviço de nuvem.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -582,6 +590,10 @@
 
 /* General action key command titles. */
 "Discoverability_New" = "Novo";
+
+"Discoverability_Dark_Mode" = "Aspeto Escurecido";
+"Discoverability_Light_Mode" = "Aspeto Iluminado";
+/* Old name used for search matching. */
 "Discoverability_Night_Mode" = "Modo Noturno";
 
 /* Editor action key command titles. */
@@ -590,9 +602,9 @@
 "Discoverability_New" = "Novo";
 "Discoverability_Open" = "Abrir...";
 "Discoverability_Preview" = "Pré-visualizar";
-"Discoverability_Strong" = "Sólido";
+"Discoverability_Strong" = "Negrito";
 "Discoverability_Strikethrough" = "Riscado";
-"Discoverability_Emphasis" = "Ênfase";
+"Discoverability_Emphasis" = "Itálico";
 "Discoverability_Headings" = "Cabeçalho 1-6";
 "Discoverability_Blockquote" = "Aspas de citação";
 "Discoverability_List" = "Lista";
@@ -656,7 +668,10 @@
 "Settings_Title" = "Definições";
 
 /* Action to switch to night mode. */
-"Settings_Dark_App_Icon" = "ìcone de Aplicação escuro";
+"Settings_Dark_Appearance" = "Aspeto Escurecido";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "ìcone de aplicação escuro";
 
 /* Settings panes. */
 "Settings_General_Title" = "Geral";

@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "不明なエラー";
 "Unknown_Error" = "不明なエラーが発生しました。";
-"Unknown_Recovery_Suggestion" = "もう一度試した後、サポートにご連絡ください。";
+"Unknown_Error_Recovery_Suggestion" = "もう一度試した後、サポートにご連絡ください。";
 
 "Default_Document_Name" = "名称未設定";
 "Default_Folder_Name" = "名称未設定フォルダ";
@@ -121,13 +121,13 @@
  URL Sheme
  --------*/
 
-"URL_Scheme_Error_Invalid_Parameters_Title" = "無効なパラメータ";
-"URL_Scheme_Error_Invalid_Parameters" = "URLコマンドは無効なパラメータです。";
-"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "URLコマンド集を確認してください。";
+"URL_Scheme_Error_Invalid_Parameters_Title" = "無効なパラメーター";
+"URL_Scheme_Error_Invalid_Parameters" = "URLコマンドが無効なパラメーターに呼び出されました。";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "URLコマンドのドキュメントを確認してください。";
 
 "URL_Scheme_Error_Invalid_Auth_Token_Title" = "無効な認証トークン";
-"URL_Scheme_Error_Invalid_Auth_Token" = "URLコマンドは無効な認証トークンで呼び出されました。";
-"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "認証トークンが正しいことを確認してください。";
+"URL_Scheme_Error_Invalid_Auth_Token" = "URLコマンドが無効な認証トークンに呼び出されました。";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "認証トークンが正しいか確認してください。";
 
 "URL_Scheme_Auth_Token_Description" = "一部のURLコマンドでは認証トークンが必要です。";
 "URL_Scheme_Ubiquitous_Auth_Token_Description" = "一部のURLコマンドでは認証トークンが必要です。あなたのデバイスはiCloudを使用して同じ認証トークンを共有します。";

@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "未知错误";
 "Unknown_Error" = "发生未知错误。";
-"Unknown_Recovery_Suggestion" = "请重试，然后联系客服。";
+"Unknown_Error_Recovery_Suggestion" = "请重试，然后联系客服。";
 
 "Default_Document_Name" = "无标题";
 "Default_Folder_Name" = "无标题文件夹";

@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "Erro desconhecido";
 "Unknown_Error" = "Ocorreu um erro desconhecido.";
-"Unknown_Recovery_Suggestion" = "Por favor, tente novamente e contacte o suporte.";
+"Unknown_Error_Recovery_Suggestion" = "Por favor, tente novamente e contacte o suporte.";
 
 "Default_Document_Name" = "Sem título";
 "Default_Folder_Name" = "Pasta sem título";

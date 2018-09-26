@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "Unknown Error";
 "Unknown_Error" = "Unknown error occured.";
-"Unknown_Recovery_Suggestion" = "Please try again, then contact support.";
+"Unknown_Error_Recovery_Suggestion" = "Please try again, then contact support.";
 
 "Default_Document_Name" = "Untitled";
 "Default_Folder_Name" = "Untitled Folder";

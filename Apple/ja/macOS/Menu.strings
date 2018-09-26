@@ -152,10 +152,10 @@
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "659"; */
 "659.title" = "自動的にスペル　チェックを行う";
 
-/* Class = "NSMenuItem"; title = "Strong"; ObjectID = "677"; */
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "677"; */
 "677.title" = "太字";
 
-/* Class = "NSMenuItem"; title = "Emphasis"; ObjectID = "678"; */
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "678"; */
 "678.title" = "イタリック";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "690"; */

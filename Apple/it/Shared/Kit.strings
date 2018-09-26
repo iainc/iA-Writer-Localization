@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "Errore sconosciuto";
 "Unknown_Error" = "Si è verificato un errore sconosciuto.";
-"Unknown_Recovery_Suggestion" = "Riprova, poi contatta l’assistenza.";
+"Unknown_Error_Recovery_Suggestion" = "Riprova, poi contatta l’assistenza.";
 
 "Default_Document_Name" = "Senza titolo";
 "Default_Folder_Name" = "Cartella senza titolo";

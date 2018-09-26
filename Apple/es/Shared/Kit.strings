@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "Error desconocido";
 "Unknown_Error" = "Se ha producido un error desconocido.";
-"Unknown_Recovery_Suggestion" = "Por favor, vuelve a probar o contacta con asistencia.";
+"Unknown_Error_Recovery_Suggestion" = "Por favor, vuelve a probar o contacta con asistencia.";
 
 "Default_Document_Name" = "Sin título";
 "Default_Folder_Name" = "Carpeta sin título";

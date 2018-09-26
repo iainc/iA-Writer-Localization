@@ -25,9 +25,9 @@
 "BlockQuote" = "Blockquote";
 "HorizontalRule" = "Aggiungi regola orizzontale";
 "PageBreak" = "Aggiungi interruzione di pagina";
-"Strong" = "Forte";
+"Strong" = "Neretto";
 "Code" = "Codice";
-"Emphasis" = "Enfasi";
+"Emphasis" = "Corsivo";
 "Strikethrough" = "Barrato";
 "SmartCurlyQuotes6699" = "Virgolette curve";
 "SmartDoubleGuillemets" = "Doppie virgolette";

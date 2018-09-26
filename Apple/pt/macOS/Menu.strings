@@ -152,11 +152,11 @@
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "659"; */
 "659.title" = "Verificar Ortografia Durante a Digitação";
 
-/* Class = "NSMenuItem"; title = "Strong"; ObjectID = "677"; */
-"677.title" = "Sólido";
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "677"; */
+"677.title" = "Negrito";
 
-/* Class = "NSMenuItem"; title = "Emphasis"; ObjectID = "678"; */
-"678.title" = "Destaque";
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "678"; */
+"678.title" = "Itálico";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "690"; */
 "690.title" = "Substituições";

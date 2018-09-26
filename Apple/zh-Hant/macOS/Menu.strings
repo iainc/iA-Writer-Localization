@@ -152,11 +152,11 @@
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "659"; */
 "659.title" = "在輸入時檢查拼寫";
 
-/* Class = "NSMenuItem"; title = "Strong"; ObjectID = "677"; */
-"677.title" = "強";
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "677"; */
+"677.title" = "粗體";
 
-/* Class = "NSMenuItem"; title = "Emphasis"; ObjectID = "678"; */
-"678.title" = "強調";
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "678"; */
+"678.title" = "斜體";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "690"; */
 "690.title" = "替換";

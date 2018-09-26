@@ -135,10 +135,10 @@
 "Action_Update" = "Update";
 
 /* Action to switch to night mode. */
-"Action_Night_Mode" = "Night Mode";
+"Action_Dark_Mode" = "Use Dark Appearance";
 
 /* Action to switch to night mode. */
-"Action_Day_Mode" = "Day Mode";
+"Action_Light_Mode" = "Use Light Appearance";
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Configure Keyboard";
@@ -552,6 +552,14 @@
 /* Network failure while attemting to browse versions. */
 "Version_Browser_Error_Network_Failure" = "Could not connect.";
 
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "Files App Cloud Service Failed to Process Request";
+"Files_App_Service_Provider_Error_Localized_Description" = "Files app cloud service failed to process request.";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "If the error persists, please contact your cloud service provider for support.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -582,6 +590,10 @@
 
 /* General action key command titles. */
 "Discoverability_New" = "New";
+
+"Discoverability_Dark_Mode" = "Dark Appearance";
+"Discoverability_Light_Mode" = "Light Appearance";
+/* Old name used for search matching. */
 "Discoverability_Night_Mode" = "Night Mode";
 
 /* Editor action key command titles. */
@@ -590,9 +602,9 @@
 "Discoverability_New" = "New File";
 "Discoverability_Open" = "Open…";
 "Discoverability_Preview" = "Preview";
-"Discoverability_Strong" = "Strong";
+"Discoverability_Strong" = "Bold";
 "Discoverability_Strikethrough" = "Strikethrough";
-"Discoverability_Emphasis" = "Emphasis";
+"Discoverability_Emphasis" = "Italic";
 "Discoverability_Headings" = "Heading 1–6";
 "Discoverability_Blockquote" = "Blockquote";
 "Discoverability_List" = "List";
@@ -654,6 +666,9 @@
 
 /* Button to open settings. */
 "Settings_Title" = "Settings";
+
+/* Action to switch to night mode. */
+"Settings_Dark_Appearance" = "Dark Appearance";
 
 /* Action to switch to night mode. */
 "Settings_Dark_App_Icon" = "Dark App Icon";

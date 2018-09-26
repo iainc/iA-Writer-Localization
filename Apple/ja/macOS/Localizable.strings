@@ -4,10 +4,10 @@
  -----*/
 
 /* Menu title to enable dark appearance. */
-"Menu_Enable_Dark_Appearance" = "ダークアピアランスを使う";
+"Menu_Enable_Dark_Appearance" = "ダークモードを使う";
 
 /* Menu title to enable light appearance. */
-"Menu_Enable_Light_Appearance" = "ライトアピアランスを使う";
+"Menu_Enable_Light_Appearance" = "ライトモードを使う";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "ライブラリー内に新規ファイル";

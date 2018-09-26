@@ -25,9 +25,9 @@
 "BlockQuote" = "Blockquote";
 "HorizontalRule" = "Ajouter une règle horizontale";
 "PageBreak" = "Ajouter un saut de page";
-"Strong" = "Fort";
+"Strong" = "Gras";
 "Code" = "Code";
-"Emphasis" = "Accent";
+"Emphasis" = "Italique";
 "Strikethrough" = "Barré";
 "SmartCurlyQuotes6699" = "Guillemets courbes";
 "SmartDoubleGuillemets" = "Double guillemets";
@@ -104,7 +104,7 @@
 "Night" = "Activer/Désactiver le mode nuit";
 "Stats" = "Activer/Désactiver les statistiques";
 "Syntax" = "Contrôle de la syntaxe";
-"Focus" = "Activer/Désactiver le mode Concentration";
+"Focus" = "Activer/Désactiver le mode concentration";
 "Typewriter" = "Activer/Désactiver le mode Machine à écrire";
 "Search" = "Rechercher dans le document";
 "Replace" = "Rechercher et remplacer dans le document";
