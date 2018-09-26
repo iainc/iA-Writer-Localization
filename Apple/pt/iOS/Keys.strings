@@ -25,9 +25,9 @@
 "BlockQuote" = "Aspas de citação";
 "HorizontalRule" = "Acrescentar Regra Horizontal";
 "PageBreak" = "Acrescentar Quebra de Página";
-"Strong" = "Sólido";
+"Strong" = "Negrito";
 "Code" = "Código";
-"Emphasis" = "Ênfase";
+"Emphasis" = "Itálico";
 "Strikethrough" = "Riscado";
 "SmartCurlyQuotes6699" = "Aspas Redondas";
 "SmartDoubleGuillemets" = "Aspas Francesas Duplas";

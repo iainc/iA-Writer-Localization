@@ -25,9 +25,9 @@
 "BlockQuote" = "ブロック引用";
 "HorizontalRule" = "水平線を追加";
 "PageBreak" = "ページ区切りを追加";
-"Strong" = "強調太字";
+"Strong" = "太字";
 "Code" = "コード";
-"Emphasis" = "強調斜体";
+"Emphasis" = "イタリック";
 "Strikethrough" = "打ち消し線";
 "SmartCurlyQuotes6699" = "引用符";
 "SmartDoubleGuillemets" = "二重ギュメ";

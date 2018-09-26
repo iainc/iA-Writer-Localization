@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "未知的錯誤";
 "Unknown_Error" = "發生未知錯誤";
-"Unknown_Recovery_Suggestion" = "請再嘗試，之後聯絡支援。";
+"Unknown_Error_Recovery_Suggestion" = "請再嘗試，之後聯絡支援。";
 
 "Default_Document_Name" = "未命名";
 "Default_Folder_Name" = "未命名資料夾";

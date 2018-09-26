@@ -4,10 +4,10 @@
  -----*/
 
 /* Menu title to enable dark appearance. */
-"Menu_Enable_Dark_Appearance" = "Usa Modalità scura";
+"Menu_Enable_Dark_Appearance" = "Usa aspetto scuro";
 
 /* Menu title to enable light appearance. */
-"Menu_Enable_Light_Appearance" = "Usa Modalità chiara";
+"Menu_Enable_Light_Appearance" = "Usa aspetto chiara";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Nuovo nella Libreria";

@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "Unbekannter Fehler";
 "Unknown_Error" = "Ein unbekannter Fehler ist aufgetreten.";
-"Unknown_Recovery_Suggestion" = "Versuchen Sie es erneut. Falls das nicht hilft, treten Sie bitte mit dem Support in Verbindung.";
+"Unknown_Error_Recovery_Suggestion" = "Versuchen Sie es erneut. Falls das nicht hilft, treten Sie bitte mit dem Support in Verbindung.";
 
 "Default_Document_Name" = "Ohne Titel";
 "Default_Folder_Name" = "Ohne Titel";
@@ -121,13 +121,13 @@
  URL Sheme
  --------*/
 
-"URL_Scheme_Error_Invalid_Parameters_Title" = "Invalid Parameters";
-"URL_Scheme_Error_Invalid_Parameters" = "URL command was called with invalid parameters.";
-"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Check URL command documentation.";
+"URL_Scheme_Error_Invalid_Parameters_Title" = "Ungültige Parameter";
+"URL_Scheme_Error_Invalid_Parameters" = "URL-Befehl wurde mit ungültigen Parametern aufgerufen.";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Bitte ziehen Sie die Dokumentation der URL-Befehle zu Rate.";
 
-"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Invalid Auth Token";
-"URL_Scheme_Error_Invalid_Auth_Token" = "URL command was called with an invalid auth token.";
-"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Ensure that auth token is correct.";
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Ungültiges Authentifizierungs-Token";
+"URL_Scheme_Error_Invalid_Auth_Token" = "Der URL-Befehl wurde mit einem ungültigen Authentifizierungs-Token aufgerufen.";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Stellen Sie sicher, dass das Authentifizierungs-Token korrekt ist.";
 
 "URL_Scheme_Auth_Token_Description" = "Das Authentifizierungs-Token ist für einige URL-Befehle erforderlich.";
 "URL_Scheme_Ubiquitous_Auth_Token_Description" = "Das Token ist für einige URL-Befehle erforderlich. Ihre Geräte teilen sich über iCloud dasselbe Authentifizierungs-Token.";

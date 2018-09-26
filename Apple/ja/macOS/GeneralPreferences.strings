@@ -1,6 +1,6 @@
 
 /* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
-"7Ng-I8-X9P.title" = "システムアピアランスを一致させる";
+"7Ng-I8-X9P.title" = "システムの外観モードに合わせる";
 
 /* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
 "8RM-fb-kKC.title" = "自動化:";
@@ -33,7 +33,7 @@
 "Oh0-bg-EXQ.title" = "URLコマンドを有効にする";
 
 /* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
-"Rnn-Wj-4HI.title" = "アピアランス:";
+"Rnn-Wj-4HI.title" = "外観モード:";
 
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
 "SWw-D8-EqL.title" = "フェードイン／アウト";
@@ -69,4 +69,4 @@
 "vB9-wl-rUL.title" = "ライト";
 
 /* Class = "NSButtonCell"; title = "Match app appearance"; ObjectID = "zYE-q5-H6k"; */
-"zYE-q5-H6k.title" = "アプリのアピアランスを一致させる";
+"zYE-q5-H6k.title" = "アプリの外観モードに合わせる";

@@ -169,10 +169,10 @@
 "Preview_Toolbar_Export" = "Exporter";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "Mi-largeur";
+"Preview_Toolbar_Half_Width" = "Aperçu et texte";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "Pleine largeur";
+"Preview_Toolbar_Full_Width" = "Aperçu seul";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "Aucun contenu à visionner en aperçu";
@@ -335,10 +335,10 @@
  -----*/
 
 /* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "Activer le mode Mise au point";
+"Menu_Enable_Focus_Mode" = "Activer le mode concentration";
 
 /* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "Désactiver le mode Mise au point";
+"Menu_Disable_Focus_Mode" = "Désactiver le mode concentration";
 
 /* Menu title to enable syntax highlight. */
 "Menu_Enable_Syntax_Higlight" = "Activer le surlignage de syntaxe";
