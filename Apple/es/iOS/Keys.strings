@@ -25,9 +25,9 @@
 "BlockQuote" = "Bloque de cita";
 "HorizontalRule" = "Añadir regla horizontal";
 "PageBreak" = "Agregar salto de página";
-"Strong" = "Fuerte";
+"Strong" = "Negrita";
 "Code" = "Código";
-"Emphasis" = "Énfasis";
+"Emphasis" = "Cursiva";
 "Strikethrough" = "Tachado";
 "SmartCurlyQuotes6699" = "Comillas inglesas";
 "SmartDoubleGuillemets" = "Comillas españolas";

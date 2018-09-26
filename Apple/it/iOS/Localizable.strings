@@ -135,10 +135,10 @@
 "Action_Update" = "Aggiorna";
 
 /* Action to switch to night mode. */
-"Action_Night_Mode" = "Modalità notturna";
+"Action_Dark_Mode" = "Usa Modalità scura";
 
 /* Action to switch to night mode. */
-"Action_Day_Mode" = "Modalità diurna";
+"Action_Light_Mode" = "Usa Modalità chiara";
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Configura tastiera";
@@ -552,6 +552,14 @@
 /* Network failure while attemting to browse versions. */
 "Version_Browser_Error_Network_Failure" = "Connessione non possibile.";
 
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "Il servizio cloud dell’app File non è riuscito a elaborare la richiesta";
+"Files_App_Service_Provider_Error_Localized_Description" = "Il servizio cloud dell’app File non è riuscito a elaborare la richiesta.";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "Se l’errore persiste, contatta il tuo cloud service provider per assistenza.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -582,6 +590,10 @@
 
 /* General action key command titles. */
 "Discoverability_New" = "Nuovo";
+
+"Discoverability_Dark_Mode" = "Aspetto scuro";
+"Discoverability_Light_Mode" = "Aspetto chiara";
+/* Old name used for search matching. */
 "Discoverability_Night_Mode" = "Modalità notturna";
 
 /* Editor action key command titles. */
@@ -590,9 +602,9 @@
 "Discoverability_New" = "Nuovo";
 "Discoverability_Open" = "Apri...";
 "Discoverability_Preview" = "Anteprima";
-"Discoverability_Strong" = "Complessa";
+"Discoverability_Strong" = "Neretto";
 "Discoverability_Strikethrough" = "Barrato";
-"Discoverability_Emphasis" = "Enfasi";
+"Discoverability_Emphasis" = "Corsivo";
 "Discoverability_Headings" = "Intestazione 1-6";
 "Discoverability_Blockquote" = "Blockquote";
 "Discoverability_List" = "Elenco";
@@ -654,6 +666,9 @@
 
 /* Button to open settings. */
 "Settings_Title" = "Impostazioni";
+
+/* Action to switch to night mode. */
+"Settings_Dark_Appearance" = "Aspetto Scuro";
 
 /* Action to switch to night mode. */
 "Settings_Dark_App_Icon" = "Icona app scura";

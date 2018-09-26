@@ -13,7 +13,7 @@
 
 "Unknown_Error_Title" = "Erreur inconnue";
 "Unknown_Error" = "Une erreur inconnue s’est produite.";
-"Unknown_Recovery_Suggestion" = "Veuillez réessayer, puis contacter l’assistance.";
+"Unknown_Error_Recovery_Suggestion" = "Veuillez réessayer, puis contacter l’assistance.";
 
 "Default_Document_Name" = "Sans titre";
 "Default_Folder_Name" = "Dossier sans titre";
@@ -122,7 +122,7 @@
  --------*/
 
 "URL_Scheme_Error_Invalid_Parameters_Title" = "Paramètres invalides";
-"URL_Scheme_Error_Invalid_Parameters" = "La commande URL a été appelée avec des paramèters invalides.";
+"URL_Scheme_Error_Invalid_Parameters" = "La commande URL a été appelée avec des paramètres invalides.";
 "URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Vérifiez la documentation de commande URL";
 
 "URL_Scheme_Error_Invalid_Auth_Token_Title" = "Jeton d’authentification invalide";

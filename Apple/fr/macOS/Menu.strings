@@ -87,7 +87,7 @@
 "202.title" = "Supprimer";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
-"203.title" = "Copier";
+"203.title" = "Coller";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
 "205.title" = "Édition";
@@ -152,11 +152,11 @@
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "659"; */
 "659.title" = "Vérifiez l’orthographe pendant la saisie";
 
-/* Class = "NSMenuItem"; title = "Strong"; ObjectID = "677"; */
-"677.title" = "Fort";
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "677"; */
+"677.title" = "Gras";
 
-/* Class = "NSMenuItem"; title = "Emphasis"; ObjectID = "678"; */
-"678.title" = "Accent";
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "678"; */
+"678.title" = "Italique";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "690"; */
 "690.title" = "Remplacements";
@@ -369,7 +369,7 @@
 "RKB-Zq-q2A.title" = "Afficher la bibliothèque";
 
 /* Class = "NSMenuItem"; title = "Templates"; ObjectID = "RUq-jy-AKe"; */
-"RUq-jy-AKe.title" = "Modèles";
+"RUq-jy-AKe.title" = "Modèles d'aperçu";
 
 /* Class = "NSMenuItem"; title = "Mark Task as Completed"; ObjectID = "RVT-Ja-lWk"; */
 "RVT-Ja-lWk.title" = "Marquer la tâche comme terminée";
@@ -435,7 +435,7 @@
 "Yqt-51-woO.title" = "Conjonctions";
 
 /* Class = "NSMenuItem"; title = "Focus"; ObjectID = "Yvk-in-ABn"; */
-"Yvk-in-ABn.title" = "Mise au point";
+"Yvk-in-ABn.title" = "Concentration";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Z4R-Ya-gNJ"; Note = "SKIP LOCALIZATION"; */
 "Z4R-Ya-gNJ.title" = "Date de modification";
@@ -477,7 +477,7 @@
 "gHR-aY-uy5.title" = "Lien";
 
 /* Class = "NSMenu"; title = "Focus"; ObjectID = "hWZ-LO-mHH"; */
-"hWZ-LO-mHH.title" = "Mise au point";
+"hWZ-LO-mHH.title" = "Concentration";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "huC-mz-p9j"; */
 "huC-mz-p9j.title" = "Masquer";
@@ -516,7 +516,7 @@
 "pJe-0c-qV5.title" = "Descendant";
 
 /* Class = "NSMenu"; title = "Preview Width"; ObjectID = "pqw-KA-huh"; */
-"pqw-KA-huh.title" = "Aperçu de la largeur";
+"pqw-KA-huh.title" = "Affichages de l'aperçu";
 
 /* Class = "NSMenuItem"; title = "Toolbar"; ObjectID = "pur-a2-Aeh"; */
 "pur-a2-Aeh.title" = "Barre d’outils";
@@ -537,16 +537,16 @@
 "uOS-79-CAj.title" = "Déplacer une ligne vers le bas";
 
 /* Class = "NSMenuItem"; title = "Enable Focus Mode"; ObjectID = "urZ-cG-Loa"; Note = "SKIP LOCALIZATION"; */
-"urZ-cG-Loa.title" = "Activer le mode Mise au point";
+"urZ-cG-Loa.title" = "Activer le mode concentration";
 
 /* Class = "NSMenu"; title = "Text Size"; ObjectID = "vw0-fL-fUK"; */
 "vw0-fL-fUK.title" = "Taille du texte";
 
 /* Class = "NSMenuItem"; title = "Full"; ObjectID = "xQm-Ed-ske"; */
-"xQm-Ed-ske.title" = "Plein";
+"xQm-Ed-ske.title" = "Aperçu seul";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "yeD-Je-aOs"; */
-"yeD-Je-aOs.title" = "Aller";
+"yeD-Je-aOs.title" = "Aperçu et texte";
 
 /* Class = "NSMenuItem"; title = "Shift Left"; ObjectID = "zO2-18-ibZ"; */
 "zO2-18-ibZ.title" = "Décaler vers la gauche";

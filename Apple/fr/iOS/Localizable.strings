@@ -135,10 +135,10 @@
 "Action_Update" = "Mettre à jour";
 
 /* Action to switch to night mode. */
-"Action_Night_Mode" = "Mode nuit";
+"Action_Dark_Mode" = "Utiliser l’apparence sombre";
 
 /* Action to switch to night mode. */
-"Action_Day_Mode" = "Mode jour";
+"Action_Light_Mode" = "Utilise l’apparence claire";
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Configurer le clavier";
@@ -232,10 +232,10 @@
 "Content_Block_Picker_Title" = "Ajouter un bloc de contenu";
 
 /* Action sheet action to enable focus mode. */
-"Action_Enable_Focus_Mode" = "Activer le mode Concentration";
+"Action_Enable_Focus_Mode" = "Activer le mode concentration";
 
 /* Action sheet action to disable focus mode. */
-"Action_Disable_Focus_Mode" = "Désactiver le mode Concentration";
+"Action_Disable_Focus_Mode" = "Désactiver le mode concentration";
 
 /* Action sheet action to enable syntax control. */
 "Action_Enable_Syntax_Control" = "Afficher la syntaxe";
@@ -552,6 +552,14 @@
 /* Network failure while attemting to browse versions. */
 "Version_Browser_Error_Network_Failure" = "Échec de la connexion.";
 
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "Échec du traitement de la requête par le sevice cloud de l’application de Fichiers";
+"Files_App_Service_Provider_Error_Localized_Description" = "Le service cloud de l’application de Fichiers n’a pas pu traiter la requête.";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "Si l’erreur persiste, veuillez contacter le fournisseur de votre service cloud pour obtenir de l’aide.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -582,6 +590,10 @@
 
 /* General action key command titles. */
 "Discoverability_New" = "Nouveau";
+
+"Discoverability_Dark_Mode" = "Apparence sombre";
+"Discoverability_Light_Mode" = "Apparence claire";
+/* Old name used for search matching. */
 "Discoverability_Night_Mode" = "Mode nuit";
 
 /* Editor action key command titles. */
@@ -590,9 +602,9 @@
 "Discoverability_New" = "Nouveau";
 "Discoverability_Open" = "Ouvrir…";
 "Discoverability_Preview" = "Aperçu";
-"Discoverability_Strong" = "Fort";
+"Discoverability_Strong" = "Gras";
 "Discoverability_Strikethrough" = "Barré";
-"Discoverability_Emphasis" = "Accent";
+"Discoverability_Emphasis" = "Italique";
 "Discoverability_Headings" = "En-têtes 1 à 6";
 "Discoverability_Blockquote" = "Blockquote";
 "Discoverability_List" = "Liste";
@@ -656,7 +668,10 @@
 "Settings_Title" = "Réglages";
 
 /* Action to switch to night mode. */
-"Settings_Dark_App_Icon" = "Icône d’application foncée";
+"Settings_Dark_Appearance" = "Apparence sombre";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "Icône d’appli sombre";
 
 /* Settings panes. */
 "Settings_General_Title" = "Général";

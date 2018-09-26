@@ -135,10 +135,10 @@
 "Action_Update" = "更新​​";
 
 /* Action to switch to night mode. */
-"Action_Night_Mode" = "夜间模式";
+"Action_Dark_Mode" = "使用深色主题";
 
 /* Action to switch to night mode. */
-"Action_Day_Mode" = "日间模式";
+"Action_Light_Mode" = "使用浅色主题";
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "配置键盘";
@@ -552,6 +552,14 @@
 /* Network failure while attemting to browse versions. */
 "Version_Browser_Error_Network_Failure" = "无法连接。";
 
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "Files的云服务处理请求失败。";
+"Files_App_Service_Provider_Error_Localized_Description" = "Files的云服务处理请求失败。";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "如果问题持续出现，请联系您的云服务提供商寻求援助。";
+
 /*-----------
  Quick Search
  -----------*/
@@ -582,6 +590,10 @@
 
 /* General action key command titles. */
 "Discoverability_New" = "新建";
+
+"Discoverability_Dark_Mode" = "深色主题";
+"Discoverability_Light_Mode" = "浅色主题";
+/* Old name used for search matching. */
 "Discoverability_Night_Mode" = "夜间模式";
 
 /* Editor action key command titles. */
@@ -592,7 +604,7 @@
 "Discoverability_Preview" = "预览";
 "Discoverability_Strong" = "粗体";
 "Discoverability_Strikethrough" = "删除线";
-"Discoverability_Emphasis" = "强调";
+"Discoverability_Emphasis" = "斜体";
 "Discoverability_Headings" = "标题1-6";
 "Discoverability_Blockquote" = "块引用";
 "Discoverability_List" = "列表";
@@ -654,6 +666,9 @@
 
 /* Button to open settings. */
 "Settings_Title" = "设置";
+
+/* Action to switch to night mode. */
+"Settings_Dark_Appearance" = "深色主题";
 
 /* Action to switch to night mode. */
 "Settings_Dark_App_Icon" = "深色应用图标";

@@ -6,7 +6,7 @@
 "561-vh-uzh.ibShadowedToolTip" = "ナイトモード時にプレビューの色を反転します。カスタムテンプレートで色を反転させるためには、ナイトモードに対応している必要があります。";
 
 /* Class = "NSButtonCell"; title = "Hide metadata"; ObjectID = "794-EH-QRk"; */
-"794-EH-QRk.title" = "メタデータの非表示";
+"794-EH-QRk.title" = "メタデータを隠す";
 
 /* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
 "GBp-vd-erZ.title" = "ドキュメンテーションを読む";
@@ -30,7 +30,7 @@
 "c4c-Wj-hKb.title" = "見出しを中央揃え";
 
 /* Class = "NSButtonCell"; title = "Hide hashtags"; ObjectID = "cVG-Tj-Zs0"; */
-"cVG-Tj-Zs0.title" = "ハッシュタグの非表示";
+"cVG-Tj-Zs0.title" = "ハッシュタグを隠す";
 
 /* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
 "eLo-eM-g9t.title" = "フッター";

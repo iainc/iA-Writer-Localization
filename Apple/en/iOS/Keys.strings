@@ -25,9 +25,9 @@
 "BlockQuote" = "Blockquote";
 "HorizontalRule" = "Add Horizontal Rule";
 "PageBreak" = "Add Page Break";
-"Strong" = "Strong";
+"Strong" = "Bold";
 "Code" = "Code";
-"Emphasis" = "Emphasis";
+"Emphasis" = "Italic";
 "Strikethrough" = "Strikethrough";
 "SmartCurlyQuotes6699" = "Curly Quotes";
 "SmartDoubleGuillemets" = "Double Guillemets";

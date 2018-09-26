@@ -135,10 +135,10 @@
 "Action_Update" = "アップデートする";
 
 /* Action to switch to night mode. */
-"Action_Night_Mode" = "ナイトモード";
+"Action_Dark_Mode" = "ダークモードを使う";
 
 /* Action to switch to night mode. */
-"Action_Day_Mode" = "デイモード";
+"Action_Light_Mode" = "ライトモードを使う";
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "キーボードをカスタマイズ";
@@ -552,6 +552,14 @@
 /* Network failure while attemting to browse versions. */
 "Version_Browser_Error_Network_Failure" = "接続できません。";
 
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "ファイルアプリのクラウドサービスがリクエストの処理を行えませんでした";
+"Files_App_Service_Provider_Error_Localized_Description" = "ファイルアプリのクラウドサービスがリクエストの処理を行えませんでした。";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "エラーが継続するようであればクラウドサービスプロバイダーに連絡しサポートを受けてください。";
+
 /*-----------
  Quick Search
  -----------*/
@@ -582,6 +590,10 @@
 
 /* General action key command titles. */
 "Discoverability_New" = "新規";
+
+"Discoverability_Dark_Mode" = "ダークモード";
+"Discoverability_Light_Mode" = "ライトモード";
+/* Old name used for search matching. */
 "Discoverability_Night_Mode" = "ナイトモード";
 
 /* Editor action key command titles. */
@@ -592,7 +604,7 @@
 "Discoverability_Preview" = "プレビュー";
 "Discoverability_Strong" = "太字";
 "Discoverability_Strikethrough" = "取消線";
-"Discoverability_Emphasis" = "斜体";
+"Discoverability_Emphasis" = "イタリック";
 "Discoverability_Headings" = "見出し 1–6";
 "Discoverability_Blockquote" = "ブロック引用";
 "Discoverability_List" = "リスト";
@@ -656,7 +668,10 @@
 "Settings_Title" = "設定";
 
 /* Action to switch to night mode. */
-"Settings_Dark_App_Icon" = "Dark App Icon";
+"Settings_Dark_Appearance" = "ダークモード";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "ダークアプリアイコン";
 
 /* Settings panes. */
 "Settings_General_Title" = "一般";
@@ -786,8 +801,8 @@
 "Settings_Markdown_Section_Title" = "Markdown処理";
 "Settings_Markdown_Lazy_Paragraphs" = "一回のリターンキーで新しい段落を開始";
 "Settings_Markdown_Smart_Punctuation" = "スマート句読点";
-"Settings_Markdown_Hide_Metadata" = "メタデータを非表示";
-"Settings_Markdown_Hide_Hashtags" = "ハッシュタグを非表示";
+"Settings_Markdown_Hide_Metadata" = "メタデータを隠す";
+"Settings_Markdown_Hide_Hashtags" = "ハッシュタグを隠す";
 
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "印刷とPDF書き出し";
