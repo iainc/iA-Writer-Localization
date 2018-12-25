@@ -1,0 +1,55 @@
+
+"Key_Picker_Title" = "Клавиши";
+
+"Key_Picker_Button_Reset" = "Сбросить";
+
+"Key_Picker_Message_Reset" = "Вы уверены, что хотите сбросить раскладку клавиатуры? Все ваши изменения будут потеряны.";
+"Key_Picker_Action_Reset" = "Сбросить раскладку клавиатуры";
+"Key_Picker_Action_Cancel" = "Отмена";
+
+"Find_Placeholder" = "Найти";
+"Find_Replace_Placeholder" = "Заменить";
+
+"Key_Description_Find" = "Панель поиска";
+"Key_Description_Show_Find" = "Показать панель поиска";
+"Key_Description_Hide_Find" = "Скрыть панель поиска";
+"Key_Description_Find_Next" = "Найти следующий";
+"Key_Description_Find_Previous" = "Найти предыдущий";
+"Key_Description_Replace" = "Заменить";
+"Key_Description_Replace_All" = "Заменить все";
+
+"Key_Description_Search" = "Поиск";
+"Key_Description_Command" = "Команды";
+
+"Key_Description_Undo" = "Отменить";
+"Key_Description_Redo" = "Повторить";
+
+"Key_Description_Move_Up" = "Стрелка вверх";
+"Key_Description_Move_Down" = "Стрелка вниз";
+"Key_Description_Move_Left" = "Стрелка влево";
+"Key_Description_Move_Right" = "Стрелка вправо";
+
+"Key_Description_Dismiss_Menu" = "Отменить меню";
+
+"Key_Title_Return" = "Enter";
+"Key_Title_Shift_Right" = "табуляция";
+"Key_Title_Shift_Left" = "обратная табуляция";
+"Key_Title_Home" = "home";
+"Key_Title_End" = "end";
+"Key_Title_Shift_Up" = "переместить\nтекст ↑";
+"Key_Title_Shift_Down" = "переместить\nтекст ↓";
+"Key_Title_Undo" = "отменить";
+"Key_Title_Redo" = "повторить";
+
+"Key_Description_Return" = "Enter";
+"Key_Description_Delete_Forward" = "Удалить вперед";
+"Key_Description_Delete_Backward" = "Удалить назад";
+"Key_Description_Delete_Paragraph" = "Удалить абзац";
+"Key_Description_Dismiss_Keyboard" = "Отклонить клавиатуру";
+"Key_Description_Shift_Left" = "Выступ";
+"Key_Description_Shift_Right" = "Отступ";
+"Key_Description_Shift_Up" = "Переместить абзац вверх";
+"Key_Description_Shift_Down" = "Переместить абзац вниз";
+"Key_Description_Dismiss_Keyboard" = "Отклонить клавиатуру";
+"Key_Description_Move_To_Beginning" = "Перейти к началу документа";
+"Key_Description_Move_To_End" = "Перейти к концу документа";

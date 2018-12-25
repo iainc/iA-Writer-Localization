@@ -2,17 +2,32 @@
 /* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "51F-7r-uRC"; */
 "51F-7r-uRC.title" = "標籤";
 
-/* Class = "NSTextFieldCell"; title = "Supported scripts: Cyrillic, Greek, Latin. \nSystem fonts will be used for other scripts."; ObjectID = "6FK-0a-8ew"; */
-"6FK-0a-8ew.title" = "支援文字：西里爾文、希臘文、拉丁文。\n其他文字將使用系統字體。";
-
 /* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
 "6L5-CK-rbm.title" = "拼寫和語法：";
+
+/* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "6pk-3q-M1t"; */
+"6pk-3q-M1t.title" = "Japanese";
 
 /* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "7iw-vf-YLb"; */
 "7iw-vf-YLb.title" = "字體大小：";
 
-/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "7km-23-5ry"; */
-"7km-23-5ry.title" = "中";
+/* Class = "NSMenuItem"; title = "System — Default"; ObjectID = "9Ad-h2-Ffu"; */
+"9Ad-h2-Ffu.title" = "System — Default";
+
+/* Class = "NSMenuItem"; title = "Traditional Chinese"; ObjectID = "9LR-eY-nQC"; */
+"9LR-eY-nQC.title" = "Traditional Chinese";
+
+/* Class = "NSMenuItem"; title = "Simplified Chinese"; ObjectID = "C1b-T8-UKG"; */
+"C1b-T8-UKG.title" = "Simplified Chinese";
+
+/* Class = "NSTextFieldCell"; title = "Syntax highlight:"; ObjectID = "DL6-wL-dFh"; */
+"DL6-wL-dFh.title" = "凸顯語法：";
+
+/* Class = "NSTextFieldCell"; title = "A"; ObjectID = "F4u-Y8-AKd"; */
+"F4u-Y8-AKd.title" = "A";
+
+/* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "IkY-dB-hew"; */
+"IkY-dB-hew.title" = "字體排版:";
 
 /* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
 "JpA-gV-jQe.title" = "文字取代";
@@ -29,20 +44,17 @@
 /* Class = "NSMenuItem"; title = "64"; ObjectID = "S60-FG-qNb"; */
 "S60-FG-qNb.title" = "64";
 
-/* Class = "NSMenuItem"; title = "Small"; ObjectID = "U0l-bI-YCF"; */
-"U0l-bI-YCF.title" = "小";
-
-/* Class = "NSMenuItem"; title = "Large"; ObjectID = "UY2-vP-tfQ"; */
-"UY2-vP-tfQ.title" = "大";
-
-/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "VDN-F7-hK9"; */
-"VDN-F7-hK9.title" = "字體：";
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "SX8-w8-P8A"; */
+"SX8-w8-P8A.title" = "Default";
 
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
 "Wed-ZH-mmU.title" = "打字機";
 
-/* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "Zfe-pD-b7Z"; */
+/* Class = "NSMenuItem"; title = "Monospaced"; ObjectID = "Zfe-pD-b7Z"; */
 "Zfe-pD-b7Z.title" = "雙間距";
+
+/* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "aae-lC-eDI"; */
+"aae-lC-eDI.title" = "Duospaced";
 
 /* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "bUN-vs-toB"; */
 "bUN-vs-toB.title" = "間距";
@@ -62,17 +74,17 @@
 /* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "gDR-81-YkH"; Note = "SKIP LOCALIZATION"; */
 "gDR-81-YkH.title" = "段落";
 
-/* Class = "NSTextFieldCell"; title = "Limit line length to:"; ObjectID = "gXq-Uk-cKy"; */
-"gXq-Uk-cKy.title" = "每行長度限制為：";
-
 /* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */
 "hdF-Eo-fOe.title" = "破折號";
 
-/* Class = "NSMenuItem"; title = "Monospaced"; ObjectID = "ldB-5Y-buh"; */
-"ldB-5Y-buh.title" = "等寬";
+/* Class = "NSButtonCell"; title = "Conjunctions"; ObjectID = "jnn-zF-baY"; */
+"jnn-zF-baY.title" = "Conjunctions";
 
 /* Class = "NSButtonCell"; title = "Copy/paste"; ObjectID = "mHr-Yd-9Gp"; */
 "mHr-Yd-9Gp.title" = "複製/貼上";
+
+/* Class = "NSButtonCell"; title = "Adverbs"; ObjectID = "mTE-Da-Ai8"; */
+"mTE-Da-Ai8.title" = "Adverbs";
 
 /* Class = "NSButtonCell"; title = "Check grammar with spelling"; ObjectID = "nlh-Zj-3rv"; */
 "nlh-Zj-3rv.title" = "檢查拼寫文法";
@@ -80,8 +92,26 @@
 /* Class = "NSButtonCell"; title = "Check spelling while typing"; ObjectID = "o55-nN-2Rp"; */
 "o55-nN-2Rp.title" = "在輸入時檢查拼寫";
 
+/* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "q1A-U0-UTn"; */
+"q1A-U0-UTn.title" = "Enable Last Used";
+
 /* Class = "NSButtonCell"; title = "Quotes"; ObjectID = "q1M-nl-ibX"; */
 "q1M-nl-ibX.title" = "引用";
 
-/* Class = "NSTextFieldCell"; title = "characters"; ObjectID = "uvj-YM-p0c"; */
-"uvj-YM-p0c.title" = "字符";
+/* Class = "NSMenuItem"; title = "Korean"; ObjectID = "tHM-H4-etW"; */
+"tHM-H4-etW.title" = "Korean";
+
+/* Class = "NSButtonCell"; title = "Nouns"; ObjectID = "tJf-FO-eFT"; */
+"tJf-FO-eFT.title" = "Nouns";
+
+/* Class = "NSButtonCell"; title = "Adjectives"; ObjectID = "u3t-jX-i9Z"; */
+"u3t-jX-i9Z.title" = "Adjectives";
+
+/* Class = "NSButtonCell"; title = "Verbs"; ObjectID = "u5B-6y-Y8m"; */
+"u5B-6y-Y8m.title" = "Verbs";
+
+/* Class = "NSTextFieldCell"; title = "A"; ObjectID = "wgb-xJ-AmL"; */
+"wgb-xJ-AmL.title" = "A";
+
+/* Class = "NSTextFieldCell"; title = "characters per line"; ObjectID = "xtj-Jw-ENi"; */
+"xtj-Jw-ENi.title" = "每行字數";

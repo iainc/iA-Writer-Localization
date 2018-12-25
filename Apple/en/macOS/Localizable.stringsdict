@@ -86,5 +86,21 @@
 			<string>Are you sure you want to delete %tu selected items?</string>
 		</dict>
 	</dict>
+	<key>Editor_Preferences_Line_Length</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@characters@</string>
+		<key>characters</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>character per line</string>
+			<key>other</key>
+			<string>characters per line</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

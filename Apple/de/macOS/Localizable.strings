@@ -86,7 +86,7 @@
 "Export_Format_Word_Name" = "Microsoft Word";
 
 /* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Kompatibel mit Microsoft Word 2007–2013";
+"Export_Format_Word_Description" = "Kompatibel mit Microsoft Word (ab 2007), Apple Pages und Google Docs.";
 
 /* HTML export format. */
 "Export_Format_HTML_Name" = "HTML";
@@ -98,7 +98,7 @@
 "Export_Format_PDF_Name" = "PDF";
 
 /* PDF export format description. */
-"Export_Format_PDF_Description" = "PDF-Layout ändern über Ablage > Seite einrichten.";
+"Export_Format_PDF_Description" = "PDF-Layout ändern über Ablage → Seite einrichten.";
 
 /* Plain text export format. */
 "Export_Format_Markdown_Name" = "Markdown";
@@ -187,9 +187,6 @@
 /* Button tooltip to toggle custom smart folder sort order. */
 "Library_Custom_Sort_Order_Tooltip" = "Benutzerdefinierte Sortierreihenfolge für aktuelle Ansicht verwenden";
 
-/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
-"Library_Location_Description" = "Bibliotheks-Erweiterungen ermöglichen den schnellen Zugriff auf Dokumente ausserhalb der iCloud.\nSie werden indexiert, um Navigation und Volltextsuche zu gewährleisten.\nÜbermässig schwere Ordner mit tausenden von Dokumenten werden die Leistung beeinträchtigen.";
-
 /* Go menu item title to go back. */
 "Library_Go_Back" = "Zurück";
 
@@ -245,6 +242,12 @@
 
 /* Menu to copy library path for an item in Library. */
 "Library_Action_Copy_Library_Path" = "Bibiothekspfad kopieren";
+
+/* Menu to copy URL command path for an item in Library. */
+"Library_Action_Copy_URL_Command_Path" = "URL-Befehlspfad kopieren";
+
+/* Menu to copy URL command to open file for an item in Library. */
+"Library_Action_Copy_URL_Command_To_Open_File" = "URL-Befehlspfad kopieren um Datei zu öffnen";
 
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Sortieren nach";
@@ -387,9 +390,6 @@
 
 /* Bold inline element name. */
 "Inline_Element_Bold" = "Fett";
-
-/* Italic inline element name. */
-"Inline_Element_Italic" = "Kursiv";
 
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Durchstreichung";

@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
+"HPl-l1-HP7.title" = "Предпочитаемая команда будет использована при нажатии ⌘N,\nили иконки в Dock когда ни один другой файл не открыт.\nАльтернативная команда будет использована при нажатии ⌥⌘N.";
+
+/* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */
+"Hli-Y7-4TC.title" = "Новый";
+
+/* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
+"RP1-j6-hey.title" = "Предпочитаемая команда:";
+
+/* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
+"UWl-8e-UTr.title" = "Новые файлы будут иметь это расширение.\nРазрешены только текстовые расширения.";
+
+/* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
+"XcW-DB-W12.title" = "Файлы будут автоматически\nсозданы в библиотеке.";
+
+/* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
+"faP-Wx-ytF.title" = "Новый в библиотеке";
+
+/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
+"vCs-49-KMB.title" = "При закрытии, файлы спросят хотите ли вы их сохранить.";
+
+/* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
+"whG-r6-ibK.title" = "Расширение по умолчанию:";

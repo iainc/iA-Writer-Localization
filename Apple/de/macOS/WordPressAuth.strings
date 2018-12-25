@@ -1,5 +1,5 @@
 
-/* Class = "NSTextFieldCell"; title = "iA Writer creates drafts which you can review before publishing.\n\nSelf-hosted WordPress sites with are supported only with Jetpack.\n\nIf you have more than one site connected to your account, posts will be created on your primary site."; ObjectID = "4MQ-Bc-oHu"; */
+/* Class = "NSTextFieldCell"; title = "iA Writer creates drafts which you can review before publishing.\n\nSelf-hosted WordPress sites are supported only with Jetpack."; ObjectID = "4MQ-Bc-oHu"; */
 "4MQ-Bc-oHu.title" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung online überprüfen können.\n\nUm eigenständige WordPress-Installationen zu verwalten, bitten wir Sie, Jetpack zu installieren.";
 
 /* Class = "NSButtonCell"; title = "Authorize"; ObjectID = "ULi-ex-koB"; */

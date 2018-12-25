@@ -1,0 +1,16 @@
+
+"Increase_Text_Size" = "Увеличить размер текста";
+"Default_Text_Size" = "Размер текста по умолчанию";
+"Decrease_Text_Size" = "Уменьшить размер текста";
+
+"Button_Compose" = "Создать файл";
+"Button_Preview" = "Предварительный просмотр";
+"Button_Search" = "Поиск";
+"Button_Appearance" = "Опции просмотра";
+"Button_Action" = "Действия с файлом";
+"Button_Move_Selected" = "Переместить выбранное";
+"Button_Delete_Selected" = "Удалить выбранное";
+"Button_Rename_Selected" = "Переименовать выбранные";
+"Button_Add_Folder" = "Добавить папку";
+"Button_Duplicate" = "Дублировать";
+"Button_Settings" = "Настройки";

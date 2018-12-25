@@ -1,0 +1,486 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "Использовать тёмную тему";
+
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "Использовать светлую тему";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "Новый в библиотеке";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "Новый";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "Новая вкладка в библиотеке";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "Новая вкладка";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "По умолчанию";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "Только статистика";
+
+/* Contextual menu to copy formatted text. */
+"Editor_Copy_Formatted_Menu" = "Скопировать отформатированный текст";
+
+/* Contextual menu to copy HTML. */
+"Editor_Copy_HTML_Menu" = "Скопировать HTML";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "Купить сейчас";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "Добро пожаловать в iA Writer.\nЭта пробная версия позволяет вам\nпользоваться всеми функциями бесплатно.";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "Пробный период истек. Надеемся, вам понравилось работать в iA Writer.";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "Установлен шаблон «%@»";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "Вы можете переключиться на новый шаблон просмотра в меню Вид > Шаблоны. Вы можете удалить шаблон в настройках.";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "Приложение iA Writer обновлено до версии %@";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "Нажмите, чтобы узнать что обновилось.";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "Экспорт";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "Экспорт";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "Имя:";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "Формат:";
+
+/* Microsoft Word export format. */
+"Export_Format_Word_Name" = "Microsoft Word";
+
+/* Microsoft Word export format description. */
+"Export_Format_Word_Description" = "Совместим с Microsoft Word 2007 или новее, Apple Pages и Документами Google.";
+
+/* HTML export format. */
+"Export_Format_HTML_Name" = "HTML";
+
+/* HTML export format description. */
+"Export_Format_HTML_Description" = "Стандартный HTML.";
+
+/* PDF export format. */
+"Export_Format_PDF_Name" = "PDF";
+
+/* PDF export format description. */
+"Export_Format_PDF_Description" = "Чтобы изменить макет PDF, выберите Файл → Настройка страницы.";
+
+/* Plain text export format. */
+"Export_Format_Markdown_Name" = "Markdown";
+
+/* Plain text export format description. */
+"Export_Format_Markdown_Description" = "Совместим с другими редакторами.";
+
+/* Project archive text export format. */
+"Export_Format_Project_Archive_Name" = "Архив проектов";
+
+/* Plain text export format description. */
+"Export_Format_Project_Archive_Description" = "Включает связанные блоки контента.";
+
+/* Checkmark title in print options. */
+"Print_Header" = "Печатать верний колонтитул";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "Печатать нижний колонтитул";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "Поделиться";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "Выберите сайт в котором будет создан черовик.";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "Учетная запись WordPress имеет доступ к нескольким сайтам.";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to hide library. */
+"Hide_Library" = "Скрыть библиотеку";
+
+/* Menu item to hide preview. */
+"Hide_Preview" = "Скрыть просмотр";
+
+/* Menu item to show library. */
+"Show_Library" = "Показать библиотеку";
+
+/* Menu item to show preview. */
+"Show_Preview" = "Показать просмотр";
+
+/* Menu item to show preview. */
+"Show_Source_List" = "Показать организатор";
+
+/* Menu item to show preview. */
+"Hide_Source_List" = "Скрыть организатор";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "Показать панель фильтров";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "Скрыть панель фильтров";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "Показать панель сортировки";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "Скрыть панель сортировки";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "Экспортировать";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Half_Width" = "Пополам";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Full_Width" = "На всю ширину";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "Нет содержимого для просмотра";
+
+/*------
+ Library
+ ------*/
+
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "Отдельно";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "Использовать отдельный от библиотеки порядок сортировки.";
+
+/* Go menu item title to go back. */
+"Library_Go_Back" = "Назад";
+
+/* Go menu item title to go forward. */
+"Library_Go_Forward" = "Вперед";
+
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "На уровень выше";
+
+/* Menu to move to delete a folder when right-clicking in document library.
+   Title for action when swiping table view. */
+"Library_Delete_Action_Title" = "Удалить…";
+
+/* Deletion confirmation sheet message. */
+"Library_Delete_Confrimation_Message" = "Вы уверены, что хотите удалить «%@»?";
+
+/* Deletion confrimation infromative text for a local item. */
+"Library_Delete_Confrimation_Informative_Text" = "Это действие не может быть отменено.";
+
+/* No comment provided by engineer. */
+"Library_Delete_Confrimation_Button" = "Удалить";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "Пустой документ";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "Обновляется…";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "Новый файл";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "Новая папка";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "Новая папка с выбранными объектами";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "Открыть в новом окне";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "Открыть в новой вкладке";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "Открыть с помощью %@";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "Переименовать";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "Свойства";
+
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "Скопировать путь в библиотеке";
+
+/* Menu to copy URL command path for an item in Library. */
+"Library_Action_Copy_URL_Command_Path" = "Скопировать путь для URL-команд";
+
+/* Menu to copy URL command to open file for an item in Library. */
+"Library_Action_Copy_URL_Command_To_Open_File" = "Скопировать URL-команду открыть файл";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "Сортировать по";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "Добавить в избранное";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "Удалить из избранного";
+
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "Переименовать в местоположениях";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "Удалить из местоположений";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "Редактировать…";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "Дублировать";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "Показать в Finder";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "Показать в библиотеке";
+
+/* Search field placeholder. */
+"Library_Search_Field_Placeholder" = "Фильтр";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "Загрузка документов… Это может занять несколько минут, если у вас большая библиотека.";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "Переместить";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "Переместить в «%@»";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "Скопировать в «%@»";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "Вы редактируете документ вне библиотеки iA Writer. Вы можете продолжить редактирование или переместить его в библиотеку.";
+
+/* Search title. */
+"Library_Search_Title" = "Результаты поиска";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "Изменено";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "Создано";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "Название";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "Расширение";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "Размер";
+
+/* Organizer section title. */
+"Library_Root_Locations" = "Местоположения";
+
+/* Organizer section title. */
+"Library_Root_Favorites" = "Избранные";
+
+/* Organizer section title. */
+"Library_Root_Smart_Folders" = "Смарт-папки";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "Хэштеги";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "Перетащите сюда папки и файлы для быстрого доступа";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "Настройте правила для сбора файлов";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "Пишите #теги для группировки файлов";
+
+/*-----
+ Editor
+ -----*/
+
+/* Menu title to enable focus mode. */
+"Menu_Enable_Focus_Mode" = "Включить режим фокуса";
+
+/* Menu title to disable focus mode. */
+"Menu_Disable_Focus_Mode" = "Выключить режим фокуса";
+
+/* Menu title to enable syntax highlight. */
+"Menu_Enable_Syntax_Higlight" = "Включить подсветку синтаксиса";
+
+/* Menu title to disable syntax highlight. */
+"Menu_Disable_Syntax_Higlight" = "Выключить подсветку синтаксиса";
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "С заглавной буквы (аглийский заголовок)";
+
+/* List block element name. */
+"Block_Element_List" = "Список";
+
+/* Task list block element name. */
+"Block_Element_Task" = "Задача";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "Упорядоченный список";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "Упорядоченная задача";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "Заголовок 1";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "Заголовок 2";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "Заголовок 3";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "Заголовок 4";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "Заголовок 5";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "Заголовок 6";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "Цитата";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "Текст";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "Жирный";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "Зачеркнутый";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "Текст тела";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "Сноска";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "Ссылка";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "Таблица";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "Отрегулируйте размер таблицы. Первая строка будет содержать заголовок таблицы.";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "столбцы";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "строки";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "Содержание";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "Основные";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "Файлы";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "Библиотека";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "Редактор";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "Шаблоны";
+
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "Добавить учетную запись…";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "Удалить учетную запись";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Вы действительно хотите сбросить токен авторизации?";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "Это действие не может быть отменено.";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "Вы хотите включить команды URL в iA Writer?";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "Вы можете изменить этот параметр позже в настройках.";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "Быстрый поиск";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "Не удалось обработать часть контента.";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "Не удалось завершить операцию.";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "Заголовки";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "Списки";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "Встроенные элементы";

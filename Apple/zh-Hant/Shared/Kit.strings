@@ -92,6 +92,11 @@
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@。%2$@";
 
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium 已停用圖片上載功能";
+"Medium_Image_Upload_Error_Unauthorized" = "Medium 已停用圖片上載功能。";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "請聯絡 Medium，以啟用您令牌的圖片上載功能。";
+"Medium_Image_Upload_Error_Contact" = "聯絡 Medium";
+
 /*--------
  Templates
  --------*/
@@ -141,38 +146,46 @@
 "Storage_Name_Local" = "本地";
 "Storage_Name_On_My_Device" = "在我的 %@";
 
+"Library_Location_Desktop" = "桌面";
+"Library_Location_Documents" = "文件";
+
 /*----
  Fonts
  ----*/
 
-"Font_Name_Monospaced" = "等寬";
-"Font_Name_Duospaced" = "雙間距";
+"Font_Name_Monospaced" = "Mono";
+"Font_Name_Duospaced" = "Duo";
+"Font_Name_Quattro" = "Quattro";
 
-"Font_Script_Support_Monospaced" = "支援文字：西里爾文，希臘文，拉丁文。";
-"Font_Script_Support_Duospaced" = "支援文字：西里爾文，拉丁文。";
-"Font_Script_Support_Other" = "系統文字將用於其他字體。";
+"Content_Typography_System" = "系統 – %@";
+"Content_Typography_Default" = "默認";
+"Content_Typography_Simplified_Chinese" = "簡體中文";
+"Content_Typography_Traditional_Chinese" = "繁體中文";
+"Content_Typography_Japanese" = "日語";
+"Content_Typography_Korean" = "朝鮮語";
+
+"Content_Typography_Emphasis_Italic" = "斜體";
+"Content_Typography_Emphasis_Mark" = "着重號";
 
 /*----------------
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Ubiquitous_Item" = "無法為 iCloud 內的資料夾新增資料庫位置。";
-"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "已在 iCloud 內選取資料夾。";
-"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "請使用預設資料庫位置以儲存文件於 iCloud。若預設位置並不是使用 iColud，請在系統偏好中檢查 iCloud 是否已啟用作 iA Writer。";
-
+"Library_Location_Error_Existing_Item_Title" = "無法添加一個現有資料庫位置";
 "Library_Location_Error_Existing_Item" = "未能新增資料庫位置，因為資料夾或其子資料夾是另一個資料庫位置的一部分。";
 "Library_Location_Error_Existing_Item_Failure_Reason" = "已選取的資料夾或它的子資料夾是另一個資料庫位置的一部分。";
 "Library_Location_Error_Existing_Item_Recovery_Suggestion" = "在新增已選取的資料夾前，先移除現有的資料庫位置。";
 
-"Library_Location_Error_Not_Found" = "未能找到資料庫的位置。這可能因為已被移除，或曾位於可彈出編集。";
-"Library_Location_Error_Not_Found_Failure_Reason" = "找不到資料庫位置。";
+"Library_Location_Error_Not_Found_Title" = "未能找到資料庫的位置";
+"Library_Location_Error_Not_Found" = "未能找到資料庫的位置。";
+"Library_Location_Error_Not_Found_Failure_Reason" = "這可能因為已被移除，或曾位於可彈出編集。";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "連接可彈出的編集以存取資料庫位置。";
 
 /*--------
  Documents
  --------*/
 
-"External_Change_Error_Localized_Descrition" = "文件「%@」外部被更改。";
+"External_Change_Error_Localized_Description" = "文件「%@」外部被更改。";
 "External_Change_Error_Recovery_Suggestion" = "此檔案已在 iA Writer 外被修改。如果您在硬碟上還原檔案，您最近在 iA Writer 內所作的變更亦可能遺失。您亦可點擊儲存為以儲存您的變更至另一個檔案。";
 "External_Change_Error_Keep_Action" = "保持 iA Writer 版本";
 "External_Change_Error_Revert_Action" = "還原";
@@ -182,15 +195,20 @@
  Sort Options
  -----------*/
 
-"Library_Sort_By_Name" = "名稱";
-"Library_Sort_By_Extension" = "擴展";
-"Library_Sort_By_Date_Modified" = "已修改日期";
-"Library_Sort_By_Search_Rank" = "搜索排名";
+"Library_Sort_Order_Name" = "名稱";
+"Library_Sort_Order_Extension" = "擴展";
+"Library_Sort_Order_Date_Modified" = "已修改日期";
+"Library_Sort_Order_Search_Rank" = "搜索排名";
 
 "Library_Sort_By_Name_Phrase" = "以名稱排序";
 "Library_Sort_By_Extension_Phrase" = "以擴展排序";
 "Library_Sort_By_Date_Modified_Phrase" = "以已修改日期排序";
 "Library_Sort_By_Search_Rank_Phrase" = "以搜索排名排序";
+
+"Library_Sort_By_Name" = "名稱";
+"Library_Sort_By_Extension" = "擴展";
+"Library_Sort_By_Date_Modified" = "已修改日期";
+"Library_Sort_By_Search_Rank" = "搜索排名";
 
 "Library_Sort_By_Date_Ascending" = "最舊置頂";
 "Library_Sort_By_Date_Descending" = "最新置頂";
@@ -198,8 +216,8 @@
 "Library_Sort_By_Text_Ascending" = "A 至 Z";
 "Library_Sort_By_Text_Descending" = "Z 至 A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "最不相關的置頂";
-"Library_Sort_By_Search_Rank_Descending" = "最有關的置頂";
+"Library_Sort_By_Search_Rank_Ascending" = "最有關的置頂";
+"Library_Sort_By_Search_Rank_Descending" = "最不相關的置頂";
 
 "Library_Sort_By_Part_Joiner" = "，";
 

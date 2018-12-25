@@ -1,0 +1,884 @@
+
+/*-----------
+ Library Root
+ -----------*/
+
+/* Title for root library view. */
+"Library_Title" = "Библиотека";
+
+/* Title for root library view. */
+"Library_Locations_Section_Title" = "Местоположения";
+
+/* Title for root library view. */
+"Library_Favorites_Section_Title" = "Избранные";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Add_Favorite" = "Добавить в избранные…";
+
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
+/* Title for root library view. */
+"Library_Smart_Folders_Section_Title" = "Смарт-папки";
+
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "Хэштеги";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_New_Smart_Folder" = "Новая смарт-папка…";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Edit_Smart_Folder" = "Редактировать";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Title_Add_Favorite" = "Добавить в избранные";
+
+/* Title for help action to open twitter page for iA Writer. */
+"Help_Action_Open_Twitter" = "iA Writer в Twitter";
+
+/* Title for help action to open release notes and other updates. */
+"Help_Action_News" = "Обновления";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Feedback_And_Support" = "Поддержка и обратная связь";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Newsletter" = "Подписаться на рассылку";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Review" = "Рекомендовать iA Writer";
+
+/* Title for action to open main help page. */
+"Help_Action_Main" = "Справка iA Writer";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "How to Add a Library Location";
+"Library_Location_Introduction_Alert_Message" = "\nOpen a folder that contains the folder that you’d like to use as a Library Location.\n\nTap Select, select the folder, then tap Open.";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Don’t Show Again";
+"Library_Location_Rename_Alert_Title" = "Rename Library Location";
+
+/*------
+ Backups
+ ------*/
+
+/* Title for all backups. */
+"Backups_Title" = "Резервные копии";
+
+/* Message under title when browsing backups. */
+"Backup_Submitem_Message" = "При редактировании файлов из других программ создается резервная копия на этом %@. Когда файл переименовывается, предыдущие резервные копии остаются под первоначальным именем.";
+
+/* Button title to restore a backup. */
+"Backups_Restore_Button_Title" = "Восстановить";
+
+/* Title for backup restoration destination picker. */
+"Backups_Restore_Picker_Title" = "Восстановить файл";
+
+/* Prompt at the top of backup restoration destination picker. */
+"Backups_Restore_Picker_Prompt" = "Выберите папку для сохранения восстановленного файла.";
+
+/* Placeholder shown when there are no backups. */
+"Backups_Placeholder" = "Нет резервных копий";
+
+/* Title for swipe action to browse backups. */
+"Table_View_Action_Browse_Backups" = "Резервные копии";
+
+/* Button description to browse all backups. */
+"Backups_Button_Title" = "Резервные копии";
+
+/* Action in editor to browse backups for currently opened file from other apps. */
+"Action_Browse_Backups" = "Резервные копии";
+
+/*------
+ Library
+ ------*/
+
+/* Button to move to move files or folders. */
+"Button_Move" = "Переместить";
+
+/* Button to delete. */
+"Button_Delete" = "Удалить";
+
+/* Button to select all visible items. */
+"Button_Select_All" = "Выбрать все";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "Отменить выбор";
+
+/* Button to save. */
+"Button_Save" = "Сохранить";
+
+/* Action to move files or folders. */
+"Action_Move" = "Переместить…";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "Дублировать";
+
+/* Action to rename. */
+"Action_Rename" = "Переименовать…";
+
+/* Action to rename. */
+"Action_Remove" = "Удалить";
+
+/* Action to delete. */
+"Action_Delete" = "Удалить";
+
+/* Action to open file or folder info. */
+"Action_Get_Info" = "Информация";
+
+/* Action to add folder to favorites. */
+"Action_Remove_External_File" = "Удалить";
+
+/* Action to add folder to favorites. */
+"Action_Add_Favorite" = "Добавить в избранное";
+
+/* Action to add folder to favorites. */
+"Action_Remove_Favorite" = "Удалить из избранного";
+
+/* Action to browse file versions. */
+"Action_Browse_Versions" = "Предыдущие версии";
+
+/* Action to browse file versions. */
+"Action_Find_And_Replace" = "Найти и заменить";
+
+/* Generic update button. */
+"Action_Update" = "Обновить";
+
+/* Action to switch to night mode. */
+"Action_Dark_Mode" = "Тёмная тема";
+
+/* Action to switch to night mode. */
+"Action_Light_Mode" = "Светлая тема";
+
+/* Action to configure keyboard. */
+"Action_Configure_Keyboard" = "Настроить клавиатуру";
+
+/* Button to create new folder. */
+"Button_New_Folder" = "Новая папка";
+
+/* Button to change sorting order. */
+"Button_Sort_By" = "Сортировать по";
+
+/* Generic to confirm selection in action sheet picker. */
+"Action_Set_Selected" = "Выбрать";
+
+/* New folder destination folder picker title. */
+"New_Folder_Location_Title" = "Новая папка";
+
+/* New folder destination folder picker prompt. */
+"New_Folder_Location_Prompt" = "Выберите путь для сохранения новой папки…";
+
+/* File import destination folder picker title. */
+"File_Import_Title" = "Импорт";
+
+/* New folder destination folder picker prompt. */
+"File_Import_Prompt" = "Выберите путь для импорта.";
+
+/* New file destination folder picker title. */
+"New_File_Location_Title" = "Новый файл";
+
+/* New file destination folder picker prompt. */
+"New_File_Location_Prompt" = "Выберите путь для сохранения нового файла.";
+
+/* Action to configure smart folder. */
+"Action_Edit_Smart_Folder" = "Редактировать смарт-папку";
+
+/* Action to configure library. */
+"Action_Configure_Library" = "Настроить библиотеку";
+
+/* Action to delete smart folder. */
+"Action_Delete_Smart_Folder" = "Удалить смарт-папку…";
+
+/* Excerpt for empty documents. */
+"Library_Excerpt_Empty" = "Нет содержимого";
+
+/* Excerpt for unindexed documents. */
+"Library_Excerpt_Updating" = "Обновление…";
+
+/* Library empty message in folders. */
+"Library_Empty_Folder" = "Нет файлов";
+
+/* Library empty message in folders. */
+"Library_Empty_External_Files" = "Нет файлов из других программ";
+
+/* Library empty message in extenal files location. */
+"Library_Empty_External_Files_Message" = "Нажмите кнопку +, чтобы добавить файлы.";
+
+/* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
+"Library_Empty_External_Files_Message_Install" = "Чтобы получить доступ к Dropbox, Google Диску и другим облачные сервисам, загрузите их программы из App Store, затем нажмите кнопку плюс, чтобы добавить файлы.";
+
+/* Library empty message in smart folders. */
+"Library_Empty_Smart_Folder" = "Нет правил соответствия файлам";
+
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "Нет файлов с хэштегом";
+
+/* Title for external files section. */
+"Library_External_Files_Section_Title" = "Внешний";
+
+/* Title for action to open external files location. */
+"Library_External_Files" = "Из других программ";
+
+/* Title for action to open external files picker. */
+"Library_External_Files_Open" = "Открыть…";
+
+/* Title for move to folder destination picker title. */
+"Move_Title" = "Переместить";
+
+/*-----
+ Editor
+ -----*/
+
+/* Title for content block warning list. */
+"Content_Block_Warnings_Title" = "Блоки контента";
+
+/* Prompt for content block warning list. */
+"Content_Block_Warnings_Prompt" = "Не удалось обработать часть контента.";
+
+/* Action to continue content block processing despite warnings. */
+"Content_Block_Warnings_Continue" = "Продолжить";
+
+/* Title for content block picker. */
+"Content_Block_Picker_Title" = "Добавить блок контента";
+
+/* Action sheet action to enable focus mode. */
+"Action_Enable_Focus_Mode" = "Включить режим фокуса";
+
+/* Action sheet action to disable focus mode. */
+"Action_Disable_Focus_Mode" = "Выключить режим фокуса";
+
+/* Action sheet action to enable syntax control. */
+"Action_Enable_Syntax_Control" = "Показать синтаксис";
+
+/* Action sheet action to disable syntax control. */
+"Action_Disable_Syntax_Control" = "Скрыть синтаксис";
+
+/* Action sheet action to enable syntax control. */
+"Action_Show_Stats" = "Показать статистику";
+
+/* Action sheet action to disable syntax control. */
+"Action_Hide_Stats" = "Скрыть статистику";
+
+/* Action sheet action. */
+"Action_Configure_Editor" = "Настроить редактор";
+
+/*---------
+ Menu Items
+ ---------*/
+
+/* Menu item title for text transformations. */
+"Menu_Item_Transform" = "Преобразования…";
+
+/* Menu item title for transforming text to upper case. */
+"Menu_Item_Transform_To_Upper_Case" = "Верхний регистр";
+
+/* Menu item title for transforming text to lower case. */
+"Menu_Item_Transform_To_Lower_Case" = "Нижний регистр";
+
+/* Menu item title for captilizing first letter of every word. */
+"Menu_Item_Transform_To_Capitalized" = "С заглавной буквы";
+
+/* Menu item title for transforming text to title case. */
+"Menu_Item_Transform_To_Title_Case" = "Английский заголовок";
+
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "Скопировать путь в библиотеке";
+
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "Скопировать путь для URL-команд";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "Скопировать URL-команду открыть файл";
+
+/* Menu item title for copying HTML. */
+"Menu_Item_Copy_HTML" = "Скопировать HTML";
+
+/* Menu item title for copying formatted text. */
+"Menu_Item_Copy_Formatted" = "Скопировать отформатированный текст";
+
+/*----------
+ Table Views
+ ----------*/
+
+/* Table view swipe action title. */
+"Table_View_Action_Delete" = "Удалить";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
+
+/* Table view swipe action title. */
+"Table_View_Action_Remove" = "Удалить из списка";
+
+/* Table view swipe action title. */
+"Table_View_Action_More" = "Ещё";
+
+/* Table view swipe action title. */
+"Table_View_Action_Hide" = "Скрыть";
+
+/*------------
+ Folder Picker
+ ------------*/
+
+/* Section title for recent folder section. */
+"Library_Picker_Recent_Section_Title" = "Недавние";
+
+/* Section title for all folders section. */
+"Library_Picker_All_Section_Title" = "Все";
+
+/*------------------
+ Smart Folder Editor
+ ------------------*/
+
+/* Smart folder editor title while editing an existing smart folder. */
+"Smart_Folder_Editor_Edit_Title" = "Редактировать смарт-папку";
+
+/* Smart folder editor title while creating a new smart folder. */
+"Smart_Folder_Editor_New_Title" = "Новая смарт-папка";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Name_Section_Title" = "Имя";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Rules_Section_Title" = "Правила";
+
+/* Smart folder action to add a new rule. */
+"Smart_Folder_Editor_New_Rule_Action" = "Новое правило…";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Section_Title" = "Результаты";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Action" = "Ограничить %@ результатами";
+
+/* Smart folder section on matching type. */
+"Smart_Folder_Match_Section_Title" = "Результаты удовлетворяют";
+"Smart_Folder_Match_All" = "Всем следующим правилам";
+"Smart_Folder_Match_Any" = "Любому из следующих правил";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Section_Title" = "Порядок сортировки";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Custom" = "Сортировать отдельно от библиотеки";
+
+/* Button to show sort by options. */
+"Smart_Folder_Sort_By_Custom_Edit" = "Сортировать по";
+
+/*----------
+ Rule Editor
+ ----------*/
+
+/* Placeholder for text variables in predicates. */
+"Predicate_Placeholder_Text" = "Текст";
+
+/* Predicate format for text values: Extension is `“txt”`. */
+"Predicate_Quoted_Value" = "«%@»";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "Дата";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "Установить дату";
+
+/* Rule editor title while adding a new rule. */
+"Rule_Editor_New_Title" = "Новое правило";
+
+/* Rule editor title while editing an existin rule. */
+"Rule_Editor_Edit_Title" = "Изменить правило";
+
+/*--
+ Add
+ --*/
+
+/* Action to open camera. */
+"Action_Take_Photo" = "Сфотографировать…";
+
+/* Action to open photo library. */
+"Action_Choose_Photo" = "Выбрать фото…";
+
+/* Action to create new file. */
+"Action_New_File" = "Новый файл";
+
+/* Title for alert to create new folder. */
+"New_File_Alert_Title" = "Введите имя файла";
+
+/* Action to create new folder. */
+"Action_Create_File" = "Новый файл";
+
+/* Title for alert to create new folder. */
+"New_Folder_Alert_Title" = "Введите имя папки";
+
+/* Action to create new folder. */
+"Action_Create_Folder" = "Новая папка";
+
+/* Title for alert to enter photo name. */
+"Photo_Name_Alert_Title" = "Введите имя фотографии";
+
+/* Action to add a photo. */
+"Action_Add_Photo" = "Добавить фото";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Find" = "Найти";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Replace" = "Заменить";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Confirmation" = "Переименовать";
+
+/*---------
+ Table Size
+ ---------*/
+
+/* Columns number label in table size picker. */
+"Table_Size_Picker_Columns" = "Столбцы";
+
+/* Rows number label in table size picker. */
+"Table_Size_Picker_Rows" = "Строки";
+
+/* Action title to add table with a selected size. */
+"Action_Add_Table" = "Добавить таблицу";
+
+/* Action title to add selected date. */
+"Action_Add_Date" = "Добавить дату";
+
+/*---
+ Info 
+ ---*/
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "Изменено";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "Создано";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "Имя";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "Расширение";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "Размер";
+
+/*-----
+ Export
+ -----*/
+
+/* Share sheet Medium activity option */
+"Share_Sheet_Medium_Activity_Title" = "Новый черновик в Medium";
+
+/* Share sheet WordPress activity option */
+"Share_Sheet_WordPress_Activity_Title" = "Новый черовик в WordPress";
+
+/* Share sheet `open file in app` activity option */
+"Share_Sheet_Open_In_Activity_Title" = "Открыть в…";
+
+/* Share sheet 'Save to…" activity option */
+"Save_To_Export_Label" = "Сохранить в…";
+
+/* Sharing button title. */
+"Button_Share" = "Поделиться";
+
+/* Sharing button title. */
+"Action_Share" = "Поделиться…";
+
+/* Action menu title. */
+"Action_Export" = "Экспортировать…";
+
+/* Action menu title. */
+"Action_Print" = "Напечатать…";
+
+/* Action menu title. */
+"Action_Print_Formatted" = "Напечатать…";
+
+/* Action menu title. */
+"Action_Print_Plain_Text" = "Напечатать редактор…";
+
+/* Action menu title. */
+"Action_Export_Markdown" = "Markdown…";
+
+/* Action menu title. */
+"Action_Export_HTML" = "HTML…";
+
+/* Action menu title. */
+"Action_Export_PDF" = "PDF…";
+
+/* Action menu title. */
+"Action_Export_Word" = "Microsoft Word…";
+
+/* Action menu title. */
+"Action_Export_Project_Archive" = "Архив проекта…";
+
+/*--------------
+ Version Browser
+ --------------*/
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "Конфликт версий";
+
+/* Version browser title */
+"Version_Browser_Title" = "Версии";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "Текущий";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "Все доступные версии %@.";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "Выберите более раннюю версию для восстановления. Выберите текущую версию в дополнение к более старым версиям, чтобы создать их в виде отдельных файлов.";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "Изменения не синхронизированы. Выберите, какие документы нужно сохранить.";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "Конфликт версий %@.";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "Сохранить";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "Сохранить обе";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "Сохранить все";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "Сохранить %d";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "Восстановить";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "Восстановить последнюю, создать %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "Создать %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "Не удается считать версии";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "Ошибка iCloud: «%@».";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "Неизвестная ошибка";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "Сеть недоступна.";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "Не удалось подключиться.";
+
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "Облачный сервис в программе Файлы не обработал запрос";
+"Files_App_Service_Provider_Error_Localized_Description" = "Облачный сервис в программе Файлы не обработал запрос.";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "Если ошибка будет повторяться, обратитесь в поддержку облачного сервиса.";
+
+"Files_App_Library_Location_Not_Supported_Error_Title" = "Cannot Add Selected Library Location";
+"Files_App_Library_Location_Not_Supported_Error" = "Cannot add selected library location.";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "Files app cloud service does not support this feature.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Please contact your cloud service provider for support.";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder for Quick Search field. */
+"Quick_Search_Placeholder" = "Быстрый поиск";
+
+/* Quick Search recent files section title. */
+"Quick_Search_Recent_Files_Section_Title" = "Недавние файлы";
+
+/* Quick Search files section title. */
+"Quick_Search_Files_Section_Title" = "Файлы";
+
+/* Quick Search recent actions section title. */
+"Quick_Search_Recent_Actions_Section_Title" = "Последние команды";
+
+/* Quick Search actions search section title. */
+"Quick_Search_Actions_Section_Title" = "Команды";
+
+/*--------------------------
+ Key Commands & Quick Search
+ --------------------------*/
+
+/* Quick Search key command titles. */
+"Discoverability_Quick_Search_Select_Next_Result" = "Выбрать следующий";
+"Discoverability_Quick_Search_Select_Previous_Result" = "Выбрать предыдущий";
+"Discoverability_Quick_Search" = "Быстрый поиск";
+
+/* General action key command titles. */
+"Discoverability_New" = "Новый файл";
+
+"Discoverability_Dark_Mode" = "Тёмная тема";
+"Discoverability_Light_Mode" = "Светлая тема";
+/* Old name used for search matching. */
+"Discoverability_Night_Mode" = "Ночной режим";
+
+/* Editor action key command titles. */
+"Discoverability_Syntax" = "Подсветка синтаксиса";
+"Discoverability_Browse_Versions" = "Предыдущие версии";
+"Discoverability_New" = "Новый файл";
+"Discoverability_Open" = "Открыть…";
+"Discoverability_Preview" = "Просмотр";
+"Discoverability_Strong" = "Жирный";
+"Discoverability_Strikethrough" = "Зачеркнутый";
+"Discoverability_Headings" = "Заголовок 1-6";
+"Discoverability_Blockquote" = "Blockquote";
+"Discoverability_List" = "Список";
+"Discoverability_Link" = "Ссылка";
+"Discoverability_Footnote" = "Сноска";
+"Discoverability_Task_List" = "Список задач";
+"Discoverability_Ordered_List" = "Упорядоченный список";
+"Discoverability_Ordered_Task_List" = "Упорядоченный список задач";
+"Discoverability_Move_Line_Up" = "Переместить строку вверх";
+"Discoverability_Move_Line_Down" = "Переместить строку вниз";
+"Discoverability_Focus" = "Режим концентрации внимания";
+"Discoverability_Typewriter" = "Режим пишущей машинки";
+"Discoverability_Share" = "Поделиться";
+"Discoverability_Export_PDF" = "Экспортировать в PDF";
+"Discoverability_Export_Markdown" = "Экспортировать в Markdown";
+"Discoverability_Export_HTML" = "Экспортировать в HTML";
+"Discoverability_Export_Word" = "Экспортировать в Microsoft Word";
+"Discoverability_Export_Project_Archive" = "Экспортировать архив проекта";
+"Discoverability_Configure_Keyboard" = "Настроить клавиатуру";
+"Discoverability_Settings" = "Настройки";
+"Discoverability_Configure_Keyboard" = "Настроить клавиатуру";
+"Discoverability_Settings" = "Настройки";
+"Discoverability_Increase_Size" = "Увеличить размер текста";
+"Discoverability_Decrease_Size" = "Уменьшить размер текста";
+"Discoverability_Default_Size" = "Размер текста по умолчанию";
+"Discoverability_Find_Next" = "Найти следующий";
+"Discoverability_Find_Previous" = "Найти предыдущий";
+"Discoverability_Find" = "Найти";
+"Discoverability_Help" = "Справка";
+"Discoverability_Stats" = "Статистика";
+
+/*------
+ Preview
+ ------*/
+
+/* Title shown in preview. */
+"Preview_Title" = "Просмотр";
+
+/* Empty preview placeholder. */
+"Preview_Content_Placeholder" = "Нет содержимого для просмотра";
+
+/* Action to change template. */
+"Preview_Template_Action" = "Выбрать";
+
+/* Action to change template. */
+"Action_Configure_Templates" = "Настроить шаблоны";
+
+/*---------------
+ Template Install
+ ---------------*/
+
+/* Alert message after a template is successfully installed. */
+"Template_Installed_Title" = "Установлен шаблон «%@»";
+
+/* Alert info text after a template is successfully installed. */
+"Template_Installed_Description" = "Шаблоны используются в просмотре. Шаблоны можно удалить в настройках.";
+
+/*-------
+ Settings
+ -------*/
+
+/* Button to open settings. */
+"Settings_Title" = "Настройки";
+
+/* Action to switch to night mode. */
+"Settings_Dark_Appearance" = "Тёмная тема";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "Тёмная иконка";
+
+/* Settings panes. */
+"Settings_General_Title" = "Общие";
+"Settings_Files_Title" = "Файлы";
+"Settings_Library_Title" = "Библиотека";
+"Settings_Editor_Title" = "Редактор";
+"Settings_Templates_Title" = "Шаблоны";
+"Settings_URL_Scheme_Title" = "URL-команды";
+
+/* Appearance section in settings. */
+"Settings_Appearance_Section_Title" = "Вид";
+
+/* Sharing accounts section in settings. */
+"Settings_Accounts_Section_Title" = "Совместное использование учетных записей";
+
+"Settings_Accounts_Medium_Add" = "Добавить аккаунт Medium…";
+"Settings_Accounts_Medium_Remove" = "Удалить Medium…";
+"Settings_Accounts_Medium_Remove_Confirmation" = "Удалить Medium";
+"Settings_Accounts_Medium_Add_Title" = "Medium";
+"Settings_Accounts_Medium_Add_Message" = "iA Writer создает черновики, которые можно проверить перед публикацией.";
+"Settings_Accounts_Medium_Get_Token" = "Получить токен в Medium";
+"Settings_Accounts_Medium_Add_Token_Placeholder" = "Токен";
+"Settings_Accounts_Medium_Invalid_Token_Title" = "Недопустимый токен";
+"Settings_Accounts_Medium_Invalid_Token_Message" = "Убедитесь, что вы ввели действительный токен Medium.";
+
+"Settings_Accounts_WordPress_Add" = "Добавить учетную запись WordPress…";
+"Settings_Accounts_WordPress_Remove" = "Удалить WordPress…";
+"Settings_Accounts_WordPress_Remove_Confirmation" = "Удалить WordPress";
+"Settings_Accounts_WordPress_Add_Title" = "WordPress";
+"Settings_Accounts_WordPress_Add_Message" = "iA Writer создает черновики, которые можно проверить перед публикацией.\n\nСайты WordPress, размещенные на собственных ресурсах, поддерживаются только с помощью Jetpack.\n\nЕсли к вашей учетной записи подключено более одного сайта, публикации будут созданы на вашем основном сайте.";
+"Settings_Accounts_WordPress_About_Jetpack" = "О Jetpack";
+"Settings_Accounts_WordPress_Authorize" = "Разрешить";
+
+/*-------------
+ Files Settings
+ -------------*/
+
+"Default_File_Extension_Section_Title" = "Расширение по умолчанию";
+"Default_File_Extension_Section_Footer" = "Новые файлы будут использовать это расширение. Разрешены только текстовые расширения.";
+
+/*--------------
+ Library Settings
+ --------------*/
+
+/* Library section in settings. */
+"Settings_Library_Appearance_Section_Title" = "Вид";
+"Settings_Library_Show_Text_Excerpts" = "Отрывки из текста";
+"Settings_Library_Show_Extensions" = "Расширения файлов";
+"Settings_Library_Show_Extensions" = "Расширения файлов";
+"Settings_Library_Pin_Folders_To_Top" = "Папки сверху";
+
+/* Sort by section in settings. */
+"Settings_Library_Sort_By_Section_Title" = "Порядок сортировки";
+"Settings_Library_Sort_By_Edit" = "Сортировать по";
+
+/*--------------
+ Editor Settings
+ --------------*/
+
+/* Syntax control section in settings. */
+"Settings_Editor_Syntax_Control_Section_Title" = "Подсветка синтаксиса";
+
+/* Editor section in settings. */
+"Settings_Editor_Appearance_Section_Title" = "Вид";
+"Settings_Editor_Show_Stats" = "Показать статистику";
+
+/* Typography section in settings. */
+"Settings_Editor_Typography_Section_Title" = "Типографика";
+"Settings_Editor_Line_Length_Limit_Edit" = "Длина строки";
+"Settings_Editor_Font" = "Гарнитура";
+"Settings_Editor_Language" = "Тип";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Focus_Mode_Section_Title" = "Режим фокуса";
+"Settings_Editor_Focus_Mode" = "Режим фокуса";
+"Settings_Editor_Focus_Mode_Scope" = "Тип";
+
+/* Keyboard section in settings. */
+"Settings_Editor_Keyboard_Section_Title" = "Клавитура";
+"Settings_Editor_Keyboard_Prefers_Popover" = "Только всплывающее окно";
+"Settings_Editor_Keyboard_Configure" = "Настроить клавиатуру";
+"Settings_Editor_Keyboard_Section_Footer" = "Нажмите и удерживаете любую из белых клавиш без меню чтобы быстро перейти к режиму настройки клавиатуры.";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "Физическая клавиатура";
+"Settings_Editor_Hardware_Keyboard_Footer" = "Панель инструментов с кнопками и предиктивным набором будет скрыта при подключении физической клавиатуры.";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "Скрыть панель инструментов";
+
+/* Smart substitutions section in settings. */
+"Settings_Editor_Text_Input_Section_Title" = "Ввод текста";
+"Settings_Editor_Text_Input_Section_Footer" = "Проверку правописания и смарт-пунктуацию можно включить в программе Настройки → Основные → Клавиатура.";
+"Settings_Editor_Check_Spelling" = "Проверять правописание";
+"Settings_Editor_Smart_Quotes" = "Смарт-кавычки";
+"Settings_Editor_Smart_Dashes" = "Смарт-тире";
+"Settings_Editor_Smart_Inset_Delete" = "Смарт-скопировать/вставить";
+
+/* Tabs vs spaces settings. */
+"Settings_Editor_Text_Indentation" = "Оступать используя";
+"Settings_Editor_Text_Indentation_Tabs" = "Табуляции";
+"Settings_Editor_Text_Indentation_Spaces" = "Пробелы";
+
+
+/* Find settings. */
+"Settings_Editor_Find_Section_Title" = "Поиск текста";
+"Settings_Editor_Find_Regular_Expression" = "Регулярные выражения";
+
+/*----------------
+ Templates Settings
+ ----------------*/
+
+/* Section title for built-in templates. */
+"Settings_Templates_Default_Templates_Section_Title" = "Шаблоны по умолчанию";
+
+/* Section title for users templates. */
+"Settings_Templates_Custom_Templates_Section_Title" = "Пользовательские шаблоны";
+
+/* Action title to get more templates. */
+"Settings_Templates_Get_More" = "Скачать шаблоны";
+
+/* Action to change template. */
+"Settings_Templates_Appearance_Section_Title" = "Вид";
+"Settings_Templates_Appearance_Center_Headings" = "Заголовки по центру";
+"Settings_Templates_Appearance_Number_Headings" = "Нумерация заголовков";
+"Settings_Templates_Appearance_Indent_Paragraphs" = "Отступать первую строку";
+"Settings_Templates_Appearance_Invert_Preview_Colors" = "Инвертировать цвета просмотра";
+
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "Обработка Markdown";
+"Settings_Markdown_Lazy_Paragraphs" = "Один ввод для нового абзаца";
+"Settings_Markdown_Smart_Punctuation" = "Смарт-пунктуация";
+"Settings_Markdown_Process_Metadata" = "Обрабатывать метаданные";
+"Settings_Markdown_Hide_Hashtags" = "Скрыть хэштеги";
+
+/* Printing & PDF export section in settings. */
+"Settings_Printing_And_PDF_Export_Section_Title" = "Печать и экспорт в PDF";
+"Settings_Printing_And_PDF_Export_Include_Title_Page" = "Титульная страница";
+"Settings_Printing_And_PDF_Export_Include_Header" = "Верний колонтитул";
+"Settings_Printing_And_PDF_Export_Include_Footer" = "Нижний колонтитул";
+
+/* Author name section in settings. */
+"Settings_Templates_Author_Name_Section_Title" = "Автор";
+"Settings_Templates_Author_Name_Placeholder" = "Без имени";
+
+/* Action to change preferred paper size. */
+"Settings_Paper_Size_Section_Title" = "Размер бумаги";
+
+/* Action to share template. */
+"Table_View_Action_Share" = "Поделиться";
+
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "Включить URL-команды";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "Токен авторизации";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "Токен авторизации требуется для некоторых команд URL.";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "Копировать";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "Сбросить…";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "Включение URL-команд";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "Включить URL-команды iA Writer? Вы можете изменить этот параметр позже в настройках.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "Сбросить токен авторизации";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "Вы действительно хотите сбросить токен авторизации? Это действие нельзя отменить.";

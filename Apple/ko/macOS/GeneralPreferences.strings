@@ -1,0 +1,72 @@
+
+/* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
+"7Ng-I8-X9P.title" = "시스템 외관 일치";
+
+/* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "자동화:";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
+"8Ra-gX-fPi.title" = "어둡게";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "ACg-Xt-HjR"; */
+"ACg-Xt-HjR.title" = "어둡게";
+
+/* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
+"BDr-jl-Y9p.title" = "도크 아이콘:";
+
+/* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
+"E5V-bl-YDo.title" = "WordPress:";
+
+/* Class = "NSTextFieldCell"; title = "Gestures:"; ObjectID = "EKU-lN-yAq"; */
+"EKU-lN-yAq.title" = "제스처:";
+
+/* Class = "NSTextFieldCell"; title = "Medium:"; ObjectID = "GOB-Zh-pBT"; */
+"GOB-Zh-pBT.title" = "Medium:";
+
+/* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "LlI-C5-bpg"; */
+"LlI-C5-bpg.title" = "도구 모음:";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
+"Lup-ic-GtQ.title" = "계정 이름";
+
+/* Class = "NSButtonCell"; title = "Enable URL commands"; ObjectID = "Oh0-bg-EXQ"; */
+"Oh0-bg-EXQ.title" = "URL 명령 활성화";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
+"Rnn-Wj-4HI.title" = "외관:";
+
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
+"SWw-D8-EqL.title" = "페이드 인/아웃";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
+"U8m-wr-wFI.title" = "밝게";
+
+/* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "관리...";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "W2O-dO-Pds"; */
+"W2O-dO-Pds.title" = "계정 제거";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "ar9-tg-u1B"; */
+"ar9-tg-u1B.title" = "계정 제거";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
+"c8E-lj-f6I.title" = "숨기기";
+
+/* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
+"ilj-nk-Mxd.title" = "편집기와 동기화해서 미리 보기 스크롤";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
+"j0k-Io-Sa4.title" = "항상 표시";
+
+/* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
+"pJV-vk-Inh.title" = "쓸어넘겨서 라이브러리 또는 미리 보기 표시";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
+"sN4-AX-e4A.title" = "계정 이름";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
+"vB9-wl-rUL.title" = "밝게";
+
+/* Class = "NSButtonCell"; title = "Match app appearance"; ObjectID = "zYE-q5-H6k"; */
+"zYE-q5-H6k.title" = "앱 외관 일치";

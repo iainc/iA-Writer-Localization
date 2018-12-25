@@ -15,6 +15,9 @@
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Add_Favorite" = "Aggiungi preferito...";
 
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Cartelle intelligenti";
 
@@ -47,6 +50,15 @@
 
 /* Title for action to open main help page. */
 "Help_Action_Main" = "Guida di iA Writer";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "Come aggiungere una posizione nella Libreria";
+"Library_Location_Introduction_Alert_Message" = "\nApri una cartella che contiene la cartella che desideri usare come Posizione della libreria.\n\nTocca Seleziona, seleziona la cartella e tocca Apri.";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Non mostrare più";
+"Library_Location_Rename_Alert_Title" = "Rinomina posizione della libreria";
 
 /*------
  Backups
@@ -274,6 +286,12 @@
 /* Menu item to copy a library path to file. */
 "Menu_Item_Copy_Library_Path" = "Copia percorso libreria";
 
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "Copia percorso di comando URL";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "Copia percorso di comando URL su Open File";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "Copia HTML";
 
@@ -286,6 +304,9 @@
 
 /* Table view swipe action title. */
 "Table_View_Action_Delete" = "Cancella";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
 
 /* Table view swipe action title. */
 "Table_View_Action_Remove" = "Elimina";
@@ -560,6 +581,11 @@
 "Files_App_Service_Provider_Error_Localized_Description" = "Il servizio cloud dell’app File non è riuscito a elaborare la richiesta.";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "Se l’errore persiste, contatta il tuo cloud service provider per assistenza.";
 
+"Files_App_Library_Location_Not_Supported_Error_Title" = "Impossibile aggiungere la posizione della libreria selezionata";
+"Files_App_Library_Location_Not_Supported_Error" = "Impossibile aggiungere la posizione della libreria selezionata.";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "Il servizio cloud app file non supporta questa funzionalità.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Per ricevere assistenza, contatta il tuo fornitore di servizi cloud.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -604,10 +630,11 @@
 "Discoverability_Preview" = "Anteprima";
 "Discoverability_Strong" = "Neretto";
 "Discoverability_Strikethrough" = "Barrato";
-"Discoverability_Emphasis" = "Corsivo";
 "Discoverability_Headings" = "Intestazione 1-6";
 "Discoverability_Blockquote" = "Blockquote";
 "Discoverability_List" = "Elenco";
+"Discoverability_Link" = "Link";
+"Discoverability_Footnote" = "Nota a piè di pagina";
 "Discoverability_Task_List" = "Elenco attività";
 "Discoverability_Ordered_List" = "Elenco ordinato";
 "Discoverability_Ordered_Task_List" = "Elenco attività ordinato";
@@ -732,7 +759,7 @@
  --------------*/
 
 /* Syntax control section in settings. */
-"Settings_Editor_Syntax_Control_Section_Title" = "Controllo sintassi";
+"Settings_Editor_Syntax_Control_Section_Title" = "Evidenzia sintassi";
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Aspetto";
@@ -742,6 +769,7 @@
 "Settings_Editor_Typography_Section_Title" = "Tipografia";
 "Settings_Editor_Line_Length_Limit_Edit" = "Lunghezza massima di linea";
 "Settings_Editor_Font" = "Carattere";
+"Settings_Editor_Language" = "Lingua";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Modalità focus";
@@ -769,7 +797,7 @@
 
 /* Tabs vs spaces settings. */
 "Settings_Editor_Text_Indentation" = "Uso di rientro";
-"Settings_Editor_Text_Indentation_Tabs" = "Schede";
+"Settings_Editor_Text_Indentation_Tabs" = "Tab";
 "Settings_Editor_Text_Indentation_Spaces" = "Spazi";
 
 
@@ -801,7 +829,7 @@
 "Settings_Markdown_Section_Title" = "Elaborazione di markdown";
 "Settings_Markdown_Lazy_Paragraphs" = "Un invio singolo inizia un nuovo paragrafo";
 "Settings_Markdown_Smart_Punctuation" = "Punteggiatura intelligente";
-"Settings_Markdown_Hide_Metadata" = "Nascondi metadati";
+"Settings_Markdown_Process_Metadata" = "Elabora metadati";
 "Settings_Markdown_Hide_Hashtags" = "Nascondi hashtag";
 
 /* Printing & PDF export section in settings. */

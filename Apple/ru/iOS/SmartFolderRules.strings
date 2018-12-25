@@ -1,0 +1,30 @@
+
+/* This file is used for localizing smart folder rule summaries. Rules in this file should read as sentences. Use sentence capitalization for the rule a whole. */
+/* NOTE: Do NOT translate comparison types (like “is less than” or “begins with”) directly. Please always check English value for the intended usage for the particular case. */
+
+/* Date modified kind rule templates. */
+"%[dateModified]@ %[is less than]@ %@" = "%1$[Дата изменения]@ %2$[до даты]@ %3$@";
+"%[dateModified]@ %[is greater than]@ %@" = "%1$[Date modified]@ %2$[после даты]@ %3$@";
+
+/* Date modified relative rule templates. */
+"%[dateModified]@ %[begins with]@ %@" = "%1$[Дата изменения]@ %2$[в последние]@ %3$@ дней";
+"%[dateModified]@ %[ends with]@ %@" = "%1$[Дата изменения]@ %2$[не в последние]@ %3$@ дней";
+
+/* Library item kind rule templates. */
+"%[kind]@ %[is]@ %[text]@" = "%1$[Тип]@ %2$[—]@ %3$[текст]@";
+"%[kind]@ %[is not]@ %[text]@" = "%1$[Тип]@ %2$[— не]@ %3$[текст]@";
+"%[kind]@ %[is]@ %[folder]@" = "%1$[Тип]@ %2$[—]@ %3$[папка]@";
+"%[kind]@ %[is not]@ %[folder]@" = "%1$[Тип]@ %2$[— не]@ %3$[папка]@";
+"%[kind]@ %[is]@ %[other]@" = "%1$[Тип]@ %2$[—]@ %3$[другой]@";
+"%[kind]@ %[is not]@ %[other]@" = "%1$[Тип]@ %2$[— не]@ %3$[другой]@";
+
+/* Search rule templates. */
+"%[search]@ %[matches]@ %@" = "%1$[Текст]@ %2$[содержит]@ %3$@";
+
+/* Library item parent path rule templates. */
+"%[parentPath]@ %[is]@ %@" = "%1$[Путь к родителю]@ %2$[—]@ %3$@";
+"%[parentPath]@ %[is not]@ %@" = "%1$[Путь к родителю]@ %2$[— не]@ %3$@";
+
+/* Library item ancestor path rule templates. */
+"%[ancestorPath]@ %[is]@ %@" = "%1$[Путь к родителю]@ %2$[начинается с]@ %3$@";
+"%[ancestorPath]@ %[is not]@ %@" = "%1$[Путь к родителю]@ %2$[не начинается с]@ %3$@";

@@ -1,0 +1,72 @@
+
+/* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
+"7Ng-I8-X9P.title" = "Использовать тему системы";
+
+/* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "Автоматизация:";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
+"8Ra-gX-fPi.title" = "Тёмная";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "ACg-Xt-HjR"; */
+"ACg-Xt-HjR.title" = "Тёмная";
+
+/* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
+"BDr-jl-Y9p.title" = "Иконка в Dock:";
+
+/* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
+"E5V-bl-YDo.title" = "WordPress:";
+
+/* Class = "NSTextFieldCell"; title = "Gestures:"; ObjectID = "EKU-lN-yAq"; */
+"EKU-lN-yAq.title" = "Жесты:";
+
+/* Class = "NSTextFieldCell"; title = "Medium:"; ObjectID = "GOB-Zh-pBT"; */
+"GOB-Zh-pBT.title" = "Medium:";
+
+/* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "LlI-C5-bpg"; */
+"LlI-C5-bpg.title" = "Панель инструментов:";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
+"Lup-ic-GtQ.title" = "Имя учетной записи";
+
+/* Class = "NSButtonCell"; title = "Enable URL commands"; ObjectID = "Oh0-bg-EXQ"; */
+"Oh0-bg-EXQ.title" = "Включить URL-команды";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
+"Rnn-Wj-4HI.title" = "Тема оформления:";
+
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
+"SWw-D8-EqL.title" = "Автоматически";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
+"U8m-wr-wFI.title" = "Светлая";
+
+/* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "Изменить…";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "W2O-dO-Pds"; */
+"W2O-dO-Pds.title" = "Удалить учетную запись";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "ar9-tg-u1B"; */
+"ar9-tg-u1B.title" = "Удалить учетную запись";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
+"c8E-lj-f6I.title" = "Скрыть";
+
+/* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
+"ilj-nk-Mxd.title" = "Вместе прокручивать редактор и просмотр";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
+"j0k-Io-Sa4.title" = "Всегда показывать";
+
+/* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
+"pJV-vk-Inh.title" = "Смахивать библиотеку и просмотр";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
+"sN4-AX-e4A.title" = "Имя учетной записи";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
+"vB9-wl-rUL.title" = "Светлая";
+
+/* Class = "NSButtonCell"; title = "Match app appearance"; ObjectID = "zYE-q5-H6k"; */
+"zYE-q5-H6k.title" = "Использовать тему программы";

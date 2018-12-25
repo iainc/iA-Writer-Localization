@@ -15,6 +15,9 @@
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Add_Favorite" = "Ajouter un favori…";
 
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Dossiers intelligents";
 
@@ -47,6 +50,15 @@
 
 /* Title for action to open main help page. */
 "Help_Action_Main" = "Aide iA Writer";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "Comment ajouter un emplacement de bibliothèque ?";
+"Library_Location_Introduction_Alert_Message" = "\nOuvrez un dossier contenant le dossier que vous souhaitez utiliser comme emplacement de bibliothèque.\n\nCliquez sur « Sélectionner », sélectionnez le dossier, puis cliquez sur « Ouvrir ».";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Ne plus afficher";
+"Library_Location_Rename_Alert_Title" = "Renommer l’emplacement de bibliothèque";
 
 /*------
  Backups
@@ -274,6 +286,12 @@
 /* Menu item to copy a library path to file. */
 "Menu_Item_Copy_Library_Path" = "Copier le chemin de la bibliothèque";
 
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "Copier le chemin de commande URL";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "Copier le chemin de commande URL pour ouvrir le fichier";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "Copier l’HTML";
 
@@ -286,6 +304,9 @@
 
 /* Table view swipe action title. */
 "Table_View_Action_Delete" = "Supprimer";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
 
 /* Table view swipe action title. */
 "Table_View_Action_Remove" = "Retirer";
@@ -560,6 +581,11 @@
 "Files_App_Service_Provider_Error_Localized_Description" = "Le service cloud de l’application de Fichiers n’a pas pu traiter la requête.";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "Si l’erreur persiste, veuillez contacter le fournisseur de votre service cloud pour obtenir de l’aide.";
 
+"Files_App_Library_Location_Not_Supported_Error_Title" = "L’emplacement de bibliothèque sélectionné ne peut pas être ajouté";
+"Files_App_Library_Location_Not_Supported_Error" = "Un emplacement de bibliothèque sélectionné peut pas être ajouté.";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "Le service cloud de l’application de fichiers n’est pas compatible avec cette fonction.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Veuillez contacter votre fournisseur de service cloud pour obtenir de l’aide.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -597,17 +623,18 @@
 "Discoverability_Night_Mode" = "Mode nuit";
 
 /* Editor action key command titles. */
-"Discoverability_Syntax" = "Mise en évidence de la syntaxe";
+"Discoverability_Syntax" = "Surlignage de la syntaxe";
 "Discoverability_Browse_Versions" = "Parcourir les versions";
 "Discoverability_New" = "Nouveau";
 "Discoverability_Open" = "Ouvrir…";
 "Discoverability_Preview" = "Aperçu";
 "Discoverability_Strong" = "Gras";
 "Discoverability_Strikethrough" = "Barré";
-"Discoverability_Emphasis" = "Italique";
 "Discoverability_Headings" = "En-têtes 1 à 6";
 "Discoverability_Blockquote" = "Blockquote";
 "Discoverability_List" = "Liste";
+"Discoverability_Link" = "Lien";
+"Discoverability_Footnote" = "Note de bas de page";
 "Discoverability_Task_List" = "Liste des tâches";
 "Discoverability_Ordered_List" = "Liste ordonnée";
 "Discoverability_Ordered_Task_List" = "Liste des tâches ordonnées";
@@ -732,7 +759,7 @@
  --------------*/
 
 /* Syntax control section in settings. */
-"Settings_Editor_Syntax_Control_Section_Title" = "Contrôle de la syntaxe";
+"Settings_Editor_Syntax_Control_Section_Title" = "Surlignage de la syntaxe";
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Apparence";
@@ -742,6 +769,7 @@
 "Settings_Editor_Typography_Section_Title" = "Typographie";
 "Settings_Editor_Line_Length_Limit_Edit" = "Longueur de ligne maximum";
 "Settings_Editor_Font" = "Police";
+"Settings_Editor_Language" = "Langue";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Mode concentration";
@@ -801,7 +829,7 @@
 "Settings_Markdown_Section_Title" = "Traitement Markdown";
 "Settings_Markdown_Lazy_Paragraphs" = "Un retour à la ligne commence un nouveau paragraphe";
 "Settings_Markdown_Smart_Punctuation" = "Ponctuation intelligente";
-"Settings_Markdown_Hide_Metadata" = "Masquer les métadonnées";
+"Settings_Markdown_Process_Metadata" = "Traiter les métadonnées";
 "Settings_Markdown_Hide_Hashtags" = "Masquer les hashtags";
 
 /* Printing & PDF export section in settings. */

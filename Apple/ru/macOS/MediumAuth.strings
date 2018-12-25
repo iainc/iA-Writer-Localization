@@ -1,0 +1,15 @@
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "5eH-hV-O4D"; */
+"5eH-hV-O4D.title" = "Добавить";
+
+/* Class = "NSTextFieldCell"; title = "Token:"; ObjectID = "IKI-bB-hfJ"; */
+"IKI-bB-hfJ.title" = "Токен:";
+
+/* Class = "NSButtonCell"; title = "Get Token on Medium"; ObjectID = "bjR-4i-7f6"; */
+"bjR-4i-7f6.title" = "Получить токен в Medium";
+
+/* Class = "NSTextFieldCell"; title = "iA Writer creates drafts which you can review before publishing."; ObjectID = "kX3-07-gtK"; */
+"kX3-07-gtK.title" = "iA Writer создает черновики, которые вы можете просмотреть перед публикацией.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "qCe-we-crd"; */
+"qCe-we-crd.title" = "Отменить";
