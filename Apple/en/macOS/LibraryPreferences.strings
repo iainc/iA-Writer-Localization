@@ -1,18 +1,21 @@
 
+/* Class = "NSButtonCell"; title = "Favorites"; ObjectID = "1vM-dI-KK9"; */
+"1vM-dI-KK9.title" = "Favorites";
+
+/* Class = "NSButtonCell"; title = "Smart Folders"; ObjectID = "4HG-9x-5so"; */
+"4HG-9x-5so.title" = "Smart Folders";
+
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "5cq-Pu-8y9"; Note = "SKIP LOCALIZATION"; */
 "5cq-Pu-8y9.title" = "Date Modified";
 
-/* Class = "NSButtonCell"; title = "Show text excerpts"; ObjectID = "9c8-RY-Bqq"; */
-"9c8-RY-Bqq.title" = "Show text excerpts";
+/* Class = "NSButtonCell"; title = "Text excerpts"; ObjectID = "9c8-RY-Bqq"; */
+"9c8-RY-Bqq.title" = "Text excerpts";
 
-/* Class = "NSButtonCell"; title = "Add Library Location"; ObjectID = "BGx-AI-dtZ"; */
-"BGx-AI-dtZ.title" = "Add Library Location";
+/* Class = "NSButtonCell"; title = "Hashtags"; ObjectID = "CjX-jS-fbZ"; */
+"CjX-jS-fbZ.title" = "Hashtags";
 
 /* Class = "NSButtonCell"; title = "Newest on Top"; ObjectID = "KqX-Gc-m0e"; */
 "KqX-Gc-m0e.title" = "Newest on Top";
-
-/* Class = "NSTextFieldCell"; title = "Locations:"; ObjectID = "MSc-bD-EBo"; */
-"MSc-bD-EBo.title" = "Locations:";
 
 /* Class = "NSButtonCell"; title = "Pin folders to top"; ObjectID = "SOG-kM-c2S"; */
 "SOG-kM-c2S.title" = "Pin folders to top";
@@ -20,14 +23,14 @@
 /* Class = "NSButtonCell"; title = "Oldest on Top"; ObjectID = "Usl-VQ-WXd"; */
 "Usl-VQ-WXd.title" = "Oldest on Top";
 
-/* Class = "NSButtonCell"; title = "Show sort bar"; ObjectID = "ggC-OU-ShT"; */
-"ggC-OU-ShT.title" = "Show sort bar";
+/* Class = "NSButtonCell"; title = "Sort bar"; ObjectID = "ggC-OU-ShT"; */
+"ggC-OU-ShT.title" = "Sort bar";
 
 /* Class = "NSButtonCell"; title = "Show extensions"; ObjectID = "glA-Sr-Lyf"; */
 "glA-Sr-Lyf.title" = "Show extensions";
 
-/* Class = "NSButtonCell"; title = "Show filter bar"; ObjectID = "htJ-5i-qBe"; */
-"htJ-5i-qBe.title" = "Show filter bar";
+/* Class = "NSButtonCell"; title = "Filter bar"; ObjectID = "htJ-5i-qBe"; */
+"htJ-5i-qBe.title" = "Filter bar";
 
 /* Class = "NSTextFieldCell"; title = "View options:"; ObjectID = "i4z-3b-PV5"; */
 "i4z-3b-PV5.title" = "View options:";
@@ -35,11 +38,14 @@
 /* Class = "NSMenuItem"; title = "Extension"; ObjectID = "iJN-Ml-9Yx"; Note = "SKIP LOCALIZATION"; */
 "iJN-Ml-9Yx.title" = "Extension";
 
+/* Class = "NSTextFieldCell"; title = "Organizer:"; ObjectID = "jUI-P8-zHK"; */
+"jUI-P8-zHK.title" = "Organizer:";
+
 /* Class = "NSTextFieldCell"; title = "Sort by:"; ObjectID = "kND-5E-Z2a"; */
 "kND-5E-Z2a.title" = "Sort by:";
 
+/* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "nVS-Cr-Jb3"; */
+"nVS-Cr-Jb3.title" = "Files:";
+
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "oft-9R-Obz"; Note = "SKIP LOCALIZATION"; */
 "oft-9R-Obz.title" = "Name";
-
-/* Class = "NSButtonCell"; title = "Remove Library Location"; ObjectID = "zUl-5x-HVx"; */
-"zUl-5x-HVx.title" = "Remove Library Location";

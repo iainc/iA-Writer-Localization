@@ -86,7 +86,7 @@
 "Export_Format_Word_Name" = "Microsoft Word";
 
 /* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Compatible con Microsoft Word 2007-2013.";
+"Export_Format_Word_Description" = "Compatible con Microsoft Word 2007 o posterior, Apple Pages y Google Docs.";
 
 /* HTML export format. */
 "Export_Format_HTML_Name" = "HTML";
@@ -98,7 +98,7 @@
 "Export_Format_PDF_Name" = "PDF";
 
 /* PDF export format description. */
-"Export_Format_PDF_Description" = "Para cambiar el diseño del PDF, elige Archivo> Configurar página.";
+"Export_Format_PDF_Description" = "Para cambiar el diseño del PDF, elige Archivo → Configurar página.";
 
 /* Plain text export format. */
 "Export_Format_Markdown_Name" = "Markdown";
@@ -187,9 +187,6 @@
 /* Button tooltip to toggle custom smart folder sort order. */
 "Library_Custom_Sort_Order_Tooltip" = "Usar ordenación personalizada para la vista actual";
 
-/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
-"Library_Location_Description" = "Las ubicaciones de la biblioteca son perfectas para acceder rápidamente a carpetas en las que la mayoría de los documentos no están en iCloud.\nEstán indexadas para una navegación rápida y búsqueda de texto completo.\nLas carpetas excesivamente grandes pueden afectar negativamente al rendimiento.";
-
 /* Go menu item title to go back. */
 "Library_Go_Back" = "Atrás";
 
@@ -245,6 +242,12 @@
 
 /* Menu to copy library path for an item in Library. */
 "Library_Action_Copy_Library_Path" = "Copiar ruta de la biblioteca";
+
+/* Menu to copy URL command path for an item in Library. */
+"Library_Action_Copy_URL_Command_Path" = "Copiar ruta de comando URL";
+
+/* Menu to copy URL command to open file for an item in Library. */
+"Library_Action_Copy_URL_Command_To_Open_File" = "Copiar comando URL a archivo abierto";
 
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Ordenar por";
@@ -387,9 +390,6 @@
 
 /* Bold inline element name. */
 "Inline_Element_Bold" = "Negrita";
-
-/* Italic inline element name. */
-"Inline_Element_Italic" = "Cursiva";
 
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Tachado";

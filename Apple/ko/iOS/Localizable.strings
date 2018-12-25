@@ -1,0 +1,884 @@
+
+/*-----------
+ Library Root
+ -----------*/
+
+/* Title for root library view. */
+"Library_Title" = "라이브러리";
+
+/* Title for root library view. */
+"Library_Locations_Section_Title" = "위치";
+
+/* Title for root library view. */
+"Library_Favorites_Section_Title" = "즐겨찾기";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Add_Favorite" = "즐겨찾기에 추가...";
+
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
+/* Title for root library view. */
+"Library_Smart_Folders_Section_Title" = "스마트 폴더";
+
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "해시태그";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_New_Smart_Folder" = "새 스마트 폴더...";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Edit_Smart_Folder" = "편집";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Title_Add_Favorite" = "즐겨찾기에 추가";
+
+/* Title for help action to open twitter page for iA Writer. */
+"Help_Action_Open_Twitter" = "Twitter의 iA Writer";
+
+/* Title for help action to open release notes and other updates. */
+"Help_Action_News" = "새로운 기능";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Feedback_And_Support" = "지원 및 피드백";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Newsletter" = "뉴스레터 구독";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Review" = "iA Writer 추천하기";
+
+/* Title for action to open main help page. */
+"Help_Action_Main" = "iA Writer 도움말";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "라이브러리 위치를 추가하는 방법";
+"Library_Location_Introduction_Alert_Message" = "\n라이브러리 위치로 사용하려는 폴더가 포함된 폴더를 엽니다.\n\n선택을 탭하고, 해당 폴더를 선택한 후, 열기를 탭합니다.";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "다시 표시 안 함";
+"Library_Location_Rename_Alert_Title" = "라이브러리 위치 이름 변경";
+
+/*------
+ Backups
+ ------*/
+
+/* Title for all backups. */
+"Backups_Title" = "백업";
+
+/* Message under title when browsing backups. */
+"Backup_Submitem_Message" = "다른 앱의 파일은 편집 시 이 %@에 백업됩니다. 파일 이름이 변경될 때, 이전 백업은 원래 이름으로 유지됩니다.";
+
+/* Button title to restore a backup. */
+"Backups_Restore_Button_Title" = "복원";
+
+/* Title for backup restoration destination picker. */
+"Backups_Restore_Picker_Title" = "파일 복원";
+
+/* Prompt at the top of backup restoration destination picker. */
+"Backups_Restore_Picker_Prompt" = "복원된 파일의 위치를 선택하세요.";
+
+/* Placeholder shown when there are no backups. */
+"Backups_Placeholder" = "백업 없음";
+
+/* Title for swipe action to browse backups. */
+"Table_View_Action_Browse_Backups" = "백업 찾아보기";
+
+/* Button description to browse all backups. */
+"Backups_Button_Title" = "백업 찾아보기";
+
+/* Action in editor to browse backups for currently opened file from other apps. */
+"Action_Browse_Backups" = "백업 찾아보기";
+
+/*------
+ Library
+ ------*/
+
+/* Button to move to move files or folders. */
+"Button_Move" = "이동";
+
+/* Button to delete. */
+"Button_Delete" = "삭제";
+
+/* Button to select all visible items. */
+"Button_Select_All" = "모두 선택";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "모두 선택 취소";
+
+/* Button to save. */
+"Button_Save" = "저장";
+
+/* Action to move files or folders. */
+"Action_Move" = "이동...";
+
+/* Action to duplicate. */
+"Action_Duplicate" = "복제";
+
+/* Action to rename. */
+"Action_Rename" = "이름 변경...";
+
+/* Action to rename. */
+"Action_Remove" = "제거";
+
+/* Action to delete. */
+"Action_Delete" = "삭제";
+
+/* Action to open file or folder info. */
+"Action_Get_Info" = "정보";
+
+/* Action to add folder to favorites. */
+"Action_Remove_External_File" = "제거";
+
+/* Action to add folder to favorites. */
+"Action_Add_Favorite" = "즐겨찾기에 추가";
+
+/* Action to add folder to favorites. */
+"Action_Remove_Favorite" = "즐겨찾기에서 제거";
+
+/* Action to browse file versions. */
+"Action_Browse_Versions" = "버전 찾아보기";
+
+/* Action to browse file versions. */
+"Action_Find_And_Replace" = "찾기 및 바꾸기";
+
+/* Generic update button. */
+"Action_Update" = "업데이트";
+
+/* Action to switch to night mode. */
+"Action_Dark_Mode" = "어두운 외관 사용";
+
+/* Action to switch to night mode. */
+"Action_Light_Mode" = "밝은 외관 사용";
+
+/* Action to configure keyboard. */
+"Action_Configure_Keyboard" = "키보드 구성";
+
+/* Button to create new folder. */
+"Button_New_Folder" = "새 폴더";
+
+/* Button to change sorting order. */
+"Button_Sort_By" = "정렬 기준";
+
+/* Generic to confirm selection in action sheet picker. */
+"Action_Set_Selected" = "선택 항목 설정";
+
+/* New folder destination folder picker title. */
+"New_Folder_Location_Title" = "새 폴더";
+
+/* New folder destination folder picker prompt. */
+"New_Folder_Location_Prompt" = "새 폴더의 위치를 선택하세요...";
+
+/* File import destination folder picker title. */
+"File_Import_Title" = "가져오기";
+
+/* New folder destination folder picker prompt. */
+"File_Import_Prompt" = "가져올 위치를 선택하세요.";
+
+/* New file destination folder picker title. */
+"New_File_Location_Title" = "새 파일";
+
+/* New file destination folder picker prompt. */
+"New_File_Location_Prompt" = "새 파일의 위치를 선택하세요.";
+
+/* Action to configure smart folder. */
+"Action_Edit_Smart_Folder" = "스마트 폴더 편집";
+
+/* Action to configure library. */
+"Action_Configure_Library" = "라이브러리 구성";
+
+/* Action to delete smart folder. */
+"Action_Delete_Smart_Folder" = "스마트 폴더 삭제";
+
+/* Excerpt for empty documents. */
+"Library_Excerpt_Empty" = "콘텐츠 없음";
+
+/* Excerpt for unindexed documents. */
+"Library_Excerpt_Updating" = "업데이트 중...";
+
+/* Library empty message in folders. */
+"Library_Empty_Folder" = "파일 없음";
+
+/* Library empty message in folders. */
+"Library_Empty_External_Files" = "다른 앱의 파일 없음";
+
+/* Library empty message in extenal files location. */
+"Library_Empty_External_Files_Message" = "더하기 버튼을 탭해서 파일을 추가하세요.";
+
+/* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
+"Library_Empty_External_Files_Message_Install" = "Dropbox, Google Drive 또는 기타 클라우드 앱에 접근하려면 App Store에서 해당 앱을 다운로드한 후, 더하기 버튼을 탭해서 파일을 추가하세요.";
+
+/* Library empty message in smart folders. */
+"Library_Empty_Smart_Folder" = "파일 일치 규칙 없음";
+
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "해시태그가 있는 파일 없음";
+
+/* Title for external files section. */
+"Library_External_Files_Section_Title" = "외부";
+
+/* Title for action to open external files location. */
+"Library_External_Files" = "다른 앱";
+
+/* Title for action to open external files picker. */
+"Library_External_Files_Open" = "열기...";
+
+/* Title for move to folder destination picker title. */
+"Move_Title" = "이동";
+
+/*-----
+ Editor
+ -----*/
+
+/* Title for content block warning list. */
+"Content_Block_Warnings_Title" = "콘텐츠 블록";
+
+/* Prompt for content block warning list. */
+"Content_Block_Warnings_Prompt" = "일부 콘텐츠를 처리하지 못했습니다.";
+
+/* Action to continue content block processing despite warnings. */
+"Content_Block_Warnings_Continue" = "계속";
+
+/* Title for content block picker. */
+"Content_Block_Picker_Title" = "콘텐츠 블록 추가";
+
+/* Action sheet action to enable focus mode. */
+"Action_Enable_Focus_Mode" = "포커스 모드 활성화";
+
+/* Action sheet action to disable focus mode. */
+"Action_Disable_Focus_Mode" = "포커스 모드 비활성화";
+
+/* Action sheet action to enable syntax control. */
+"Action_Enable_Syntax_Control" = "구문 표시";
+
+/* Action sheet action to disable syntax control. */
+"Action_Disable_Syntax_Control" = "구문 숨기기";
+
+/* Action sheet action to enable syntax control. */
+"Action_Show_Stats" = "통계 표시";
+
+/* Action sheet action to disable syntax control. */
+"Action_Hide_Stats" = "통계 숨기기";
+
+/* Action sheet action. */
+"Action_Configure_Editor" = "편집기 구성";
+
+/*---------
+ Menu Items
+ ---------*/
+
+/* Menu item title for text transformations. */
+"Menu_Item_Transform" = "변형...";
+
+/* Menu item title for transforming text to upper case. */
+"Menu_Item_Transform_To_Upper_Case" = "대문자";
+
+/* Menu item title for transforming text to lower case. */
+"Menu_Item_Transform_To_Lower_Case" = "소문자";
+
+/* Menu item title for captilizing first letter of every word. */
+"Menu_Item_Transform_To_Capitalized" = "대문자로 시작";
+
+/* Menu item title for transforming text to title case. */
+"Menu_Item_Transform_To_Title_Case" = "첫 글자만 대문자";
+
+/* Menu item to copy a library path to file. */
+"Menu_Item_Copy_Library_Path" = "라이브러리 경로 복사";
+
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "URL 명령 경로 복사";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "URL 명령을 복사하여 파일 열기";
+
+/* Menu item title for copying HTML. */
+"Menu_Item_Copy_HTML" = "HTML 복사";
+
+/* Menu item title for copying formatted text. */
+"Menu_Item_Copy_Formatted" = "서식 복사";
+
+/*----------
+ Table Views
+ ----------*/
+
+/* Table view swipe action title. */
+"Table_View_Action_Delete" = "삭제";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
+
+/* Table view swipe action title. */
+"Table_View_Action_Remove" = "제거";
+
+/* Table view swipe action title. */
+"Table_View_Action_More" = "더 보기";
+
+/* Table view swipe action title. */
+"Table_View_Action_Hide" = "숨기기";
+
+/*------------
+ Folder Picker
+ ------------*/
+
+/* Section title for recent folder section. */
+"Library_Picker_Recent_Section_Title" = "최근";
+
+/* Section title for all folders section. */
+"Library_Picker_All_Section_Title" = "모두";
+
+/*------------------
+ Smart Folder Editor
+ ------------------*/
+
+/* Smart folder editor title while editing an existing smart folder. */
+"Smart_Folder_Editor_Edit_Title" = "스마트 폴더 편집";
+
+/* Smart folder editor title while creating a new smart folder. */
+"Smart_Folder_Editor_New_Title" = "새 스마트 폴더";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Name_Section_Title" = "이름";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Rules_Section_Title" = "규칙";
+
+/* Smart folder action to add a new rule. */
+"Smart_Folder_Editor_New_Rule_Action" = "새 규칙...";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Section_Title" = "제한";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Action" = "%@개 항목으로 제한";
+
+/* Smart folder section on matching type. */
+"Smart_Folder_Match_Section_Title" = "다음과 일치하는 항목 표시:";
+"Smart_Folder_Match_All" = "다음 규칙들 중 모두";
+"Smart_Folder_Match_Any" = "다음 규칙들 중 하나 이상";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Section_Title" = "정렬 순서";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Custom" = "사용자 정의 정렬 순서";
+
+/* Button to show sort by options. */
+"Smart_Folder_Sort_By_Custom_Edit" = "정렬 기준";
+
+/*----------
+ Rule Editor
+ ----------*/
+
+/* Placeholder for text variables in predicates. */
+"Predicate_Placeholder_Text" = "텍스트";
+
+/* Predicate format for text values: Extension is `“txt”`. */
+"Predicate_Quoted_Value" = "“%@”";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "날짜";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "날짜 설정";
+
+/* Rule editor title while adding a new rule. */
+"Rule_Editor_New_Title" = "새 규칙";
+
+/* Rule editor title while editing an existin rule. */
+"Rule_Editor_Edit_Title" = "규칙 편집";
+
+/*--
+ Add
+ --*/
+
+/* Action to open camera. */
+"Action_Take_Photo" = "사진 촬영...";
+
+/* Action to open photo library. */
+"Action_Choose_Photo" = "사진 선택...";
+
+/* Action to create new file. */
+"Action_New_File" = "새 파일";
+
+/* Title for alert to create new folder. */
+"New_File_Alert_Title" = "파일 이름 입력";
+
+/* Action to create new folder. */
+"Action_Create_File" = "파일 생성";
+
+/* Title for alert to create new folder. */
+"New_Folder_Alert_Title" = "폴더 이름 입력";
+
+/* Action to create new folder. */
+"Action_Create_Folder" = "폴더 생성";
+
+/* Title for alert to enter photo name. */
+"Photo_Name_Alert_Title" = "사진 이름 입력";
+
+/* Action to add a photo. */
+"Action_Add_Photo" = "사진 추가";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Find" = "찾기";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Replace" = "바꾸기";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Confirmation" = "이름 변경";
+
+/*---------
+ Table Size
+ ---------*/
+
+/* Columns number label in table size picker. */
+"Table_Size_Picker_Columns" = "열";
+
+/* Rows number label in table size picker. */
+"Table_Size_Picker_Rows" = "행";
+
+/* Action title to add table with a selected size. */
+"Action_Add_Table" = "표 추가";
+
+/* Action title to add selected date. */
+"Action_Add_Date" = "날짜 추가";
+
+/*---
+ Info 
+ ---*/
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "수정일";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "생성일";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "이름";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "확장명";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "크기";
+
+/*-----
+ Export
+ -----*/
+
+/* Share sheet Medium activity option */
+"Share_Sheet_Medium_Activity_Title" = "Medium에 새 초안 만들기";
+
+/* Share sheet WordPress activity option */
+"Share_Sheet_WordPress_Activity_Title" = "WordPress에 새 초안 만들기";
+
+/* Share sheet `open file in app` activity option */
+"Share_Sheet_Open_In_Activity_Title" = "다음에서 열기...";
+
+/* Share sheet 'Save to…" activity option */
+"Save_To_Export_Label" = "다음으로 저장...";
+
+/* Sharing button title. */
+"Button_Share" = "공유";
+
+/* Sharing button title. */
+"Action_Share" = "공유...";
+
+/* Action menu title. */
+"Action_Export" = "내보내기...";
+
+/* Action menu title. */
+"Action_Print" = "인쇄...";
+
+/* Action menu title. */
+"Action_Print_Formatted" = "서식 인쇄...";
+
+/* Action menu title. */
+"Action_Print_Plain_Text" = "일반 텍스트 인쇄...";
+
+/* Action menu title. */
+"Action_Export_Markdown" = "마크다운...";
+
+/* Action menu title. */
+"Action_Export_HTML" = "HTML...";
+
+/* Action menu title. */
+"Action_Export_PDF" = "PDF...";
+
+/* Action menu title. */
+"Action_Export_Word" = "Microsoft Word...";
+
+/* Action menu title. */
+"Action_Export_Project_Archive" = "프로젝트 아카이브...";
+
+/*--------------
+ Version Browser
+ --------------*/
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "버전 충돌";
+
+/* Version browser title */
+"Version_Browser_Title" = "버전";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "현재";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "%@의 모든 이용 가능한 버전.";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "되돌리려는 이전 버전을 선택하세요. 이전 버전에 더하여 별도의 파일로 생성하려면 현재를 선택하세요.";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "수정 사항은 동기화되지 않습니다. 유지할 문서를 선택하세요.";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "%@에서 버전 충돌.";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "유지";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "둘 다 유지";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "모두 유지";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "%d 유지";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "되돌리기";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "최근 항목으로 되돌리기, %d 생성";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "%d 생성";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "버전을 읽을 수 없습니다";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "iCloud 오류: “%@”.";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "알 수 없는 오류";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "네트워크를 이용할 수 없습니다.";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "연결하지 못했습니다.";
+
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "파일 앱 클라우드 서비스가 요청을 처리하지 못했습니다";
+"Files_App_Service_Provider_Error_Localized_Description" = "파일 앱 클라우드 서비스가 요청을 처리하지 못했습니다.";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "오류가 계속 발생할 경우 클라우드 서비스 제공업체에 문의하세요.";
+
+"Files_App_Library_Location_Not_Supported_Error_Title" = "Cannot Add Selected Library Location";
+"Files_App_Library_Location_Not_Supported_Error" = "Cannot add selected library location.";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "Files app cloud service does not support this feature.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Please contact your cloud service provider for support.";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder for Quick Search field. */
+"Quick_Search_Placeholder" = "빠른 검색";
+
+/* Quick Search recent files section title. */
+"Quick_Search_Recent_Files_Section_Title" = "최근 파일";
+
+/* Quick Search files section title. */
+"Quick_Search_Files_Section_Title" = "파일";
+
+/* Quick Search recent actions section title. */
+"Quick_Search_Recent_Actions_Section_Title" = "최근 작업";
+
+/* Quick Search actions search section title. */
+"Quick_Search_Actions_Section_Title" = "작업";
+
+/*--------------------------
+ Key Commands & Quick Search
+ --------------------------*/
+
+/* Quick Search key command titles. */
+"Discoverability_Quick_Search_Select_Next_Result" = "다음 선택";
+"Discoverability_Quick_Search_Select_Previous_Result" = "이전 선택";
+"Discoverability_Quick_Search" = "빠른 검색";
+
+/* General action key command titles. */
+"Discoverability_New" = "새 파일";
+
+"Discoverability_Dark_Mode" = "어두운 외관";
+"Discoverability_Light_Mode" = "밝은 외관";
+/* Old name used for search matching. */
+"Discoverability_Night_Mode" = "야간 모드";
+
+/* Editor action key command titles. */
+"Discoverability_Syntax" = "구문 강조 표시";
+"Discoverability_Browse_Versions" = "버전 찾아보기";
+"Discoverability_New" = "새 파일";
+"Discoverability_Open" = "열기...";
+"Discoverability_Preview" = "미리 보기";
+"Discoverability_Strong" = "볼드체";
+"Discoverability_Strikethrough" = "취소선";
+"Discoverability_Headings" = "제목 1–6";
+"Discoverability_Blockquote" = "블록 따옴표";
+"Discoverability_List" = "목록";
+"Discoverability_Link" = "링크";
+"Discoverability_Footnote" = "각주";
+"Discoverability_Task_List" = "작업 목록";
+"Discoverability_Ordered_List" = "순서가 지정된 목록";
+"Discoverability_Ordered_Task_List" = "순서가 지정된 작업 목록";
+"Discoverability_Move_Line_Up" = "위로 줄 이동";
+"Discoverability_Move_Line_Down" = "아래로 줄 이동";
+"Discoverability_Focus" = "포커스 모드";
+"Discoverability_Typewriter" = "타자기 모드";
+"Discoverability_Share" = "공유";
+"Discoverability_Export_PDF" = "PDF 내보내기";
+"Discoverability_Export_Markdown" = "마크다운 내보내기";
+"Discoverability_Export_HTML" = "HTML 내보내기";
+"Discoverability_Export_Word" = "Microsoft Word 내보내기";
+"Discoverability_Export_Project_Archive" = "프로젝트 아카이브 내보내기";
+"Discoverability_Configure_Keyboard" = "키보드 구성";
+"Discoverability_Settings" = "설정";
+"Discoverability_Configure_Keyboard" = "키보드 구성";
+"Discoverability_Settings" = "설정";
+"Discoverability_Increase_Size" = "텍스트 크기 증가";
+"Discoverability_Decrease_Size" = "텍스트 크기 감소";
+"Discoverability_Default_Size" = "기본 텍스트 크기";
+"Discoverability_Find_Next" = "다음 찾기";
+"Discoverability_Find_Previous" = "이전 찾기";
+"Discoverability_Find" = "찾기";
+"Discoverability_Help" = "도움말";
+"Discoverability_Stats" = "통계";
+
+/*------
+ Preview
+ ------*/
+
+/* Title shown in preview. */
+"Preview_Title" = "미리 보기";
+
+/* Empty preview placeholder. */
+"Preview_Content_Placeholder" = "미리 볼 콘텐츠가 없습니다";
+
+/* Action to change template. */
+"Preview_Template_Action" = "선택 항목으로 전환";
+
+/* Action to change template. */
+"Action_Configure_Templates" = "템플릿 구성";
+
+/*---------------
+ Template Install
+ ---------------*/
+
+/* Alert message after a template is successfully installed. */
+"Template_Installed_Title" = "“%@” 템플릿이 설치되었습니다";
+
+/* Alert info text after a template is successfully installed. */
+"Template_Installed_Description" = "미리 보기에서 템플릿에 접근할 수 있습니다. 설정에서 템플릿을 제거할 수 있습니다.";
+
+/*-------
+ Settings
+ -------*/
+
+/* Button to open settings. */
+"Settings_Title" = "설정";
+
+/* Action to switch to night mode. */
+"Settings_Dark_Appearance" = "어두운 외관";
+
+/* Action to switch to night mode. */
+"Settings_Dark_App_Icon" = "어두운 앱 아이콘";
+
+/* Settings panes. */
+"Settings_General_Title" = "일반";
+"Settings_Files_Title" = "파일";
+"Settings_Library_Title" = "라이브러리";
+"Settings_Editor_Title" = "편집기";
+"Settings_Templates_Title" = "템플릿";
+"Settings_URL_Scheme_Title" = "URL 명령";
+
+/* Appearance section in settings. */
+"Settings_Appearance_Section_Title" = "외관";
+
+/* Sharing accounts section in settings. */
+"Settings_Accounts_Section_Title" = "계정 공유";
+
+"Settings_Accounts_Medium_Add" = "Medium 계정 추가...";
+"Settings_Accounts_Medium_Remove" = "Medium 제거...";
+"Settings_Accounts_Medium_Remove_Confirmation" = "Medium 제거";
+"Settings_Accounts_Medium_Add_Title" = "Medium";
+"Settings_Accounts_Medium_Add_Message" = "iA Writer는 게시 전에 검토할 수 있는 초안을 생성합니다.";
+"Settings_Accounts_Medium_Get_Token" = "Medium에서 토큰 획득";
+"Settings_Accounts_Medium_Add_Token_Placeholder" = "토큰";
+"Settings_Accounts_Medium_Invalid_Token_Title" = "잘못된 토큰";
+"Settings_Accounts_Medium_Invalid_Token_Message" = "올바른 Medium 토큰을 입력했는지 확인하세요.";
+
+"Settings_Accounts_WordPress_Add" = "WordPress 계정 추가...";
+"Settings_Accounts_WordPress_Remove" = "WordPress 제거...";
+"Settings_Accounts_WordPress_Remove_Confirmation" = "WordPress 제거";
+"Settings_Accounts_WordPress_Add_Title" = "WordPress";
+"Settings_Accounts_WordPress_Add_Message" = "iA Writer는 게시 전에 검토할 수 있는 초안을 생성합니다.\n\n자체 호스팅된 WordPress 사이트는 Jetpack을 통해서만 지원됩니다.\n\n계정에 연결된 사이트가 하나 이상 존재할 경우 게시물은 기본 사이트에 생성됩니다.";
+"Settings_Accounts_WordPress_About_Jetpack" = "Jetpack 정보";
+"Settings_Accounts_WordPress_Authorize" = "인증";
+
+/*-------------
+ Files Settings
+ -------------*/
+
+"Default_File_Extension_Section_Title" = "기본 파일 확장명";
+"Default_File_Extension_Section_Footer" = "새 파일은 이 확장명을 갖습니다. 일반 텍스트 확장명만 허용됩니다.";
+
+/*--------------
+ Library Settings
+ --------------*/
+
+/* Library section in settings. */
+"Settings_Library_Appearance_Section_Title" = "외관";
+"Settings_Library_Show_Text_Excerpts" = "텍스트 발췌 표시";
+"Settings_Library_Show_Extensions" = "파일 확장명 표시";
+"Settings_Library_Show_Extensions" = "파일 확장명 표시";
+"Settings_Library_Pin_Folders_To_Top" = "맨 위에 폴더 고정";
+
+/* Sort by section in settings. */
+"Settings_Library_Sort_By_Section_Title" = "정렬 순서";
+"Settings_Library_Sort_By_Edit" = "정렬 기준";
+
+/*--------------
+ Editor Settings
+ --------------*/
+
+/* Syntax control section in settings. */
+"Settings_Editor_Syntax_Control_Section_Title" = "구문 강조 표시";
+
+/* Editor section in settings. */
+"Settings_Editor_Appearance_Section_Title" = "외관";
+"Settings_Editor_Show_Stats" = "통계 표시";
+
+/* Typography section in settings. */
+"Settings_Editor_Typography_Section_Title" = "입력 체계";
+"Settings_Editor_Line_Length_Limit_Edit" = "최대 줄 길이";
+"Settings_Editor_Font" = "서체";
+"Settings_Editor_Language" = "언어";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Focus_Mode_Section_Title" = "포커스 모드";
+"Settings_Editor_Focus_Mode" = "포커스 모드";
+"Settings_Editor_Focus_Mode_Scope" = "범위";
+
+/* Keyboard section in settings. */
+"Settings_Editor_Keyboard_Section_Title" = "사용자 정의 키보드";
+"Settings_Editor_Keyboard_Prefers_Popover" = "항상 키보드 팝오버 사용";
+"Settings_Editor_Keyboard_Configure" = "키보드 구성";
+"Settings_Editor_Keyboard_Section_Footer" = "사용자 정의 키보드에서 흰색 키를 탭하고 누른 채 있으면 구성 모드에 빠르게 접근할 수 있습니다.";
+
+/* Hardware keyboard section in settings. */
+"Settings_Editor_Hardware_Keyboard_Title" = "하드웨어 키보드";
+"Settings_Editor_Hardware_Keyboard_Footer" = "하드웨어 키보드가 연결되면 키보드 바가 표시되지 않습니다.";
+"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "키보드 바 숨기기";
+
+/* Smart substitutions section in settings. */
+"Settings_Editor_Text_Input_Section_Title" = "텍스트 입력";
+"Settings_Editor_Text_Input_Section_Footer" = "설정 → 일반 → 키보드에서 맞춤법, 스마트 따옴표 및 대시를 활성화할 수 있습니다.";
+"Settings_Editor_Check_Spelling" = "맞춤법 검사";
+"Settings_Editor_Smart_Quotes" = "스마트 따옴표";
+"Settings_Editor_Smart_Dashes" = "스마트 대시";
+"Settings_Editor_Smart_Inset_Delete" = "스마트 복사/붙여넣기";
+
+/* Tabs vs spaces settings. */
+"Settings_Editor_Text_Indentation" = "들여쓰기 사용";
+"Settings_Editor_Text_Indentation_Tabs" = "탭";
+"Settings_Editor_Text_Indentation_Spaces" = "공백";
+
+
+/* Find settings. */
+"Settings_Editor_Find_Section_Title" = "텍스트 찾기";
+"Settings_Editor_Find_Regular_Expression" = "일반 식 사용";
+
+/*----------------
+ Templates Settings
+ ----------------*/
+
+/* Section title for built-in templates. */
+"Settings_Templates_Default_Templates_Section_Title" = "기본 템플릿";
+
+/* Section title for users templates. */
+"Settings_Templates_Custom_Templates_Section_Title" = "사용자 정의 템플릿";
+
+/* Action title to get more templates. */
+"Settings_Templates_Get_More" = "추가 템플릿 얻기";
+
+/* Action to change template. */
+"Settings_Templates_Appearance_Section_Title" = "외관";
+"Settings_Templates_Appearance_Center_Headings" = "가운데에 제목 맞춤";
+"Settings_Templates_Appearance_Number_Headings" = "제목 번호 매기기";
+"Settings_Templates_Appearance_Indent_Paragraphs" = "단락 들여쓰기";
+"Settings_Templates_Appearance_Invert_Preview_Colors" = "미리 보기 색상 반전";
+
+/* Markdown section in settings. */
+"Settings_Markdown_Section_Title" = "마크다운 처리";
+"Settings_Markdown_Lazy_Paragraphs" = "Return 키를 한 번 눌러서 새로운 단락 시작";
+"Settings_Markdown_Smart_Punctuation" = "스마트 구두점";
+"Settings_Markdown_Process_Metadata" = "메타데이터 처리";
+"Settings_Markdown_Hide_Hashtags" = "해시태그 숨기기";
+
+/* Printing & PDF export section in settings. */
+"Settings_Printing_And_PDF_Export_Section_Title" = "인쇄 및 PDF 내보내기";
+"Settings_Printing_And_PDF_Export_Include_Title_Page" = "제목 페이지 포함";
+"Settings_Printing_And_PDF_Export_Include_Header" = "머리글 포함";
+"Settings_Printing_And_PDF_Export_Include_Footer" = "바닥글 포함";
+
+/* Author name section in settings. */
+"Settings_Templates_Author_Name_Section_Title" = "작성자 이름";
+"Settings_Templates_Author_Name_Placeholder" = "없음";
+
+/* Action to change preferred paper size. */
+"Settings_Paper_Size_Section_Title" = "용지 크기";
+
+/* Action to share template. */
+"Table_View_Action_Share" = "공유";
+
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+/* URL scheme setting. */
+"Settings_URL_Sheme_Enable" = "URL 명령 활성화";
+
+/* URL scheme settings auth token header. */
+"Settings_URL_Sheme_Auth_Token_Header" = "인증 토큰";
+
+/* URL scheme settings auth token footer. */
+"Settings_URL_Sheme_Auth_Token_Footer" = "일부 URL 명령의 경우 인증 토큰이 필요합니다.";
+
+/* URL scheme settings button to copy auth token. */
+"Settings_URL_Sheme_Auth_Token_Copy" = "복사";
+
+/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
+"Settings_URL_Sheme_Auth_Token_Reset" = "재설정...";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "URL 명령 활성화";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "iA Writer URL 명령을 활성화하시겠습니까? 나중에 설정에서 변경할 수 있습니다.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "인증 토큰 재설정";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "인증 토큰을 재설정하시겠습니까? 이 작업은 취소할 수 없습니다.";

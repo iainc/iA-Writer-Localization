@@ -86,7 +86,7 @@
 "Export_Format_Word_Name" = "Microsoft Word";
 
 /* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Compatible avec Microsoft Word 2007-2013.";
+"Export_Format_Word_Description" = "Compatible avec Microsoft Word 2007 ou supérieur, Apple Pages et Google Docs.";
 
 /* HTML export format. */
 "Export_Format_HTML_Name" = "HTML";
@@ -98,7 +98,7 @@
 "Export_Format_PDF_Name" = "PDF";
 
 /* PDF export format description. */
-"Export_Format_PDF_Description" = "Pour modifier la mise en page PDF choisissez Fichier > Configuration de la mise en page.";
+"Export_Format_PDF_Description" = "Pour modifier la mise en page PDF choisissez Fichier → Configuration de la mise en page.";
 
 /* Plain text export format. */
 "Export_Format_Markdown_Name" = "Note";
@@ -187,9 +187,6 @@
 /* Button tooltip to toggle custom smart folder sort order. */
 "Library_Custom_Sort_Order_Tooltip" = "Utiliser l’ordre de tri personnalisé pour la vue actuelle";
 
-/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
-"Library_Location_Description" = "Les emplacements de bibliothèque sont idéals pour accéder rapidement à la plupart de vos documents stockés à l’extérieur d’iCloud.\nIls sont classés pour une navigation rapide et une recherche en texte intégral.\nLes dossiers excessivement volumineux peuvent affecter négativement les performances.";
-
 /* Go menu item title to go back. */
 "Library_Go_Back" = "Retour";
 
@@ -245,6 +242,12 @@
 
 /* Menu to copy library path for an item in Library. */
 "Library_Action_Copy_Library_Path" = "Copier le chemin de la bibliothèque";
+
+/* Menu to copy URL command path for an item in Library. */
+"Library_Action_Copy_URL_Command_Path" = "Copier le chemin de commande URL";
+
+/* Menu to copy URL command to open file for an item in Library. */
+"Library_Action_Copy_URL_Command_To_Open_File" = "Copier le chemin de commande URL pour ouvrir le fichier";
 
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Trier par";
@@ -387,9 +390,6 @@
 
 /* Bold inline element name. */
 "Inline_Element_Bold" = "Gras";
-
-/* Italic inline element name. */
-"Inline_Element_Italic" = "Italique";
 
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Barré";

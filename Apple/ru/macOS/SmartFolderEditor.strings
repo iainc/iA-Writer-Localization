@@ -1,0 +1,27 @@
+
+/* Class = "NSButtonCell"; title = "Limit results to 25 items"; ObjectID = "6Lr-Jr-hBf"; */
+"6Lr-Jr-hBf.title" = "Ограничить 25 результатами";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Cjy-N4-aaP"; */
+"Cjy-N4-aaP.title" = "Отменить";
+
+/* Class = "NSMenuItem"; title = "any"; ObjectID = "JMA-4a-daC"; */
+"JMA-4a-daC.title" = "любому из следующий правил";
+
+/* Class = "NSMenuItem"; title = "all"; ObjectID = "LKA-KH-O3l"; */
+"LKA-KH-O3l.title" = "всем следующим правилам";
+
+/* Class = "NSTextFieldCell"; title = "Smart folder name:"; ObjectID = "QAd-Im-gBJ"; */
+"QAd-Im-gBJ.title" = "Название смарт-папки:";
+
+/* Class = "NSTextFieldCell"; title = "Contains items that match"; ObjectID = "aQI-ZR-xQX"; */
+"aQI-ZR-xQX.title" = "Результаты удовлетворяют";
+
+/* Class = "NSButtonCell"; title = "Use custom sort order"; ObjectID = "bMu-5i-1IR"; */
+"bMu-5i-1IR.title" = "Сортировать отдельно от библиотеки";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "dmN-c8-ZCd"; */
+"dmN-c8-ZCd.title" = "Сохранить";
+
+/* Class = "NSTextFieldCell"; title = "of the following rules:"; ObjectID = "yum-8W-P2v"; */
+"yum-8W-P2v.title" = ":";

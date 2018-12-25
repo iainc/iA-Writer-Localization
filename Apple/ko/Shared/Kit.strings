@@ -1,0 +1,305 @@
+
+"Button_OK" = "확인";
+"Button_Cancel" = "취소";
+"Button_Try_Again" = "다시 시도";
+"Button_Share" = "공유";
+"Button_Close" = "닫기";
+"Button_Continue" = "계속";
+"Button_Enable" = "활성화";
+"Button_Disable" = "비활성화";
+"Button_Reset" = "재설정";
+
+"News_Title" = "새로운 기능";
+
+"Unknown_Error_Title" = "알 수 없는 오류";
+"Unknown_Error" = "알 수 없는 오류가 발생했습니다.";
+"Unknown_Error_Recovery_Suggestion" = "다시 시도하거나 지원팀에 문의하세요.";
+
+"Default_Document_Name" = "제목 없음";
+"Default_Folder_Name" = "제목 없는 폴더";
+"Default_Image_Name" = "제목 없음";
+"Default_Smart_Folder_Name" = "제목 없음";
+"Default_Smart_Folder_Recently_Modified_Name" = "최근 수정됨";
+
+"Paper_Size_A4" = "A4";
+"Paper_Size_US_Letter" = "US 편지지";
+
+/*----
+ Dates
+ ----*/
+
+"Relative_Date_Yesterday" = "어제";
+
+/*-----------
+ Web Services
+ -----------*/
+
+"Web_Service_Publish_Status_Draft" = "초안";
+"Web_Service_Publish_Status_Unlisted" = "목록에 없음";
+"Web_Service_Publish_Status_Public" = "공개";
+
+"Web_Service_Error_Missing_Response_Data_Title" = "응답 없음";
+"Web_Service_Error_Missing_Response_Data" = "응답을 받지 못했습니다.";
+
+"Web_Service_Error_Invalid_Response_Data_Title" = "잘못된 응답";
+"Web_Service_Error_Invalid_Response_Data" = "응답을 처리할 수 없습니다.";
+
+"Web_Service_Error_Invalid_Response_Data_Parameter_Title" = "잘못된 응답 매개 변수";
+"Web_Service_Error_Invalid_Response_Data_Parameter" = "완전하지 않은 응답을 받았습니다.";
+
+"Web_Service_Error_Unsupported_Content_Title" = "지원되지 않는 콘텐츠";
+"Web_Service_Error_Unsupported_Content" = "이 문서의 일부 콘텐츠가 지원되지 않습니다.";
+"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "문서에서 지원되지 않는 콘텐츠를 제거하세요.";
+
+"Web_Service_Error_Invalid_Request_Title" = "잘못된 요청";
+"Web_Service_Error_Invalid_Request" = "요청이 잘못되었습니다.";
+
+"Web_Service_Error_Unauthorized_Title" = "권한이 없는 요청";
+"Web_Service_Error_Unauthorized" = "액세스 토큰이 철회되었거나 잘못되었습니다.";
+"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "액세스 토큰이 유효하고 올바른지 확인하세요.";
+
+"Web_Service_Error_Forbidden_Title" = "금지된 요청";
+"Web_Service_Error_Forbidden" = "요청을 수행할 권한이 없습니다.";
+"Web_Service_Error_Forbidden_Recovery_Suggestion" = "계정에 게시할 권한이 있는지 확인하세요.";
+
+"Web_Service_Error_Other_Title" = "연결 오류";
+"Web_Service_Error_Other" = "서비스에 연결하는 중 오류가 발생했습니다.";
+
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "접근이 거부됨";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "계정에 대한 접근이 거부되었습니다.";
+"Web_Service_Recovery_Suggestion_Auth_Denied" = "iA Writer에서 사용할 수 있도록 계정에 대한 접근을 허용해야 합니다.";
+
+"Web_Service_Recovery_Suggestion_Try_Later" = "나중에 다시 시도하세요.";
+
+"Medium_Failure_Reason_Unsupported_Content" = "일부 요소가 다르게 보일 수 있습니다: %@.";
+"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
+"Medium_Failure_Reason_Unsupported_Content_Tables" = "표";
+"Medium_Failure_Reason_Unsupported_Content_Footnotes" = "각주";
+"Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "중첩된 목록 항목";
+"Medium_Failure_Reason_Unsupported_Content_Nested_Ordered_List_Items" = "중첩된 순서가 지정된 목록 항목";
+"Medium_Failure_Reason_Unsupported_Content_Task_List_Items" = "작업 목록 항목";
+"Medium_Failure_Reason_Unsupported_Content_H5" = "제목 5";
+"Medium_Failure_Reason_Unsupported_Content_H6" = "제목 6";
+"Medium_Failure_Reason_Unsupported_Content_TOC" = "목차";
+
+"WordPress_No_Sites_Error" = "회원님의 WordPress 계정과 연결된 사이트를 발견하지 못했습니다.";
+"WordPress_No_Sites_Error_Title" = "발견된 사이트가 없습니다";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "올바른 계정을 인증했는지 확인하거나, WordPress 계정에 새로운 사이트를 추가하세요.";
+"WordPress_Manage_Sites" = "사이트 관리";
+
+"Web_Service_Image_Upload_Error" = "일부 이미지를 업로드하지 못했습니다.";
+"Web_Service_Image_Upload_Error_Title" = "이미지 업로드 실패";
+/* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
+"Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
+
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium에서 이미지 업로드가 비활성화되었습니다";
+"Medium_Image_Upload_Error_Unauthorized" = "Medium에서 이미지 업로드가 비활성화되었습니다.";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Medium에 연락해서 토큰에 대한 이미지 업로드를 활성화하세요.";
+"Medium_Image_Upload_Error_Contact" = "Medium에 연락하기";
+
+/*--------
+ Templates
+ --------*/
+
+"Template_Error_Missing_Page_Title" = "누락된 템플릿 페이지";
+"Template_Error_Missing_Page" = "템플릿 페이지를 읽을 수 없습니다.";
+"Template_Error_Missing_Page_Recovery_Suggestion" = "Info.plist에서 “%@”을(를) 올바로 지정했는지 확인하세요.";
+
+"Template_Error_Undefined_Page_Title" = "정의되지 않은 템플릿 페이지";
+"Template_Error_Undefined_Page" = "템플릿 페이지 정의를 찾을 수 없습니다.";
+"Template_Error_Undefined_Page_Recovery_Suggestion" = "Info.plist에서 “%@”을(를) 지정하세요.";
+
+"Template_Error_Duplicate_Bundle_Title" = "중복된 템플릿";
+"Template_Error_Duplicate_Bundle" = "템플릿이 이미 설치되었습니다.";
+"Template_Error_Duplicate_Bundle_Recovery_Suggestion" = "최신 버전으로 “%@”을(를) 업데이트하는 경우 템플릿을 교체하세요. 둘 다 설치하려면 템플릿 식별자를 변경하세요.";
+"Template_Error_Duplicate_Bundle_Recovery_Option" = "교체";
+
+"Template_Error_Invalid_Bundle_Title" = "잘못된 템플릿";
+"Template_Error_Invalid_Bundle" = "템플릿을 처리할 수 없습니다.";
+"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "자세한 정보는 설명서를 참조하세요.";
+
+"Template_Error_Installed_Bundle_Title" = "템플릿이 설치되었습니다";
+"Template_Error_Installed_Bundle" = "템플릿이 이미 설치되었습니다";
+"Template_Error_Installed_Bundle_Recovery_Suggestion" = "iA Writer에서 템플릿을 사용할 수 없을 경우 설명서를 참조하세요.";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "잘못된 매개 변수";
+"URL_Scheme_Error_Invalid_Parameters" = "잘못된 매개 변수로 URL 명령이 호출되었습니다.";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "URL 명령 설명서를 참조하세요.";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "잘못된 인증 토큰";
+"URL_Scheme_Error_Invalid_Auth_Token" = "잘못된 인증 토큰으로 URL 명령이 호출되었습니다.";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "인증 토큰이 올바른지 확인하세요.";
+
+"URL_Scheme_Auth_Token_Description" = "일부 URL 명령의 경우 인증 토큰이 필요합니다.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "일부 URL 명령의 경우 인증 토큰이 필요합니다. 회원님의 장치들은 iCloud를 사용하여 같은 인증 토큰을 공유합니다.";
+
+/*-------
+ Storages
+ -------*/
+
+"Storage_Name_Cloud" = "iCloud";
+"Storage_Name_Unknown" = "알 수 없음";
+"Storage_Name_Local" = "로컬";
+"Storage_Name_On_My_Device" = "내 %@";
+
+"Library_Location_Desktop" = "데스크탑";
+"Library_Location_Documents" = "도큐멘트";
+
+/*----
+ Fonts
+ ----*/
+
+"Font_Name_Monospaced" = "Mono";
+"Font_Name_Duospaced" = "Duo";
+"Font_Name_Quattro" = "Quattro";
+
+"Content_Typography_System" = "시스템 — %@";
+"Content_Typography_Default" = "기본";
+"Content_Typography_Simplified_Chinese" = "중국어 간체";
+"Content_Typography_Traditional_Chinese" = "중국어 번체";
+"Content_Typography_Japanese" = "일본어";
+"Content_Typography_Korean" = "한국어";
+
+"Content_Typography_Emphasis_Italic" = "이탤릭체";
+"Content_Typography_Emphasis_Mark" = "강조";
+
+/*----------------
+ Library Locations
+ ----------------*/
+
+"Library_Location_Error_Existing_Item_Title" = "Cannot Add an Existing Library Location";
+"Library_Location_Error_Existing_Item" = "해당 폴더 또는 그 하위 폴더가 다른 라이브러리 위치의 일부이므로 라이브러리 위치를 추가할 수 없습니다.";
+"Library_Location_Error_Existing_Item_Failure_Reason" = "선택한 폴더 또는 그 하위 폴더가 다른 라이브러리 위치의 일부입니다.";
+"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "선택한 폴더를 추가하기 전에 기존의 라이브러리 위치를 제거하세요.";
+
+"Library_Location_Error_Not_Found_Title" = "라이브러리 위치를 찾을 수 없습니다";
+"Library_Location_Error_Not_Found" = "라이브러리 위치를 찾을 수 없습니다. ";
+"Library_Location_Error_Not_Found_Failure_Reason" = "이미 제거되었거나 탈착식 드라이브에 위치하고 있는 것 같습니다.";
+"Library_Location_Error_Not_Found_Recovery_Suggestion" = "라이브러리 위치에 접근하려면 탈착식 드라이브를 연결하세요.";
+
+/*--------
+ Documents
+ --------*/
+
+"External_Change_Error_Localized_Description" = "“%@” 파일이 외부에서 변경되었습니다.";
+"External_Change_Error_Recovery_Suggestion" = "파일이 iA Writer 밖에서 수정되었습니다. 디스크 상의 파일로 되돌리면 iA Writer에서 수행한 최근 변경 사항이 손실될 수 있습니다. 또한, 다음으로 저장을 클릭하여 다른 파일로 변경 사항을 저장할 수 있습니다.";
+"External_Change_Error_Keep_Action" = "iA Writer 버전 유지";
+"External_Change_Error_Revert_Action" = "되돌리기";
+"External_Change_Error_Save_As_Action" = "다음으로 저장...";
+
+/*-----------
+ Sort Options
+ -----------*/
+
+"Library_Sort_Order_Name" = "이름";
+"Library_Sort_Order_Extension" = "확장명";
+"Library_Sort_Order_Date_Modified" = "수정한 날짜";
+"Library_Sort_Order_Search_Rank" = "검색 관련성";
+
+"Library_Sort_By_Name_Phrase" = "이름별 정렬";
+"Library_Sort_By_Extension_Phrase" = "확장명별 정렬";
+"Library_Sort_By_Date_Modified_Phrase" = "수정한 날짜별 정렬";
+"Library_Sort_By_Search_Rank_Phrase" = "검색 관련성별 정렬";
+
+"Library_Sort_By_Name" = "이름";
+"Library_Sort_By_Extension" = "확장명";
+"Library_Sort_By_Date_Modified" = "수정한 날짜";
+"Library_Sort_By_Search_Rank" = "검색 관련성";
+
+"Library_Sort_By_Date_Ascending" = "오래된 항목순";
+"Library_Sort_By_Date_Descending" = "최신 항목순";
+
+"Library_Sort_By_Text_Ascending" = "오름차순";
+"Library_Sort_By_Text_Descending" = "내림차순";
+
+"Library_Sort_By_Search_Rank_Ascending" = "관련성이 높은 항목순";
+"Library_Sort_By_Search_Rank_Descending" = "관련성이 낮은 항목순";
+
+"Library_Sort_By_Part_Joiner" = ", ";
+
+/*----------
+ Focus Scope
+ ----------*/
+
+"Focus_Scope_Sentence" = "문장";
+"Focus_Scope_Paragraph" = "단락";
+"Focus_Scope_Text" = "타자기";
+
+/*-----------
+ Zip Archives
+ -----------*/
+
+"Zip_Operation_Error_Extraction_Failed" = "아카이브에서 파일을 추출하지 못했습니다.";
+"Zip_Operation_Error_Extraction_Failed_Title" = "추출 실패";
+"Zip_Operation_Error_Extraction_Failed_Recovery_Suggestion" = "파일을 추출하지 못했거나 아카이브가 비어 있습니다.";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+"Content_Block_Error_No_Such_File" = "“%@”은(는) 존재하지 않습니다.";
+"Content_Block_Error_No_Such_File_Title" = "“%@”은(는) 존재하지 않습니다";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "파일 이름이 잘못된 것 같습니다.";
+
+"Content_Block_Error_Unable_To_Process" = "“%@”을(를) 처리하지 못했습니다.";
+"Content_Block_Error_Unable_To_Process_Title" = "“%@”을(를) 처리하지 못했습니다";
+"Content_Block_Error_Unable_To_Process_Recovery_Suggestion" = "문서의 서식이 잘못된 것 같습니다.";
+"Content_Block_Error_Unable_To_Process_CSV_With_Less_Than_Two_Rows" = "CSV 파일이 표를 생성하려면 두 개 이상의 행을 포함해야 합니다.";
+
+"Content_Block_Error_Unknown_Extension" = "“%@”에 지원되지 않는 확장명이 있습니다.";
+"Content_Block_Error_Unknown_Extension_Title" = "“%@”에 지원되지 않는 확장명이 있습니다";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "콘텐츠 블록은 일반 텍스트 파일 또는 이미지이어야 합니다.";
+
+"Content_Block_Error_Recursive_Reference" = "“%@”에 재귀 참조가 포함되어 있습니다.";
+"Content_Block_Error_Recursive_Reference_Title" = "“%@”에 재귀 참조가 포함되어 있습니다";
+"Content_Block_Error_Recursive_Reference_Recovery_Suggestion" = "재귀 참조는 무시됩니다.";
+
+"Content_Block_Error_Unsupported_Location" = "콘텐츠 블록은 라이브러리의 파일에서만 지원됩니다.";
+"Content_Block_Error_Unsupported_Location_Title" = "지원되지 않는 위치";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "콘텐츠 블록을 사용하려면 라이브러리로 파일을 이동 또는 복사하세요. 환경 설정에서 라이브러리에 폴더를 추가할 수 있습니다.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "콘텐츠 블록은 %@ 라이브러리의 파일에서만 지원됩니다.";
+
+/*---------
+ Text Stats
+ ---------*/
+
+/* Reading time label in text editor toolbar. */
+"Stats_Reading_Time" = "%@ 읽기 시간";
+
+/*-------------
+ Syntax Control
+ -------------*/
+
+/* Syntax control menu title to enable all targets. */
+"Syntax_Control_Enable_All" = "모두 활성화";
+
+/* Syntax control menu title to enable last used targets. */
+"Syntax_Control_Enable_Last_Used" = "마지막 사용 항목 활성화";
+
+/* Syntax control menu title to disable all targets. */
+"Syntax_Control_Disable_All" = "모두 비활성화";
+
+/* All syntax control targets chosen. */
+"Syntax_Control_Target_All" = "모두";
+
+/* No syntax control target chosen. */
+"Syntax_Control_Target_None" = "없음";
+
+/* Nouns syntax control target. */
+"Syntax_Control_Target_Nouns" = "명사";
+
+/* Verbs syntax control target. */
+"Syntax_Control_Target_Verbs" = "동사";
+
+/* Adjectives syntax control target. */
+"Syntax_Control_Target_Adjectives" = "형용사";
+
+/* Adverbs syntax control target. */
+"Syntax_Control_Target_Adverbs" = "부사";
+
+/* Conjunctions syntax control target. */
+"Syntax_Control_Target_Conjunctions" = "접속사";

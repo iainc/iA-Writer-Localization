@@ -1,0 +1,305 @@
+
+"Button_OK" = "OK";
+"Button_Cancel" = "Отменить";
+"Button_Try_Again" = "Повторить попытку";
+"Button_Share" = "Поделиться";
+"Button_Close" = "Закрыть";
+"Button_Continue" = "Продолжить";
+"Button_Enable" = "Включить";
+"Button_Disable" = "Выключить";
+"Button_Reset" = "Сбросить";
+
+"News_Title" = "Обновления";
+
+"Unknown_Error_Title" = "Неизвестная ошибка";
+"Unknown_Error" = "Произошла неизвестная ошибка.";
+"Unknown_Error_Recovery_Suggestion" = "Повторите попытку, затем обратитесь в поддержку.";
+
+"Default_Document_Name" = "Без названия";
+"Default_Folder_Name" = "Папка без названия";
+"Default_Image_Name" = "Без названия";
+"Default_Smart_Folder_Name" = "Без названия";
+"Default_Smart_Folder_Recently_Modified_Name" = "Недавние";
+
+"Paper_Size_A4" = "A4";
+"Paper_Size_US_Letter" = "US Letter";
+
+/*----
+ Dates
+ ----*/
+
+"Relative_Date_Yesterday" = "Вчера";
+
+/*-----------
+ Web Services
+ -----------*/
+
+"Web_Service_Publish_Status_Draft" = "Черновик";
+"Web_Service_Publish_Status_Unlisted" = "Скрытый";
+"Web_Service_Publish_Status_Public" = "Опубликован";
+
+"Web_Service_Error_Missing_Response_Data_Title" = "Нет ответа";
+"Web_Service_Error_Missing_Response_Data" = "Ответ не получен.";
+
+"Web_Service_Error_Invalid_Response_Data_Title" = "Неверный ответ";
+"Web_Service_Error_Invalid_Response_Data" = "Не удается обработать ответ.";
+
+"Web_Service_Error_Invalid_Response_Data_Parameter_Title" = "Неверный параметр ответа";
+"Web_Service_Error_Invalid_Response_Data_Parameter" = "Получен неполный ответ.";
+
+"Web_Service_Error_Unsupported_Content_Title" = "Неподдерживаемое содержимое";
+"Web_Service_Error_Unsupported_Content" = "Некоторый части этого документа не поддерживаются.";
+"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "Удалите неподдерживаемое содержимое из документа.";
+
+"Web_Service_Error_Invalid_Request_Title" = "Неверный запрос";
+"Web_Service_Error_Invalid_Request" = "Неверный запрос.";
+
+"Web_Service_Error_Unauthorized_Title" = "Несанкционированный запрос";
+"Web_Service_Error_Unauthorized" = "Токен доступа отозван или неверен.";
+"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "Убедитесь, что токен доступа активен и правильный.";
+
+"Web_Service_Error_Forbidden_Title" = "Запрещенный запрос";
+"Web_Service_Error_Forbidden" = "Нет разрешения на выполнение запроса.";
+"Web_Service_Error_Forbidden_Recovery_Suggestion" = "Убедитесь, что ваша учетная запись имеет права для размещения публикаций.";
+
+"Web_Service_Error_Other_Title" = "Ошибка подключения";
+"Web_Service_Error_Other" = "При подключении к службе получена ошибка.";
+
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "Доступ запрещен";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Доступ к учетной записи запрещен.";
+"Web_Service_Recovery_Suggestion_Auth_Denied" = "Вы должны предоставить доступ к своей учетной записи, чтобы использовать ее в iA Writer.";
+
+"Web_Service_Recovery_Suggestion_Try_Later" = "Пожалуйста, попробуйте позже.";
+
+"Medium_Failure_Reason_Unsupported_Content" = "Некоторые элементы могут выглядеть иначе: %@.";
+"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
+"Medium_Failure_Reason_Unsupported_Content_Tables" = "таблицы";
+"Medium_Failure_Reason_Unsupported_Content_Footnotes" = "сноски";
+"Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "списки больше чем с одним уровнем";
+"Medium_Failure_Reason_Unsupported_Content_Nested_Ordered_List_Items" = "упорядоченные списки больше чем с одним уровнем";
+"Medium_Failure_Reason_Unsupported_Content_Task_List_Items" = "списки задач";
+"Medium_Failure_Reason_Unsupported_Content_H5" = "заголовки 5 уровня";
+"Medium_Failure_Reason_Unsupported_Content_H6" = "заголовки 6 уровня";
+"Medium_Failure_Reason_Unsupported_Content_TOC" = "Оглавление";
+
+"WordPress_No_Sites_Error" = "Не удалось найти ни одного сайта, связанного с вашей учетной записью WordPress.";
+"WordPress_No_Sites_Error_Title" = "Сайты не найдены";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "Удостоверьтесь, что вы предоставили правильную учетную запись или добавьте новый сайт в учетную запись WordPress.";
+"WordPress_Manage_Sites" = "Управление сайтами";
+
+"Web_Service_Image_Upload_Error" = "Не удалось загрузить некоторые изображения.";
+"Web_Service_Image_Upload_Error_Title" = "Ошибка загрузки изображений";
+/* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
+"Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
+
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium отключил загрузку изображений";
+"Medium_Image_Upload_Error_Unauthorized" = "Medium отключил загрузку изображений.";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Пожалуйста, свяжитесь с Medium чтобы включить загрузку изображений для вашего токена.";
+"Medium_Image_Upload_Error_Contact" = "Связаться с Medium";
+
+/*--------
+ Templates
+ --------*/
+
+"Template_Error_Missing_Page_Title" = "Отсутствует страница шаблона";
+"Template_Error_Missing_Page" = "Не удается найти страницу шаблона.";
+"Template_Error_Missing_Page_Recovery_Suggestion" = "Проверьте, правильно ли вы указали «%@» в Info.plist.";
+
+"Template_Error_Undefined_Page_Title" = "Не указана страница шаблона";
+"Template_Error_Undefined_Page" = "Не удается найти определение страницы шаблона.";
+"Template_Error_Undefined_Page_Recovery_Suggestion" = "Пожалуйста, укажите «%@» в Info.plist.";
+
+"Template_Error_Duplicate_Bundle_Title" = "Шаблон установлен";
+"Template_Error_Duplicate_Bundle" = "Шаблон уже установлен.";
+"Template_Error_Duplicate_Bundle_Recovery_Suggestion" = "Замените шаблон, если вы устанавливаете более новую версию «%@». Измените идентификатор шаблона для установки обоих.";
+"Template_Error_Duplicate_Bundle_Recovery_Option" = "Заменить";
+
+"Template_Error_Invalid_Bundle_Title" = "Неверный шаблон";
+"Template_Error_Invalid_Bundle" = "Невозможно обработать шаблон.";
+"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "Сверьтесь с документацией.";
+
+"Template_Error_Installed_Bundle_Title" = "Шаблон установлен";
+"Template_Error_Installed_Bundle" = "Шаблон уже установлен.";
+"Template_Error_Installed_Bundle_Recovery_Suggestion" = "Сверьтесь с документацией, если шаблон недоступен в iA Writer.";
+
+/*--------
+ URL Sheme
+ --------*/
+
+"URL_Scheme_Error_Invalid_Parameters_Title" = "Неверные параметры";
+"URL_Scheme_Error_Invalid_Parameters" = "URL-команда вызвана с неверными параметрами.";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Сверьтесь с документацией URL-команд.";
+
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Неверный токен авторизации";
+"URL_Scheme_Error_Invalid_Auth_Token" = "Команда URL вызвана с неверным токеном авторизации.";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Убедитесь, что токен авторизации верен.";
+
+"URL_Scheme_Auth_Token_Description" = "Для некоторых URL-команд требуется токен авторизации.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Для некоторых URL-команд требуется токен авторизации. Токен синхронизируется на все ваши устройства с помощью iCloud.";
+
+/*-------
+ Storages
+ -------*/
+
+"Storage_Name_Cloud" = "iCloud";
+"Storage_Name_Unknown" = "Неизвестное";
+"Storage_Name_Local" = "Локальное";
+"Storage_Name_On_My_Device" = "На моем %@";
+
+"Library_Location_Desktop" = "Рабочий стол";
+"Library_Location_Documents" = "Документы";
+
+/*----
+ Fonts
+ ----*/
+
+"Font_Name_Monospaced" = "Одноширинная";
+"Font_Name_Duospaced" = "Двуширинная";
+"Font_Name_Quattro" = "Четвероширинная";
+
+"Content_Typography_System" = "Системная — %@";
+"Content_Typography_Default" = "По умолчанию";
+"Content_Typography_Simplified_Chinese" = "Китайская упрощенная";
+"Content_Typography_Traditional_Chinese" = "Китайская традиционная";
+"Content_Typography_Japanese" = "Японская";
+"Content_Typography_Korean" = "Корейская";
+
+"Content_Typography_Emphasis_Italic" = "Курсив";
+"Content_Typography_Emphasis_Mark" = "Выделение";
+
+/*----------------
+ Library Locations
+ ----------------*/
+
+"Library_Location_Error_Existing_Item_Title" = "Cannot Add an Existing Library Location";
+"Library_Location_Error_Existing_Item" = "Невозможно добавить местоположение библиотеки, потому что папка или ее подпапка являются частью другого местоположения библиотеки.";
+"Library_Location_Error_Existing_Item_Failure_Reason" = "Выбранная папка или ее подпапка являются частью другого местоположения библиотеки.";
+"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Удалите существующее местоположение библиотеки перед добавлением выбранной папки.";
+
+"Library_Location_Error_Not_Found_Title" = "Невозможно найти местоположение библиотеки";
+"Library_Location_Error_Not_Found" = "Невозможно найти местоположение библиотеки. ";
+"Library_Location_Error_Not_Found_Failure_Reason" = "Возможно, оно было удалено или расположено на извлекаемом устройстве.";
+"Library_Location_Error_Not_Found_Recovery_Suggestion" = "Подключите извлекаемое устройство, чтобы получить доступ к местоположению библиотеки.";
+
+/*--------
+ Documents
+ --------*/
+
+"External_Change_Error_Localized_Description" = "Файл «%@» изменен извне.";
+"External_Change_Error_Recovery_Suggestion" = "Файл был изменен вне iA Writer. Если вы восстановите файл на диске, любые недавние изменения, сделанные вами в iA Writer, могут быть потеряны. Вы также можете нажать «Сохранить как», чтобы сохранить изменения в другом файле.";
+"External_Change_Error_Keep_Action" = "Сохранить версию iA Writer";
+"External_Change_Error_Revert_Action" = "Восстановить";
+"External_Change_Error_Save_As_Action" = "Сохранить как…";
+
+/*-----------
+ Sort Options
+ -----------*/
+
+"Library_Sort_Order_Name" = "Имя";
+"Library_Sort_Order_Extension" = "Расширение";
+"Library_Sort_Order_Date_Modified" = "Дата изменения";
+"Library_Sort_Order_Search_Rank" = "Релевантность";
+
+"Library_Sort_By_Name_Phrase" = "Сортировать по имени";
+"Library_Sort_By_Extension_Phrase" = "Сортировать по расширению";
+"Library_Sort_By_Date_Modified_Phrase" = "Сортировать по дате изменения";
+"Library_Sort_By_Search_Rank_Phrase" = "Сортировать по релевантности";
+
+"Library_Sort_By_Name" = "Имени";
+"Library_Sort_By_Extension" = "Расширению";
+"Library_Sort_By_Date_Modified" = "Дате изменения";
+"Library_Sort_By_Search_Rank" = "Релевантности";
+
+"Library_Sort_By_Date_Ascending" = "Старые сверху";
+"Library_Sort_By_Date_Descending" = "Новые сверху";
+
+"Library_Sort_By_Text_Ascending" = "От А до Я";
+"Library_Sort_By_Text_Descending" = "От Я до A";
+
+"Library_Sort_By_Search_Rank_Ascending" = "Наиболее релевантные сверху";
+"Library_Sort_By_Search_Rank_Descending" = "Наименее релевантные сверху";
+
+"Library_Sort_By_Part_Joiner" = ", ";
+
+/*----------
+ Focus Scope
+ ----------*/
+
+"Focus_Scope_Sentence" = "Предложение";
+"Focus_Scope_Paragraph" = "Абзац";
+"Focus_Scope_Text" = "Пишущая машинка";
+
+/*-----------
+ Zip Archives
+ -----------*/
+
+"Zip_Operation_Error_Extraction_Failed" = "Не удалось извлечь файлы из архива.";
+"Zip_Operation_Error_Extraction_Failed_Title" = "Не удалось извлечь файлы из архива";
+"Zip_Operation_Error_Extraction_Failed_Recovery_Suggestion" = "Не удалось извлечь файлы или архив пуст.";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+"Content_Block_Error_No_Such_File" = "«%@» не существует.";
+"Content_Block_Error_No_Such_File_Title" = "«%@» не существует";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "Возможно, имя файла неправильное.";
+
+"Content_Block_Error_Unable_To_Process" = "Невозможно обработать «%@».";
+"Content_Block_Error_Unable_To_Process_Title" = "Невозможно обработать «%@».";
+"Content_Block_Error_Unable_To_Process_Recovery_Suggestion" = "У документа, возможно, неправильное форматирование.";
+"Content_Block_Error_Unable_To_Process_CSV_With_Less_Than_Two_Rows" = "Для создания таблицы файл CSV должен содержать не менее двух строк.";
+
+"Content_Block_Error_Unknown_Extension" = "«%@» имеет неподдерживаемое расширение.";
+"Content_Block_Error_Unknown_Extension_Title" = "«%@» имеет неподдерживаемое расширение.";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Блоки контента должны быть текстовыми файлами или изображениями.";
+
+"Content_Block_Error_Recursive_Reference" = "«%@» содержит рекурсивную ссылку.";
+"Content_Block_Error_Recursive_Reference_Title" = "«%@» содержит рекурсивную ссылку";
+"Content_Block_Error_Recursive_Reference_Recovery_Suggestion" = "Рекурсивные ссылки игнорируются.";
+
+"Content_Block_Error_Unsupported_Location" = "Блоки контента поддерживаются только файлами в библиотеке.";
+"Content_Block_Error_Unsupported_Location_Title" = "Неподдерживаемое местоположение";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Переместите или скопируйте файл в библиотеку, чтобы использовать блоки контента. Вы можете добавить папки в библиотеку в настройках.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Блоки контента поддерживаются только файлами в библиотеке %@.";
+
+/*---------
+ Text Stats
+ ---------*/
+
+/* Reading time label in text editor toolbar. */
+"Stats_Reading_Time" = "Время чтения %@";
+
+/*-------------
+ Syntax Control
+ -------------*/
+
+/* Syntax control menu title to enable all targets. */
+"Syntax_Control_Enable_All" = "Включить все";
+
+/* Syntax control menu title to enable last used targets. */
+"Syntax_Control_Enable_Last_Used" = "Включить последние";
+
+/* Syntax control menu title to disable all targets. */
+"Syntax_Control_Disable_All" = "Выключить все";
+
+/* All syntax control targets chosen. */
+"Syntax_Control_Target_All" = "Все";
+
+/* No syntax control target chosen. */
+"Syntax_Control_Target_None" = "Нет";
+
+/* Nouns syntax control target. */
+"Syntax_Control_Target_Nouns" = "Существительные";
+
+/* Verbs syntax control target. */
+"Syntax_Control_Target_Verbs" = "Глаголы";
+
+/* Adjectives syntax control target. */
+"Syntax_Control_Target_Adjectives" = "Прилагательные";
+
+/* Adverbs syntax control target. */
+"Syntax_Control_Target_Adverbs" = "Наречия";
+
+/* Conjunctions syntax control target. */
+"Syntax_Control_Target_Conjunctions" = "Союзы";

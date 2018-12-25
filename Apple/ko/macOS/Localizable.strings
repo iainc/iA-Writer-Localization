@@ -1,0 +1,486 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "어두운 외관 사용";
+
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "밝은 외관 사용";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "라이브러리에 새로 만들기";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "새로 만들기";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "라이브러리에 새 탭 만들기";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "새 탭";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "기본";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "통계만";
+
+/* Contextual menu to copy formatted text. */
+"Editor_Copy_Formatted_Menu" = "서식 복사";
+
+/* Contextual menu to copy HTML. */
+"Editor_Copy_HTML_Menu" = "HTML 복사";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "지금 구매";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "iA Writer에 환영합니다.\n이 체험 버전에서는 모든 기능을\n무료로 이용할 수 있습니다.";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "체험 기간이 만료되었습니다. iA Writer를 즐겁게 사용하셨기를 바랍니다.";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "“%@” 템플릿이 설치되었습니다";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "미리 보기 및 보기 > 템플릿에서 템플릿에 접근할 수 있습니다. 환경 설정에서 템플릿을 제거할 수 있습니다.";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "iA Writer가 버전 %@(으)로 업데이트되었습니다";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "릴리스 노트를 보려면 여기를 클릭하세요.";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "내보내기";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "내보내기";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "다음으로 내보내기:";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "내보낼 곳:";
+
+/* Microsoft Word export format. */
+"Export_Format_Word_Name" = "Microsoft Word";
+
+/* Microsoft Word export format description. */
+"Export_Format_Word_Description" = "Microsoft Word 2007 이상 버전, Apple Pages 및 Google Docs와 호환됩니다.";
+
+/* HTML export format. */
+"Export_Format_HTML_Name" = "HTML";
+
+/* HTML export format description. */
+"Export_Format_HTML_Description" = "일반 HTML.";
+
+/* PDF export format. */
+"Export_Format_PDF_Name" = "PDF";
+
+/* PDF export format description. */
+"Export_Format_PDF_Description" = "PDF 레이아웃을 변경하려면, 파일 > 페이지 설정을 선택하세요.";
+
+/* Plain text export format. */
+"Export_Format_Markdown_Name" = "마크다운";
+
+/* Plain text export format description. */
+"Export_Format_Markdown_Description" = "다른 편집기들과 호환됩니다.";
+
+/* Project archive text export format. */
+"Export_Format_Project_Archive_Name" = "프로젝트 아카이브";
+
+/* Plain text export format description. */
+"Export_Format_Project_Archive_Description" = "관련된 콘텐츠 블록을 포함합니다.";
+
+/* Checkmark title in print options. */
+"Print_Header" = "머리글 인쇄";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "바닥글 인쇄";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "공유";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "초안을 어디에 생성하시겠습니까?";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "WordPress 계정은 하나 이상의 사이트에 접근할 수 있습니다.";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to hide library. */
+"Hide_Library" = "라이브러리 숨기기";
+
+/* Menu item to hide preview. */
+"Hide_Preview" = "미리 보기 숨기기";
+
+/* Menu item to show library. */
+"Show_Library" = "라이브러리 표시";
+
+/* Menu item to show preview. */
+"Show_Preview" = "미리 보기 표시";
+
+/* Menu item to show preview. */
+"Show_Source_List" = "오거나이저 표시";
+
+/* Menu item to show preview. */
+"Hide_Source_List" = "오거나이저 숨기기";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "필터 바 표시";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "필터 바 숨기기";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "정렬 바 표시";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "정렬 바 숨기기";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "내보내기";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Half_Width" = "반각";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Full_Width" = "전각";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "미리 볼 콘텐츠가 없습니다";
+
+/*------
+ Library
+ ------*/
+
+/* Button title to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order" = "사용자 정의";
+
+/* Button tooltip to toggle custom smart folder sort order. */
+"Library_Custom_Sort_Order_Tooltip" = "현재 보기에 사용자 정의 정렬 순서를 사용합니다";
+
+/* Go menu item title to go back. */
+"Library_Go_Back" = "뒤로";
+
+/* Go menu item title to go forward. */
+"Library_Go_Forward" = "앞으로";
+
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "상위 폴더";
+
+/* Menu to move to delete a folder when right-clicking in document library.
+   Title for action when swiping table view. */
+"Library_Delete_Action_Title" = "삭제...";
+
+/* Deletion confirmation sheet message. */
+"Library_Delete_Confrimation_Message" = "“%@”을(를) 삭제하시겠습니까?";
+
+/* Deletion confrimation infromative text for a local item. */
+"Library_Delete_Confrimation_Informative_Text" = "이 작업은 취소할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Library_Delete_Confrimation_Button" = "삭제";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "빈 문서";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "업데이트 중...";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "새 파일";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "새 폴더";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "선택 항목으로 새 폴더 만들기";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "새 창에서 열기";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "새 탭에서 열기";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "%@(으)로 열기";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "이름 변경";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "정보 확인";
+
+/* Menu to copy library path for an item in Library. */
+"Library_Action_Copy_Library_Path" = "라이브러리 경로 복사";
+
+/* Menu to copy URL command path for an item in Library. */
+"Library_Action_Copy_URL_Command_Path" = "URL 명령 경로 복사";
+
+/* Menu to copy URL command to open file for an item in Library. */
+"Library_Action_Copy_URL_Command_To_Open_File" = "URL 명령을 복사하여 파일 열기";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "정렬 기준";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "즐겨찾기에 추가";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "즐겨찾기에서 제거";
+
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "위치에서 이름 변경";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "위치에서 제거";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "편집...";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "복제";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "파인더에서 표시";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "라이브러리에서 표시";
+
+/* Search field placeholder. */
+"Library_Search_Field_Placeholder" = "필터";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "문서를 불러오는 중입니다... 라이브러리가 크면 이 작업은 수 분 소요될 수 있습니다.";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "이동";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "“%@”(으)로 이동";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "“%@”(으)로 복사";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "iA Writer 라이브러리 밖에서 문서를 편집하고 있습니다. 편집을 계속하거나, 문서를 라이브러리로 이동할 수 있습니다.";
+
+/* Search title. */
+"Library_Search_Title" = "검색 결과";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "수정일";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "생성일";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "이름";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "확장명";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "크기";
+
+/* Organizer section title. */
+"Library_Root_Locations" = "위치";
+
+/* Organizer section title. */
+"Library_Root_Favorites" = "즐겨찾기";
+
+/* Organizer section title. */
+"Library_Root_Smart_Folders" = "스마트 폴더";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "해시태그";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "폴더와 파일을 여기로 드래그해서 빠르게 접근하세요";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "사용자 정의 규칙을 설정하여 파일을 모읍니다";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "#태그를 써서 파일들을 그룹화합니다";
+
+/*-----
+ Editor
+ -----*/
+
+/* Menu title to enable focus mode. */
+"Menu_Enable_Focus_Mode" = "포커스 모드 활성화";
+
+/* Menu title to disable focus mode. */
+"Menu_Disable_Focus_Mode" = "포커스 모드 비활성화";
+
+/* Menu title to enable syntax highlight. */
+"Menu_Enable_Syntax_Higlight" = "구문 강조 표시 활성화";
+
+/* Menu title to disable syntax highlight. */
+"Menu_Disable_Syntax_Higlight" = "구문 강조 표시 비활성화";
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "첫 글자만 대문자";
+
+/* List block element name. */
+"Block_Element_List" = "목록";
+
+/* Task list block element name. */
+"Block_Element_Task" = "작업";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "순서가 지정된 목록";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "순서가 지정된 작업";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "제목 1";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "제목 2";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "제목 3";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "제목 4";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "제목 5";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "제목 6";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "블록 따옴표";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "본문";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "볼드체";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "취소선";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "본문";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "각주";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "링크";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "표";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "표 크기를 조정합니다. 첫 번째 행은 표 제목을 포함합니다.";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "열";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "행";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "목차";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "일반";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "파일";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "라이브러리";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "편집기";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "템플릿";
+
+/* Button to add account in preferences. */
+"Preferences_Add_Account_Button" = "계정 추가...";
+
+/* Button to remove account in preferences. */
+"Preferences_Remove_Account_Button" = "계정 제거";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "인증 토큰을 재설정하시겠습니까?";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "이 작업은 취소할 수 없습니다.";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "iA Writer URL 명령을 활성화하시겠습니까?";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "환경 설정에서 나중에 변경할 수 있습니다.";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "빠른 검색";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "일부 콘텐츠를 처리하지 못했습니다.";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "작업을 완료하지 못했습니다.";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "제목";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "목록";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "인라인 요소";

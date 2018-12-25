@@ -92,6 +92,11 @@
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
 
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium deshabilitó la subida de imágenes";
+"Medium_Image_Upload_Error_Unauthorized" = "Medium deshabilitó la subida de imágenes";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Ponte en contacto con Medium para habilitar la subida de imágenes para tu token.";
+"Medium_Image_Upload_Error_Contact" = "Contacto con Medium";
+
 /*--------
  Templates
  --------*/
@@ -141,38 +146,46 @@
 "Storage_Name_Local" = "Local";
 "Storage_Name_On_My_Device" = "En mi %@";
 
+"Library_Location_Desktop" = "Escritorio";
+"Library_Location_Documents" = "Documentos";
+
 /*----
  Fonts
  ----*/
 
-"Font_Name_Monospaced" = "Monospaced";
-"Font_Name_Duospaced" = "Duospaced";
+"Font_Name_Monospaced" = "Mono";
+"Font_Name_Duospaced" = "Duo";
+"Font_Name_Quattro" = "Quattro";
 
-"Font_Script_Support_Monospaced" = "Tipografías admitidas: cirílico, griego y latín.";
-"Font_Script_Support_Duospaced" = "Tipografías admitidas: cirílico y latín.";
-"Font_Script_Support_Other" = "Se usarán las fuentes del sistema para otras tipografías.";
+"Content_Typography_System" = "Sistema — %@";
+"Content_Typography_Default" = "Estándar";
+"Content_Typography_Simplified_Chinese" = "Chino simplificado";
+"Content_Typography_Traditional_Chinese" = "Chino tradicional";
+"Content_Typography_Japanese" = "Japonés";
+"Content_Typography_Korean" = "Coreano";
+
+"Content_Typography_Emphasis_Italic" = "Cursiva";
+"Content_Typography_Emphasis_Mark" = "Énfasis";
 
 /*----------------
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Ubiquitous_Item" = "No se puede agregar una ubicación de biblioteca para una carpeta en iCloud.";
-"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "La carpeta seleccionada está en iCloud.";
-"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "Utiliza la ubicación de biblioteca predeterminada para almacenar documentos en iCloud. Comprueba si está habilitado iCloud para iA Writer en las preferencias del sistema, en caso de que la ubicación predeterminada no esté usando iCloud.";
-
+"Library_Location_Error_Existing_Item_Title" = "No se puede añadir una ubicación de biblioteca existente";
 "Library_Location_Error_Existing_Item" = "No se puede agregar una ubicación de biblioteca porque la carpeta o su subcarpeta son parte de otra ubicación de biblioteca.";
 "Library_Location_Error_Existing_Item_Failure_Reason" = "La carpeta seleccionada o su subcarpeta son parte de otra ubicación de biblioteca.";
 "Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Elimina la ubicación de biblioteca existente antes de agregar la carpeta seleccionada.";
 
-"Library_Location_Error_Not_Found" = "No se puede encontrar la ubicación de la biblioteca. Puede haber sido eliminada o formar parte de un volumen extraíble.";
-"Library_Location_Error_Not_Found_Failure_Reason" = "No se puede encontrar la ubicación de la biblioteca.";
+"Library_Location_Error_Not_Found_Title" = "No se puede encontrar la ubicación de la biblioteca";
+"Library_Location_Error_Not_Found" = "No se puede encontrar la ubicación de la biblioteca. ";
+"Library_Location_Error_Not_Found_Failure_Reason" = "Puede haber sido eliminada o formar parte de un volumen extraíble.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Conecta el volumen extraíble para acceder a la ubicación de la biblioteca.";
 
 /*--------
  Documents
  --------*/
 
-"External_Change_Error_Localized_Descrition" = "El archivo «%@» se modificó externamente.";
+"External_Change_Error_Localized_Description" = "El archivo «%@» se modificó externamente.";
 "External_Change_Error_Recovery_Suggestion" = "El archivo se ha modificado fuera de iA Writer. Si reviertes el archivo en el disco, podrías perder cualquier cambio reciente que hayas realizado en iA Writer. También puedes hacer clic en guardar como para guardar tus cambios en un archivo diferente.";
 "External_Change_Error_Keep_Action" = "Mantener la versión de iA Writer";
 "External_Change_Error_Revert_Action" = "Revertir";
@@ -182,15 +195,20 @@
  Sort Options
  -----------*/
 
-"Library_Sort_By_Name" = "Nombre";
-"Library_Sort_By_Extension" = "Extensión";
-"Library_Sort_By_Date_Modified" = "Fecha de modificación";
-"Library_Sort_By_Search_Rank" = "Rango de búsqueda";
+"Library_Sort_Order_Name" = "Nombre";
+"Library_Sort_Order_Extension" = "Extensión";
+"Library_Sort_Order_Date_Modified" = "Fecha de modificación";
+"Library_Sort_Order_Search_Rank" = "Rango de búsqueda";
 
 "Library_Sort_By_Name_Phrase" = "Ordenar por nombre";
 "Library_Sort_By_Extension_Phrase" = "Ordenar por extensión";
 "Library_Sort_By_Date_Modified_Phrase" = "Ordenar por fecha de modificación";
 "Library_Sort_By_Search_Rank_Phrase" = "Ordenar por rango de búsqueda";
+
+"Library_Sort_By_Name" = "Nombre";
+"Library_Sort_By_Extension" = "Extensión";
+"Library_Sort_By_Date_Modified" = "Fecha de modificación";
+"Library_Sort_By_Search_Rank" = "Rango de búsqueda";
 
 "Library_Sort_By_Date_Ascending" = "Más viejo arriba";
 "Library_Sort_By_Date_Descending" = "Novedades arriba";
@@ -198,8 +216,8 @@
 "Library_Sort_By_Text_Ascending" = "A a Z";
 "Library_Sort_By_Text_Descending" = "Z a A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "Menos relevante arriba";
-"Library_Sort_By_Search_Rank_Descending" = "Más relevante arriba";
+"Library_Sort_By_Search_Rank_Ascending" = "Más relevante arriba";
+"Library_Sort_By_Search_Rank_Descending" = "Menos relevante arriba";
 
 "Library_Sort_By_Part_Joiner" = ", ";
 

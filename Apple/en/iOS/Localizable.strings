@@ -15,6 +15,9 @@
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Add_Favorite" = "Add Favorite…";
 
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Smart Folders";
 
@@ -47,6 +50,15 @@
 
 /* Title for action to open main help page. */
 "Help_Action_Main" = "iA Writer Help";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "How to Add a Library Location";
+"Library_Location_Introduction_Alert_Message" = "\nOpen a folder that contains the folder that you’d like to use as a Library Location.\n\nTap Select, select the folder, then tap Open.";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Don’t Show Again";
+"Library_Location_Rename_Alert_Title" = "Rename Library Location";
 
 /*------
  Backups
@@ -274,6 +286,12 @@
 /* Menu item to copy a library path to file. */
 "Menu_Item_Copy_Library_Path" = "Copy Library Path";
 
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "Copy URL Command Path";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "Copy URL Command to Open File";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "Copy HTML";
 
@@ -286,6 +304,9 @@
 
 /* Table view swipe action title. */
 "Table_View_Action_Delete" = "Delete";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
 
 /* Table view swipe action title. */
 "Table_View_Action_Remove" = "Remove";
@@ -560,6 +581,11 @@
 "Files_App_Service_Provider_Error_Localized_Description" = "Files app cloud service failed to process request.";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "If the error persists, please contact your cloud service provider for support.";
 
+"Files_App_Library_Location_Not_Supported_Error_Title" = "Cannot Add Selected Library Location";
+"Files_App_Library_Location_Not_Supported_Error" = "Cannot add selected library location.";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "Files app cloud service does not support this feature.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Please contact your cloud service provider for support.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -604,10 +630,11 @@
 "Discoverability_Preview" = "Preview";
 "Discoverability_Strong" = "Bold";
 "Discoverability_Strikethrough" = "Strikethrough";
-"Discoverability_Emphasis" = "Italic";
 "Discoverability_Headings" = "Heading 1–6";
 "Discoverability_Blockquote" = "Blockquote";
 "Discoverability_List" = "List";
+"Discoverability_Link" = "Link";
+"Discoverability_Footnote" = "Footnote";
 "Discoverability_Task_List" = "Task List";
 "Discoverability_Ordered_List" = "Ordered List";
 "Discoverability_Ordered_Task_List" = "Ordered Task List";
@@ -732,7 +759,7 @@
  --------------*/
 
 /* Syntax control section in settings. */
-"Settings_Editor_Syntax_Control_Section_Title" = "Syntax Control";
+"Settings_Editor_Syntax_Control_Section_Title" = "Syntax Highlight";
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Appearance";
@@ -742,6 +769,7 @@
 "Settings_Editor_Typography_Section_Title" = "Typography";
 "Settings_Editor_Line_Length_Limit_Edit" = "Maximum Line Length";
 "Settings_Editor_Font" = "Font";
+"Settings_Editor_Language" = "Language";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Focus Mode";
@@ -801,7 +829,7 @@
 "Settings_Markdown_Section_Title" = "Markdown Processing";
 "Settings_Markdown_Lazy_Paragraphs" = "Single Return Starts a New Paragraph";
 "Settings_Markdown_Smart_Punctuation" = "Smart Punctuation";
-"Settings_Markdown_Hide_Metadata" = "Hide Metadata";
+"Settings_Markdown_Process_Metadata" = "Process Metadata";
 "Settings_Markdown_Hide_Hashtags" = "Hide Hashtags";
 
 /* Printing & PDF export section in settings. */

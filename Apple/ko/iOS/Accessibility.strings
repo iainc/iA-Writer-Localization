@@ -1,0 +1,16 @@
+
+"Increase_Text_Size" = "텍스트 크기 증가";
+"Default_Text_Size" = "기본 텍스트 크기";
+"Decrease_Text_Size" = "텍스트 크기 감소";
+
+"Button_Compose" = "새 파일";
+"Button_Preview" = "미리 보기";
+"Button_Search" = "검색";
+"Button_Appearance" = "옵션 보기";
+"Button_Action" = "파일 작업";
+"Button_Move_Selected" = "선택 항목 이동";
+"Button_Delete_Selected" = "선택 항목 삭제";
+"Button_Rename_Selected" = "선택 항목 이름 변경";
+"Button_Add_Folder" = "폴더 추가";
+"Button_Duplicate" = "복제";
+"Button_Settings" = "설정";

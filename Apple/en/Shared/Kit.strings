@@ -19,7 +19,7 @@
 "Default_Folder_Name" = "Untitled Folder";
 "Default_Image_Name" = "Untitled";
 "Default_Smart_Folder_Name" = "Untitled";
-"Default_Smart_Folder_Recently_Modified_Name" = "Recently Modified";
+"Default_Smart_Folder_Recently_Modified_Name" = "Recents";
 
 "Paper_Size_A4" = "A4";
 "Paper_Size_US_Letter" = "US Letter";
@@ -92,6 +92,11 @@
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
 
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium Disabled Image Uploads";
+"Medium_Image_Upload_Error_Unauthorized" = "Medium disabled image uploads.";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Please contact Medium to enable image uploads for your token.";
+"Medium_Image_Upload_Error_Contact" = "Contact Medium";
+
 /*--------
  Templates
  --------*/
@@ -141,38 +146,46 @@
 "Storage_Name_Local" = "Local";
 "Storage_Name_On_My_Device" = "On My %@";
 
+"Library_Location_Desktop" = "Desktop";
+"Library_Location_Documents" = "Documents";
+
 /*----
  Fonts
  ----*/
 
-"Font_Name_Monospaced" = "Monospaced";
-"Font_Name_Duospaced" = "Duospaced";
+"Font_Name_Monospaced" = "Mono";
+"Font_Name_Duospaced" = "Duo";
+"Font_Name_Quattro" = "Quattro";
 
-"Font_Script_Support_Monospaced" = "Supported scripts: Cyrillic, Greek, Latin.";
-"Font_Script_Support_Duospaced" = "Supported scripts: Cyrillic, Latin.";
-"Font_Script_Support_Other" = "System fonts will be used for other scripts.";
+"Content_Typography_System" = "System — %@";
+"Content_Typography_Default" = "Default";
+"Content_Typography_Simplified_Chinese" = "Simplified Chinese";
+"Content_Typography_Traditional_Chinese" = "Traditional Chinese";
+"Content_Typography_Japanese" = "Japanese";
+"Content_Typography_Korean" = "Korean";
+
+"Content_Typography_Emphasis_Italic" = "Italic";
+"Content_Typography_Emphasis_Mark" = "Emphasis";
 
 /*----------------
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Ubiquitous_Item" = "Cannot add a Library Location for a folder in iCloud.";
-"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "Selected folder is in iCloud.";
-"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "Please use the default Library Location to store documents in iCloud. Check if iCloud is enabled for iA Writer in System Preferences if default location is not using iCloud.";
-
+"Library_Location_Error_Existing_Item_Title" = "Cannot Add an Existing Library Location";
 "Library_Location_Error_Existing_Item" = "Cannot add a Library Location because the folder or its subfolder are a part of another Library Location.";
 "Library_Location_Error_Existing_Item_Failure_Reason" = "Selected folder or its subfolder are a part of another Library Location.";
 "Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Remove existing Library Location before adding selected folder.";
 
-"Library_Location_Error_Not_Found" = "Cannot find Library Location. It may have been removed, or was located on an ejectable volume.";
-"Library_Location_Error_Not_Found_Failure_Reason" = "Cannot find Library Location.";
+"Library_Location_Error_Not_Found_Title" = "Cannot Find the Library Location";
+"Library_Location_Error_Not_Found" = "Cannot find the Library Location.";
+"Library_Location_Error_Not_Found_Failure_Reason" = "It may have been removed, or was located on an ejectable volume.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Connect ejectable volume to access Library Location.";
 
 /*--------
  Documents
  --------*/
 
-"External_Change_Error_Localized_Descrition" = "The file “%@” was changed externally.";
+"External_Change_Error_Localized_Description" = "The file “%@” was changed externally.";
 "External_Change_Error_Recovery_Suggestion" = "The file has been modified outside iA Writer. If you revert to the file on disk, any recent changes you made in iA Writer may be lost. You can also click Save As to save your changes to a different file.";
 "External_Change_Error_Keep_Action" = "Keep iA Writer Version";
 "External_Change_Error_Revert_Action" = "Revert";
@@ -182,15 +195,20 @@
  Sort Options
  -----------*/
 
-"Library_Sort_By_Name" = "Name";
-"Library_Sort_By_Extension" = "Extension";
-"Library_Sort_By_Date_Modified" = "Date Modified";
-"Library_Sort_By_Search_Rank" = "Search Relevance";
+"Library_Sort_Order_Name" = "Name";
+"Library_Sort_Order_Extension" = "Extension";
+"Library_Sort_Order_Date_Modified" = "Date Modified";
+"Library_Sort_Order_Search_Rank" = "Search Relevance";
 
 "Library_Sort_By_Name_Phrase" = "Sort by Name";
 "Library_Sort_By_Extension_Phrase" = "Sort by Extension";
 "Library_Sort_By_Date_Modified_Phrase" = "Sort by Date Modified";
 "Library_Sort_By_Search_Rank_Phrase" = "Sort by Search Relevance";
+
+"Library_Sort_By_Name" = "Name";
+"Library_Sort_By_Extension" = "Extension";
+"Library_Sort_By_Date_Modified" = "Date Modified";
+"Library_Sort_By_Search_Rank" = "Search Relevance";
 
 "Library_Sort_By_Date_Ascending" = "Oldest on Top";
 "Library_Sort_By_Date_Descending" = "Newest on Top";
@@ -198,8 +216,8 @@
 "Library_Sort_By_Text_Ascending" = "A to Z";
 "Library_Sort_By_Text_Descending" = "Z to A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "Least Relevant on Top";
-"Library_Sort_By_Search_Rank_Descending" = "Most Relevant on Top";
+"Library_Sort_By_Search_Rank_Ascending" = "Most Relevant on Top";
+"Library_Sort_By_Search_Rank_Descending" = "Least Relevant on Top";
 
 "Library_Sort_By_Part_Joiner" = ", ";
 

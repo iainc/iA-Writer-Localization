@@ -86,7 +86,7 @@
 "Export_Format_Word_Name" = "Microsoft Word";
 
 /* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Compatible with Microsoft Word 2007–2013.";
+"Export_Format_Word_Description" = "Compatible with Microsoft Word 2007 or newer, Apple Pages, and Google Docs.";
 
 /* HTML export format. */
 "Export_Format_HTML_Name" = "HTML";
@@ -98,7 +98,7 @@
 "Export_Format_PDF_Name" = "PDF";
 
 /* PDF export format description. */
-"Export_Format_PDF_Description" = "To change PDF layout, choose File > Page Setup.";
+"Export_Format_PDF_Description" = "To change PDF layout, choose File → Page Setup.";
 
 /* Plain text export format. */
 "Export_Format_Markdown_Name" = "Markdown";
@@ -187,9 +187,6 @@
 /* Button tooltip to toggle custom smart folder sort order. */
 "Library_Custom_Sort_Order_Tooltip" = "Use custom sort order for current view";
 
-/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
-"Library_Location_Description" = "Library Locations are ideal for quick access to folders with most of your documents outside iCloud.\nThey are indexed for quick navigation and full text search.\nExcessively large folders may negatively affect performance.";
-
 /* Go menu item title to go back. */
 "Library_Go_Back" = "Back";
 
@@ -245,6 +242,12 @@
 
 /* Menu to copy library path for an item in Library. */
 "Library_Action_Copy_Library_Path" = "Copy Library Path";
+
+/* Menu to copy URL command path for an item in Library. */
+"Library_Action_Copy_URL_Command_Path" = "Copy URL Command Path";
+
+/* Menu to copy URL command to open file for an item in Library. */
+"Library_Action_Copy_URL_Command_To_Open_File" = "Copy URL Command to Open File";
 
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Sort By";
@@ -387,9 +390,6 @@
 
 /* Bold inline element name. */
 "Inline_Element_Bold" = "Bold";
-
-/* Italic inline element name. */
-"Inline_Element_Italic" = "Italic";
 
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Strikethrough";

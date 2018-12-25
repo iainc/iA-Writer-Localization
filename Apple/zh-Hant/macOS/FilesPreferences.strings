@@ -1,5 +1,5 @@
 
-/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon when no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
+/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "按下 ⌘N 或在沒有開啟其他檔案的情況下點擊 Dock 圖標，便會執行偏好操作。\n按 ⌥⌘N 則會執行復原操作。";
 
 /* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */

@@ -15,6 +15,9 @@
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Add_Favorite" = "お気に入りに追加…";
 
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "スマートフォルダ";
 
@@ -47,6 +50,15 @@
 
 /* Title for action to open main help page. */
 "Help_Action_Main" = "iA Writerヘルプ";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "ライブラリの場所を追加する方法";
+"Library_Location_Introduction_Alert_Message" = "\nライブラリの場所として使用するフォルダを含むフォルダを開きます。\n\n[選択]をタップしてフォルダを選択し、[開く]をタップします。";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "今後表示しない";
+"Library_Location_Rename_Alert_Title" = "ライブラリの場所の名前を変更する";
 
 /*------
  Backups
@@ -274,6 +286,12 @@
 /* Menu item to copy a library path to file. */
 "Menu_Item_Copy_Library_Path" = "ライブラリのパスをコピー";
 
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "URLコマンドパスをコピー";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "URLコマンドをコピーしてファイルを開く";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "HTMLをコピー";
 
@@ -286,6 +304,9 @@
 
 /* Table view swipe action title. */
 "Table_View_Action_Delete" = "削除";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
 
 /* Table view swipe action title. */
 "Table_View_Action_Remove" = "取り除く";
@@ -560,6 +581,11 @@
 "Files_App_Service_Provider_Error_Localized_Description" = "ファイルアプリのクラウドサービスがリクエストの処理を行えませんでした。";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "エラーが継続するようであればクラウドサービスプロバイダーに連絡しサポートを受けてください。";
 
+"Files_App_Library_Location_Not_Supported_Error_Title" = "選択したライブラリの場所を追加できません";
+"Files_App_Library_Location_Not_Supported_Error" = "選択したライブラリの場所を追加できません";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "ファイルアプリクラウドサービスはこの機能をサポートしていません。";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "サポートについては、クラウドサービスのプロバイダーにお問い合わせください。";
+
 /*-----------
  Quick Search
  -----------*/
@@ -604,10 +630,11 @@
 "Discoverability_Preview" = "プレビュー";
 "Discoverability_Strong" = "太字";
 "Discoverability_Strikethrough" = "取消線";
-"Discoverability_Emphasis" = "イタリック";
 "Discoverability_Headings" = "見出し 1–6";
 "Discoverability_Blockquote" = "ブロック引用";
 "Discoverability_List" = "リスト";
+"Discoverability_Link" = "リンク";
+"Discoverability_Footnote" = "脚注";
 "Discoverability_Task_List" = "タスクリスト";
 "Discoverability_Ordered_List" = "番号付きリスト";
 "Discoverability_Ordered_Task_List" = "番号付きタスクリスト";
@@ -732,7 +759,7 @@
  --------------*/
 
 /* Syntax control section in settings. */
-"Settings_Editor_Syntax_Control_Section_Title" = "シンタックスコントロール";
+"Settings_Editor_Syntax_Control_Section_Title" = "シンタックスハイライト";
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "アピアランス";
@@ -742,6 +769,7 @@
 "Settings_Editor_Typography_Section_Title" = "タイポグラフィ";
 "Settings_Editor_Line_Length_Limit_Edit" = "1行の最大長";
 "Settings_Editor_Font" = "フォント";
+"Settings_Editor_Language" = "言語";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "フォーカスモード";
@@ -801,7 +829,7 @@
 "Settings_Markdown_Section_Title" = "Markdown処理";
 "Settings_Markdown_Lazy_Paragraphs" = "一回のリターンキーで新しい段落を開始";
 "Settings_Markdown_Smart_Punctuation" = "スマート句読点";
-"Settings_Markdown_Hide_Metadata" = "メタデータを隠す";
+"Settings_Markdown_Process_Metadata" = "メタデータを処理";
 "Settings_Markdown_Hide_Hashtags" = "ハッシュタグを隠す";
 
 /* Printing & PDF export section in settings. */

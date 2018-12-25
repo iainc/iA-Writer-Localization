@@ -92,6 +92,11 @@
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
 
+"Medium_Image_Upload_Error_Unauthorized_Title" = "O serviço web desativou os carregamentos de imagens";
+"Medium_Image_Upload_Error_Unauthorized" = "O serviço web desativou os carregamentos de imagens.";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Contacte o serviço web para ativar os carregamentos de imagens para o seu código.";
+"Medium_Image_Upload_Error_Contact" = "Contactar o serviço web";
+
 /*--------
  Templates
  --------*/
@@ -141,38 +146,46 @@
 "Storage_Name_Local" = "Local";
 "Storage_Name_On_My_Device" = "No Meu %@";
 
+"Library_Location_Desktop" = "Secretária";
+"Library_Location_Documents" = "Documentos";
+
 /*----
  Fonts
  ----*/
 
-"Font_Name_Monospaced" = "Não proporcional";
-"Font_Name_Duospaced" = "Proporcional";
+"Font_Name_Monospaced" = "Mono";
+"Font_Name_Duospaced" = "Duo";
+"Font_Name_Quattro" = "Quattro";
 
-"Font_Script_Support_Monospaced" = "Scripts suportados: Cirílico, Grego, Latino.";
-"Font_Script_Support_Duospaced" = "Scripts suportados: Cirílico, Latino.";
-"Font_Script_Support_Other" = "Serão usados tipos de letra de sistema para outros scripts.";
+"Content_Typography_System" = "Sistema — %@";
+"Content_Typography_Default" = "Padrão";
+"Content_Typography_Simplified_Chinese" = "Chinês simplificado";
+"Content_Typography_Traditional_Chinese" = "Chinês tradicional";
+"Content_Typography_Japanese" = "Japonês";
+"Content_Typography_Korean" = "Coreano";
+
+"Content_Typography_Emphasis_Italic" = "Itálico";
+"Content_Typography_Emphasis_Mark" = "Ênfase";
 
 /*----------------
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Ubiquitous_Item" = "Não é possível adicionar uma Localização de Biblioteca para uma pasta na iCloud.";
-"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "A pasta selecionada está na iCloud.";
-"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "Por favor, use a Localização de Biblioteca predefinida para armazenar documentos na iCloud. Verifique se a iCloud foi ativada para o iA Writer nas Preferências de Sistema, caso a localização predefinida não esteja a usar a iCloud.";
-
+"Library_Location_Error_Existing_Item_Title" = "Não é possível adicionar uma Localização de Biblioteca existente";
 "Library_Location_Error_Existing_Item" = "Não é possível acrescentar uma Localização de Biblioteca, porque a pasta ou a sua subpasta fazem parte de uma Localização de Biblioteca diferente.";
 "Library_Location_Error_Existing_Item_Failure_Reason" = "A pasta selecionada ou a sua subpasta fazem parte de uma outra Localização de Biblioteca.";
 "Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Remover a Localização da Biblioteca existente antes de acrescentar a pasta selecionada.";
 
-"Library_Location_Error_Not_Found" = "Não é possível encontrar a Localização da Biblioteca. Poderá ter sido removida, ou localizar-se numa unidade ejetável.";
-"Library_Location_Error_Not_Found_Failure_Reason" = "Não foi possível encontrar a Localização de Biblioteca.";
+"Library_Location_Error_Not_Found_Title" = "Não é possível encontrar a Localização da Biblioteca";
+"Library_Location_Error_Not_Found" = "Não é possível encontrar a Localização da Biblioteca. ";
+"Library_Location_Error_Not_Found_Failure_Reason" = "Poderá ter sido removida, ou localizar-se numa unidade ejetável.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Ligue a unidade ejetável para aceder à Localização de Biblioteca";
 
 /*--------
  Documents
  --------*/
 
-"External_Change_Error_Localized_Descrition" = "O ficheiro “%@” foi alterado externamente.";
+"External_Change_Error_Localized_Description" = "O ficheiro “%@” foi alterado externamente.";
 "External_Change_Error_Recovery_Suggestion" = "O ficheiro foi modificado fora do iA Writer. Se reverter para a versão do ficheiro em disco, todas as alterações recentes feitas no iA Writer podem ser perdidas. Poderá também clicar em Guardar Como para guardar as suas alterações num ficheiro diferente.";
 "External_Change_Error_Keep_Action" = "Manter a versão do iA Writer";
 "External_Change_Error_Revert_Action" = "Reverter";
@@ -182,15 +195,20 @@
  Sort Options
  -----------*/
 
-"Library_Sort_By_Name" = "Nome";
-"Library_Sort_By_Extension" = "Extensão";
-"Library_Sort_By_Date_Modified" = "Data de modificação";
-"Library_Sort_By_Search_Rank" = "Procurar escalão";
+"Library_Sort_Order_Name" = "Nome";
+"Library_Sort_Order_Extension" = "Extensão";
+"Library_Sort_Order_Date_Modified" = "Data de modificação";
+"Library_Sort_Order_Search_Rank" = "Procurar escalão";
 
 "Library_Sort_By_Name_Phrase" = "Ordenar por nome";
 "Library_Sort_By_Extension_Phrase" = "Ordenar por extensão";
 "Library_Sort_By_Date_Modified_Phrase" = "Ordenar por data de modificação";
 "Library_Sort_By_Search_Rank_Phrase" = "Ordenar por procurar escalão";
+
+"Library_Sort_By_Name" = "Nome";
+"Library_Sort_By_Extension" = "Extensão";
+"Library_Sort_By_Date_Modified" = "Data de modificação";
+"Library_Sort_By_Search_Rank" = "Procurar escalão";
 
 "Library_Sort_By_Date_Ascending" = "Os mais antigos em cima";
 "Library_Sort_By_Date_Descending" = "Os mais recentes em cima";
@@ -198,8 +216,8 @@
 "Library_Sort_By_Text_Ascending" = "A a Z";
 "Library_Sort_By_Text_Descending" = "Z a A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "Os menos relevantes em cima";
-"Library_Sort_By_Search_Rank_Descending" = "Os mais relevantes em cima";
+"Library_Sort_By_Search_Rank_Ascending" = "Os mais relevantes em cima";
+"Library_Sort_By_Search_Rank_Descending" = "Os menos relevantes em cima";
 
 "Library_Sort_By_Part_Joiner" = ", ";
 

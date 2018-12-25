@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Move_Prompt</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@item@에 대하여 새 폴더를 선택하세요.</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>other</key>
+			<string>이 항목</string>
+		</dict>
+	</dict>
+	<key>Move_Subitem_Message</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@item@</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>other</key>
+			<string>%d개의 항목</string>
+		</dict>
+	</dict>
+	<key>Rename_Alert_Message</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@item@</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>other</key>
+			<string>찾아서 바꿀 텍스트를 입력하세요.</string>
+		</dict>
+	</dict>
+	<key>Rename_Alert_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@item@ 이름 변경</string>
+		<key>item</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>other</key>
+			<string>항목</string>
+		</dict>
+	</dict>
+	<key>Settings_Editor_Line_Length_Limit</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@characters@</string>
+		<key>characters</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>other</key>
+			<string>%d 문자</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

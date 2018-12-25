@@ -15,6 +15,9 @@
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Add_Favorite" = "Zu Favoriten hinzufügen …";
 
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Intelligente Ordner";
 
@@ -47,6 +50,15 @@
 
 /* Title for action to open main help page. */
 "Help_Action_Main" = "iA Writer Hilfe";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "Wie man einen Bibliotheksstandort hinzufügt";
+"Library_Location_Introduction_Alert_Message" = "\nÖffnen Sie einen Ordner, der den Ordner enthält, den Sie als Bibliotheksstandort verwenden möchten.\n\n\nDrücken Sie auf Sie auf Auswahl, wählen Sie den gewünschten Ordner, und dann auf Öffnen.";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Nicht wieder anzeigen";
+"Library_Location_Rename_Alert_Title" = "Bibliothekseintrag umbenennen";
 
 /*------
  Backups
@@ -274,6 +286,12 @@
 /* Menu item to copy a library path to file. */
 "Menu_Item_Copy_Library_Path" = "Bibliothekspfad kopieren";
 
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "URL-Befehlspfad kopieren";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "URL-Befehlspfad kopieren um Datei zu öffnen";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "HTML kopieren";
 
@@ -286,6 +304,9 @@
 
 /* Table view swipe action title. */
 "Table_View_Action_Delete" = "Löschen";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
 
 /* Table view swipe action title. */
 "Table_View_Action_Remove" = "Entfernen";
@@ -560,6 +581,11 @@
 "Files_App_Service_Provider_Error_Localized_Description" = "Dateien-App Cloud Dienste konnte die Anfrage nicht bearbeiten.";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "Falls der Fehler weiterhin besteht, wenden Sie sich an den entsprechenden Anbieter.";
 
+"Files_App_Library_Location_Not_Supported_Error_Title" = "Ausgewählter Bibliotheksstandort kann nicht hinzugefügt werden";
+"Files_App_Library_Location_Not_Supported_Error" = "Der ausgewählte Bibliotheksstandort kann nicht hinzugefügt werden.";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "Files App Cloud Dienst unterstützt diese Funktion nicht.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Bitte wenden Sie sich an Ihren Cloud-Dienstanbieter für Support.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -604,10 +630,11 @@
 "Discoverability_Preview" = "Vorschau";
 "Discoverability_Strong" = "Fett";
 "Discoverability_Strikethrough" = "Durchstreichen";
-"Discoverability_Emphasis" = "Kursiv";
 "Discoverability_Headings" = "Überschrift 1–6";
 "Discoverability_Blockquote" = "Blockzitat";
 "Discoverability_List" = "Liste";
+"Discoverability_Link" = "Link";
+"Discoverability_Footnote" = "Footnote";
 "Discoverability_Task_List" = "Aufgabenliste";
 "Discoverability_Ordered_List" = "Geordnete Liste";
 "Discoverability_Ordered_Task_List" = "Geordnete Aufgabenliste";
@@ -732,7 +759,7 @@
  --------------*/
 
 /* Syntax control section in settings. */
-"Settings_Editor_Syntax_Control_Section_Title" = "Syntax";
+"Settings_Editor_Syntax_Control_Section_Title" = "Syntax-Hervorhebung";
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Anzeigen";
@@ -742,6 +769,7 @@
 "Settings_Editor_Typography_Section_Title" = "Typografie";
 "Settings_Editor_Line_Length_Limit_Edit" = "Maximale Zeilenlänge";
 "Settings_Editor_Font" = "Schrift";
+"Settings_Editor_Language" = "Sprache";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Fokus";
@@ -801,7 +829,7 @@
 "Settings_Markdown_Section_Title" = "Markdown-Interpretation";
 "Settings_Markdown_Lazy_Paragraphs" = "Einfacher Umbruch definiert Abschnitt";
 "Settings_Markdown_Smart_Punctuation" = "Intelligente Zeichensetzung";
-"Settings_Markdown_Hide_Metadata" = "Metadaten ausblenden";
+"Settings_Markdown_Process_Metadata" = "Metadaten einarbeiten";
 "Settings_Markdown_Hide_Hashtags" = "Hashtags ausblenden";
 
 /* Printing & PDF export section in settings. */

@@ -15,6 +15,9 @@
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Add_Favorite" = "添加收藏…";
 
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "智能文件夹";
 
@@ -47,6 +50,15 @@
 
 /* Title for action to open main help page. */
 "Help_Action_Main" = "iA Writer帮助";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "如何添加Library Location";
+"Library_Location_Introduction_Alert_Message" = "打开包含了您要用作Library Location的文件夹的文件夹。\n\n点击“选择”，选择文件夹，然后点击“打开“。";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "不要再显示";
+"Library_Location_Rename_Alert_Title" = "重命名Library Location";
 
 /*------
  Backups
@@ -274,6 +286,12 @@
 /* Menu item to copy a library path to file. */
 "Menu_Item_Copy_Library_Path" = "复制资料库路径";
 
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "复制URL命令路径";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "复制URL命令以打开文件";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "复制HTML";
 
@@ -286,6 +304,9 @@
 
 /* Table view swipe action title. */
 "Table_View_Action_Delete" = "刪除";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
 
 /* Table view swipe action title. */
 "Table_View_Action_Remove" = "移除";
@@ -560,6 +581,11 @@
 "Files_App_Service_Provider_Error_Localized_Description" = "Files的云服务处理请求失败。";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "如果问题持续出现，请联系您的云服务提供商寻求援助。";
 
+"Files_App_Library_Location_Not_Supported_Error_Title" = "无法添加所选Library Location";
+"Files_App_Library_Location_Not_Supported_Error" = "无法添加所选Library Location";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "文件应用云服务不支持此功能。";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "请联系云服务提供商寻求支持。";
+
 /*-----------
  Quick Search
  -----------*/
@@ -604,10 +630,11 @@
 "Discoverability_Preview" = "预览";
 "Discoverability_Strong" = "粗体";
 "Discoverability_Strikethrough" = "删除线";
-"Discoverability_Emphasis" = "斜体";
 "Discoverability_Headings" = "标题1-6";
 "Discoverability_Blockquote" = "块引用";
 "Discoverability_List" = "列表";
+"Discoverability_Link" = "链接";
+"Discoverability_Footnote" = "脚注";
 "Discoverability_Task_List" = "任务列表";
 "Discoverability_Ordered_List" = "已排序列表";
 "Discoverability_Ordered_Task_List" = "已排序任务列表";
@@ -732,7 +759,7 @@
  --------------*/
 
 /* Syntax control section in settings. */
-"Settings_Editor_Syntax_Control_Section_Title" = "语法控制";
+"Settings_Editor_Syntax_Control_Section_Title" = "语法高亮";
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "外观";
@@ -742,6 +769,7 @@
 "Settings_Editor_Typography_Section_Title" = "版式";
 "Settings_Editor_Line_Length_Limit_Edit" = "每行长度上限";
 "Settings_Editor_Font" = "字体";
+"Settings_Editor_Language" = "语言";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "聚焦模式";
@@ -801,7 +829,7 @@
 "Settings_Markdown_Section_Title" = "Markdown处理";
 "Settings_Markdown_Lazy_Paragraphs" = "单次回车开启新段落";
 "Settings_Markdown_Smart_Punctuation" = "智能标点";
-"Settings_Markdown_Hide_Metadata" = "隐藏元数据";
+"Settings_Markdown_Process_Metadata" = "处理元数据";
 "Settings_Markdown_Hide_Hashtags" = "隐藏标签";
 
 /* Printing & PDF export section in settings. */
@@ -837,7 +865,7 @@
 "Settings_URL_Sheme_Auth_Token_Copy" = "复制";
 
 /* URL scheme settings button to reset auth token, followed by confirmation sheet. */
-"Settings_URL_Sheme_Auth_Token_Reset" = "重置​​……";
+"Settings_URL_Sheme_Auth_Token_Reset" = "重置​​…";
 
 /*---------
  URL Scheme

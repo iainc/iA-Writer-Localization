@@ -92,6 +92,11 @@
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
 
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium画像アップロード中断";
+"Medium_Image_Upload_Error_Unauthorized" = "Mediumの画像アップロードが中断されました";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "トークンの画像をアップロードするにはMediumにお問い合わせ下さい。";
+"Medium_Image_Upload_Error_Contact" = "Mediumに問い合わせる";
+
 /*--------
  Templates
  --------*/
@@ -141,38 +146,46 @@
 "Storage_Name_Local" = "ローカル";
 "Storage_Name_On_My_Device" = "On My %@";
 
+"Library_Location_Desktop" = "デスクトップ";
+"Library_Location_Documents" = "書類";
+
 /*----
  Fonts
  ----*/
 
-"Font_Name_Monospaced" = "モノスペース";
-"Font_Name_Duospaced" = "デュオスペース";
+"Font_Name_Monospaced" = "Mono";
+"Font_Name_Duospaced" = "Duo";
+"Font_Name_Quattro" = "Quattro";
 
-"Font_Script_Support_Monospaced" = "対応する文字: キリル文字, ギリシャ文字, ラテン文字。";
-"Font_Script_Support_Duospaced" = "対応する文字: キリル文字, ラテン文字。";
-"Font_Script_Support_Other" = "その他の文字にはシステムフォントが適用されます。";
+"Content_Typography_System" = "システム – %@";
+"Content_Typography_Default" = "デフォルト";
+"Content_Typography_Simplified_Chinese" = "簡体字";
+"Content_Typography_Traditional_Chinese" = "繁体字";
+"Content_Typography_Japanese" = "日本語";
+"Content_Typography_Korean" = "朝鮮語";
+
+"Content_Typography_Emphasis_Italic" = "イタリック";
+"Content_Typography_Emphasis_Mark" = "圏点";
 
 /*----------------
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Ubiquitous_Item" = "iCloud内のフォルダはライブラリとして追加できません。";
-"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "選択したフォルダはiCloud内にあります。";
-"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "iCloudにドキュメントを保存するためにはデフォルトのライブラリを使用してください。デフォルトのライブラリでiCloudが有効になっていない場合は、システム環境設定でiA WriterのiCloud設定が有効になっているか確認してください。";
-
+"Library_Location_Error_Existing_Item_Title" = "既存ライブラリの場所を追加できません";
 "Library_Location_Error_Existing_Item" = "指定したフォルダ、もしくはそのサブフォルダが別のライブラリとして登録されているため、追加できません。";
 "Library_Location_Error_Existing_Item_Failure_Reason" = "指定したフォルダ、もしくはそのサブフォルダが別のライブラリとして登録されています。";
 "Library_Location_Error_Existing_Item_Recovery_Suggestion" = "選択したフォルダを追加するためには既存のライブラリを削除してください。";
 
-"Library_Location_Error_Not_Found" = "ライブラリが見つかりません。外部ボリューム上にあるか削除された可能性があります。";
-"Library_Location_Error_Not_Found_Failure_Reason" = "ライブラリが見つかりません。";
+"Library_Location_Error_Not_Found_Title" = "ライブラリが見つかりません";
+"Library_Location_Error_Not_Found" = "ライブラリが見つかりません。";
+"Library_Location_Error_Not_Found_Failure_Reason" = "外部ボリューム上にあるか削除された可能性があります。";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "ライブラリにアクセスするために、外部ボリュームを接続してください。";
 
 /*--------
  Documents
  --------*/
 
-"External_Change_Error_Localized_Descrition" = "ドキュメント “%@” は外部から変更されてます";
+"External_Change_Error_Localized_Description" = "ドキュメント “%@” は外部から変更されてます";
 "External_Change_Error_Recovery_Suggestion" = "ファイルが iA Writer 以外から変更されています。復元を行った場合、iA Writer から最近行われた変更はすべて失われます。別名で保存を選択することで、変更を別のファイルに保存することができます。";
 "External_Change_Error_Keep_Action" = "iA Writer のバージョンを保持";
 "External_Change_Error_Revert_Action" = "復元";
@@ -182,15 +195,20 @@
  Sort Options
  -----------*/
 
-"Library_Sort_By_Name" = "名前";
-"Library_Sort_By_Extension" = "拡張子";
-"Library_Sort_By_Date_Modified" = "更新日時";
-"Library_Sort_By_Search_Rank" = "Search Rank";
+"Library_Sort_Order_Name" = "名前";
+"Library_Sort_Order_Extension" = "拡張子";
+"Library_Sort_Order_Date_Modified" = "更新日時";
+"Library_Sort_Order_Search_Rank" = "Search Rank";
 
 "Library_Sort_By_Name_Phrase" = "並べ替え名前";
 "Library_Sort_By_Extension_Phrase" = "並べ替え拡張子";
 "Library_Sort_By_Date_Modified_Phrase" = "並べ替え更新日時";
 "Library_Sort_By_Search_Rank_Phrase" = "並べ替えSearch Rank";
+
+"Library_Sort_By_Name" = "名前";
+"Library_Sort_By_Extension" = "拡張子";
+"Library_Sort_By_Date_Modified" = "更新日時";
+"Library_Sort_By_Search_Rank" = "Search Rank";
 
 "Library_Sort_By_Date_Ascending" = "古い順";
 "Library_Sort_By_Date_Descending" = "新しい順";
@@ -198,8 +216,8 @@
 "Library_Sort_By_Text_Ascending" = "A から Z";
 "Library_Sort_By_Text_Descending" = "Z から A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "Least Relevant on Top";
-"Library_Sort_By_Search_Rank_Descending" = "Most Relevant on Top";
+"Library_Sort_By_Search_Rank_Ascending" = "Most Relevant on Top";
+"Library_Sort_By_Search_Rank_Descending" = "Least Relevant on Top";
 
 "Library_Sort_By_Part_Joiner" = ", ";
 

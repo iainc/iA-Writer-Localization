@@ -1,0 +1,69 @@
+
+/* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
+"1tl-et-2n4.title" = "Один ввод для нового абзаца";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
+"561-vh-uzh.ibShadowedToolTip" = "Инвертировать цвета ночного режима в просмотре. Шаблоны должны поддерживать ночной режим для инвертирования цветов.";
+
+/* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
+"794-EH-QRk.title" = "Обрабатывать метаданные";
+
+/* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
+"GBp-vd-erZ.title" = "Открыть документацию";
+
+/* Class = "NSTextFieldCell"; title = "Default templates:"; ObjectID = "ILS-Oy-k2r"; */
+"ILS-Oy-k2r.title" = "Шаблоны по умолчанию:";
+
+/* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "NWz-SI-k1m"; */
+"NWz-SI-k1m.title" = "Превью:";
+
+/* Class = "NSButtonCell"; title = "Headers"; ObjectID = "NlF-W4-pAH"; */
+"NlF-W4-pAH.title" = "Верние колонтитулы";
+
+/* Class = "NSTextFieldCell"; title = "Printing & PDF Export:"; ObjectID = "P09-gF-Ui9"; */
+"P09-gF-Ui9.title" = "Печать и экспорт в PDF:";
+
+/* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
+"aq5-yb-Aik.title" = "Отступать первую строку";
+
+/* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
+"c4c-Wj-hKb.title" = "Заголовки по центру";
+
+/* Class = "NSButtonCell"; title = "Hide hashtags"; ObjectID = "cVG-Tj-Zs0"; */
+"cVG-Tj-Zs0.title" = "Скрыть хэштеги";
+
+/* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
+"eLo-eM-g9t.title" = "Нижние колонтитулы";
+
+/* Class = "NSMenuItem"; title = "Install Template…"; ObjectID = "eXK-ab-Lw9"; */
+"eXK-ab-Lw9.title" = "Установить шаблон...";
+
+/* Class = "NSButtonCell"; title = "Invert colors"; ObjectID = "f2Y-kh-hVX"; */
+"f2Y-kh-hVX.title" = "Инвертировать цвета";
+
+/* Class = "NSButtonCell"; title = "Uninstall Template"; ObjectID = "h5a-TI-YPT"; */
+"h5a-TI-YPT.title" = "Удалить шаблон";
+
+/* Class = "NSTextFieldCell"; title = "Markdown processing:"; ObjectID = "hUt-3b-BEn"; */
+"hUt-3b-BEn.title" = "Обработка Markdown:";
+
+/* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
+"nwP-qK-Y5q.title" = "Скачать шаблоны";
+
+/* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "okQ-c2-ZeF"; */
+"okQ-c2-ZeF.title" = "Автор:";
+
+/* Class = "NSTextFieldCell"; title = "Custom templates:"; ObjectID = "qc2-ag-Mwe"; */
+"qc2-ag-Mwe.title" = "Шаблоны:";
+
+/* Class = "NSButtonCell"; title = "Number headings"; ObjectID = "tEq-K2-EVY"; */
+"tEq-K2-EVY.title" = "Нумерация заголовков";
+
+/* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
+"wLN-Zi-CIU.title" = "Титульный лист";
+
+/* Class = "NSButtonCell"; title = "Apply smart punctuation"; ObjectID = "xcN-na-4AD"; */
+"xcN-na-4AD.title" = "Смарт-пунктуация";
+
+/* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
+"y8E-dF-Bfw.title" = "Установить шаблон";
