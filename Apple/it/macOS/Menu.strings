@@ -239,6 +239,9 @@
 /* Class = "NSMenuItem"; title = "Move Line Up"; ObjectID = "31i-Zt-4nU"; */
 "31i-Zt-4nU.title" = "Sposta linea su";
 
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "3aK-2F-Caq"; */
+"3aK-2F-Caq.title" = "Immagine";
+
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3k5-Ng-E0x"; */
 "3k5-Ng-E0x.title" = "Inizia a parlare";
 
@@ -280,6 +283,9 @@
 
 /* Class = "NSMenuItem"; title = "Search Rank"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
 "Ac8-2T-zWZ.title" = "Date Modified";
+
+/* Class = "NSMenuItem"; title = "Code"; ObjectID = "BGk-i5-EV3"; */
+"BGk-i5-EV3.title" = "Codice";
 
 /* Class = "NSMenuItem"; title = "Show Filter Bar"; ObjectID = "CDK-JV-i5Y"; Note = "SKIP LOCALIZATION"; */
 "CDK-JV-i5Y.title" = "Mostra barra dei filtri";
@@ -333,7 +339,7 @@
 "KBV-gu-Ege.title" = "Tutte Iniziali Maiuscole";
 
 /* Class = "NSMenuItem"; title = "Show All Tabs"; ObjectID = "KBk-l8-2xM"; Note = "SKIP LOCALIZATION"; */
-"KBk-l8-2xM.title" = "Mostra tutte le schede";
+"KBk-l8-2xM.title" = "Mostra tutti i pannelli";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "LYz-UD-Dee"; */
 "LYz-UD-Dee.title" = "Voce";
@@ -507,7 +513,7 @@
 "nmZ-Vd-0HN.title" = "Stampa solo testo...";
 
 /* Class = "NSMenuItem"; title = "Show Tab Bar"; ObjectID = "npv-5M-u3X"; Note = "SKIP LOCALIZATION"; */
-"npv-5M-u3X.title" = "Mostra barra delle schede";
+"npv-5M-u3X.title" = "Mostra barra dei pannelli";
 
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "pIo-vg-pZd"; */
 "pIo-vg-pZd.title" = "Fade In/Out";

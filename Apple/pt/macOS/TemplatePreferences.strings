@@ -5,8 +5,8 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
 "561-vh-uzh.ibShadowedToolTip" = "Inverter cores do modo noturno na Pré-visualização. Os modelos personalizados devem implementar o modo noturno para permitir a inversão de cores.";
 
-/* Class = "NSButtonCell"; title = "Hide metadata"; ObjectID = "794-EH-QRk"; */
-"794-EH-QRk.title" = "Ocultar metadados";
+/* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
+"794-EH-QRk.title" = "Processar Metadados";
 
 /* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
 "GBp-vd-erZ.title" = "Abrir Documentação";

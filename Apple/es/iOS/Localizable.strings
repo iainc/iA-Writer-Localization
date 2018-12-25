@@ -15,6 +15,9 @@
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Add_Favorite" = "Añadir favorito...";
 
+/* Title for action to add a new library location in library root. */
+"Library_Action_Add_Location" = "Add Location…";
+
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Carpetas inteligentes";
 
@@ -47,6 +50,15 @@
 
 /* Title for action to open main help page. */
 "Help_Action_Main" = "Ayuda de iA Writer";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Introduction_Alert_Title" = "Cómo agregar una ubicación de biblioteca";
+"Library_Location_Introduction_Alert_Message" = "\nAbre una carpeta que contenga la carpeta que quieres usar como ubicación de biblioteca.\n\nToca Seleccionar, elige y la carpeta y toca Abrir.";
+"Library_Location_Introduction_Hide_Forever_Alert_Title" = "No volver a mostrar";
+"Library_Location_Rename_Alert_Title" = "Cambiar nombre a ubicación de biblioteca";
 
 /*------
  Backups
@@ -274,6 +286,12 @@
 /* Menu item to copy a library path to file. */
 "Menu_Item_Copy_Library_Path" = "Copiar ruta de la biblioteca";
 
+/* Menu item to copy URL command path for an item in Library. */
+"Menu_Item_Copy_URL_Command_Path" = "Copiar ruta de comando URL";
+
+/* Menu item to copy URL command to open file for an item in Library. */
+"Menu_Item_Copy_URL_Command_To_Open_File" = "Copiar comando URL a archivo abierto";
+
 /* Menu item title for copying HTML. */
 "Menu_Item_Copy_HTML" = "Copiar HTML";
 
@@ -286,6 +304,9 @@
 
 /* Table view swipe action title. */
 "Table_View_Action_Delete" = "Eliminar";
+
+/* Table view swipe action title. */
+"Table_View_Action_Rename" = "Rename";
 
 /* Table view swipe action title. */
 "Table_View_Action_Remove" = "Eliminar";
@@ -560,6 +581,11 @@
 "Files_App_Service_Provider_Error_Localized_Description" = "El servicio en la nube de la app Archivos no ha podido procesar la solicitud.";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "Si el error persiste, ponte en contacto con tu proveedor del servicio en la nube para solicitar ayuda.";
 
+"Files_App_Library_Location_Not_Supported_Error_Title" = "No se puede añadir la ubicación de biblioteca seleccionada.";
+"Files_App_Library_Location_Not_Supported_Error" = "No se puede añadir la ubicación de biblioteca seleccionada.";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "El servicio de la nube de la aplicación de archivos no admite esta característica.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Ponte en contacto con el proveedor de servicio de la nube para obtener asistencia.";
+
 /*-----------
  Quick Search
  -----------*/
@@ -604,10 +630,11 @@
 "Discoverability_Preview" = "Vista previa";
 "Discoverability_Strong" = "Negrita";
 "Discoverability_Strikethrough" = "Tachado";
-"Discoverability_Emphasis" = "Cursiva";
 "Discoverability_Headings" = "Título 1-6";
 "Discoverability_Blockquote" = "Bloque de cita";
 "Discoverability_List" = "Lista";
+"Discoverability_Link" = "Enlace";
+"Discoverability_Footnote" = "Nota al pie";
 "Discoverability_Task_List" = "Lista de tareas";
 "Discoverability_Ordered_List" = "Lista ordenada";
 "Discoverability_Ordered_Task_List" = "Lista de tareas ordenada";
@@ -732,7 +759,7 @@
  --------------*/
 
 /* Syntax control section in settings. */
-"Settings_Editor_Syntax_Control_Section_Title" = "Control de sintaxis";
+"Settings_Editor_Syntax_Control_Section_Title" = "Resaltar sintaxis";
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Apariencia";
@@ -742,6 +769,7 @@
 "Settings_Editor_Typography_Section_Title" = "Tipografía";
 "Settings_Editor_Line_Length_Limit_Edit" = "Longitud máxima de línea";
 "Settings_Editor_Font" = "Fuente";
+"Settings_Editor_Language" = "Idioma";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Modo de enfoque";
@@ -801,7 +829,7 @@
 "Settings_Markdown_Section_Title" = "Procesamiento de Markdown";
 "Settings_Markdown_Lazy_Paragraphs" = "Un retorno simple comienza un nuevo párrafo";
 "Settings_Markdown_Smart_Punctuation" = "Puntuación inteligente";
-"Settings_Markdown_Hide_Metadata" = "Ocultar metadatos";
+"Settings_Markdown_Process_Metadata" = "Procesar metadatos";
 "Settings_Markdown_Hide_Hashtags" = "Ocultar hashtags";
 
 /* Printing & PDF export section in settings. */

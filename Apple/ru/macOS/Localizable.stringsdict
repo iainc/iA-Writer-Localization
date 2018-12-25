@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Editor_Preferences_Line_Length</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@characters@</string>
+		<key>characters</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>few</key>
+			<string>символа в строке</string>
+			<key>many</key>
+			<string>символов в строке</string>
+			<key>one</key>
+			<string>символ в строке</string>
+			<key>other</key>
+			<string>символа в строке</string>
+		</dict>
+	</dict>
+	<key>Library_Delete_Confrimation_Message_Multiple</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>Вы уверены, что хотите удалить %tu выбранных объекта?</string>
+			<key>many</key>
+			<string>Вы уверены, что хотите удалить %tu выбранных объектов?</string>
+			<key>one</key>
+			<string>Вы уверены, что хотите удалить выбранный объект?</string>
+			<key>other</key>
+			<string>Вы уверены, что хотите удалить %tu выбранных объекта?</string>
+		</dict>
+	</dict>
+	<key>Trial_Expiration_Days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days@</string>
+		<key>days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>Попробовать (осталось %tu дня)</string>
+			<key>many</key>
+			<string>Попробовать (осталось %tu дней)</string>
+			<key>one</key>
+			<string>Попробовать (остался %tu день)</string>
+			<key>other</key>
+			<string>Попробовать (осталось %tu дня)</string>
+		</dict>
+	</dict>
+	<key>Trial_Expiration_Hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours@</string>
+		<key>hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>Попробовать (осталось %tu часа)</string>
+			<key>many</key>
+			<string>Попробовать (осталось %tu часов)</string>
+			<key>one</key>
+			<string>Попробовать (остался %tu час)</string>
+			<key>other</key>
+			<string>Попробовать (осталось %tu часа)</string>
+		</dict>
+	</dict>
+	<key>Trial_Extension_Days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days@</string>
+		<key>days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>Попробовать ещё %tu дня</string>
+			<key>many</key>
+			<string>Попробовать ещё %tu дней</string>
+			<key>one</key>
+			<string>Попробовать ещё %tu день</string>
+			<key>other</key>
+			<string>Попробовать ещё %tu дня</string>
+		</dict>
+	</dict>
+	<key>Trial_Extension_Hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours@</string>
+		<key>hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>Попробовать ещё %tu часа</string>
+			<key>many</key>
+			<string>Попробовать ещё %tu часов</string>
+			<key>one</key>
+			<string>Попробовать ещё %tu час</string>
+			<key>other</key>
+			<string>Попробовать ещё %tu часа</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

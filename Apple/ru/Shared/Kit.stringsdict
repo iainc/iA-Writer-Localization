@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Stats_Characters</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@chars@</string>
+		<key>chars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>%tu символа</string>
+			<key>many</key>
+			<string>%tu символов</string>
+			<key>one</key>
+			<string>%tu символ</string>
+			<key>other</key>
+			<string>%tu символа</string>
+		</dict>
+	</dict>
+	<key>Stats_Sentences</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@sentences@</string>
+		<key>sentences</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>%tu предложения</string>
+			<key>many</key>
+			<string>%tu предложений</string>
+			<key>one</key>
+			<string>%tu предложение</string>
+			<key>other</key>
+			<string>%tu предложения</string>
+		</dict>
+	</dict>
+	<key>Stats_Tasks</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@tasks_completed@ из %#@tasks_total@</string>
+		<key>tasks_completed</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>%tu</string>
+			<key>many</key>
+			<string>%tu</string>
+			<key>one</key>
+			<string>%tu</string>
+			<key>other</key>
+			<string>%tu</string>
+		</dict>
+		<key>tasks_total</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>%tu задачи</string>
+			<key>many</key>
+			<string>%tu задач</string>
+			<key>one</key>
+			<string>%tu задача</string>
+			<key>other</key>
+			<string>%tu задачи</string>
+		</dict>
+	</dict>
+	<key>Stats_Words</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@words@</string>
+		<key>words</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>%tu слова</string>
+			<key>many</key>
+			<string>%tu слов</string>
+			<key>one</key>
+			<string>%tu слово</string>
+			<key>other</key>
+			<string>%tu слова</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

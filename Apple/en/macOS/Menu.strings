@@ -152,11 +152,11 @@
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "659"; */
 "659.title" = "Check Spelling While Typing";
 
-/* Class = "NSMenuItem"; title = "Strong"; ObjectID = "677"; */
-"677.title" = "Strong";
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "677"; */
+"677.title" = "Bold";
 
-/* Class = "NSMenuItem"; title = "Emphasis"; ObjectID = "678"; */
-"678.title" = "Emphasis";
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "678"; */
+"678.title" = "Italic";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "690"; */
 "690.title" = "Substitutions";
@@ -239,6 +239,9 @@
 /* Class = "NSMenuItem"; title = "Move Line Up"; ObjectID = "31i-Zt-4nU"; */
 "31i-Zt-4nU.title" = "Move Line Up";
 
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "3aK-2F-Caq"; */
+"3aK-2F-Caq.title" = "Image";
+
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3k5-Ng-E0x"; */
 "3k5-Ng-E0x.title" = "Start Speaking";
 
@@ -278,8 +281,11 @@
 /* Class = "NSMenuItem"; title = "Footnote"; ObjectID = "Aaw-jt-2hg"; */
 "Aaw-jt-2hg.title" = "Footnote";
 
-/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Ac8-2T-zWZ"; */
-"Ac8-2T-zWZ.title" = "Date Modified";
+/* Class = "NSMenuItem"; title = "Search Rank"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
+"Ac8-2T-zWZ.title" = "Search Rank";
+
+/* Class = "NSMenuItem"; title = "Code"; ObjectID = "BGk-i5-EV3"; */
+"BGk-i5-EV3.title" = "Code";
 
 /* Class = "NSMenuItem"; title = "Show Filter Bar"; ObjectID = "CDK-JV-i5Y"; Note = "SKIP LOCALIZATION"; */
 "CDK-JV-i5Y.title" = "Show Filter Bar";
@@ -326,7 +332,7 @@
 /* Class = "NSMenuItem"; title = "Share"; ObjectID = "IYK-Be-SXu"; */
 "IYK-Be-SXu.title" = "Share";
 
-/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "K0l-2A-eAA"; */
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "K0l-2A-eAA"; Note = "SKIP LOCALIZATION"; */
 "K0l-2A-eAA.title" = "Ascending";
 
 /* Class = "NSMenuItem"; title = "Make Title Case"; ObjectID = "KBV-gu-Ege"; */
@@ -350,7 +356,7 @@
 /* Class = "NSMenu"; title = "Structure"; ObjectID = "Ms4-vT-m4G"; */
 "Ms4-vT-m4G.title" = "Structure";
 
-/* Class = "NSMenuItem"; title = "Name"; ObjectID = "N72-ZJ-nQT"; */
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "N72-ZJ-nQT"; Note = "SKIP LOCALIZATION"; */
 "N72-ZJ-nQT.title" = "Name";
 
 /* Class = "NSMenu"; ibExternalAccessibilityDescription = "Dock Menu"; ObjectID = "O60-31-O7a"; */
@@ -362,7 +368,7 @@
 /* Class = "NSMenuItem"; title = "Add Horizontal Rule"; ObjectID = "Pfk-jy-BKg"; */
 "Pfk-jy-BKg.title" = "Add Horizontal Rule";
 
-/* Class = "NSMenuItem"; title = "Extension"; ObjectID = "Pqq-PE-FNk"; */
+/* Class = "NSMenuItem"; title = "Extension"; ObjectID = "Pqq-PE-FNk"; Note = "SKIP LOCALIZATION"; */
 "Pqq-PE-FNk.title" = "Extension";
 
 /* Class = "NSMenuItem"; title = "Show Library"; ObjectID = "RKB-Zq-q2A"; Note = "SKIP LOCALIZATION"; */
@@ -437,8 +443,8 @@
 /* Class = "NSMenuItem"; title = "Focus"; ObjectID = "Yvk-in-ABn"; */
 "Yvk-in-ABn.title" = "Focus";
 
-/* Class = "NSMenuItem"; title = "Search Rank"; ObjectID = "Z4R-Ya-gNJ"; */
-"Z4R-Ya-gNJ.title" = "Search Rank";
+/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Z4R-Ya-gNJ"; Note = "SKIP LOCALIZATION"; */
+"Z4R-Ya-gNJ.title" = "Date Modified";
 
 /* Class = "NSMenuItem"; title = "Contact Us on Twitter"; ObjectID = "ZCr-JT-kwd"; */
 "ZCr-JT-kwd.title" = "Contact Us on Twitter";
@@ -446,8 +452,8 @@
 /* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "ZGc-XD-4b3"; */
 "ZGc-XD-4b3.title" = "New in Library";
 
-/* Class = "NSMenuItem"; title = "Night Mode"; ObjectID = "ZaG-9j-uqb"; Note = "SKIP LOCALIZATION"; */
-"ZaG-9j-uqb.title" = "Night Mode";
+/* Class = "NSMenuItem"; title = "Dark Appearance"; ObjectID = "ZaG-9j-uqb"; Note = "SKIP LOCALIZATION"; */
+"ZaG-9j-uqb.title" = "Dark Appearance";
 
 /* Class = "NSMenu"; title = "Templates"; ObjectID = "ZfB-tX-XLB"; */
 "ZfB-tX-XLB.title" = "Templates";
@@ -512,7 +518,7 @@
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "pIo-vg-pZd"; */
 "pIo-vg-pZd.title" = "Fade In/Out";
 
-/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "pJe-0c-qV5"; */
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "pJe-0c-qV5"; Note = "SKIP LOCALIZATION"; */
 "pJe-0c-qV5.title" = "Descending";
 
 /* Class = "NSMenu"; title = "Preview Width"; ObjectID = "pqw-KA-huh"; */

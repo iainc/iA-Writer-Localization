@@ -1,0 +1,117 @@
+
+/* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "51F-7r-uRC"; */
+"51F-7r-uRC.title" = "Табуляции";
+
+/* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
+"6L5-CK-rbm.title" = "Орфография и грамматика:";
+
+/* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "6pk-3q-M1t"; */
+"6pk-3q-M1t.title" = "Japanese";
+
+/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "7iw-vf-YLb"; */
+"7iw-vf-YLb.title" = "Размер текста:";
+
+/* Class = "NSMenuItem"; title = "System — Default"; ObjectID = "9Ad-h2-Ffu"; */
+"9Ad-h2-Ffu.title" = "System — Default";
+
+/* Class = "NSMenuItem"; title = "Traditional Chinese"; ObjectID = "9LR-eY-nQC"; */
+"9LR-eY-nQC.title" = "Traditional Chinese";
+
+/* Class = "NSMenuItem"; title = "Simplified Chinese"; ObjectID = "C1b-T8-UKG"; */
+"C1b-T8-UKG.title" = "Simplified Chinese";
+
+/* Class = "NSTextFieldCell"; title = "Syntax highlight:"; ObjectID = "DL6-wL-dFh"; */
+"DL6-wL-dFh.title" = "Подсветка синтаксиса:";
+
+/* Class = "NSTextFieldCell"; title = "A"; ObjectID = "F4u-Y8-AKd"; */
+"F4u-Y8-AKd.title" = "A";
+
+/* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "IkY-dB-hew"; */
+"IkY-dB-hew.title" = "Типографика:";
+
+/* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
+"JpA-gV-jQe.title" = "Замена текста";
+
+/* Class = "NSButtonCell"; title = "Correct spelling"; ObjectID = "KWp-yU-5hs"; */
+"KWp-yU-5hs.title" = "Исправлять ошибки автоматически";
+
+/* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
+"Muo-8w-HeG.title" = "Фокус:";
+
+/* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
+"ODb-aW-xzV.title" = "72";
+
+/* Class = "NSMenuItem"; title = "64"; ObjectID = "S60-FG-qNb"; */
+"S60-FG-qNb.title" = "64";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "SX8-w8-P8A"; */
+"SX8-w8-P8A.title" = "Default";
+
+/* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
+"Wed-ZH-mmU.title" = "Typewriter";
+
+/* Class = "NSMenuItem"; title = "Monospaced"; ObjectID = "Zfe-pD-b7Z"; */
+"Zfe-pD-b7Z.title" = "Monospaced";
+
+/* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "aae-lC-eDI"; */
+"aae-lC-eDI.title" = "Duospaced";
+
+/* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "bUN-vs-toB"; */
+"bUN-vs-toB.title" = "Пробелы";
+
+/* Class = "NSTextFieldCell"; title = "Indent text using:"; ObjectID = "dkb-Rh-mQj"; */
+"dkb-Rh-mQj.title" = "Отступать используя:";
+
+/* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
+"dqc-LX-3Cd.title" = "Смарт-замены:";
+
+/* Class = "NSMenuItem"; title = "Sentence"; ObjectID = "eVp-ub-H3k"; Note = "SKIP LOCALIZATION"; */
+"eVp-ub-H3k.title" = "Sentence";
+
+/* Class = "NSMenuItem"; title = "80"; ObjectID = "edq-9b-UeK"; */
+"edq-9b-UeK.title" = "80";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "gDR-81-YkH"; Note = "SKIP LOCALIZATION"; */
+"gDR-81-YkH.title" = "Paragraph";
+
+/* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */
+"hdF-Eo-fOe.title" = "Тире";
+
+/* Class = "NSButtonCell"; title = "Conjunctions"; ObjectID = "jnn-zF-baY"; */
+"jnn-zF-baY.title" = "Союзы";
+
+/* Class = "NSButtonCell"; title = "Copy/paste"; ObjectID = "mHr-Yd-9Gp"; */
+"mHr-Yd-9Gp.title" = "Копирование/вставка";
+
+/* Class = "NSButtonCell"; title = "Adverbs"; ObjectID = "mTE-Da-Ai8"; */
+"mTE-Da-Ai8.title" = "Adverbs";
+
+/* Class = "NSButtonCell"; title = "Check grammar with spelling"; ObjectID = "nlh-Zj-3rv"; */
+"nlh-Zj-3rv.title" = "Проверять грамматику с правописанием";
+
+/* Class = "NSButtonCell"; title = "Check spelling while typing"; ObjectID = "o55-nN-2Rp"; */
+"o55-nN-2Rp.title" = "Проверять правописание при вводе";
+
+/* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "q1A-U0-UTn"; */
+"q1A-U0-UTn.title" = "Enable Last Used";
+
+/* Class = "NSButtonCell"; title = "Quotes"; ObjectID = "q1M-nl-ibX"; */
+"q1M-nl-ibX.title" = "Кавычки";
+
+/* Class = "NSMenuItem"; title = "Korean"; ObjectID = "tHM-H4-etW"; */
+"tHM-H4-etW.title" = "Korean";
+
+/* Class = "NSButtonCell"; title = "Nouns"; ObjectID = "tJf-FO-eFT"; */
+"tJf-FO-eFT.title" = "Nouns";
+
+/* Class = "NSButtonCell"; title = "Adjectives"; ObjectID = "u3t-jX-i9Z"; */
+"u3t-jX-i9Z.title" = "Adjectives";
+
+/* Class = "NSButtonCell"; title = "Verbs"; ObjectID = "u5B-6y-Y8m"; */
+"u5B-6y-Y8m.title" = "Verbs";
+
+/* Class = "NSTextFieldCell"; title = "A"; ObjectID = "wgb-xJ-AmL"; */
+"wgb-xJ-AmL.title" = "A";
+
+/* Class = "NSTextFieldCell"; title = "characters per line"; ObjectID = "xtj-Jw-ENi"; */
+"xtj-Jw-ENi.title" = "символов в строке";

@@ -92,6 +92,11 @@
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
 
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Bilder-Hochladen von Medium deaktiviert";
+"Medium_Image_Upload_Error_Unauthorized" = "Medium hat das Hochladen von Bildern deaktiviert.";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Bitte kontaktieren Sie Medium, um das Hochladen von Bildern für Ihr Token zu aktivieren.";
+"Medium_Image_Upload_Error_Contact" = "Medium kontaktieren";
+
 /*--------
  Templates
  --------*/
@@ -141,38 +146,46 @@
 "Storage_Name_Local" = "Lokal";
 "Storage_Name_On_My_Device" = "On My %@";
 
+"Library_Location_Desktop" = "Schreibtisch";
+"Library_Location_Documents" = "Dokumente";
+
 /*----
  Fonts
  ----*/
 
-"Font_Name_Monospaced" = "Monospace";
-"Font_Name_Duospaced" = "Duospace";
+"Font_Name_Monospaced" = "Mono";
+"Font_Name_Duospaced" = "Duo";
+"Font_Name_Quattro" = "Quattro";
 
-"Font_Script_Support_Monospaced" = "Für lateinische Alphabete, Griechisch und Kyrillisch.";
-"Font_Script_Support_Duospaced" = "Für lateinische Alphabete und Kyrillisch.";
-"Font_Script_Support_Other" = "Für alle anderen werden Systemschriften verwendet.";
+"Content_Typography_System" = "System — %@";
+"Content_Typography_Default" = "Standard";
+"Content_Typography_Simplified_Chinese" = "Vereinfachtes Chinesisch";
+"Content_Typography_Traditional_Chinese" = "Traditionelles Chinesisch";
+"Content_Typography_Japanese" = "Japanisch";
+"Content_Typography_Korean" = "Koreanisch";
+
+"Content_Typography_Emphasis_Italic" = "Kursiv";
+"Content_Typography_Emphasis_Mark" = "Betonungszeichen";
 
 /*----------------
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Ubiquitous_Item" = "Konnte kein Bibliotheksregister für iCloud-Ordner erstellen.";
-"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "Der angewählte Order ist bereits in iCloud vorhanden.";
-"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "Bitte verwenden Sie die Standardbibliothek, um Dokumente in iCloud zu speichern. Falls die Standardeinstellung iCloud nicht verwendet: Stellen Sie sicher, dass iCloud für iA Writer in den Systemeinstellungen aktiviert ist.";
-
+"Library_Location_Error_Existing_Item_Title" = "Bibliotheksstandort kann nicht hinzugefügt werden";
 "Library_Location_Error_Existing_Item" = "Konnte das Bibliotheksregister nicht hinzufügen, da Ordner oder Unterordner Teil eines anderen Registers sind.";
 "Library_Location_Error_Existing_Item_Failure_Reason" = "Der ausgewählte Ordner oder Unterordner sind Teil eines anderen Bibliotheksregisters.";
 "Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Entfernen Sie das bestehende Bibliotheksregister bevor Sie einen weiteren Ordner hinzufügen.";
 
-"Library_Location_Error_Not_Found" = "Bibliotheksregister nicht auffindbar. Entweder es wurde entfernt oder es war Teil eines mobilen Speichermediums.";
-"Library_Location_Error_Not_Found_Failure_Reason" = "Bibliotheksregister nicht auffindbar.";
+"Library_Location_Error_Not_Found_Title" = "Bibliotheksregister nicht auffindbar";
+"Library_Location_Error_Not_Found" = "Bibliotheksregister nicht auffindbar. ";
+"Library_Location_Error_Not_Found_Failure_Reason" = "Entweder es wurde entfernt oder es war Teil eines mobilen Speichermediums.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Um Zugriff auf das Bibliotheksregister zu erhalten, schliessen Sie bitte das mobile Speichermedium an.";
 
 /*--------
  Documents
  --------*/
 
-"External_Change_Error_Localized_Descrition" = "Das Dokument „%@“ würde auf einem anderen Gerät geändert.";
+"External_Change_Error_Localized_Description" = "Das Dokument „%@“ würde auf einem anderen Gerät geändert.";
 "External_Change_Error_Recovery_Suggestion" = "Das Dokument wurde ausserhalb von iA Writer geändert. Falls Sie das Dokument innerhalb von iA Writer wiederherstellen, werden die Änderungen, die Sie ausserhalb vorgenommen haben, überschrieben.  Sie können mittels 'Speichern unter …' die Änderungen in einem anderen Dokument abspeichern.";
 "External_Change_Error_Keep_Action" = "iA Writer Version behalten";
 "External_Change_Error_Revert_Action" = "Wiederherstellen";
@@ -182,15 +195,20 @@
  Sort Options
  -----------*/
 
-"Library_Sort_By_Name" = "Name";
-"Library_Sort_By_Extension" = "Dateierweiterung";
-"Library_Sort_By_Date_Modified" = "Änderungsdatum";
-"Library_Sort_By_Search_Rank" = "Suchrelevanz";
+"Library_Sort_Order_Name" = "Name";
+"Library_Sort_Order_Extension" = "Dateierweiterung";
+"Library_Sort_Order_Date_Modified" = "Änderungsdatum";
+"Library_Sort_Order_Search_Rank" = "Suchrelevanz";
 
 "Library_Sort_By_Name_Phrase" = "Sortieren nach Name";
 "Library_Sort_By_Extension_Phrase" = "Sortieren nach Dateierweiterung";
 "Library_Sort_By_Date_Modified_Phrase" = "Sortieren nach Änderungsdatum";
 "Library_Sort_By_Search_Rank_Phrase" = "Sortieren nach Suchrelevanz";
+
+"Library_Sort_By_Name" = "Name";
+"Library_Sort_By_Extension" = "Dateierweiterung";
+"Library_Sort_By_Date_Modified" = "Änderungsdatum";
+"Library_Sort_By_Search_Rank" = "Suchrelevanz";
 
 "Library_Sort_By_Date_Ascending" = "Älteste zuerst";
 "Library_Sort_By_Date_Descending" = "Neueste zuerst";
@@ -198,8 +216,8 @@
 "Library_Sort_By_Text_Ascending" = "Von A bis Z";
 "Library_Sort_By_Text_Descending" = "Von Z bis A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "Relevanz von oben nach unten abnehmend";
-"Library_Sort_By_Search_Rank_Descending" = "Relevanz von oben nach unten zunehmend";
+"Library_Sort_By_Search_Rank_Ascending" = "Relevanz von oben nach unten zunehmend";
+"Library_Sort_By_Search_Rank_Descending" = "Relevanz von oben nach unten abnehmend";
 
 "Library_Sort_By_Part_Joiner" = ", ";
 

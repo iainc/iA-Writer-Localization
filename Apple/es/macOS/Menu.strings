@@ -239,6 +239,9 @@
 /* Class = "NSMenuItem"; title = "Move Line Up"; ObjectID = "31i-Zt-4nU"; */
 "31i-Zt-4nU.title" = "Mover línea arriba";
 
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "3aK-2F-Caq"; */
+"3aK-2F-Caq.title" = "Imagen";
+
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3k5-Ng-E0x"; */
 "3k5-Ng-E0x.title" = "Empieza a hablar";
 
@@ -280,6 +283,9 @@
 
 /* Class = "NSMenuItem"; title = "Search Rank"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
 "Ac8-2T-zWZ.title" = "Date Modified";
+
+/* Class = "NSMenuItem"; title = "Code"; ObjectID = "BGk-i5-EV3"; */
+"BGk-i5-EV3.title" = "Código";
 
 /* Class = "NSMenuItem"; title = "Show Filter Bar"; ObjectID = "CDK-JV-i5Y"; Note = "SKIP LOCALIZATION"; */
 "CDK-JV-i5Y.title" = "Mostrar barra de filtro";

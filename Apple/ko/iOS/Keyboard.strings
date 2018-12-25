@@ -1,0 +1,55 @@
+
+"Key_Picker_Title" = "키";
+
+"Key_Picker_Button_Reset" = "재설정";
+
+"Key_Picker_Message_Reset" = "키보드 레이아웃을 재설정하시겠습니까? 모든 수정 사항이 소멸됩니다.";
+"Key_Picker_Action_Reset" = "키보드 레이아웃 재설정";
+"Key_Picker_Action_Cancel" = "취소";
+
+"Find_Placeholder" = "찾기";
+"Find_Replace_Placeholder" = "바꾸기";
+
+"Key_Description_Find" = "찾기 바";
+"Key_Description_Show_Find" = "찾기 바 표시";
+"Key_Description_Hide_Find" = "찾기 바 숨기기";
+"Key_Description_Find_Next" = "다음 찾기";
+"Key_Description_Find_Previous" = "이전 찾기";
+"Key_Description_Replace" = "바꾸기";
+"Key_Description_Replace_All" = "모두 바꾸기";
+
+"Key_Description_Search" = "검색";
+"Key_Description_Command" = "명령";
+
+"Key_Description_Undo" = "실행 취소";
+"Key_Description_Redo" = "다시 실행";
+
+"Key_Description_Move_Up" = "위쪽 화살표";
+"Key_Description_Move_Down" = "아래쪽 화살표";
+"Key_Description_Move_Left" = "왼쪽 화살표";
+"Key_Description_Move_Right" = "오른쪽 화살표";
+
+"Key_Description_Dismiss_Menu" = "메뉴 해제";
+
+"Key_Title_Return" = "Return";
+"Key_Title_Shift_Right" = "탭";
+"Key_Title_Shift_Left" = "백탭";
+"Key_Title_Home" = "Home";
+"Key_Title_End" = "End";
+"Key_Title_Shift_Up" = "텍스트\n이동 ↑";
+"Key_Title_Shift_Down" = "텍스트\n이동 ↓";
+"Key_Title_Undo" = "실행 취소";
+"Key_Title_Redo" = "다시 실행";
+
+"Key_Description_Return" = "Return";
+"Key_Description_Delete_Forward" = "앞으로 삭제";
+"Key_Description_Delete_Backward" = "뒤로 삭제";
+"Key_Description_Delete_Paragraph" = "단락 삭제";
+"Key_Description_Dismiss_Keyboard" = "키보드 해제";
+"Key_Description_Shift_Left" = "내어쓰기";
+"Key_Description_Shift_Right" = "들여쓰기";
+"Key_Description_Shift_Up" = "위로 단락 이동";
+"Key_Description_Shift_Down" = "아래로 단락 이동";
+"Key_Description_Dismiss_Keyboard" = "키보드 해제";
+"Key_Description_Move_To_Beginning" = "문서의 처음으로 이동";
+"Key_Description_Move_To_End" = "문서의 끝으로 이동";
