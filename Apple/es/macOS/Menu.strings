@@ -27,7 +27,7 @@
 "73.title" = "Cerrar";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "75"; */
-"75.title" = "Guardar…";
+"75.title" = "Guardar";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
 "78.title" = "Imprimir…";
