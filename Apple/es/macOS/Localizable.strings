@@ -4,16 +4,16 @@
  -----*/
 
 /* Menu title to enable dark appearance. */
-"Menu_Enable_Dark_Appearance" = "Usar apariencia oscura";
+"Menu_Enable_Dark_Appearance" = "Usar aspecto oscuro";
 
 /* Menu title to enable light appearance. */
-"Menu_Enable_Light_Appearance" = "Use apariencia clara";
+"Menu_Enable_Light_Appearance" = "Usar aspecto claro";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Nuevo en la biblioteca";
 
 /* New. Menu item title for creating new documents. */
-"New_Document_Menu" = "Los archivos";
+"New_Document_Menu" = "Nuevo";
 
 /* New Tab in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Tab_In_Library_Menu" = "Nueva pestaña en la biblioteca";
@@ -44,7 +44,7 @@
 "Trial_Welcome" = "Te damos la bienvenida a iA Writer.\nEsta versión de prueba permite disfrutar de todas las características gratis.";
 
 /* Demo expiration notice. */
-"Trial_Expiration_Notice" = "La prueba caducó. Esperamos que hayas disfrutado usando iA Writer.";
+"Trial_Expiration_Notice" = "La prueba ha caducado. Esperamos que hayas disfrutado usando iA Writer.";
 
 /*--------
  Templates
@@ -54,7 +54,7 @@
 "Template_Installed_Title" = "Plantilla «%@» instalada";
 
 /* Notification info text after a template is successfully installed via Finder or Dock icon. */
-"Template_Installed_Description" = "Puedes acceder a las plantillas en la vista previa y Vista > Plantillas. Puedes desinstalar las plantillas en Preferencias.";
+"Template_Installed_Description" = "Puedes acceder a las plantillas en la vista previa y en Visualización > Plantillas. Puedes desinstalar las plantillas en Preferencias.";
 
 /*------------
  Release Notes
@@ -98,7 +98,7 @@
 "Export_Format_PDF_Name" = "PDF";
 
 /* PDF export format description. */
-"Export_Format_PDF_Description" = "Para cambiar el diseño del PDF, elige Archivo → Configurar página.";
+"Export_Format_PDF_Description" = "Para cambiar el diseño del PDF, selecciona Archivo → Configuración de página.";
 
 /* Plain text export format. */
 "Export_Format_Markdown_Name" = "Markdown";
@@ -194,11 +194,11 @@
 "Library_Go_Forward" = "Adelante";
 
 /* Go menu item title to go to enclosing folder. */
-"Library_Go_Enclosing_Folder" = "Carpeta adjunta";
+"Library_Go_Enclosing_Folder" = "Carpeta contenedora";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Eliminar...";
+"Library_Delete_Action_Title" = "Eliminar…";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "¿Seguro que quieres borrar «%@»?";
@@ -213,10 +213,10 @@
 "Library_Snippet_Empty" = "Documento vacío";
 
 /* Snippet for documents which weren’t downloaded yet. */
-"Library_Snippet_Updating" = "Actualizando...";
+"Library_Snippet_Updating" = "Actualizando…";
 
 /* Menu to create a new file when right-clicking empty space in document library. */
-"Library_Action_New_File" = "Nuevo archivo";
+"Library_Action_New_File" = "Nuevo documento";
 
 /* Menu to create a new folder when right-clicking empty space in document library.
    Name for new folders. */
@@ -265,7 +265,7 @@
 "Library_Action_Remove_Location" = "Eliminar de ubicaciones";
 
 /* Menu to delete smart folder. */
-"Library_Action_Edit_Smart_Folder" = "Editar...";
+"Library_Action_Edit_Smart_Folder" = "Editar…";
 
 /* Menu to duplicate smart folder. */
 "Library_Action_Duplicate" = "Duplicar";
@@ -280,7 +280,7 @@
 "Library_Search_Field_Placeholder" = "Filtrar";
 
 /* Loading content message for document library. */
-"Library_Loading_Message" = "Cargando documentos... Esto puede tardar unos minutos si la biblioteca es grande.";
+"Library_Loading_Message" = "Cargando documentos… Esto puede tardar unos minutos si la biblioteca es muy grande.";
 
 /* Button to move document to library. */
 "Library_Import_Prompt_Button_Move" = "Mover";
@@ -292,7 +292,7 @@
 "Library_Import_Prompt_Button_Copy_To" = "Copiar a «%@»";
 
 /* Message label for documents edited outside the Library. */
-"Library_Import_Prompt_Message" = "Estás editando un documento fuera de iA Writer Library. Puedes seguir editándolo o puedes moverlo a la biblioteca.";
+"Library_Import_Prompt_Message" = "Estás editando un documento fuera de iA Writer. Puedes seguir editándolo o puedes moverlo a la biblioteca.";
 
 /* Search title. */
 "Library_Search_Title" = "Resultados de la búsqueda";
@@ -325,32 +325,32 @@
 "Library_Root_Hashtags" = "Hashtags";
 
 /* Organizer section empty message. */
-"Library_Root_Favorites_Empty_Message" = "Arrastra aquí carpetas y archivos para acceder más rápido";
+"Library_Root_Favorites_Empty_Message" = "Arrastra aquí carpetas y documentos para acceder más rápido";
 
 /* Organizer section empty message. */
-"Library_Root_Smart_Folders_Empty_Message" = "Configura reglas personalizadas para reunir archivos";
+"Library_Root_Smart_Folders_Empty_Message" = "Configura reglas personalizadas para agrupar documentos";
 
 /* Organizer section empty message. */
-"Library_Root_Hashtags_Empty_Message" = "Escribe #tags para agrupar archivos";
+"Library_Root_Hashtags_Empty_Message" = "Escribe #tags para agrupar documentos";
 
 /*-----
  Editor
  -----*/
 
 /* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "Habilitar modo de enfoque";
+"Menu_Enable_Focus_Mode" = "Activar modo concentración";
 
 /* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "Desactivar modo de enfoque";
+"Menu_Disable_Focus_Mode" = "Desactivar modo concentración";
 
 /* Menu title to enable syntax highlight. */
-"Menu_Enable_Syntax_Higlight" = "Habilitar resaltado de sintaxis";
+"Menu_Enable_Syntax_Higlight" = "Activar resaltado de sintaxis";
 
 /* Menu title to disable syntax highlight. */
 "Menu_Disable_Syntax_Higlight" = "Desactivar resaltado de sintaxis";
 
 /* Apply English title capitalization to selected text. */
-"Make_Title_Case" = "Mayúsculas de título";
+"Make_Title_Case" = "Mayúsculas iniciales";
 
 /* List block element name. */
 "Block_Element_List" = "Lista";
@@ -407,7 +407,7 @@
 "Text_Editor_Toolbar_Action_Table" = "Tabla";
 
 /* Table size picker alert title. The alert is shown after selecting action to add table. */
-"Text_Editor_Table_Alert_Message" = "Ajustar el tamaño de tabla. La primera fila contendrá el encabezado de la tabla.";
+"Text_Editor_Table_Alert_Message" = "Ajustar el tamaño de tabla. La primera fila contendrá el encabezado.";
 
 /* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
 "Text_Editor_Table_Alert_Columns_Label" = "columnas";
@@ -426,7 +426,7 @@
 "Preferences_Pane_Title_General" = "General";
 
 /* Files preferences pane title. */
-"Preferences_Pane_Title_Files" = "Archivos";
+"Preferences_Pane_Title_Files" = "Documentos";
 
 /* Library preferences pane title. */
 "Preferences_Pane_Title_Library" = "Biblioteca";
@@ -438,7 +438,7 @@
 "Preferences_Pane_Title_Templates" = "Plantillas";
 
 /* Button to add account in preferences. */
-"Preferences_Add_Account_Button" = "Añadir cuenta...";
+"Preferences_Add_Account_Button" = "Añadir cuenta…";
 
 /* Button to remove account in preferences. */
 "Preferences_Remove_Account_Button" = "Eliminar cuenta";

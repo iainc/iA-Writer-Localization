@@ -1,15 +1,15 @@
 
 /* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
-"HPl-l1-HP7.title" = "Se usará la acción preferida al pulsar ⌘ N o hacer clic en el icono Dock cuando no haya otros archivos abiertos. Se usará una acción alternativa cuando presiones ⌥⌘ N.";
+"HPl-l1-HP7.title" = "Se usará la acción preferida al pulsar ⌘N o hacer clic en el icono del Dock cuando no haya otros documentos abiertos. Se usará una acción alternativa cuando pulses ⌥⌘N.";
 
 /* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */
-"Hli-Y7-4TC.title" = "Los archivos";
+"Hli-Y7-4TC.title" = "Nuevo";
 
 /* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
 "RP1-j6-hey.title" = "Acción preferida:";
 
 /* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
-"UWl-8e-UTr.title" = "Los nuevos archivos tendrán esta extensión. Solo se permiten extensiones de texto sin formato.";
+"UWl-8e-UTr.title" = "Los nuevos documentos tendrán esta extensión. Solo se permiten extensiones de texto sin formato.";
 
 /* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "Nuevos se crearán automáticamente\nen la biblioteca.";
@@ -18,7 +18,7 @@
 "faP-Wx-ytF.title" = "Nuevo en la biblioteca";
 
 /* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
-"vCs-49-KMB.title" = "Se te preguntará si quieres guardar los archivos\nal cerrarlos.";
+"vCs-49-KMB.title" = "Se te preguntará si quieres guardar los documentos\nal cerrarlos.";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
 "whG-r6-ibK.title" = "Extensión predeterminada:";
