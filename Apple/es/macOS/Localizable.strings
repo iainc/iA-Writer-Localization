@@ -271,7 +271,7 @@
 "Library_Action_Duplicate" = "Duplicar";
 
 /* Menu to show currently selected document in Finder. */
-"Show_In_Finder" = "Mostrar en el buscador";
+"Show_In_Finder" = "Mostrar en el Finder";
 
 /* Search menu item to show currently selected document in Library. */
 "Show_In_Library" = "Mostrar en la biblioteca";
