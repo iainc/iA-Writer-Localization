@@ -384,7 +384,7 @@
 "RVh-9x-N9T.title" = "Alejar";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Rhr-5m-bcX"; */
-"Rhr-5m-bcX.title" = "Mostrar en el buscador";
+"Rhr-5m-bcX.title" = "Mostrar en el Finder";
 
 /* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "S9Z-zm-s36"; */
 "S9Z-zm-s36.title" = "Todo en mayúsculas";
