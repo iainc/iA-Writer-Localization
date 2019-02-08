@@ -273,7 +273,7 @@
 "8JJ-MZ-cn8.title" = "Présentation";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "9cn-bG-2ki"; */
-"9cn-bG-2ki.title" = "Mettre en majuscules";
+"9cn-bG-2ki.title" = "Mettre la première lettre en majuscule";
 
 /* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "AYB-fK-6qu"; */
 "AYB-fK-6qu.title" = "Transformations";
@@ -402,7 +402,7 @@
 "UVF-We-TtK.title" = "Machine à écrire";
 
 /* Class = "NSMenuItem"; title = "Preview Width"; ObjectID = "UcO-3O-k5v"; */
-"UcO-3O-k5v.title" = "Aperçu de la largeur";
+"UcO-3O-k5v.title" = "Affichage de l’aperçu";
 
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "UhO-wG-w1d"; */
 "UhO-wG-w1d.title" = "Cesser de parler";
@@ -459,7 +459,7 @@
 "ZfB-tX-XLB.title" = "Modèles";
 
 /* Class = "NSMenuItem"; title = "Half"; ObjectID = "Zkb-0q-r8W"; */
-"Zkb-0q-r8W.title" = "Demi";
+"Zkb-0q-r8W.title" = "Aperçu et texte";
 
 /* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "aM4-j0-Xa0"; Note = "SKIP LOCALIZATION"; */
 "aM4-j0-Xa0.title" = "Paragraphe";
@@ -522,7 +522,7 @@
 "pJe-0c-qV5.title" = "Descendant";
 
 /* Class = "NSMenu"; title = "Preview Width"; ObjectID = "pqw-KA-huh"; */
-"pqw-KA-huh.title" = "Affichages de l'aperçu";
+"pqw-KA-huh.title" = "Affichages de l’aperçu";
 
 /* Class = "NSMenuItem"; title = "Toolbar"; ObjectID = "pur-a2-Aeh"; */
 "pur-a2-Aeh.title" = "Barre d’outils";
@@ -552,7 +552,7 @@
 "xQm-Ed-ske.title" = "Aperçu seul";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "yeD-Je-aOs"; */
-"yeD-Je-aOs.title" = "Aperçu et texte";
+"yeD-Je-aOs.title" = "Aller";
 
 /* Class = "NSMenuItem"; title = "Shift Left"; ObjectID = "zO2-18-ibZ"; */
 "zO2-18-ibZ.title" = "Décaler vers la gauche";

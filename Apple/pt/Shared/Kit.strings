@@ -167,6 +167,9 @@
 "Content_Typography_Emphasis_Italic" = "Itálico";
 "Content_Typography_Emphasis_Mark" = "Ênfase";
 
+"Content_Typography_Emphasis_Description_Italic" = "Itálico";
+"Content_Typography_Emphasis_Description_Mark" = "Ênfase";
+
 /*----------------
  Library Locations
  ----------------*/

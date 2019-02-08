@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "Длина строки";
 "Settings_Editor_Font" = "Гарнитура";
 "Settings_Editor_Language" = "Тип";
+"Settings_Editor_Emphasis" = "Выделение";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Режим фокуса";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "Смарт-тире";
 "Settings_Editor_Smart_Inset_Delete" = "Смарт-скопировать/вставить";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "Оступать используя";
-"Settings_Editor_Text_Indentation_Tabs" = "Табуляции";
-"Settings_Editor_Text_Indentation_Spaces" = "Пробелы";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "Отступ";
+"Settings_Editor_Indentation" = "Отступ";
 
+"Settings_Editor_Indent_Using" = "Отступать используя";
+"Settings_Editor_Indent_Using_Tabs" = "Табуляции";
+"Settings_Editor_Indent_Using_Spaces" = "Пробелы";
+
+"Settings_Editor_Tab_Key_Behavior" = "Клавиша Tab";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "Отступает";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Вставляет табуляции";
+
+"Settings_Editor_Tab_Width" = "Ширина табуляции";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "Отступ перенесенных строк включает";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Свободное пространство";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Разметку блоков Markdown";
+
+"Settings_Editor_Restore_Indent_Defaults" = "Настройки по умолчанию";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "Поиск текста";

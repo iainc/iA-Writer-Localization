@@ -44,7 +44,7 @@
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
 "83.title" = "Archivo";
 
-/* Class = "NSMenuItem"; title = "Revert to Saved…"; ObjectID = "112"; */
+/* Class = "NSMenuItem"; title = "Revert to Saved..."; ObjectID = "112"; */
 "112.title" = "Revertir a guardado…";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
@@ -527,7 +527,7 @@
 /* Class = "NSMenuItem"; title = "Toolbar"; ObjectID = "pur-a2-Aeh"; */
 "pur-a2-Aeh.title" = "Barra de herramientas";
 
-/* Class = "NSMenuItem"; title = "Search Library…"; ObjectID = "qHW-3c-Ttt"; */
+/* Class = "NSMenuItem"; title = "Search Library..."; ObjectID = "qHW-3c-Ttt"; */
 "qHW-3c-Ttt.title" = "Buscar en la biblioteca…";
 
 /* Class = "NSMenuItem"; title = "Structure"; ObjectID = "qdR-wu-hiC"; */

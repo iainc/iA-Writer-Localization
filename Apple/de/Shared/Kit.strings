@@ -167,6 +167,9 @@
 "Content_Typography_Emphasis_Italic" = "Kursiv";
 "Content_Typography_Emphasis_Mark" = "Betonungszeichen";
 
+"Content_Typography_Emphasis_Description_Italic" = "Kursiv";
+"Content_Typography_Emphasis_Description_Mark" = "Betonungszeichen";
+
 /*----------------
  Library Locations
  ----------------*/

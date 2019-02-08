@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "1行の最大長";
 "Settings_Editor_Font" = "フォント";
 "Settings_Editor_Language" = "言語";
+"Settings_Editor_Emphasis" = "圏点";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "フォーカスモード";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "スマートダッシュ";
 "Settings_Editor_Smart_Inset_Delete" = "スマートコピー/ペースト";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "インデント";
-"Settings_Editor_Text_Indentation_Tabs" = "タブ";
-"Settings_Editor_Text_Indentation_Spaces" = "スペース";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "インデント";
+"Settings_Editor_Indentation" = "インデント";
 
+"Settings_Editor_Indent_Using" = "インデントする";
+"Settings_Editor_Indent_Using_Tabs" = "タブ";
+"Settings_Editor_Indent_Using_Spaces" = "スペース";
+
+"Settings_Editor_Tab_Key_Behavior" = "タブキー";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "インデント";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "タブ挿入";
+
+"Settings_Editor_Tab_Width" = "タブ幅";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "折返しインデントに含む";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "ホワイトスペース";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "ブロック要素マークダウン";
+
+"Settings_Editor_Restore_Indent_Defaults" = "初期設定に戻す";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "テキスト検索";

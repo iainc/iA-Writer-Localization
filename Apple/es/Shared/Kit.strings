@@ -167,6 +167,9 @@
 "Content_Typography_Emphasis_Italic" = "Cursiva";
 "Content_Typography_Emphasis_Mark" = "Énfasis";
 
+"Content_Typography_Emphasis_Description_Italic" = "Cursiva";
+"Content_Typography_Emphasis_Description_Mark" = "Énfasis";
+
 /*----------------
  Library Locations
  ----------------*/
