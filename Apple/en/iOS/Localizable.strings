@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "Maximum Line Length";
 "Settings_Editor_Font" = "Font";
 "Settings_Editor_Language" = "Language";
+"Settings_Editor_Emphasis" = "Emphasis";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Focus Mode";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "Smart Dashes";
 "Settings_Editor_Smart_Inset_Delete" = "Smart Copy/Paste";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "Indent Using";
-"Settings_Editor_Text_Indentation_Tabs" = "Tabs";
-"Settings_Editor_Text_Indentation_Spaces" = "Spaces";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "Indentation";
+"Settings_Editor_Indentation" = "Indentation";
 
+"Settings_Editor_Indent_Using" = "Indent Using";
+"Settings_Editor_Indent_Using_Tabs" = "Tabs";
+"Settings_Editor_Indent_Using_Spaces" = "Spaces";
+
+"Settings_Editor_Tab_Key_Behavior" = "Tab Key";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "Indents";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Inserts Tab";
+
+"Settings_Editor_Tab_Width" = "Tab Width";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "Wrapped Line Indent Includes";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Whitespace";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Markdown Block Markers";
+
+"Settings_Editor_Restore_Indent_Defaults" = "Restore Defaults";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "Text Find";

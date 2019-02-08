@@ -167,6 +167,9 @@
 "Content_Typography_Emphasis_Italic" = "イタリック";
 "Content_Typography_Emphasis_Mark" = "圏点";
 
+"Content_Typography_Emphasis_Description_Italic" = "イタリック";
+"Content_Typography_Emphasis_Description_Mark" = "圏点";
+
 /*----------------
  Library Locations
  ----------------*/

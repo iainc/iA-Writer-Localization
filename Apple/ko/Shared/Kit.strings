@@ -167,6 +167,9 @@
 "Content_Typography_Emphasis_Italic" = "이탤릭체";
 "Content_Typography_Emphasis_Mark" = "강조";
 
+"Content_Typography_Emphasis_Description_Italic" = "이탤릭체";
+"Content_Typography_Emphasis_Description_Mark" = "강조";
+
 /*----------------
  Library Locations
  ----------------*/

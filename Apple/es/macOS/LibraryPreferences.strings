@@ -15,13 +15,13 @@
 "CjX-jS-fbZ.title" = "Hashtags";
 
 /* Class = "NSButtonCell"; title = "Newest on Top"; ObjectID = "KqX-Gc-m0e"; */
-"KqX-Gc-m0e.title" = "Novedades arriba";
+"KqX-Gc-m0e.title" = "Más nuevos arriba";
 
 /* Class = "NSButtonCell"; title = "Pin folders to top"; ObjectID = "SOG-kM-c2S"; */
 "SOG-kM-c2S.title" = "Fijar carpetas arriba";
 
 /* Class = "NSButtonCell"; title = "Oldest on Top"; ObjectID = "Usl-VQ-WXd"; */
-"Usl-VQ-WXd.title" = "Más viejo arriba";
+"Usl-VQ-WXd.title" = "Más antiguos arriba";
 
 /* Class = "NSButtonCell"; title = "Sort bar"; ObjectID = "ggC-OU-ShT"; */
 "ggC-OU-ShT.title" = "Barra de ordenación";
@@ -45,7 +45,7 @@
 "kND-5E-Z2a.title" = "Ordenar por:";
 
 /* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "nVS-Cr-Jb3"; */
-"nVS-Cr-Jb3.title" = "Archivos:";
+"nVS-Cr-Jb3.title" = "Documentos:";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "oft-9R-Obz"; Note = "SKIP LOCALIZATION"; */
 "oft-9R-Obz.title" = "Nombre";

@@ -19,10 +19,10 @@
 "Default_Folder_Name" = "Carpeta sin título";
 "Default_Image_Name" = "Sin título";
 "Default_Smart_Folder_Name" = "Sin título";
-"Default_Smart_Folder_Recently_Modified_Name" = "Recientemente modificado";
+"Default_Smart_Folder_Recently_Modified_Name" = "Modificado recientemente";
 
 "Paper_Size_A4" = "A4";
-"Paper_Size_US_Letter" = "US Letter";
+"Paper_Size_US_Letter" = "Carta EE. UU.";
 
 /*----
  Dates
@@ -92,8 +92,8 @@
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
 
-"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium deshabilitó la subida de imágenes";
-"Medium_Image_Upload_Error_Unauthorized" = "Medium deshabilitó la subida de imágenes";
+"Medium_Image_Upload_Error_Unauthorized_Title" = "Medium ha deshabilitado la subida de imágenes";
+"Medium_Image_Upload_Error_Unauthorized" = "Medium ha deshabilitado la subida de imágenes";
 "Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Ponte en contacto con Medium para habilitar la subida de imágenes para tu token.";
 "Medium_Image_Upload_Error_Contact" = "Contacto con Medium";
 
@@ -166,6 +166,9 @@
 
 "Content_Typography_Emphasis_Italic" = "Cursiva";
 "Content_Typography_Emphasis_Mark" = "Énfasis";
+
+"Content_Typography_Emphasis_Description_Italic" = "Cursiva";
+"Content_Typography_Emphasis_Description_Mark" = "Énfasis";
 
 /*----------------
  Library Locations

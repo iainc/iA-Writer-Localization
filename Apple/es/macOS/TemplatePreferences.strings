@@ -1,6 +1,6 @@
 
 /* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
-"1tl-et-2n4.title" = "Un retorno simple comienza un nuevo párrafo";
+"1tl-et-2n4.title" = "Un salto de línea simple comienza un nuevo párrafo";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
 "561-vh-uzh.ibShadowedToolTip" = "Invierte los colores del modo nocturno en la vista previa. Las plantillas personalizadas deben implementar el modo nocturno para poder invertir los colores.";
@@ -36,7 +36,7 @@
 "eLo-eM-g9t.title" = "Pies de página";
 
 /* Class = "NSMenuItem"; title = "Install Template…"; ObjectID = "eXK-ab-Lw9"; */
-"eXK-ab-Lw9.title" = "Instalar plantilla...";
+"eXK-ab-Lw9.title" = "Instalar plantilla…";
 
 /* Class = "NSButtonCell"; title = "Invert colors"; ObjectID = "f2Y-kh-hVX"; */
 "f2Y-kh-hVX.title" = "Invertir colores";
@@ -60,7 +60,7 @@
 "tEq-K2-EVY.title" = "Encabezados numéricos";
 
 /* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
-"wLN-Zi-CIU.title" = "Pagina del titulo";
+"wLN-Zi-CIU.title" = "Página de título";
 
 /* Class = "NSButtonCell"; title = "Apply smart punctuation"; ObjectID = "xcN-na-4AD"; */
 "xcN-na-4AD.title" = "Aplicar puntuación inteligente";

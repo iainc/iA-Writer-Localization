@@ -1,15 +1,15 @@
 
 /* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
-"7Ng-I8-X9P.title" = "Coincidir con la apariencia del sistema";
+"7Ng-I8-X9P.title" = "Coincidir con el aspecto del sistema";
 
 /* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
 "8RM-fb-kKC.title" = "Automatización:";
 
 /* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
-"8Ra-gX-fPi.title" = "Oscura";
+"8Ra-gX-fPi.title" = "Oscuro";
 
 /* Class = "NSButtonCell"; title = "Dark"; ObjectID = "ACg-Xt-HjR"; */
-"ACg-Xt-HjR.title" = "Oscura";
+"ACg-Xt-HjR.title" = "Oscuro";
 
 /* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
 "BDr-jl-Y9p.title" = "Icono del dock:";
@@ -36,13 +36,13 @@
 "Rnn-Wj-4HI.title" = "Presentación:";
 
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
-"SWw-D8-EqL.title" = "Fundidos";
+"SWw-D8-EqL.title" = "Fundido";
 
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
-"U8m-wr-wFI.title" = "Clara";
+"U8m-wr-wFI.title" = "Claro";
 
 /* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
-"UpS-Li-DCu.title" = "Gestionar...";
+"UpS-Li-DCu.title" = "Gestionar…";
 
 /* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "W2O-dO-Pds"; */
 "W2O-dO-Pds.title" = "Eliminar cuenta";
@@ -54,7 +54,7 @@
 "c8E-lj-f6I.title" = "Ocultar";
 
 /* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
-"ilj-nk-Mxd.title" = "Sinc. vista previa de desp. con editor";
+"ilj-nk-Mxd.title" = "Sincronizar desplazamiento del editor con vista previa";
 
 /* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
 "j0k-Io-Sa4.title" = "Mostrar siempre";
@@ -66,7 +66,7 @@
 "sN4-AX-e4A.title" = "Nombre de cuenta";
 
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
-"vB9-wl-rUL.title" = "Clara";
+"vB9-wl-rUL.title" = "Claro";
 
 /* Class = "NSButtonCell"; title = "Match app appearance"; ObjectID = "zYE-q5-H6k"; */
-"zYE-q5-H6k.title" = "Coincidir con la apariencia de la aplicación";
+"zYE-q5-H6k.title" = "Coincidir con el aspecto de la aplicación";

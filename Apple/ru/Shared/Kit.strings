@@ -167,6 +167,9 @@
 "Content_Typography_Emphasis_Italic" = "Курсив";
 "Content_Typography_Emphasis_Mark" = "Выделение";
 
+"Content_Typography_Emphasis_Description_Italic" = "Курсив";
+"Content_Typography_Emphasis_Description_Mark" = "Точки";
+
 /*----------------
  Library Locations
  ----------------*/

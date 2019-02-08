@@ -167,6 +167,9 @@
 "Content_Typography_Emphasis_Italic" = "斜體";
 "Content_Typography_Emphasis_Mark" = "着重號";
 
+"Content_Typography_Emphasis_Description_Italic" = "斜體";
+"Content_Typography_Emphasis_Description_Mark" = "着重號";
+
 /*----------------
  Library Locations
  ----------------*/

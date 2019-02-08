@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "Longitud máxima de línea";
 "Settings_Editor_Font" = "Fuente";
 "Settings_Editor_Language" = "Idioma";
+"Settings_Editor_Emphasis" = "Énfasis";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Modo de enfoque";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "Guiones inteligentes";
 "Settings_Editor_Smart_Inset_Delete" = "Copiar/pegar inteligente";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "Sangría usando";
-"Settings_Editor_Text_Indentation_Tabs" = "Pestañas";
-"Settings_Editor_Text_Indentation_Spaces" = "Espacios";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "Sangría";
+"Settings_Editor_Indentation" = "Sangría";
 
+"Settings_Editor_Indent_Using" = "Sangrar usando";
+"Settings_Editor_Indent_Using_Tabs" = "Tabulaciones";
+"Settings_Editor_Indent_Using_Spaces" = "Espacios";
+
+"Settings_Editor_Tab_Key_Behavior" = "Tecla Tab";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "Sangrías";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Inserta tabulación";
+
+"Settings_Editor_Tab_Width" = "Ancho de tabulación";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "La sangría con ajuste de línea incluye";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Carácter invisible";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Marcadores de bloque de Markdown";
+
+"Settings_Editor_Restore_Indent_Defaults" = "Restablecer valores predeterminados";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "Buscar texto";
