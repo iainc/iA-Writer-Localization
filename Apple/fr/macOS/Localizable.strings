@@ -7,7 +7,7 @@
 "Menu_Enable_Dark_Appearance" = "Utiliser l’apparence sombre";
 
 /* Menu title to enable light appearance. */
-"Menu_Enable_Light_Appearance" = "Utilise l’apparence claire";
+"Menu_Enable_Light_Appearance" = "Utiliser l’apparence claire";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Nouveau dans la bibliothèque";

@@ -1,7 +1,4 @@
 
-/* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "51F-7r-uRC"; */
-"51F-7r-uRC.title" = "タブ";
-
 /* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
 "6L5-CK-rbm.title" = "スペルと文法：";
 
@@ -35,11 +32,17 @@
 /* Class = "NSButtonCell"; title = "Correct spelling"; ObjectID = "KWp-yU-5hs"; */
 "KWp-yU-5hs.title" = "スペルを修正";
 
+/* Class = "NSMenuItem"; title = "Quattro"; ObjectID = "LjQ-8o-hLY"; */
+"LjQ-8o-hLY.title" = "Quattro";
+
 /* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
 "Muo-8w-HeG.title" = "フォーカスモード：";
 
 /* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
 "ODb-aW-xzV.title" = "72";
+
+/* Class = "NSButtonCell"; title = "Indentation…"; ObjectID = "RgV-pT-lVu"; */
+"RgV-pT-lVu.title" = "インデント…";
 
 /* Class = "NSMenuItem"; title = "64"; ObjectID = "S60-FG-qNb"; */
 "S60-FG-qNb.title" = "64";
@@ -56,14 +59,11 @@
 /* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "aae-lC-eDI"; */
 "aae-lC-eDI.title" = "Duospaced";
 
-/* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "bUN-vs-toB"; */
-"bUN-vs-toB.title" = "スペース";
-
-/* Class = "NSTextFieldCell"; title = "Indent text using:"; ObjectID = "dkb-Rh-mQj"; */
-"dkb-Rh-mQj.title" = "インデント：";
-
 /* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
 "dqc-LX-3Cd.title" = "自動置換：";
+
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "e89-pc-oPV"; */
+"e89-pc-oPV.title" = "Italic";
 
 /* Class = "NSMenuItem"; title = "Sentence"; ObjectID = "eVp-ub-H3k"; Note = "SKIP LOCALIZATION"; */
 "eVp-ub-H3k.title" = "文";
@@ -103,6 +103,9 @@
 
 /* Class = "NSButtonCell"; title = "Nouns"; ObjectID = "tJf-FO-eFT"; */
 "tJf-FO-eFT.title" = "Nouns";
+
+/* Class = "NSMenuItem"; title = "Emphasis Mark"; ObjectID = "tLO-KH-mgO"; */
+"tLO-KH-mgO.title" = "Emphasis Mark";
 
 /* Class = "NSButtonCell"; title = "Adjectives"; ObjectID = "u3t-jX-i9Z"; */
 "u3t-jX-i9Z.title" = "Adjectives";

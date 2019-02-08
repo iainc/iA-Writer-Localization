@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "每行長度上限";
 "Settings_Editor_Font" = "字體";
 "Settings_Editor_Language" = "語言";
+"Settings_Editor_Emphasis" = "着重號";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "焦點模式";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "智能短橫線";
 "Settings_Editor_Smart_Inset_Delete" = "智能複製/貼上";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "縮排按鍵為";
-"Settings_Editor_Text_Indentation_Tabs" = "Tab";
-"Settings_Editor_Text_Indentation_Spaces" = "空白鍵";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "縮排";
+"Settings_Editor_Indentation" = "縮排";
 
+"Settings_Editor_Indent_Using" = "縮排方式";
+"Settings_Editor_Indent_Using_Tabs" = "Tab";
+"Settings_Editor_Indent_Using_Spaces" = "間距";
+
+"Settings_Editor_Tab_Key_Behavior" = "Tab 鍵";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "縮排";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "插入定位點";
+
+"Settings_Editor_Tab_Width" = "定位符號間隔寬度";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "換行縮排包含";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "空白";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Markdown 區塊標記";
+
+"Settings_Editor_Restore_Indent_Defaults" = "回復預設值";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "文本查找";

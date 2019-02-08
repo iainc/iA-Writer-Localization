@@ -1,0 +1,45 @@
+
+/* Class = "NSButtonCell"; title = "Whitespace"; ObjectID = "09U-kI-so3"; */
+"09U-kI-so3.title" = "Blanc";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "3Pf-cg-VF9"; */
+"3Pf-cg-VF9.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "IWB-dA-byr"; */
+"IWB-dA-byr.title" = "Restaurer les réglages par défaut";
+
+/* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "Iy3-Mh-jBg"; */
+"Iy3-Mh-jBg.title" = "Tabulations";
+
+/* Class = "NSButtonCell"; title = "Markdown block markers"; ObjectID = "LLw-gR-8jL"; */
+"LLw-gR-8jL.title" = "Marqueurs de bloc Markdown";
+
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "MlS-9T-946"; */
+"MlS-9T-946.title" = "8";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "RdC-rk-Ffy"; */
+"RdC-rk-Ffy.title" = "Terminé";
+
+/* Class = "NSTextFieldCell"; title = "Tab width:"; ObjectID = "UTH-s1-KRg"; */
+"UTH-s1-KRg.title" = "Espace de tabulation :";
+
+/* Class = "NSTextFieldCell"; title = "Wrapped line indent includes:"; ObjectID = "a0w-Tn-dzZ"; */
+"a0w-Tn-dzZ.title" = "L'indentation du retour à la ligne comprend :";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "i9Z-i2-bls"; */
+"i9Z-i2-bls.title" = "4";
+
+/* Class = "NSMenuItem"; title = "Inserts tab"; ObjectID = "ihA-Ni-dNB"; */
+"ihA-Ni-dNB.title" = "Insère une tabulation";
+
+/* Class = "NSMenuItem"; title = "Indents"; ObjectID = "oHE-8D-ED4"; */
+"oHE-8D-ED4.title" = "Indentations";
+
+/* Class = "NSTextFieldCell"; title = "Tab key:"; ObjectID = "xVt-KN-Qv5"; */
+"xVt-KN-Qv5.title" = "Touche de tabulation :";
+
+/* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "yS6-kZ-s2z"; */
+"yS6-kZ-s2z.title" = "Espaces";
+
+/* Class = "NSTextFieldCell"; title = "Indent text using:"; ObjectID = "z28-wW-pZ5"; */
+"z28-wW-pZ5.title" = "Mettre le texte en retrait à l'aide de :";

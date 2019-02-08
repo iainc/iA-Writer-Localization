@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "최대 줄 길이";
 "Settings_Editor_Font" = "서체";
 "Settings_Editor_Language" = "언어";
+"Settings_Editor_Emphasis" = "강조";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "포커스 모드";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "스마트 대시";
 "Settings_Editor_Smart_Inset_Delete" = "스마트 복사/붙여넣기";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "들여쓰기 사용";
-"Settings_Editor_Text_Indentation_Tabs" = "탭";
-"Settings_Editor_Text_Indentation_Spaces" = "공백";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "들여쓰기";
+"Settings_Editor_Indentation" = "들여쓰기";
 
+"Settings_Editor_Indent_Using" = "들여쓰기 사용";
+"Settings_Editor_Indent_Using_Tabs" = "탭";
+"Settings_Editor_Indent_Using_Spaces" = "공백";
+
+"Settings_Editor_Tab_Key_Behavior" = "탭 키";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "들여쓰기";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "삽입 탭";
+
+"Settings_Editor_Tab_Width" = "탭 너비";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "줄바꿈 들여쓰기 포함사항:";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "여백";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "마크다운 블록 마커";
+
+"Settings_Editor_Restore_Indent_Defaults" = "기본값 복원";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "텍스트 찾기";

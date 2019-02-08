@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "Comprimento Máximo de Linha";
 "Settings_Editor_Font" = "Tipo de Letra";
 "Settings_Editor_Language" = "Idioma";
+"Settings_Editor_Emphasis" = "Ênfase";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Modo Concentração";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "Hifenes Inteligentes";
 "Settings_Editor_Smart_Inset_Delete" = "Copiar/Colar Inteligente";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "Recuar Usando";
-"Settings_Editor_Text_Indentation_Tabs" = "Tabulações";
-"Settings_Editor_Text_Indentation_Spaces" = "Espaços";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "Indentação";
+"Settings_Editor_Indentation" = "Indentação";
 
+"Settings_Editor_Indent_Using" = "Recuar texto utilizando";
+"Settings_Editor_Indent_Using_Tabs" = "Tabulações";
+"Settings_Editor_Indent_Using_Spaces" = "Espaços";
+
+"Settings_Editor_Tab_Key_Behavior" = "Tecla Tab";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "Indentações";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Insere tabulação";
+
+"Settings_Editor_Tab_Width" = "Medida da tabulação";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "Indentação de linhas divididas inclui";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Espaço em branco";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Definir marcadores de bloco";
+
+"Settings_Editor_Restore_Indent_Defaults" = "Repor predefinições";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "Encontrar Texto";

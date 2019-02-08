@@ -150,7 +150,7 @@
 "Action_Dark_Mode" = "Utiliser l’apparence sombre";
 
 /* Action to switch to night mode. */
-"Action_Light_Mode" = "Utilise l’apparence claire";
+"Action_Light_Mode" = "Utiliser l’apparence claire";
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Configurer le clavier";
@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "Longueur de ligne maximum";
 "Settings_Editor_Font" = "Police";
 "Settings_Editor_Language" = "Langue";
+"Settings_Editor_Emphasis" = "Emphase";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Mode concentration";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "Tirets intelligents";
 "Settings_Editor_Smart_Inset_Delete" = "Copier/Coller intelligent";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "Utilisation de la mise en retrait";
-"Settings_Editor_Text_Indentation_Tabs" = "Tabulations";
-"Settings_Editor_Text_Indentation_Spaces" = "Espaces";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "Indentation";
+"Settings_Editor_Indentation" = "Indentation";
 
+"Settings_Editor_Indent_Using" = "Mettre en retrait à l'aide de";
+"Settings_Editor_Indent_Using_Tabs" = "Tabulations";
+"Settings_Editor_Indent_Using_Spaces" = "Espaces";
+
+"Settings_Editor_Tab_Key_Behavior" = "Touche de tabulation";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "Mises en retrait";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Insère des tabulations";
+
+"Settings_Editor_Tab_Width" = "Espace de tabulation";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "L'indentation du retour à la ligne comprend";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Blanc";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Marqueurs de bloc Markdown";
+
+"Settings_Editor_Restore_Indent_Defaults" = "Restaurer les réglages par défaut";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "Recherche de texte";

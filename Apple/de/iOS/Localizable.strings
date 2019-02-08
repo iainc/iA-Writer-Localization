@@ -770,6 +770,7 @@
 "Settings_Editor_Line_Length_Limit_Edit" = "Maximale Zeilenlänge";
 "Settings_Editor_Font" = "Schrift";
 "Settings_Editor_Language" = "Sprache";
+"Settings_Editor_Emphasis" = "Betont";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Fokus";
@@ -795,11 +796,25 @@
 "Settings_Editor_Smart_Dashes" = "Intelligente Bindestriche";
 "Settings_Editor_Smart_Inset_Delete" = "Intelligentes Copy/Paste";
 
-/* Tabs vs spaces settings. */
-"Settings_Editor_Text_Indentation" = "Texteinrückung mit:";
-"Settings_Editor_Text_Indentation_Tabs" = "Tabs";
-"Settings_Editor_Text_Indentation_Spaces" = "Leerzeichen";
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "Einrückung";
+"Settings_Editor_Indentation" = "Einrückung";
 
+"Settings_Editor_Indent_Using" = "Einrücken mit";
+"Settings_Editor_Indent_Using_Tabs" = "Tabs";
+"Settings_Editor_Indent_Using_Spaces" = "Leerzeichen";
+
+"Settings_Editor_Tab_Key_Behavior" = "Tab-Taste";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "Einrückungen";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Fügt Tab ein";
+
+"Settings_Editor_Tab_Width" = "Tab-Weite";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "Einrückung bei Zeilenumbruch beinhaltet";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Weißraum";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Markdown Blockmarkierungen";
+
+"Settings_Editor_Restore_Indent_Defaults" = "Standardwerte wiederherstellen";
 
 /* Find settings. */
 "Settings_Editor_Find_Section_Title" = "Textsuche";

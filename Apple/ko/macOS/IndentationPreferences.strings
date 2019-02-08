@@ -1,0 +1,45 @@
+
+/* Class = "NSButtonCell"; title = "Whitespace"; ObjectID = "09U-kI-so3"; */
+"09U-kI-so3.title" = "여백";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "3Pf-cg-VF9"; */
+"3Pf-cg-VF9.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "IWB-dA-byr"; */
+"IWB-dA-byr.title" = "기본값 복원";
+
+/* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "Iy3-Mh-jBg"; */
+"Iy3-Mh-jBg.title" = "탭";
+
+/* Class = "NSButtonCell"; title = "Markdown block markers"; ObjectID = "LLw-gR-8jL"; */
+"LLw-gR-8jL.title" = "마크다운 블록 마커";
+
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "MlS-9T-946"; */
+"MlS-9T-946.title" = "8";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "RdC-rk-Ffy"; */
+"RdC-rk-Ffy.title" = "완료";
+
+/* Class = "NSTextFieldCell"; title = "Tab width:"; ObjectID = "UTH-s1-KRg"; */
+"UTH-s1-KRg.title" = "탭 너비:";
+
+/* Class = "NSTextFieldCell"; title = "Wrapped line indent includes:"; ObjectID = "a0w-Tn-dzZ"; */
+"a0w-Tn-dzZ.title" = "줄바꿈 들여쓰기 포함사항:";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "i9Z-i2-bls"; */
+"i9Z-i2-bls.title" = "4";
+
+/* Class = "NSMenuItem"; title = "Inserts tab"; ObjectID = "ihA-Ni-dNB"; */
+"ihA-Ni-dNB.title" = "삽입 탭";
+
+/* Class = "NSMenuItem"; title = "Indents"; ObjectID = "oHE-8D-ED4"; */
+"oHE-8D-ED4.title" = "들여쓰기";
+
+/* Class = "NSTextFieldCell"; title = "Tab key:"; ObjectID = "xVt-KN-Qv5"; */
+"xVt-KN-Qv5.title" = "탭 키:";
+
+/* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "yS6-kZ-s2z"; */
+"yS6-kZ-s2z.title" = "공백";
+
+/* Class = "NSTextFieldCell"; title = "Indent text using:"; ObjectID = "z28-wW-pZ5"; */
+"z28-wW-pZ5.title" = "텍스트 들여쓰기 사용:";
