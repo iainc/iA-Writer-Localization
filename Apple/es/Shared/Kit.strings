@@ -134,8 +134,8 @@
 "URL_Scheme_Error_Invalid_Auth_Token" = "Se ha invocado el comando URL con un token de autenticación no válido.";
 "URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Asegúrate de que el token de autenticación sea correcto.";
 
-"URL_Scheme_Auth_Token_Description" = "Auth token is required for some URL commands.";
-"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Auth token is required for some URL commands. Your devices share the same auth token using iCloud.";
+"URL_Scheme_Auth_Token_Description" = "El token de autenticación es necesario para algunos comandos de URL.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "El token de autenticación es necesario para algunos comandos de URL. Tus dispositivos comparten el mismo token de autenticación a través de iCloud.";
 
 /*-------
  Storages
@@ -210,8 +210,8 @@
 "Library_Sort_By_Date_Modified" = "Fecha de modificación";
 "Library_Sort_By_Search_Rank" = "Rango de búsqueda";
 
-"Library_Sort_By_Date_Ascending" = "Más viejo arriba";
-"Library_Sort_By_Date_Descending" = "Novedades arriba";
+"Library_Sort_By_Date_Ascending" = "Más antiguos arriba";
+"Library_Sort_By_Date_Descending" = "Más nuevos arriba";
 
 "Library_Sort_By_Text_Ascending" = "A a Z";
 "Library_Sort_By_Text_Descending" = "Z a A";
@@ -233,7 +233,7 @@
  Zip Archives
  -----------*/
 
-"Zip_Operation_Error_Extraction_Failed" = "Error al extraer archivos del archivo.";
+"Zip_Operation_Error_Extraction_Failed" = "Error al extraer archivos.";
 "Zip_Operation_Error_Extraction_Failed_Title" = "Error de extracción";
 "Zip_Operation_Error_Extraction_Failed_Recovery_Suggestion" = "Error al extraer los archivos, o el archivo está vacío.";
 
