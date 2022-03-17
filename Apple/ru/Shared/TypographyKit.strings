@@ -1,0 +1,17 @@
+
+"Font_Name_Mono" = "Одноширинная";
+"Font_Name_Duo" = "Двуширинная";
+"Font_Name_Quattro" = "Четвероширинная";
+
+"Typography_Tradition_System" = "Системная — %@";
+"Typography_Tradition_Default" = "По умолчанию";
+"Typography_Tradition_Simplified_Chinese" = "Китайская упрощенная";
+"Typography_Tradition_Traditional_Chinese" = "Китайская традиционная";
+"Typography_Tradition_Japanese" = "Японская";
+"Typography_Tradition_Korean" = "Корейская";
+
+"Typography_Emphasis_Italic" = "Курсив";
+"Typography_Emphasis_Mark" = "Выделение";
+
+"Typography_Emphasis_Description_Italic" = "Курсив";
+"Typography_Emphasis_Description_Mark" = "Точки";

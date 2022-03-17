@@ -11,6 +11,14 @@
 "%[dateModified]@ %[begins with]@ %@" = "%1$[Date modified]@ %2$[Is in the past]@ %3$[^Number of Days]@";
 "%[dateModified]@ %[ends with]@ %@" = "%1$[Date modified]@ %2$[Is not in the past]@ %3$[^Number of Days]@";
 
+/* Date created kind rule templates. */
+"%[dateCreated]@ %[is less than]@ %@" = "%1$[Date created]@ %2$[Is before]@ %3$@";
+"%[dateCreated]@ %[is greater than]@ %@" = "%1$[Date created]@ %2$[Is after]@ %3$@";
+
+/* Date created relative rule templates. */
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[Date created]@ %2$[Is in the past]@ %3$[^Number of Days]@";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[Date created]@ %2$[Is not in the past]@ %3$[^Number of Days]@";
+
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[Kind]@ %2$[Is]@ %3$[Text]@";
 "%[kind]@ %[is not]@ %[text]@" = "%1$[Kind]@ %2$[Is not]@ %3$[Text]@";

@@ -12,6 +12,9 @@
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Новый в библиотеке";
 
+/* New. Menu item title for creating new documents in Library in current window. */
+"New_Document_In_Library_In_Window_Menu" = "Новый в библиотеке в окне";
+
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "Новый";
 
@@ -27,11 +30,13 @@
 /* Stats editor toolbar title. */
 "Editor_Toolbar_Stats_Menu" = "Только статистика";
 
-/* Contextual menu to copy formatted text. */
-"Editor_Copy_Formatted_Menu" = "Скопировать отформатированный текст";
-
-/* Contextual menu to copy HTML. */
-"Editor_Copy_HTML_Menu" = "Скопировать HTML";
+"Menu_Share" = "Поделиться";
+"Menu_Publish" = "Опубликовать";
+"Menu_Export" = "Экспортировать";
+"Menu_Export_With_Ellipsis" = "Экспортировать…";
+"Menu_Print" = "Напечатать";
+"Menu_Print_Formatted" = "Напечатать…";
+"Menu_Print_Plain_Text" = "Напечатать редактор…";
 
 /*----
  Trial
@@ -82,38 +87,8 @@
 /* Export panel format picker label. */
 "Export_Panel_Export_To_Label" = "Формат:";
 
-/* Microsoft Word export format. */
-"Export_Format_Word_Name" = "Microsoft Word";
-
-/* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Совместим с Microsoft Word 2007 или новее, Apple Pages и Документами Google.";
-
-/* HTML export format. */
-"Export_Format_HTML_Name" = "HTML";
-
-/* HTML export format description. */
-"Export_Format_HTML_Description" = "Стандартный HTML.";
-
-/* PDF export format. */
-"Export_Format_PDF_Name" = "PDF";
-
-/* PDF export format description. */
-"Export_Format_PDF_Description" = "Чтобы изменить макет PDF, выберите Файл → Настройка страницы.";
-
-/* Plain text export format. */
-"Export_Format_Markdown_Name" = "Markdown";
-
-/* Plain text export format description. */
-"Export_Format_Markdown_Description" = "Совместим с другими редакторами.";
-
-/* Project archive text export format. */
-"Export_Format_Project_Archive_Name" = "Архив проектов";
-
-/* Plain text export format description. */
-"Export_Format_Project_Archive_Description" = "Включает связанные блоки контента.";
-
 /* Checkmark title in print options. */
-"Print_Header" = "Печатать верний колонтитул";
+"Print_Header" = "Печатать верхний колонтитул";
 
 /* Checkmark title in print options. */
 "Print_Footer" = "Печатать нижний колонтитул";
@@ -134,18 +109,6 @@
 /*-----
  Window
  -----*/
-
-/* Menu item to hide library. */
-"Hide_Library" = "Скрыть библиотеку";
-
-/* Menu item to hide preview. */
-"Hide_Preview" = "Скрыть просмотр";
-
-/* Menu item to show library. */
-"Show_Library" = "Показать библиотеку";
-
-/* Menu item to show preview. */
-"Show_Preview" = "Показать просмотр";
 
 /* Menu item to show preview. */
 "Show_Source_List" = "Показать организатор";
@@ -169,10 +132,10 @@
 "Preview_Toolbar_Export" = "Экспортировать";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "Пополам";
+"Preview_Layout_Split" = "Пополам";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "На всю ширину";
+"Preview_Layout_Full" = "На всё окно";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "Нет содержимого для просмотра";
@@ -180,18 +143,6 @@
 /*------
  Library
  ------*/
-
-/* Button title to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order" = "Отдельно";
-
-/* Button tooltip to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order_Tooltip" = "Использовать отдельный от библиотеки порядок сортировки.";
-
-/* Go menu item title to go back. */
-"Library_Go_Back" = "Назад";
-
-/* Go menu item title to go forward. */
-"Library_Go_Forward" = "Вперед";
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "На уровень выше";
@@ -205,9 +156,6 @@
 
 /* Deletion confrimation infromative text for a local item. */
 "Library_Delete_Confrimation_Informative_Text" = "Это действие не может быть отменено.";
-
-/* No comment provided by engineer. */
-"Library_Delete_Confrimation_Button" = "Удалить";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "Пустой документ";
@@ -240,15 +188,6 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "Свойства";
 
-/* Menu to copy library path for an item in Library. */
-"Library_Action_Copy_Library_Path" = "Скопировать путь в библиотеке";
-
-/* Menu to copy URL command path for an item in Library. */
-"Library_Action_Copy_URL_Command_Path" = "Скопировать путь для URL-команд";
-
-/* Menu to copy URL command to open file for an item in Library. */
-"Library_Action_Copy_URL_Command_To_Open_File" = "Скопировать URL-команду открыть файл";
-
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Сортировать по";
 
@@ -276,8 +215,8 @@
 /* Search menu item to show currently selected document in Library. */
 "Show_In_Library" = "Показать в библиотеке";
 
-/* Search field placeholder. */
-"Library_Search_Field_Placeholder" = "Фильтр";
+/* Library filter field placeholder. */
+"Library_Filter_Field_Placeholder" = "Фильтр";
 
 /* Loading content message for document library. */
 "Library_Loading_Message" = "Загрузка документов… Это может занять несколько минут, если у вас большая библиотека.";
@@ -337,18 +276,6 @@
  Editor
  -----*/
 
-/* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "Включить режим фокуса";
-
-/* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "Выключить режим фокуса";
-
-/* Menu title to enable syntax highlight. */
-"Menu_Enable_Syntax_Higlight" = "Включить подсветку синтаксиса";
-
-/* Menu title to disable syntax highlight. */
-"Menu_Disable_Syntax_Higlight" = "Выключить подсветку синтаксиса";
-
 /* Apply English title capitalization to selected text. */
 "Make_Title_Case" = "С заглавной буквы (аглийский заголовок)";
 
@@ -391,6 +318,15 @@
 /* Bold inline element name. */
 "Inline_Element_Bold" = "Жирный";
 
+/* Bold inline element name. */
+"Inline_Element_Code" = "Код";
+
+/* Bold inline element name. */
+"Inline_Element_Highlight" = "Выделенный";
+
+/* Wikilink inline element name. */
+"Inline_Element_Wikilink" = "Вики-ссылка";
+
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Зачеркнутый";
 
@@ -425,6 +361,9 @@
 /* General preferences pane title. */
 "Preferences_Pane_Title_General" = "Основные";
 
+/* Sharing preferences pane title. */
+"Preferences_Pane_Title_Accounts" = "Учетные записи";
+
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "Файлы";
 
@@ -437,11 +376,8 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "Шаблоны";
 
-/* Button to add account in preferences. */
-"Preferences_Add_Account_Button" = "Добавить учетную запись…";
-
-/* Button to remove account in preferences. */
-"Preferences_Remove_Account_Button" = "Удалить учетную запись";
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
 "URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Вы действительно хотите сбросить токен авторизации?";
@@ -454,6 +390,24 @@
 
 /* URL scheme first use alert informative text. */
 "URL_Scheme_First_Use_Informative_Text" = "Вы можете изменить этот параметр позже в настройках.";
+
+/* Markdown processing lazy paragraphs. */
+"Markdown_Lazy_Paragraphs" = "Один ввод для нового абзаца";
+
+"Markdown_Lazy_Paragraphs_Description" = "По умолчанию, Markdown требует два ввода (пустую линию) между абзацами. Когда эта функция включена, однократное нажатие на клавишу ввод позволяет сделать новый абзац.";
+
+"Markdown_Lazy_Paragraphs_Warning" = "Добавлено для совместимости со старыми версиями iA Writer. Не поддерживается другими программами которые используют Markdown.";
+
+/* Markdown processing smart punctuation. */
+"Markdown_Smart_Punctuation" = "Смарт-пунктуация";
+
+"Markdown_Smart_Punctuation_Description" = "Преобразовывать прямые кавычки и обычные тире в смарт-пунктуацию для всего форматированного вывода.";
+
+"Markdown_Metadata_Tab" = "Метаданные";
+
+"Markdown_Library_Paths_And_Links_Tab" = "Пути библиотеки и ссылки";
+
+"Markdown_Processing_Tab" = "Обработка";
 
 /*-----------
  Quick Search

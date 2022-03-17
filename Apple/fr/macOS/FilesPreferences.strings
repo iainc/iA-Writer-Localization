@@ -1,4 +1,10 @@
 
+/* Class = "NSTextFieldCell"; title = "Saving:"; ObjectID = "DAH-ta-FHC"; */
+"DAH-ta-FHC.title" = "Enregistrement :";
+
+/* Class = "NSTextFieldCell"; title = "Files are always automatically saved. \nIf selected, files will ask whether you want \nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
+"GLa-Mz-lpI.title" = "Les fichiers sont toujours enregistrés automatiquement. \nSi cette option est sélectionnée, vous serez invité/e à choisir de conserver ou annuler les modifications d’un fichier à la fermeture.";
+
 /* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "L’action préférée sera effectuée en appuyant sur ⌘N ou sur l’icône Dock lorsqu’aucun autre fichier n’est ouvert. Une action alternative sera effectuée en appuyant sur ⌥⌘N.";
 
@@ -13,6 +19,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "Les fichiers seront automatiquement \ncréés dans la bibliothèque.";
+
+/* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
+"dT3-nQ-wep.title" = "Demander à conserver les modifications";
 
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "Nouveau dans la bibliothèque";

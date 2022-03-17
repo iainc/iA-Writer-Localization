@@ -21,7 +21,7 @@
 "NlF-W4-pAH.title" = "ヘッダー";
 
 /* Class = "NSTextFieldCell"; title = "Printing & PDF Export:"; ObjectID = "P09-gF-Ui9"; */
-"P09-gF-Ui9.title" = "印刷とPDF出力:";
+"P09-gF-Ui9.title" = "印刷とPDF出力：";
 
 /* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
 "aq5-yb-Aik.title" = "段落をインデント";

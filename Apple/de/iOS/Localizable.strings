@@ -13,19 +13,13 @@
 "Library_Favorites_Section_Title" = "Favoriten";
 
 /* Title for action to add a new smart folder in library root view. */
-"Library_Action_Add_Favorite" = "Zu Favoriten hinzufügen …";
-
-/* Title for action to add a new library location in library root. */
-"Library_Action_Add_Location" = "Add Location…";
+"Library_Menu_Favorite" = "Zu Favoriten hinzufügen …";
 
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "Intelligente Ordner";
 
 /* Title for root library view. */
 "Library_Hashtags_Section_Title" = "Hashtags";
-
-/* Title for action to add a new smart folder in library root view. */
-"Library_Action_New_Smart_Folder" = "Neuer Intelligenter Ordner …";
 
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Edit_Smart_Folder" = "Bearbeiten";
@@ -60,6 +54,12 @@
 "Library_Location_Introduction_Hide_Forever_Alert_Title" = "Nicht wieder anzeigen";
 "Library_Location_Rename_Alert_Title" = "Bibliothekseintrag umbenennen";
 
+/*-----------
+ Smart Folder
+ -----------*/
+
+"Smart_Folder_Rename_Alert_Title" = "Intelligenten Ordner ändern";
+
 /*------
  Backups
  ------*/
@@ -68,7 +68,7 @@
 "Backups_Title" = "Backups";
 
 /* Message under title when browsing backups. */
-"Backup_Submitem_Message" = "Dokumente aus anderen Apps werden auf diesem %@ als Backups abgespeichert. Wenn der Dokumentname ändert behalten die vorangehende Versionen ihren ursprünglichen Namen.";
+"Backup_Submitem_Message" = "Dokumente werden auf diesem %@ als Backups abgespeichert. Wenn der Dokumentname ändert behalten die vorangehende Versionen ihren ursprünglichen Namen.";
 
 /* Button title to restore a backup. */
 "Backups_Restore_Button_Title" = "Wiederherstellen";
@@ -88,63 +88,21 @@
 /* Button description to browse all backups. */
 "Backups_Button_Title" = "Backups durchstöbern";
 
-/* Action in editor to browse backups for currently opened file from other apps. */
-"Action_Browse_Backups" = "Backups durchstöbern";
+/* Title for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the name of the folder that will include backups. */
+"Backup_Prompt_Title" = "Backups für „%@“ aktivieren?";
+
+/* Message for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the current device kind (iPhone, iPad). */
+"Backup_Prompt_Message" = "Dokumente werden auf diesem %@ als Backups abgespeichert. Sofern Sie dieses externe Gerät für private Dokumenten nicht auf einem freigegebenen %@ verwenden, empfehlen wir, Backups zu aktivieren.";
 
 /*------
  Library
  ------*/
-
-/* Button to move to move files or folders. */
-"Button_Move" = "Verschieben";
-
-/* Button to delete. */
-"Button_Delete" = "Löschen";
 
 /* Button to select all visible items. */
 "Button_Select_All" = "Alles auswählen";
 
 /* Button to deselect all visible items. */
 "Button_Deselect_All" = "Auswahl aufheben";
-
-/* Button to save. */
-"Button_Save" = "Speichern";
-
-/* Action to move files or folders. */
-"Action_Move" = "Verschieben …";
-
-/* Action to duplicate. */
-"Action_Duplicate" = "Kopie erstellen";
-
-/* Action to rename. */
-"Action_Rename" = "Umbenennen …";
-
-/* Action to rename. */
-"Action_Remove" = "Entfernen";
-
-/* Action to delete. */
-"Action_Delete" = "Löschen …";
-
-/* Action to open file or folder info. */
-"Action_Get_Info" = "Info";
-
-/* Action to add folder to favorites. */
-"Action_Remove_External_File" = "Entfernen";
-
-/* Action to add folder to favorites. */
-"Action_Add_Favorite" = "Zu Favoriten hinzufügen";
-
-/* Action to add folder to favorites. */
-"Action_Remove_Favorite" = "Von Favoriten entfernen";
-
-/* Action to browse file versions. */
-"Action_Browse_Versions" = "Versionen durchsuchen";
-
-/* Action to browse file versions. */
-"Action_Find_And_Replace" = "Finden und ersetzen";
-
-/* Generic update button. */
-"Action_Update" = "Aktualisieren";
 
 /* Action to switch to night mode. */
 "Action_Dark_Mode" = "Dunkles Erscheinungsbild verwenden";
@@ -207,7 +165,7 @@
 "Library_Empty_External_Files_Message" = "Um Ihre Dokumente hinzuzufügen, drücken Sie bitte auf +.";
 
 /* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
-"Library_Empty_External_Files_Message_Install" = "Um direkt auf Dokumente in Dropbox, Google Drive und weitere Apps zugreifen zu können, laden Sie bitte die entsprechenden Applikationen aus dem App Store herunter, dann pressen Sie + um Ihre Dokumente hinzuzufügen.";
+"Library_Empty_External_Files_Message_Install" = "Um direkt auf Dokumente in Dropbox, Google Drive und weitere Apps zugreifen zu können, laden Sie bitte die entsprechenden Applikationen aus dem App Store herunter, dann tippen Sie auf + um Ihre Dokumente hinzuzufügen.";
 
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "Kein Suchergebnis";
@@ -215,17 +173,17 @@
 /* Library empty message in hashtags. */
 "Library_Empty_Hashtag" = "Keine Datei mit Hashtag";
 
-/* Title for external files section. */
-"Library_External_Files_Section_Title" = "Extern";
-
-/* Title for action to open external files location. */
-"Library_External_Files" = "Extern";
-
 /* Title for action to open external files picker. */
 "Library_External_Files_Open" = "Öffnen …";
 
 /* Title for move to folder destination picker title. */
 "Move_Title" = "Verschieben";
+
+/* Title for to begin editing a document. */
+"Begin_Editing" = "Begin Editing";
+
+/* Title for to end editing a document. */
+"End_Editing" = "End Editing";
 
 /*-----
  Editor
@@ -243,23 +201,17 @@
 /* Title for content block picker. */
 "Content_Block_Picker_Title" = "Content-Block hinzufügen";
 
-/* Action sheet action to enable focus mode. */
-"Action_Enable_Focus_Mode" = "Enable Focus Mode";
-
-/* Action sheet action to disable focus mode. */
-"Action_Disable_Focus_Mode" = "Disable Focus Mode";
-
-/* Action sheet action to enable syntax control. */
-"Action_Enable_Syntax_Control" = "Syntax einblenden";
-
-/* Action sheet action to disable syntax control. */
-"Action_Disable_Syntax_Control" = "Syntax ausblenden";
-
-/* Action sheet action to enable syntax control. */
+/* Action sheet action to show stats. */
 "Action_Show_Stats" = "Statistiken einblenden";
 
-/* Action sheet action to disable syntax control. */
+/* Action sheet action to hide stats. */
 "Action_Hide_Stats" = "Statistiken ausblenden";
+
+/* Action sheet action to show find bar. */
+"Action_Show_Find_And_Replace" = "Finden und Ersetzen anzeigen";
+
+/* Action sheet action to hide find bar. */
+"Action_Hide_Find_And_Replace" = "Finden und Ersetzen ausblenden";
 
 /* Action sheet action. */
 "Action_Configure_Editor" = "Editor konfigurieren";
@@ -269,53 +221,58 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Item_Transform" = "Transformationen …";
+"Menu_Transform" = "Transformationen …";
 
 /* Menu item title for transforming text to upper case. */
-"Menu_Item_Transform_To_Upper_Case" = "Großbuchstaben";
+"Menu_Transform_To_Upper_Case" = "Großbuchstaben";
 
 /* Menu item title for transforming text to lower case. */
-"Menu_Item_Transform_To_Lower_Case" = "Kleinbuchstaben";
+"Menu_Transform_To_Lower_Case" = "Kleinbuchstaben";
 
 /* Menu item title for captilizing first letter of every word. */
-"Menu_Item_Transform_To_Capitalized" = "Als Überschrift groß schreiben";
+"Menu_Transform_To_Capitalized" = "Als Überschrift groß schreiben";
 
 /* Menu item title for transforming text to title case. */
-"Menu_Item_Transform_To_Title_Case" = "Anfangsbuchstaben groß";
+"Menu_Transform_To_Title_Case" = "Anfangsbuchstaben groß";
 
-/* Menu item to copy a library path to file. */
-"Menu_Item_Copy_Library_Path" = "Bibliothekspfad kopieren";
+/* Action to add folder to favorites. */
+"Menu_Favorite" = "Zu Favoriten hinzufügen";
 
-/* Menu item to copy URL command path for an item in Library. */
-"Menu_Item_Copy_URL_Command_Path" = "URL-Befehlspfad kopieren";
+/* Action to add folder to favorites. */
+"Menu_Unfavorite" = "Von Favoriten entfernen";
 
-/* Menu item to copy URL command to open file for an item in Library. */
-"Menu_Item_Copy_URL_Command_To_Open_File" = "URL-Befehlspfad kopieren um Datei zu öffnen";
+/* Action to add folder to favorites. */
+"Menu_Remove_Location" = "Aus den Quellen entfernen";
 
-/* Menu item title for copying HTML. */
-"Menu_Item_Copy_HTML" = "HTML kopieren";
+/* Action to add folder to favorites. */
+"Menu_Rename_Location" = "Quellennamen ändern";
 
-/* Menu item title for copying formatted text. */
-"Menu_Item_Copy_Formatted" = "Kopieren mit Format";
+/* Action to browse file versions. */
+"Menu_Browse_Versions" = "Versionen durchsuchen";
 
-/*----------
- Table Views
- ----------*/
+/* Action to browse file backups. */
+"Menu_Browse_Backups" = "Backups durchstöbern";
 
-/* Table view swipe action title. */
-"Table_View_Action_Delete" = "Löschen";
+/* Action to show a file in Files app. */
+"Menu_Show_In_Files" = "In Dateien anzeigen";
 
-/* Table view swipe action title. */
-"Table_View_Action_Rename" = "Rename";
+/* Action to show a file in Library. */
+"Menu_Show_In_Library" = "Show in Library";
 
-/* Table view swipe action title. */
-"Table_View_Action_Remove" = "Entfernen";
+/* Action to open a file in new window. */
+"Menu_Open_In_New_Window" = "In neuem Fenster öffnen";
 
-/* Table view swipe action title. */
-"Table_View_Action_More" = "Mehr";
+/* Action to move files or folders. */
+"Menu_Move" = "Verschieben";
 
-/* Table view swipe action title. */
-"Table_View_Action_Hide" = "Ausblenden";
+/* Action to duplicate. */
+"Menu_Duplicate" = "Duplizieren";
+
+/* Action to rename. */
+"Menu_Rename" = "Umbenennen";
+
+/* Action to open file or folder info. */
+"Menu_Get_Info" = "Info";
 
 /*------------
  Folder Picker
@@ -336,9 +293,6 @@
 
 /* Smart folder editor title while creating a new smart folder. */
 "Smart_Folder_Editor_New_Title" = "Neuer Intelligenter Ordner";
-
-/* Smart folder editor section title. */
-"Smart_Folder_Editor_Name_Section_Title" = "Name";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Rules_Section_Title" = "Regeln";
@@ -362,9 +316,6 @@
 
 /* Smart folder editor section title. */
 "Smart_Folder_Sort_By_Custom" = "Benutzerdefinierte Sortierung";
-
-/* Button to show sort by options. */
-"Smart_Folder_Sort_By_Custom_Edit" = "Sortieren nach";
 
 /*----------
  Rule Editor
@@ -428,6 +379,12 @@
 /* Action title to confirm renaming to renaming items. */
 "Rename_Confirmation" = "Umbenennen";
 
+/* Rename failure title. */
+"Rename_Failure_Title" = "Umbenennen nicht möglich";
+
+/* Rename failure title. */
+"Rename_Failure_Permissions" = "Dateien aus anderen Apps können nur in der Datei-App umbenannt werden.";
+
 /*---------
  Table Size
  ---------*/
@@ -464,53 +421,22 @@
 "Library_Info_Size" = "Größe";
 
 /*-----
+Document
+-----*/
+
+"Document_Already_Open_Content_Placeholder_Title" = "Datei kann nicht angezeigt werden";
+"Document_Already_Open_Content_Placeholder_Message" = "Datei ist in einem anderen Fenster geöffnet.";
+"Document_Already_Open_Content_Placeholder_Button" = "In diesem Fenster öffnen";
+
+/*-----
  Export
  -----*/
-
-/* Share sheet Medium activity option */
-"Share_Sheet_Medium_Activity_Title" = "Neuer Entwurf auf Medium";
-
-/* Share sheet WordPress activity option */
-"Share_Sheet_WordPress_Activity_Title" = "Neuer Entwurf auf WordPress";
 
 /* Share sheet `open file in app` activity option */
 "Share_Sheet_Open_In_Activity_Title" = "Öffnen in …";
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "Speichern unter …";
-
-/* Sharing button title. */
-"Button_Share" = "Teilen";
-
-/* Sharing button title. */
-"Action_Share" = "Teilen …";
-
-/* Action menu title. */
-"Action_Export" = "Exportieren …";
-
-/* Action menu title. */
-"Action_Print" = "Drucken …";
-
-/* Action menu title. */
-"Action_Print_Formatted" = "Drucke formatiert …";
-
-/* Action menu title. */
-"Action_Print_Plain_Text" = "Drucke Klartext …";
-
-/* Action menu title. */
-"Action_Export_Markdown" = "Exportiere als Markdown …";
-
-/* Action menu title. */
-"Action_Export_HTML" = "Exportiere als HTML …";
-
-/* Action menu title. */
-"Action_Export_PDF" = "Exportiere als PDF …";
-
-/* Action menu title. */
-"Action_Export_Word" = "Exportiere als MS Word …";
-
-/* Action menu title. */
-"Action_Export_Project_Archive" = "Exportiere als Projekt-Archiv …";
 
 /*--------------
  Version Browser
@@ -610,56 +536,30 @@
  --------------------------*/
 
 /* Quick Search key command titles. */
-"Discoverability_Quick_Search_Select_Next_Result" = "Nächstes Resultat";
-"Discoverability_Quick_Search_Select_Previous_Result" = "Vorheriges Resultat";
 "Discoverability_Quick_Search" = "Schnellsuche";
 
-/* General action key command titles. */
-"Discoverability_New" = "New";
+/* New file key command titles. */
+"Discoverability_New" = "Neu";
+"Discoverability_New_Document" = "Neues Dokument";
+"Discoverability_New_Window" = "Neues Fenster";
 
+/* Appearance command titles. */
 "Discoverability_Dark_Mode" = "Dunkles Erscheinungsbild";
 "Discoverability_Light_Mode" = "Helles Erscheinungsbild";
 /* Old name used for search matching. */
 "Discoverability_Night_Mode" = "Nachtmodus";
 
 /* Editor action key command titles. */
-"Discoverability_Syntax" = "Syntax-Hervorhebung";
-"Discoverability_Browse_Versions" = "Versionen durchsuchen";
-"Discoverability_New" = "New";
 "Discoverability_Open" = "Öffnen …";
-"Discoverability_Preview" = "Vorschau";
-"Discoverability_Strong" = "Fett";
-"Discoverability_Strikethrough" = "Durchstreichen";
-"Discoverability_Headings" = "Überschrift 1–6";
-"Discoverability_Blockquote" = "Blockzitat";
-"Discoverability_List" = "Liste";
-"Discoverability_Link" = "Link";
-"Discoverability_Footnote" = "Footnote";
-"Discoverability_Task_List" = "Aufgabenliste";
-"Discoverability_Ordered_List" = "Geordnete Liste";
-"Discoverability_Ordered_Task_List" = "Geordnete Aufgabenliste";
-"Discoverability_Move_Line_Up" = "Zeile nach oben";
-"Discoverability_Move_Line_Down" = "Zeile nach unten";
-"Discoverability_Focus" = "Fokus";
-"Discoverability_Typewriter" = "Schreibmaschinen-Modus";
-"Discoverability_Share" = "Teilen";
-"Discoverability_Export_PDF" = "Exportiere PDF";
-"Discoverability_Export_Markdown" = "Exportiere Markdown";
-"Discoverability_Export_HTML" = "Exportiere HTML";
-"Discoverability_Export_Word" = "Exportiere Microsoft Word";
-"Discoverability_Export_Project_Archive" = "Exportiere Projekt-Archiv";
+"Discoverability_Move_Text_Up" = "Zeile nach oben";
+"Discoverability_Move_Text_Down" = "Zeile nach unten";
 "Discoverability_Configure_Keyboard" = "Tastatur einstellen";
-"Discoverability_Settings" = "Einstellungen";
-"Discoverability_Configure_Keyboard" = "Tastatur einstellen";
-"Discoverability_Settings" = "Einstellungen";
-"Discoverability_Increase_Size" = "Größer";
-"Discoverability_Decrease_Size" = "Originalgröße";
-"Discoverability_Default_Size" = "Kleiner";
+"Discoverability_Use_Selection_For_Find" = "Auswahl für die Suche verwenden";
 "Discoverability_Find_Next" = "Nächster Eintrag";
 "Discoverability_Find_Previous" = "Vorheriger Eintrag";
-"Discoverability_Find" = "Finden";
-"Discoverability_Help" = "Hilfe";
-"Discoverability_Stats" = "Statistiken";
+"Discoverability_Find_And_Replace" = "Finden und Ersetzen";
+"Discoverability_Show_Settings" = "Einstellungen zeigen";
+"Discoverability_Show_Help" = "Hilfe zeigen";
 
 /*------
  Preview
@@ -694,18 +594,26 @@
 /* Button to open settings. */
 "Settings_Title" = "Einstellungen";
 
-/* Action to switch to night mode. */
-"Settings_Dark_Appearance" = "Dunkles Erscheinungsbild";
 
-/* Action to switch to night mode. */
-"Settings_Dark_App_Icon" = "Dunkles App-Icon";
+/* Appearance settings. */
+"Settings_Appearance" = "Erscheinungsbild";
+"Settings_App_Icon" = "App-Icon";
+
+/* Appearance names. */
+"Appearance_System" = "System";
+"Appearance_Light" = "Hell";
+"Appearance_Dark" = "Dunkel";
 
 /* Settings panes. */
+"Settings_Interface_Title" = "Interface";
+"Settings_Keyboard_Title" = "Tastatur";
 "Settings_General_Title" = "Allgemein";
 "Settings_Files_Title" = "Dokumente";
+"Settings_Accounts_Title" = "Accounts";
 "Settings_Library_Title" = "Bibliothek";
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Vorlagen";
+"Settings_Markdown_Title" = "Markdown";
 "Settings_URL_Scheme_Title" = "URL-Befehle";
 
 /* Appearance section in settings. */
@@ -714,23 +622,22 @@
 /* Sharing accounts section in settings. */
 "Settings_Accounts_Section_Title" = "Sharing-Dienste";
 
-"Settings_Accounts_Medium_Add" = "Medium-Konto hinzufügen …";
-"Settings_Accounts_Medium_Remove" = "Medium-Konto entfernen …";
-"Settings_Accounts_Medium_Remove_Confirmation" = "Medium entfernen";
-"Settings_Accounts_Medium_Add_Title" = "Medium";
-"Settings_Accounts_Medium_Add_Message" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung einsehen können.";
-"Settings_Accounts_Medium_Get_Token" = "Token auf Medium einholen";
-"Settings_Accounts_Medium_Add_Token_Placeholder" = "Token";
-"Settings_Accounts_Medium_Invalid_Token_Title" = "Ungültiges Token";
-"Settings_Accounts_Medium_Invalid_Token_Message" = "Stellen Sie sicher dass Sie ein gültiges Medium-Token verwenden.";
+"Settings_Accounts_Add" = "Account hinzufügen …";
+"Settings_Accounts_Remove" = "Account entfernen";
+"Settings_Accounts_Configure" = "Account konfigurieren";
 
-"Settings_Accounts_WordPress_Add" = "WordPress-Konto hinzufügen …";
-"Settings_Accounts_WordPress_Remove" = "WordPress entfernen …";
-"Settings_Accounts_WordPress_Remove_Confirmation" = "WordPress entfernen";
-"Settings_Accounts_WordPress_Add_Title" = "WordPress";
-"Settings_Accounts_WordPress_Add_Message" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung einsehen können.\n\nSelbst-gehostete WordPress-Seiten müssen mit Jetpack versehen werden.\n\nFalls Sie mehr als einen Blog verwenden, werden die Einträge auf Ihren Hauptblog hochgeladen.";
-"Settings_Accounts_WordPress_About_Jetpack" = "Über Jetpack";
-"Settings_Accounts_WordPress_Authorize" = "Autorisieren";
+/*-----------------
+ Interface Settings
+ -----------------*/
+
+"Setttings_Interface_File_Extensions" = "Dateierweiterungen";
+
+"Settings_Interface_Scroll_Sync" = "Synchronisiertes Scrollen";
+"Settings_Interface_Editor_Preview_Section_Header" = "Editor und Vorschau";
+
+"Settings_Interface_Toolbars" = "Werkzeugleiste";
+"Settings_Interface_Toolbars_Show_Hide" = "Zeigen/verbergen";
+"Settings_Interface_Toolbars_Always_Show" = "Immer zeigen";
 
 /*-------------
  Files Settings
@@ -752,7 +659,6 @@
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "Ordner Sortieren";
-"Settings_Library_Sort_By_Edit" = "Sortieren nach …";
 
 /*--------------
  Editor Settings
@@ -778,15 +684,33 @@
 "Settings_Editor_Focus_Mode_Scope" = "Bereich";
 
 /* Keyboard section in settings. */
-"Settings_Editor_Keyboard_Section_Title" = "Benutzerdefinierte Tastatur";
-"Settings_Editor_Keyboard_Prefers_Popover" = "Immer Tastatur-Popover verwenden";
-"Settings_Editor_Keyboard_Configure" = "Tastatur einstellen";
-"Settings_Editor_Keyboard_Section_Footer" = "Für einen schnelleren Zugriff, halten Sie eine der weissen oder hellgrauen Tasten in der benutzerdefinierten Tastatur gedrückt.";
+"Settings_Keyboard_Lightning_Menu" = "Blitz-Menü";
+"Settings_Keyboard_Lightning_Menu_Add_Actions" = "Aktionen hinzufügen";
+"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Untermenü hinzufügen";
+"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Untermenü bearbeiten";
+"Settings_Keyboard_Lightning_Menu_Remove_Action" = "Aktion entfernen";
+"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Untermenü entfernen";
+"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Aktion wählen";
+"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Aktionen";
+"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Tippen und halten Sie eine beliebige Aktion im Blitz-Menü, um diese Einstellungen zu öffnen.";
+
+"Settings_Command_Keyboard" = "Befehlstastatur";
+"Settings_Command_Keyboard_Enable" = "In Tastaturleiste anzeigen";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Immer als Popover anzeigen";
+"Settings_Command_Keyboard_Configure" = "Konfigurieren";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Tippen und halten Sie eine beliebige helle Taste auf der Befehlstastatur, um den Konfigurationsmodus zu öffnen.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Befehlstastatur-Aktionen sind im Blitz-Menü, in der Schnellsuche und als Tastenkombination verfügbar, wenn eine Hardware-Tastatur angeschlossen ist.";
+
+/* Lightning menu strings. */
+"Lightning_Menu_Group_Text" = "Text";
+"Lightning_Menu_Group_Actions" = "Aktionen";
+"Lightning_Menu_Group_Menu" = "Menü";
+"Configure_Menu" = "Menü konfigurieren";
 
 /* Hardware keyboard section in settings. */
 "Settings_Editor_Hardware_Keyboard_Title" = "Hardware-Tastatur";
-"Settings_Editor_Hardware_Keyboard_Footer" = "Die Tastenleisten werden ausgeblendet, wenn eine Hardware-Tastatur angeschlossen ist.";
-"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "Tastaturleisten ausblenden";
+"Settings_Editor_Hardware_Keyboard_Footer" = "Dies hat nur Auswirkungen auf die Tastaturleiste, wenn ein Hardware-Keyboard angeschlossen ist.";
+"Settings_Editor_Hardware_Keyboard_Show_Bar" = "Tastaturleiste anzeigen";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Texteingabe";
@@ -809,6 +733,7 @@
 "Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Fügt Tab ein";
 
 "Settings_Editor_Tab_Width" = "Tab-Weite";
+"Settings_Editor_Indent_Width" = "Einrückungsbreite";
 
 "Settings_Editor_Wrapped_Line_Indent_Section_Title" = "Einrückung bei Zeilenumbruch beinhaltet";
 "Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Weißraum";
@@ -841,11 +766,12 @@
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "Vorschaufarben invertieren";
 
 /* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Markdown-Interpretation";
+"Settings_Markdown_Processing_Section_Title" = "Markdown-Interpretation";
+"Settings_Markdown_Library_Paths_Title" = "Bibliothekspfade";
+"Settings_Markdown_Output_Section_Title" = "Wiki-Links, Hashtags, Auto-Links";
 "Settings_Markdown_Lazy_Paragraphs" = "Einfacher Umbruch definiert Abschnitt";
 "Settings_Markdown_Smart_Punctuation" = "Intelligente Zeichensetzung";
 "Settings_Markdown_Process_Metadata" = "Metadaten einarbeiten";
-"Settings_Markdown_Hide_Hashtags" = "Hashtags ausblenden";
 
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "Drucken & PDF-Export";
@@ -876,12 +802,6 @@
 /* URL scheme settings auth token footer. */
 "Settings_URL_Sheme_Auth_Token_Footer" = "Für einige URL-Befehle ist ein Authentifizierungs-Token erforderlich.";
 
-/* URL scheme settings button to copy auth token. */
-"Settings_URL_Sheme_Auth_Token_Copy" = "Kopieren";
-
-/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
-"Settings_URL_Sheme_Auth_Token_Reset" = "Zurücksetzen …";
-
 /*---------
  URL Scheme
  ----------*/
@@ -897,3 +817,19 @@
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "Sind Sie sicher, dass Sie das Authentifizierungs-Token zurücksetzen möchten? Diese Aktion kann nicht rückgängig gemacht werden.";
+
+/*-----
+ Editor
+ -----*/
+
+/* Find bar menu menu item. */
+"Find_Match_Style" = "Stil berücksichtigen";
+
+/* Find bar menu menu item. */
+"Find_Match_Case" = "Groß-/Kleinschreibung berücksichtigen";
+
+/* Find bar action to replace selected result. */
+"Replace_Action" = "Ersetzen";
+
+/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
+"Replace_All_Action" = "Alle";

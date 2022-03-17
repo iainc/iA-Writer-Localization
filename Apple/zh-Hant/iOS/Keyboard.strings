@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "重設鍵盤排列";
 "Key_Picker_Action_Cancel" = "取消";
 
+"Menu_Quick_Search" = "快速搜尋";
+"Menu_Find" = "尋找及取代";
+"Menu_Replace" = "取代";
+"Menu_Replace_All" = "全部取代";
+
 "Find_Placeholder" = "尋找";
 "Find_Replace_Placeholder" = "取代";
+
+"Key_Description_Lightning" = "閃電";
+"Key_Description_Insert_Selected_Completion" = "插入選取的已完成檔案";
+"Key_Description_Cancel" = "取消";
+"Key_Description_Open_Link" = "開啟連結";
 
 "Key_Description_Find" = "搜尋欄";
 "Key_Description_Show_Find" = "顯示搜尋欄";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "尋找上一個";
 "Key_Description_Replace" = "取代";
 "Key_Description_Replace_All" = "全部取代";
+
+"Find_Contains" = "包含的字詞";
+"Find_Matches_Word" = "相符字詞";
+"Find_Starts_With" = "開頭為";
+"Find_Ends_With" = "結尾為";
+"Find_Regular_Expression" = "規則運算式";
 
 "Key_Description_Search" = "搜尋";
 "Key_Description_Command" = "指令";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "關閉選單";
 
 "Key_Title_Return" = "輸入鍵";
-"Key_Title_Shift_Right" = "tab";
-"Key_Title_Shift_Left" = "backtab";
+"Key_Title_Tab" = "tab";
+"Key_Title_Backtab" = "backtab";
 "Key_Title_Home" = "頁頂";
 "Key_Title_End" = "頁底";
-"Key_Title_Shift_Up" = "移動\n文字↑";
-"Key_Title_Shift_Down" = "移動\n文字↓";
+"Key_Title_Move_Text_Up" = "移動\n文字↑";
+"Key_Title_Move_Text_Down" = "移動\n文字↓";
 "Key_Title_Undo" = "復原";
 "Key_Title_Redo" = "取消復原";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "向後刪除";
 "Key_Description_Delete_Paragraph" = "刪除段落";
 "Key_Description_Dismiss_Keyboard" = "隱藏鍵盤";
-"Key_Description_Shift_Left" = "取消縮排";
-"Key_Description_Shift_Right" = "縮排";
-"Key_Description_Shift_Up" = "將段落往上移";
-"Key_Description_Shift_Down" = "將段落往下移";
+"Key_Description_Backtab" = "取消縮排";
+"Key_Description_Tab" = "縮排";
+"Key_Description_Outdent" = "取消縮排";
+"Key_Description_Indent" = "縮排";
+"Key_Description_Move_Text_Up" = "整行上移";
+"Key_Description_Move_Text_Down" = "整行下移";
 "Key_Description_Dismiss_Keyboard" = "隱藏鍵盤";
 "Key_Description_Move_To_Beginning" = "前往文檔頂端";
 "Key_Description_Move_To_End" = "前往文檔末端";

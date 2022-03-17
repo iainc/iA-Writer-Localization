@@ -38,8 +38,8 @@
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
 "81.title" = "Ablage";
 
-/* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "82"; */
-"82.title" = "Neu in Bibliothek";
+/* Class = "NSMenuItem"; title = "New in Library in Window"; ObjectID = "82"; */
+"82.title" = "Neu in Bibliothek und gleichem Fenster";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
 "83.title" = "Ablage";
@@ -195,12 +195,12 @@
 "743.title" = "Suchen und Ersetzen …";
 
 /* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "757"; */
-"757.title" = "Durchstreichung";
+"757.title" = "Durchgestrichen";
 
 /* Class = "NSMenuItem"; title = "Heading 1"; ObjectID = "761"; */
 "761.title" = "Überschrift 1";
 
-/* Class = "NSMenuItem"; title = "Unordered List"; ObjectID = "764"; */
+/* Class = "NSMenuItem"; title = "List"; ObjectID = "764"; */
 "764.title" = "Ungeordnete Liste";
 
 /* Class = "NSMenuItem"; title = "Clear Styles"; ObjectID = "766"; */
@@ -224,11 +224,14 @@
 /* Class = "NSMenuItem"; title = "Ordered List"; ObjectID = "776"; */
 "776.title" = "Geordnete Liste";
 
-/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "14Z-T9-ghK"; */
+/* Class = "NSMenuItem"; title = "Fit Width"; ObjectID = "0WI-I6-eCG"; */
+"0WI-I6-eCG.title" = "Fit Width";
+
+/* Class = "NSMenuItem"; title = "Make Text Bigger"; ObjectID = "14Z-T9-ghK"; */
 "14Z-T9-ghK.title" = "Vergrössern";
 
-/* Class = "NSMenuItem"; title = "New Draft on Medium"; ObjectID = "1IM-bR-x3t"; */
-"1IM-bR-x3t.title" = "Neuer Entwurf auf Medium";
+/* Class = "NSMenuItem"; title = "Show Completions"; ObjectID = "2F1-eB-SZU"; Note = "SKIP LOCALIZATION"; */
+"2F1-eB-SZU.title" = "Autovervollständigung anzeigen";
 
 /* Class = "NSMenuItem"; title = "Adverbs"; ObjectID = "2rU-0c-Fde"; Note = "SKIP LOCALIZATION"; */
 "2rU-0c-Fde.title" = "Adverben";
@@ -239,11 +242,14 @@
 /* Class = "NSMenuItem"; title = "Move Line Up"; ObjectID = "31i-Zt-4nU"; */
 "31i-Zt-4nU.title" = "Zeile nach oben verschieben";
 
-/* Class = "NSMenuItem"; title = "Image"; ObjectID = "3aK-2F-Caq"; */
+/* Class = "NSMenuItem"; title = "Add Image"; ObjectID = "3aK-2F-Caq"; */
 "3aK-2F-Caq.title" = "Bild";
 
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3k5-Ng-E0x"; */
-"3k5-Ng-E0x.title" = "Text vorlesen";
+"3k5-Ng-E0x.title" = "Hashtag hinzufügen";
+
+/* Class = "NSMenuItem"; title = "Add Hashtag"; ObjectID = "4H6-XR-Ax3"; */
+"4H6-XR-Ax3.title" = "Add Hashtag";
 
 /* Class = "NSMenu"; title = "Sort Files By"; ObjectID = "4Pv-de-LIC"; */
 "4Pv-de-LIC.title" = "Sortiere Dokumente nach";
@@ -254,11 +260,20 @@
 /* Class = "NSMenuItem"; title = "Add Page Break"; ObjectID = "4ls-Rs-YBF"; */
 "4ls-Rs-YBF.title" = "Seitenumbruch hinzufügen";
 
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "64r-hf-9Nv"; */
+"64r-hf-9Nv.title" = "Automatisch";
+
 /* Class = "NSMenuItem"; title = "Show Preview"; ObjectID = "6d8-gB-gmV"; Note = "SKIP LOCALIZATION"; */
-"6d8-gB-gmV.title" = "Vorschau einblenden";
+"6d8-gB-gmV.title" = "Vorschau anzeigen";
 
 /* Class = "NSMenuItem"; title = "Copy Formatted"; ObjectID = "6dA-y4-hCQ"; */
 "6dA-y4-hCQ.title" = "Kopieren mit Format";
+
+/* Class = "NSMenu"; title = "Preview"; ObjectID = "6sR-ox-9CG"; */
+"6sR-ox-9CG.title" = "Preview";
+
+/* Class = "NSMenuItem"; title = "Fillers"; ObjectID = "7T6-MH-A5Q"; Note = "SKIP LOCALIZATION"; */
+"7T6-MH-A5Q.title" = "Fillers";
 
 /* Class = "NSMenuItem"; title = "Sort Files By"; ObjectID = "7Tu-74-DMo"; */
 "7Tu-74-DMo.title" = "Sortiere Dokumente nach";
@@ -272,17 +287,29 @@
 /* Class = "NSMenu"; title = "View"; ObjectID = "8JJ-MZ-cn8"; */
 "8JJ-MZ-cn8.title" = "Darstellung";
 
+/* Class = "NSMenuItem"; title = "Fit Page"; ObjectID = "8k5-pc-sju"; */
+"8k5-pc-sju.title" = "Fit Page";
+
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "9cn-bG-2ki"; */
 "9cn-bG-2ki.title" = "Grossbuchstaben";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "AXT-XZ-87X"; Note = "SKIP LOCALIZATION"; */
+"AXT-XZ-87X.title" = "Benutzerdefiniert";
 
 /* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "AYB-fK-6qu"; */
 "AYB-fK-6qu.title" = "Transformationen";
 
-/* Class = "NSMenuItem"; title = "Footnote"; ObjectID = "Aaw-jt-2hg"; */
-"Aaw-jt-2hg.title" = "Fussnote einfügen";
+/* Class = "NSMenuItem"; title = "Add Footnote"; ObjectID = "Aaw-jt-2hg"; */
+"Aaw-jt-2hg.title" = "Fußnote";
 
-/* Class = "NSMenuItem"; title = "Search Rank"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
+/* Class = "NSMenuItem"; title = "Search Relevance"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
 "Ac8-2T-zWZ.title" = "Date Modified";
+
+/* Class = "NSMenuItem"; title = "Split"; ObjectID = "B6m-l2-hLe"; */
+"B6m-l2-hLe.title" = "Geteilt";
+
+/* Class = "NSMenuItem"; title = "Show Date"; ObjectID = "BDa-l5-uWf"; */
+"BDa-l5-uWf.title" = "Show Date";
 
 /* Class = "NSMenuItem"; title = "Code"; ObjectID = "BGk-i5-EV3"; */
 "BGk-i5-EV3.title" = "Code";
@@ -296,11 +323,14 @@
 /* Class = "NSMenuItem"; title = "Add Table of Contents"; ObjectID = "DPy-JT-lWH"; */
 "DPy-JT-lWH.title" = "Inhaltsverzeichnis einfügen";
 
-/* Class = "NSMenuItem"; title = "Shift Right"; ObjectID = "Drd-8F-Uaf"; */
-"Drd-8F-Uaf.title" = "Nach rechts verschieben";
+/* Class = "NSMenuItem"; title = "Indent"; ObjectID = "Drd-8F-Uaf"; */
+"Drd-8F-Uaf.title" = "Einzug";
 
 /* Class = "NSMenuItem"; title = "Quick Search"; ObjectID = "Dss-9L-8xE"; */
 "Dss-9L-8xE.title" = "Schnellsuche";
+
+/* Class = "NSMenuItem"; title = "Sentences"; ObjectID = "Dxf-FA-Kal"; */
+"Dxf-FA-Kal.title" = "Sentences";
 
 /* Class = "NSMenuItem"; title = "Add Table"; ObjectID = "E9e-Rh-FJM"; */
 "E9e-Rh-FJM.title" = "Tabelle hinzufügen";
@@ -312,10 +342,13 @@
 "EMn-lO-Ntt.title" = "Einstellungen …";
 
 /* Class = "NSMenuItem"; title = "New Tab"; ObjectID = "Ezh-da-Rh2"; */
-"Ezh-da-Rh2.title" = "New Tab";
+"Ezh-da-Rh2.title" = "Neuer Reiter";
 
 /* Class = "NSMenuItem"; title = "Verbs"; ObjectID = "G0m-Wh-Wa9"; Note = "SKIP LOCALIZATION"; */
 "G0m-Wh-Wa9.title" = "Verben";
+
+/* Class = "NSMenuItem"; title = "Web"; ObjectID = "G8z-WS-Qha"; */
+"G8z-WS-Qha.title" = "Web";
 
 /* Class = "NSMenuItem"; title = "Speech"; ObjectID = "GLD-3h-cCe"; */
 "GLD-3h-cCe.title" = "Vorsprechen";
@@ -326,11 +359,11 @@
 /* Class = "NSMenu"; title = "Format"; ObjectID = "GWQ-RT-dPL"; */
 "GWQ-RT-dPL.title" = "Format";
 
-/* Class = "NSMenuItem"; title = "Default"; ObjectID = "Hl3-0o-vGs"; */
+/* Class = "NSMenuItem"; title = "Make Text Normal Size"; ObjectID = "Hl3-0o-vGs"; */
 "Hl3-0o-vGs.title" = "Standard";
 
-/* Class = "NSMenuItem"; title = "Share"; ObjectID = "IYK-Be-SXu"; */
-"IYK-Be-SXu.title" = "Teilen";
+/* Class = "NSMenu"; title = "Print"; ObjectID = "JHp-cH-Uqt"; */
+"JHp-cH-Uqt.title" = "Print";
 
 /* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "K0l-2A-eAA"; Note = "SKIP LOCALIZATION"; */
 "K0l-2A-eAA.title" = "Ascending";
@@ -341,8 +374,14 @@
 /* Class = "NSMenuItem"; title = "Show All Tabs"; ObjectID = "KBk-l8-2xM"; Note = "SKIP LOCALIZATION"; */
 "KBk-l8-2xM.title" = "Alle Tabs einblenden";
 
+/* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "LPd-cf-zDL"; Note = "SKIP LOCALIZATION"; */
+"LPd-cf-zDL.title" = "Date Created";
+
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "LYz-UD-Dee"; */
 "LYz-UD-Dee.title" = "Sprechen";
+
+/* Class = "NSMenuItem"; title = "PDF"; ObjectID = "Lnm-Rq-7AP"; */
+"Lnm-Rq-7AP.title" = "PDF";
 
 /* Class = "NSMenu"; title = "Lists"; ObjectID = "MYT-KB-FZh"; */
 "MYT-KB-FZh.title" = "Listen";
@@ -356,8 +395,14 @@
 /* Class = "NSMenu"; title = "Structure"; ObjectID = "Ms4-vT-m4G"; */
 "Ms4-vT-m4G.title" = "Struktur";
 
+/* Class = "NSMenu"; title = "PDF"; ObjectID = "N0q-kF-SVM"; */
+"N0q-kF-SVM.title" = "PDF";
+
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "N72-ZJ-nQT"; Note = "SKIP LOCALIZATION"; */
 "N72-ZJ-nQT.title" = "Name";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "NK9-fh-oVK"; */
+"NK9-fh-oVK.title" = "Immer anzeigen";
 
 /* Class = "NSMenu"; ibExternalAccessibilityDescription = "Dock Menu"; ObjectID = "O60-31-O7a"; */
 "O60-31-O7a.ibExternalAccessibilityDescription" = "Dock Menu";
@@ -369,18 +414,18 @@
 "Pfk-jy-BKg.title" = "Trennlinie einfügen";
 
 /* Class = "NSMenuItem"; title = "Extension"; ObjectID = "Pqq-PE-FNk"; Note = "SKIP LOCALIZATION"; */
-"Pqq-PE-FNk.title" = "Art";
+"Pqq-PE-FNk.title" = "Dateierweiterung";
 
 /* Class = "NSMenuItem"; title = "Show Library"; ObjectID = "RKB-Zq-q2A"; Note = "SKIP LOCALIZATION"; */
-"RKB-Zq-q2A.title" = "Bibliothek anzeigen";
+"RKB-Zq-q2A.title" = "Bibliothek";
 
-/* Class = "NSMenuItem"; title = "Templates"; ObjectID = "RUq-jy-AKe"; */
+/* Class = "NSMenuItem"; title = "Template"; ObjectID = "RUq-jy-AKe"; */
 "RUq-jy-AKe.title" = "Vorlage";
 
 /* Class = "NSMenuItem"; title = "Mark Task as Completed"; ObjectID = "RVT-Ja-lWk"; */
 "RVT-Ja-lWk.title" = "Aufgabe als erledigt markieren";
 
-/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "RVh-9x-N9T"; */
+/* Class = "NSMenuItem"; title = "Make Text Smaller"; ObjectID = "RVh-9x-N9T"; */
 "RVh-9x-N9T.title" = "Verkleinern";
 
 /* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Rhr-5m-bcX"; */
@@ -390,31 +435,46 @@
 "S9Z-zm-s36.title" = "Grossbuchstaben";
 
 /* Class = "NSMenuItem"; title = "Blockquote"; ObjectID = "T8p-6L-CKh"; */
-"T8p-6L-CKh.title" = "Blockzitat";
+"T8p-6L-CKh.title" = "Blockquote";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "TDj-hJ-cB4"; Note = "SKIP LOCALIZATION"; */
-"TDj-hJ-cB4.title" = "Default";
+"TDj-hJ-cB4.title" = "Standard";
 
 /* Class = "NSMenuItem"; title = "Stats Only"; ObjectID = "TcI-cP-nWB"; Note = "SKIP LOCALIZATION"; */
 "TcI-cP-nWB.title" = "Statistik";
 
+/* Class = "NSMenu"; title = "Share"; ObjectID = "UDX-sC-GbF"; */
+"UDX-sC-GbF.title" = "Share";
+
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "UVF-We-TtK"; Note = "SKIP LOCALIZATION"; */
 "UVF-We-TtK.title" = "Schreibmaschine";
-
-/* Class = "NSMenuItem"; title = "Preview Width"; ObjectID = "UcO-3O-k5v"; */
-"UcO-3O-k5v.title" = "Seitenbreite";
 
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "UhO-wG-w1d"; */
 "UhO-wG-w1d.title" = "Vorsprechen beenden";
 
-/* Class = "NSMenu"; title = "Share"; ObjectID = "Unu-u1-EIe"; */
-"Unu-u1-EIe.title" = "Teilen";
+/* Class = "NSMenuItem"; title = "Publish"; ObjectID = "Unu-u1-EIe"; */
+"Unu-u1-EIe.title" = "Veröffentlichen";
+
+/* Class = "NSMenu"; title = "Publish"; ObjectID = "Unu-u1-EKe"; */
+"Unu-u1-EKe.title" = "Veröffentlichen";
+
+/* Class = "NSMenu"; title = "Title Bar"; ObjectID = "V8b-Ma-1TU"; */
+"V8b-Ma-1TU.title" = "Title Bar";
+
+/* Class = "NSMenuItem"; title = "Tasks"; ObjectID = "VRV-wq-54f"; */
+"VRV-wq-54f.title" = "Tasks";
+
+/* Class = "NSMenuItem"; title = "Characters"; ObjectID = "VwE-CW-cym"; */
+"VwE-CW-cym.title" = "Characters";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "Vya-Iv-4En"; */
 "Vya-Iv-4En.title" = "Neu";
 
 /* Class = "NSMenuItem"; title = "Nouns"; ObjectID = "W5h-Z0-iGd"; Note = "SKIP LOCALIZATION"; */
 "W5h-Z0-iGd.title" = "Nomen";
+
+/* Class = "NSMenuItem"; title = "Preview"; ObjectID = "WhG-XB-svv"; */
+"WhG-XB-svv.title" = "Vorschau";
 
 /* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "Wn3-BO-WTu"; */
 "Wn3-BO-WTu.title" = "Aktualisierungsüberprüfung …";
@@ -434,11 +494,20 @@
 /* Class = "NSMenuItem"; title = "Replace"; ObjectID = "XrX-Rr-J73"; */
 "XrX-Rr-J73.title" = "Ersetzen";
 
+/* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "Xyc-BS-eg9"; */
+"Xyc-BS-eg9.title" = "Markieren";
+
+/* Class = "NSMenuItem"; title = "Add Wikilink"; ObjectID = "YfW-1J-S0B"; */
+"YfW-1J-S0B.title" = "Wikilink";
+
 /* Class = "NSMenuItem"; title = "Ordered Task List"; ObjectID = "Yfg-br-Ti0"; */
 "Yfg-br-Ti0.title" = "Geordnete Aufgabenliste";
 
 /* Class = "NSMenuItem"; title = "Conjunctions"; ObjectID = "Yqt-51-woO"; Note = "SKIP LOCALIZATION"; */
 "Yqt-51-woO.title" = "Konjunktionen";
+
+/* Class = "NSMenuItem"; title = "Add Date"; ObjectID = "YvP-d5-xVk"; */
+"YvP-d5-xVk.title" = "Datum hinzufügen";
 
 /* Class = "NSMenuItem"; title = "Focus"; ObjectID = "Yvk-in-ABn"; */
 "Yvk-in-ABn.title" = "Fokus";
@@ -455,41 +524,47 @@
 /* Class = "NSMenuItem"; title = "Dark Appearance"; ObjectID = "ZaG-9j-uqb"; Note = "SKIP LOCALIZATION"; */
 "ZaG-9j-uqb.title" = "Dunkles Erscheinungsbild";
 
-/* Class = "NSMenu"; title = "Templates"; ObjectID = "ZfB-tX-XLB"; */
+/* Class = "NSMenu"; title = "Template"; ObjectID = "ZfB-tX-XLB"; */
 "ZfB-tX-XLB.title" = "Vorlage";
-
-/* Class = "NSMenuItem"; title = "Half"; ObjectID = "Zkb-0q-r8W"; */
-"Zkb-0q-r8W.title" = "Halb";
 
 /* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "aM4-j0-Xa0"; Note = "SKIP LOCALIZATION"; */
 "aM4-j0-Xa0.title" = "Absatz";
 
-/* Class = "NSMenuItem"; title = "New in Library in Window"; ObjectID = "aoh-WB-Ymx"; */
-"aoh-WB-Ymx.title" = "Neu in Bibliothek und gleichem Fenster";
+/* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "aoh-WB-Ymx"; */
+"aoh-WB-Ymx.title" = "Neu in Bibliothek";
+
+/* Class = "NSMenuItem"; title = "Clichés"; ObjectID = "auv-Oc-Vb1"; Note = "SKIP LOCALIZATION"; */
+"auv-Oc-Vb1.title" = "Clichés";
+
+/* Class = "NSMenuItem"; title = "Share"; ObjectID = "bpx-WM-ffY"; */
+"bpx-WM-ffY.title" = "Teilen";
 
 /* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "c6c-A9-eCX"; */
 "c6c-A9-eCX.title" = "Immer anzeigen";
 
-/* Class = "NSMenuItem"; title = "Unordered Task List"; ObjectID = "d1A-ka-CIp"; */
+/* Class = "NSMenuItem"; title = "Task List"; ObjectID = "d1A-ka-CIp"; */
 "d1A-ka-CIp.title" = "Ungeordnete Aufgabenliste";
 
-/* Class = "NSMenuItem"; title = "Enable Syntax Highlight"; ObjectID = "dZV-Rh-ryD"; Note = "SKIP LOCALIZATION"; */
+/* Class = "NSMenuItem"; title = "Show Syntax"; ObjectID = "dZV-Rh-ryD"; Note = "SKIP LOCALIZATION"; */
 "dZV-Rh-ryD.title" = "Wortarten hervorheben";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "eRI-jE-EpF"; */
 "eRI-jE-EpF.title" = "Neu";
 
-/* Class = "NSMenuItem"; title = "Link"; ObjectID = "gHR-aY-uy5"; */
-"gHR-aY-uy5.title" = "Link hinzufügen";
+/* Class = "NSMenuItem"; title = "Print"; ObjectID = "g5y-Mf-CiC"; */
+"g5y-Mf-CiC.title" = "Drucken";
+
+/* Class = "NSMenuItem"; title = "Add Link"; ObjectID = "gHR-aY-uy5"; */
+"gHR-aY-uy5.title" = "Link";
 
 /* Class = "NSMenu"; title = "Focus"; ObjectID = "hWZ-LO-mHH"; */
 "hWZ-LO-mHH.title" = "Fokus";
 
+/* Class = "NSMenuItem"; title = "Full"; ObjectID = "hbT-yJ-p9S"; */
+"hbT-yJ-p9S.title" = "Vollbild";
+
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "huC-mz-p9j"; */
 "huC-mz-p9j.title" = "Ausblenden";
-
-/* Class = "NSMenuItem"; title = "New Draft on WordPress"; ObjectID = "hzg-LL-0Fw"; */
-"hzg-LL-0Fw.title" = "Neuer Entwurf auf WordPress";
 
 /* Class = "NSMenuItem"; title = "Reload Preview"; ObjectID = "i9v-5S-h0b"; */
 "i9v-5S-h0b.title" = "Vorschau aktualisieren";
@@ -509,11 +584,29 @@
 /* Class = "NSMenuItem"; title = "Go"; ObjectID = "j2a-aQ-7dg"; */
 "j2a-aQ-7dg.title" = "Gehe zu";
 
+/* Class = "NSMenuItem"; title = "Words"; ObjectID = "jqm-4o-OsZ"; */
+"jqm-4o-OsZ.title" = "Words";
+
+/* Class = "NSMenuItem"; title = "Characters Without Spaces"; ObjectID = "jv0-Ge-A4O"; */
+"jv0-Ge-A4O.title" = "Characters Without Spaces";
+
+/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "kp2-jF-m3q"; Note = "SKIP LOCALIZATION"; */
+"kp2-jF-m3q.title" = "Date Modified";
+
+/* Class = "NSMenuItem"; title = "Code Block"; ObjectID = "mel-Kb-3dV"; */
+"mel-Kb-3dV.title" = "Code Block";
+
+/* Class = "NSMenuItem"; title = "Always Use This Sort Order Here"; ObjectID = "n0n-mi-4Zq"; Note = "SKIP LOCALIZATION"; */
+"n0n-mi-4Zq.title" = "Always Use This Sort Order Here";
+
 /* Class = "NSMenuItem"; title = "Print Plain Text…"; ObjectID = "nmZ-Vd-0HN"; */
-"nmZ-Vd-0HN.title" = "Drucke Klartext …";
+"nmZ-Vd-0HN.title" = "Klartext drucken …";
 
 /* Class = "NSMenuItem"; title = "Show Tab Bar"; ObjectID = "npv-5M-u3X"; Note = "SKIP LOCALIZATION"; */
 "npv-5M-u3X.title" = "Tableiste einblenden";
+
+/* Class = "NSMenuItem"; title = "Title Bar"; ObjectID = "o7o-3a-iFr"; */
+"o7o-3a-iFr.title" = "Titelleiste";
 
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "pIo-vg-pZd"; */
 "pIo-vg-pZd.title" = "Automatisch";
@@ -521,26 +614,35 @@
 /* Class = "NSMenuItem"; title = "Descending"; ObjectID = "pJe-0c-qV5"; Note = "SKIP LOCALIZATION"; */
 "pJe-0c-qV5.title" = "Absteigend";
 
-/* Class = "NSMenu"; title = "Preview Width"; ObjectID = "pqw-KA-huh"; */
-"pqw-KA-huh.title" = "Breite ändern auf";
-
 /* Class = "NSMenuItem"; title = "Toolbar"; ObjectID = "pur-a2-Aeh"; */
 "pur-a2-Aeh.title" = "Werkzeugleiste";
 
-/* Class = "NSMenuItem"; title = "Search Library..."; ObjectID = "qHW-3c-Ttt"; */
+/* Class = "NSMenuItem"; title = "Filter Library..."; ObjectID = "qHW-3c-Ttt"; */
 "qHW-3c-Ttt.title" = "Bibliothek durchsuchen …";
 
 /* Class = "NSMenuItem"; title = "Structure"; ObjectID = "qdR-wu-hiC"; */
 "qdR-wu-hiC.title" = "Struktur";
 
+/* Class = "NSMenuItem"; title = "Enable Style Sheck"; ObjectID = "rLo-rU-5pJ"; Note = "SKIP LOCALIZATION"; */
+"rLo-rU-5pJ.title" = "Enable Style Sheck";
+
 /* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "tAr-9g-Fab"; */
 "tAr-9g-Fab.title" = "Seite einrichten …";
 
 /* Class = "NSMenuItem"; title = "Show Organizer"; ObjectID = "taf-dz-PMT"; Note = "SKIP LOCALIZATION"; */
-"taf-dz-PMT.title" = "Quellenliste anzeigen";
+"taf-dz-PMT.title" = "Organizer anzeigen";
+
+/* Class = "NSMenuItem"; title = "Reading Time"; ObjectID = "uJf-14-s0h"; */
+"uJf-14-s0h.title" = "Reading Time";
 
 /* Class = "NSMenuItem"; title = "Move Line Down"; ObjectID = "uOS-79-CAj"; */
 "uOS-79-CAj.title" = "Zeile nach unten verschieben";
+
+/* Class = "NSMenu"; title = "Show Date"; ObjectID = "uX8-od-ELu"; */
+"uX8-od-ELu.title" = "Show Date";
+
+/* Class = "NSMenuItem"; title = "Add Content Block"; ObjectID = "uff-bL-rHl"; */
+"uff-bL-rHl.title" = "Contentblock hinzufügen";
 
 /* Class = "NSMenuItem"; title = "Enable Focus Mode"; ObjectID = "urZ-cG-Loa"; Note = "SKIP LOCALIZATION"; */
 "urZ-cG-Loa.title" = "Fokus aktivieren";
@@ -548,11 +650,17 @@
 /* Class = "NSMenu"; title = "Text Size"; ObjectID = "vw0-fL-fUK"; */
 "vw0-fL-fUK.title" = "Textgrösse";
 
-/* Class = "NSMenuItem"; title = "Full"; ObjectID = "xQm-Ed-ske"; */
-"xQm-Ed-ske.title" = "Voll";
+/* Class = "NSMenuItem"; title = "Copy Markdown"; ObjectID = "wEK-LN-hR3"; */
+"wEK-LN-hR3.title" = "Copy Markdown";
+
+/* Class = "NSMenuItem"; title = "Redundancies"; ObjectID = "wU4-tP-rRN"; Note = "SKIP LOCALIZATION"; */
+"wU4-tP-rRN.title" = "Redundancies";
+
+/* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "xrD-gF-rK8"; Note = "SKIP LOCALIZATION"; */
+"xrD-gF-rK8.title" = "Date Created";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "yeD-Je-aOs"; */
 "yeD-Je-aOs.title" = "Gehe zu";
 
-/* Class = "NSMenuItem"; title = "Shift Left"; ObjectID = "zO2-18-ibZ"; */
-"zO2-18-ibZ.title" = "Nach links verschieben";
+/* Class = "NSMenuItem"; title = "Outdent"; ObjectID = "zO2-18-ibZ"; */
+"zO2-18-ibZ.title" = "Hängender Einzug";

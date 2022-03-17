@@ -3,10 +3,15 @@
 "Default_Text_Size" = "Tamaño del texto por defecto";
 "Decrease_Text_Size" = "Reducir tamaño del texto";
 
+"Button_Back" = "Go Back";
+"Button_Forward" = "Go Forward";
 "Button_Compose" = "Nuevo archivo";
+"Button_Library" = "Library";
 "Button_Preview" = "Vista previa";
 "Button_Search" = "Buscar";
 "Button_Appearance" = "Ver opciones";
+"Button_Preview_Appearance" = "Preview Options";
+"Button_Editor_Appearance" = "Editor Options";
 "Button_Action" = "Acciones de archivo";
 "Button_Move_Selected" = "Mover seleccionados";
 "Button_Delete_Selected" = "Eliminar seleccionados";

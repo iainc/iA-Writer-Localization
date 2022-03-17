@@ -12,6 +12,9 @@
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Nuovo nella Libreria";
 
+/* New. Menu item title for creating new documents in Library in current window. */
+"New_Document_In_Library_In_Window_Menu" = "Nuovo nella Libreria nella finestra";
+
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "Nuovo";
 
@@ -27,11 +30,13 @@
 /* Stats editor toolbar title. */
 "Editor_Toolbar_Stats_Menu" = "Solo statistiche";
 
-/* Contextual menu to copy formatted text. */
-"Editor_Copy_Formatted_Menu" = "Copia formattata";
-
-/* Contextual menu to copy HTML. */
-"Editor_Copy_HTML_Menu" = "Copia HTML";
+"Menu_Share" = "Condividi";
+"Menu_Publish" = "Pubblica";
+"Menu_Export" = "Esporta";
+"Menu_Export_With_Ellipsis" = "Esporta…";
+"Menu_Print" = "Stampa";
+"Menu_Print_Formatted" = "Stampa…";
+"Menu_Print_Plain_Text" = "Stampa solo testo...";
 
 /*----
  Trial
@@ -82,36 +87,6 @@
 /* Export panel format picker label. */
 "Export_Panel_Export_To_Label" = "Esporta in:";
 
-/* Microsoft Word export format. */
-"Export_Format_Word_Name" = "Microsoft Word";
-
-/* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Compatibile con Microsoft Word 2007 o successive, Apple Pages e Google Docs.";
-
-/* HTML export format. */
-"Export_Format_HTML_Name" = "HTML";
-
-/* HTML export format description. */
-"Export_Format_HTML_Description" = "HTML generico.";
-
-/* PDF export format. */
-"Export_Format_PDF_Name" = "PDF";
-
-/* PDF export format description. */
-"Export_Format_PDF_Description" = "Per cambiare il layout del PDF, seleziona File → Configurazione pagina.";
-
-/* Plain text export format. */
-"Export_Format_Markdown_Name" = "Markdown";
-
-/* Plain text export format description. */
-"Export_Format_Markdown_Description" = "Compatibile con altri editor.";
-
-/* Project archive text export format. */
-"Export_Format_Project_Archive_Name" = "Archivio progetto";
-
-/* Plain text export format description. */
-"Export_Format_Project_Archive_Description" = "Include blocchi di contenuti associati.";
-
 /* Checkmark title in print options. */
 "Print_Header" = "Stampa intestazione";
 
@@ -135,18 +110,6 @@
  Window
  -----*/
 
-/* Menu item to hide library. */
-"Hide_Library" = "Nascondi Libreria";
-
-/* Menu item to hide preview. */
-"Hide_Preview" = "Nascondi anteprima";
-
-/* Menu item to show library. */
-"Show_Library" = "Mostra Libreria";
-
-/* Menu item to show preview. */
-"Show_Preview" = "Mostra anteprima";
-
 /* Menu item to show preview. */
 "Show_Source_List" = "Mostra Organizer";
 
@@ -169,10 +132,10 @@
 "Preview_Toolbar_Export" = "Esporta";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "Mezza larghezza";
+"Preview_Layout_Split" = "Diviso";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "Larghezza intera";
+"Preview_Layout_Full" = "Completo";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "Nessun contenuto da visualizzare in anteprima";
@@ -181,33 +144,18 @@
  Library
  ------*/
 
-/* Button title to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order" = "Personalizzati";
-
-/* Button tooltip to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order_Tooltip" = "Usa ordinamento personalizzato per la vista attuale";
-
-/* Go menu item title to go back. */
-"Library_Go_Back" = "Indietro";
-
-/* Go menu item title to go forward. */
-"Library_Go_Forward" = "Avanti";
-
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "Inclusione Cartella";
 
 /* Menu to move to delete a folder when right-clicking in document library.
    Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Cancella";
+"Library_Delete_Action_Title" = "Elimina";
 
 /* Deletion confirmation sheet message. */
 "Library_Delete_Confrimation_Message" = "Eliminare «%@»?";
 
 /* Deletion confrimation infromative text for a local item. */
 "Library_Delete_Confrimation_Informative_Text" = "Questa azione è irreversibile.";
-
-/* No comment provided by engineer. */
-"Library_Delete_Confrimation_Button" = "Elimina";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "Documenti vuoti";
@@ -240,15 +188,6 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "Ottieni informazioni";
 
-/* Menu to copy library path for an item in Library. */
-"Library_Action_Copy_Library_Path" = "Copia percorso libreria";
-
-/* Menu to copy URL command path for an item in Library. */
-"Library_Action_Copy_URL_Command_Path" = "Copia percorso di comando URL";
-
-/* Menu to copy URL command to open file for an item in Library. */
-"Library_Action_Copy_URL_Command_To_Open_File" = "Copia percorso di comando URL su Open File";
-
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "Ordina per";
 
@@ -276,8 +215,8 @@
 /* Search menu item to show currently selected document in Library. */
 "Show_In_Library" = "Mostra nella Libreria";
 
-/* Search field placeholder. */
-"Library_Search_Field_Placeholder" = "Filtro";
+/* Library filter field placeholder. */
+"Library_Filter_Field_Placeholder" = "Filtro";
 
 /* Loading content message for document library. */
 "Library_Loading_Message" = "Caricamento dei documenti... In caso di una Libreria di grandi dimensioni, potrebbe richiedere qualche minuto.";
@@ -337,18 +276,6 @@
  Editor
  -----*/
 
-/* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "Abilita modalità Focus";
-
-/* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "Disabilita modalità Focus";
-
-/* Menu title to enable syntax highlight. */
-"Menu_Enable_Syntax_Higlight" = "Abilita Sintassi evidenziata";
-
-/* Menu title to disable syntax highlight. */
-"Menu_Disable_Syntax_Higlight" = "Disabilita Sintassi evidenziata";
-
 /* Apply English title capitalization to selected text. */
 "Make_Title_Case" = "Tutte Iniziali Maiuscole";
 
@@ -391,6 +318,15 @@
 /* Bold inline element name. */
 "Inline_Element_Bold" = "Neretto";
 
+/* Bold inline element name. */
+"Inline_Element_Code" = "Codice";
+
+/* Bold inline element name. */
+"Inline_Element_Highlight" = "Evidenziare";
+
+/* Wikilink inline element name. */
+"Inline_Element_Wikilink" = "Wikilink";
+
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Barrato";
 
@@ -425,6 +361,9 @@
 /* General preferences pane title. */
 "Preferences_Pane_Title_General" = "Generale";
 
+/* Sharing preferences pane title. */
+"Preferences_Pane_Title_Accounts" = "Account";
+
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "File";
 
@@ -437,11 +376,8 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "Modelli";
 
-/* Button to add account in preferences. */
-"Preferences_Add_Account_Button" = "Aggiungi account";
-
-/* Button to remove account in preferences. */
-"Preferences_Remove_Account_Button" = "Elimina account";
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
 "URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Vuoi davvero ripristinare il token d’autorizzazione?";
@@ -454,6 +390,24 @@
 
 /* URL scheme first use alert informative text. */
 "URL_Scheme_First_Use_Informative_Text" = "Puoi cambiare quest’opzione sulle Preferenze.";
+
+/* Markdown processing lazy paragraphs. */
+"Markdown_Lazy_Paragraphs" = "Premi Invio una volta per iniziare un nuovo paragrafo";
+
+"Markdown_Lazy_Paragraphs_Description" = "Per impostazione predefinita, Markdown richiede due ritorni (una riga vuota) tra i paragrafi. Quando abilitato, un singolo ritorno avvierà un nuovo paragrafo.";
+
+"Markdown_Lazy_Paragraphs_Warning" = "Fornito per la compatibilità con le versioni precedenti di iA Writer. Non supportato da altri processori Markdown.";
+
+/* Markdown processing smart punctuation. */
+"Markdown_Smart_Punctuation" = "Applica punteggiatura intelligente";
+
+"Markdown_Smart_Punctuation_Description" = "Converti virgolette e trattini semplici in\ncontroparti intelligenti per tutto l'output formattato.";
+
+"Markdown_Metadata_Tab" = "Metadati";
+
+"Markdown_Library_Paths_And_Links_Tab" = "Percorsi libreria e link";
+
+"Markdown_Processing_Tab" = "Elaborazione";
 
 /*-----------
  Quick Search

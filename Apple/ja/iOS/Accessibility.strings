@@ -3,10 +3,15 @@
 "Default_Text_Size" = "デフォルトの文字サイズ";
 "Decrease_Text_Size" = "文字を小さく";
 
+"Button_Back" = "Go Back";
+"Button_Forward" = "Go Forward";
 "Button_Compose" = "新規ファイル";
+"Button_Library" = "Library";
 "Button_Preview" = "プレビュー";
 "Button_Search" = "検索";
 "Button_Appearance" = "表示オプション";
+"Button_Preview_Appearance" = "Preview Options";
+"Button_Editor_Appearance" = "Editor Options";
 "Button_Action" = "ファイルアクション";
 "Button_Move_Selected" = "移動";
 "Button_Delete_Selected" = "削除";

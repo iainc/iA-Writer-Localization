@@ -1,0 +1,17 @@
+
+"Font_Name_Mono" = "Mono";
+"Font_Name_Duo" = "Duo";
+"Font_Name_Quattro" = "Quattro";
+
+"Typography_Tradition_System" = "Système — %@";
+"Typography_Tradition_Default" = "Défaut";
+"Typography_Tradition_Simplified_Chinese" = "Chinois simplifié";
+"Typography_Tradition_Traditional_Chinese" = "Chinois traditionnel";
+"Typography_Tradition_Japanese" = "Japonais";
+"Typography_Tradition_Korean" = "Coréen";
+
+"Typography_Emphasis_Italic" = "Italique";
+"Typography_Emphasis_Mark" = "Emphase";
+
+"Typography_Emphasis_Description_Italic" = "Italique";
+"Typography_Emphasis_Description_Mark" = "Emphase";

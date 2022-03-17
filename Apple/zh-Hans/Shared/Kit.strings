@@ -1,13 +1,91 @@
 
-"Button_OK" = "确定";
-"Button_Cancel" = "取消​​";
-"Button_Try_Again" = "重试";
-"Button_Share" = "分享";
-"Button_Close" = "关闭";
-"Button_Continue" = "继续";
-"Button_Enable" = "启用";
-"Button_Disable" = "禁用";
-"Button_Reset" = "重置​​";
+"OK" = "确定";
+"Cancel" = "取消​​";
+"Try_Again" = "重试";
+"Share" = "分享";
+"Close" = "关闭";
+"Continue" = "继续";
+"Enable" = "启用";
+"Disable" = "禁用";
+"Reset" = "重置​​";
+"Edit" = "编辑";
+"Done" = "完成";
+"Remove" = "移除";
+"Delete" = "刪除";
+"Delete_Immediately" = "立即删除";
+"More" = "更多";
+"Hide" = "隐藏​​";
+"Add" = "添加";
+"Name" = "名称";
+"Add_Account" = "添加账号";
+"Remove_Account" = "删除帐户";
+"Authorize" = "授权";
+"Options" = "选项";
+"Open_Mail" = "打开邮件";
+"Add_Pattern" = "添加模式";
+"Remove_Pattern" = "删除模式";
+"New_Smart_Folder" = "新建智能文件夹";
+"Add_Location" = "添加位置";
+"Move_To_Trash" = "移到废纸篓";
+"Copy" = "复制";
+"Copy_Library_Path" = "复制资料库路径";
+"Copy_URL_Command" = "复制URL命令";
+"Open" = "打开";
+"Open_Content_Block" = "打开内容块";
+"Open_Link" = "打开链接";
+"Open_Wikilink" = "打开维基链接";
+"Open_Wikilink_In_Background_Window" = "在后台窗口打开维基链接";
+"Show_In_Quick_Search" = "在快速搜索中显示";
+"Open_URL_Command" = "打开URL命令";
+"Save" = "保存";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Hide_Library" = "隐藏资料库";
+"Hide_Preview" = "隐藏预览";
+"Show_Library" = "显示资料库";
+"Show_Preview" = "显示预览";
+"Back" = "返回​​";
+"Forward" = "前进";
+"Go_Back" = "Go Back";
+"Go_Forward" = "Go Forward";
+"Back_In_Library" = "在Library中后退";
+"Forward_In_Library" = "在Library中前进";
+"Make_Text_Bigger" = "使文本变大";
+"Make_Text_Normal_Size" = "使文本为正常大小";
+"Make_Text_Smaller" = "使文本变小";
+"Print" = "打印";
+"Print_Plain_Text" = "打印纯文本";
+"Export" = "导出";
+"Publish" = "发布";
+"Show_Completions" = "显示自动完成";
+
+"Add_Wikilink" = "添加维基链接";
+"Remove_Wikilink" = "删除维基链接";
+"Add_Link" = "添加链接";
+"Remove_Link" = "删除链接";
+"Add_Image" = "添加图片";
+"Remove_Image" = "删除图片";
+"Add_Footnote" = "添加脚注";
+"Remove_Footnote" = "删除脚注";
+
+"Library_Destination_Shortest" = "最短";
+"Library_Destination_Relative" = "相对";
+"Library_Destination_Absolute" = "绝对";
+
+"Menu_Focus" = "焦点";
+"Menu_Go" = "前往";
+
+"Label_Format" = "格式";
+"Label_Email" = "电子邮件";
+
+"Placeholder_Loading" = "正在载入…";
+"Placeholder_No_Accounts" = "无账户";
+"Placeholder_No_Custom_Patterns" = "无自定义模式";
+"Custom_Patterns_Title" = "自定义模式";
+"Custom_Patterns_Introduction" = "根据自己的规则和例外情况来微调风格检查。";
+
+"Suffix_Colon" = "：";
+"Suffix_Ellipsis" = "…";
 
 "News_Title" = "新增内容";
 
@@ -21,8 +99,73 @@
 "Default_Smart_Folder_Name" = "无标题";
 "Default_Smart_Folder_Recently_Modified_Name" = "最新修改";
 
+"Paper_Size_A3" = "A3";
 "Paper_Size_A4" = "A4";
+"Paper_Size_A5" = "A5";
 "Paper_Size_US_Letter" = "US Letter";
+
+"Preview_Size_Full" = "全宽";
+"Preview_Size_Split" = "分开";
+
+"Output_Source_Text" = "源文本";
+"Output_Text" = "文本";
+"Output_Span" = "跨度";
+"Output_None" = "删除";
+"Output_Link" = "链接";
+"HTML_Output" = "HTML输出";
+"Other_Output" = "其他输出";
+"Preview_Output" = "预览";
+"HTML_Output_Description" = "这些偏好设置将在复制、导出和发布HTML时使用。";
+"Other_Output_Description" = "这些偏好设置将在复制、导出和发布文本时使用。";
+"Preview_Output_Description" = "这些偏好设置将在预览中使用。";
+"Destination_Type_Description" = "首选的路径格式将被用于新的维基链接和内容块。";
+"Content_Blocks" = "内容块";
+"Wikilinks" = "维基链接";
+"Hashtags" = "话题标签";
+"Autolinks" = "自动链接";
+
+"Metadata" = "元数据";
+"Key" = "密钥";
+"Metadata_Key" = "元数据密钥";
+"Value" = "值";
+"Add_Metadata" = "添加元数据";
+
+"Template" = "模板";
+
+"Author" = "作者";
+
+/*---------
+Text Check
+---------*/
+
+"Text_Check_Enable_All" = "启用全部";
+"Text_Check_Enable_Last_Used" = "启用上次使用项目";
+"Text_Check_Disable_All" = "禁用全部";
+"Text_Check_Target_All" = "全部";
+"Text_Check_Target_None" = "无​​";
+"Syntax_Control_Target_Nouns" = "名词";
+"Syntax_Control_Target_Verbs" = "动词";
+"Syntax_Control_Target_Adjectives" = "形容词";
+"Syntax_Control_Target_Adverbs" = "副词";
+"Syntax_Control_Target_Conjunctions" = "关联";
+"Style_Check_Title" = "风格检查";
+"Style_Check_Sentence_Capitalization" = "风格检查";
+"Style_Check_Target_Fillers" = "赘字";
+"Style_Check_Target_Cliches" = "滥用字";
+"Style_Check_Target_Redundancies" = "冗词";
+"Style_Check_Target_Custom" = "自定义​​";
+"Style_Check_Languages" = "内置英语、法语、德语模式。";
+
+/*----------
+ Focus Tools
+ ----------*/
+
+"Enable_Focus_Mode" = "启用聚焦模式";
+"Disable_Focus_Mode" = "禁用聚焦模式";
+"Enable_Syntax" = "显示语法";
+"Disable_Syntax" = "隐藏语法";
+"Enable_Style_Check" = "启用风格检查";
+"Disable_Style_Check" = "禁用风格检查";
 
 /*----
  Dates
@@ -33,6 +176,29 @@
 /*-----------
  Web Services
  -----------*/
+
+"Auth_Mode_Authorize_In_Browser" = "在浏览器中授权";
+"Auth_Mode_Enter_Token_Manually" = "手动输入令牌";
+"Auth_Mode_Add_Account_Manually" = "手动添加帐户";
+
+"Web_Service_URL" = "URL";
+"Web_Service_Token" = "令牌";
+"Web_Service_Website_URL" = "网站URL";
+"Web_Service_Username" = "用户名";
+"Web_Service_App_Password" = "应用密码";
+
+"Ghost_API_URL" = "API URL";
+"Ghost_Admin_API_Key" = "Admin API Key";
+
+"New_Draft_On_Web_Service" = "在%@新建草稿";
+"New_Post_On_Web_Service" = "在%@新建帖子";
+
+"Web_Service_Introduction" = "iA Writer创建草稿，供您在出版前进行检查。";
+"Micropub_Introduction" = "iA Writer将要求以草稿形式创建新帖子。不支持此功能的Micropub服务器将立即发布。";
+"WordPress.com_Description" = "发布到WordPress.com，或发布到具有Jetpack插件的WordPress网站。";
+"WordPress.org_Description" = "直接发布到WordPress网站。需要安装WordPress 5.6或更高版本。";
+"WordPress.com_Link_Action" = "关于Jetpack";
+"Medium_Link_Action" = "获取Medium令牌";
 
 "Web_Service_Publish_Status_Draft" = "草稿";
 "Web_Service_Publish_Status_Unlisted" = "未加入列表";
@@ -65,9 +231,25 @@
 "Web_Service_Error_Other_Title" = "连接出错";
 "Web_Service_Error_Other" = "接入服务时收到错误。";
 
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "访问被拒绝";
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "访问账号被拒绝。";
-"Web_Service_Recovery_Suggestion_Auth_Denied" = "您必须批准对账号的访问，才可在iA Writer中使用。";
+"Web_Service_Error_Auth_Denied_Title" = "访问被拒绝";
+"Web_Service_Error_Auth_Denied" = "访问账号被拒绝。";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "您必须批准对账号的访问，才可在iA Writer中使用。";
+
+"Web_Service_Error_IndieAuth_Not_Found_Title" = "找不到IndieAuth";
+"Web_Service_Error_IndieAuth_Not_Found" = "找不到IndieAuth。";
+"Web_Service_Error_IndieAuth_Not_Found_Recovery_Suggestion" = "确保IndieAuth元标记或链接标头是存在的。";
+
+"Web_Service_Error_Micropub_Not_Found_Title" = "找不到Micropub";
+"Web_Service_Error_Micropub_Not_Found" = "找不到Micropub。";
+"Web_Service_Error_Micropub_Not_Found_Recovery_Suggestion" = "确保Micropub元标记或链接标头是存在的。";
+
+"Web_Service_Error_WordPress_API_Not_Found_Title" = "找不到WordPress API";
+"Web_Service_Error_WordPress_API_Not_Found" = "找不到WordPress API。";
+"Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "确保使用WordPress 4.7或更高版本，并确保WordPress API元标记是存在的。";
+
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress应用密码不可用";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress应用程序密码不可用。";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "请确保您使用的是WordPress 5.6或更高版本，并且没有在网站上（或者为用户）禁用应用密码。";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "请稍后重试。";
 
@@ -96,6 +278,28 @@
 "Medium_Image_Upload_Error_Unauthorized" = "Medium已禁用图片上传。";
 "Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "请联系Medium为您的令牌启用图片上传。";
 "Medium_Image_Upload_Error_Contact" = "联系Medium";
+
+"Ghost_Export_Type_HTML" = "默认";
+"Ghost_Export_Type_HTML_Description" = "可能会丢失一些markup 。\n最适合在Ghost中编辑。";
+"Ghost_Export_Type_HTML_Card" = "HTML卡";
+"Ghost_Export_Type_HTML_Card_Description" = "兼容性最高。";
+"Ghost_Export_Type_Markdown_Card" = "Markdown卡";
+"Ghost_Export_Type_Markdown_Card_Description" = "部分markup显示效果可能存在出入。";
+
+"Micropub_Export_Type_HTML" = "HTML";
+"Micropub_Export_Type_HTML_Description" = "兼容性最高。";
+"Micropub_Export_Type_Markdown" = "Markdown";
+"Micropub_Export_Type_Markdown_Description" = "部分markup显示效果可能存在出入。";
+
+"WordPress_Export_Type_HTML" = "HTML";
+"WordPress_Export_Type_HTML_Description" = "兼容性最高。";
+"WordPress_Export_Type_Markdown" = "Markdown";
+"WordPress_Export_Type_Markdown_Description" = "部分markup显示效果可能存在出入。";
+
+"Microblog_Sign_In_Action" = "发送登录链接";
+"Microblog_Sign_In_Title" = "Micro.blog发送了登录链接";
+"Microblog_Sign_In" = "Micro.blog已将登录链接发送到您的电子邮件。";
+"Microblog_Sign_In_Recovery_Suggestion" = "在这台%@上查看您的电子邮件，并使用链接将账户添加到iA Writer。";
 
 /*--------
  Templates
@@ -134,7 +338,7 @@
 "URL_Scheme_Error_Invalid_Auth_Token" = "URL命令的调用验证令牌无效。";
 "URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "请确保验证令牌正确。";
 
-"URL_Scheme_Auth_Token_Description" = "Auth token is required for some URL commands.";
+"URL_Scheme_Auth_Token_Description" = "某些URL命令需要有身份验证令牌。";
 "URL_Scheme_Ubiquitous_Auth_Token_Description" = "Auth token is required for some URL commands. Your devices share the same auth token using iCloud.";
 
 /*-------
@@ -142,33 +346,13 @@
  -------*/
 
 "Storage_Name_Cloud" = "iCloud";
+"Storage_Name_From_Other_Apps" = "来自其他应用";
 "Storage_Name_Unknown" = "未知";
 "Storage_Name_Local" = "本地";
 "Storage_Name_On_My_Device" = "我的%@上";
 
 "Library_Location_Desktop" = "桌面";
 "Library_Location_Documents" = "文稿";
-
-/*----
- Fonts
- ----*/
-
-"Font_Name_Monospaced" = "Mono";
-"Font_Name_Duospaced" = "Duo";
-"Font_Name_Quattro" = "Quattro";
-
-"Content_Typography_System" = "系统 – %@";
-"Content_Typography_Default" = "默认";
-"Content_Typography_Simplified_Chinese" = "简体中文";
-"Content_Typography_Traditional_Chinese" = "繁体中文";
-"Content_Typography_Japanese" = "日语";
-"Content_Typography_Korean" = "朝鲜语";
-
-"Content_Typography_Emphasis_Italic" = "斜体";
-"Content_Typography_Emphasis_Mark" = "着重号";
-
-"Content_Typography_Emphasis_Description_Italic" = "斜体";
-"Content_Typography_Emphasis_Description_Mark" = "着重号";
 
 /*----------------
  Library Locations
@@ -183,6 +367,14 @@
 "Library_Location_Error_Not_Found" = "未找到Library Location。";
 "Library_Location_Error_Not_Found_Failure_Reason" = "原因可能是已被删除，或者位于可弹出磁盘内。";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "请接入可弹出磁盘访问Library Location。";
+
+/*---------
+ Wikilinks
+ ---------*/
+
+"Wikilink_Error_Library_Location_Not_Found_Title" = "无法找到名为 “%@”的Library Location";
+"Wikilink_Error_Library_Location_Not_Found" = "无法找到名为 “%@”的Library Location。";
+"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "请确保存在一个名为 “%@”的Library Location。";
 
 /*--------
  Documents
@@ -201,17 +393,25 @@
 "Library_Sort_Order_Name" = "名称";
 "Library_Sort_Order_Extension" = "扩展名";
 "Library_Sort_Order_Date_Modified" = "修改日期";
-"Library_Sort_Order_Search_Rank" = "搜索级别";
+"Library_Sort_Order_Date_Created" = "创建日期";
+"Library_Sort_Order_Search_Relevance" = "搜索级别";
+
+"Library_Show_Date" = "显示日期";
+"Library_Show_Date_Modified" = "修改日期";
+"Library_Show_Date_Created" = "创建日期";
+
+"Library_Sort_By" = "排序方式";
+"Library_Sort_By_Name" = "名称";
+"Library_Sort_By_Extension" = "扩展名";
+"Library_Sort_By_Date_Modified" = "修改日期";
+"Library_Sort_By_Date_Created" = "创建日期";
+"Library_Sort_By_Search_Relevance" = "搜索级别";
 
 "Library_Sort_By_Name_Phrase" = "按名称排序";
 "Library_Sort_By_Extension_Phrase" = "按扩展名排序";
 "Library_Sort_By_Date_Modified_Phrase" = "按修改日期排序";
-"Library_Sort_By_Search_Rank_Phrase" = "按搜索级别排序";
-
-"Library_Sort_By_Name" = "名称";
-"Library_Sort_By_Extension" = "扩展名";
-"Library_Sort_By_Date_Modified" = "修改日期";
-"Library_Sort_By_Search_Rank" = "搜索级别";
+"Library_Sort_By_Date_Created_Phrase" = "按创建日期排序";
+"Library_Sort_By_Search_Relevance_Phrase" = "按搜索级别排序";
 
 "Library_Sort_By_Date_Ascending" = "由旧到新";
 "Library_Sort_By_Date_Descending" = "由新到旧";
@@ -219,10 +419,12 @@
 "Library_Sort_By_Text_Ascending" = "从A到Z";
 "Library_Sort_By_Text_Descending" = "从Z到A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "相关度顺序";
-"Library_Sort_By_Search_Rank_Descending" = "相关度倒序";
+"Library_Sort_By_Search_Relevance_Ascending" = "相关度顺序";
+"Library_Sort_By_Search_Relevance_Descending" = "相关度倒序";
 
 "Library_Sort_By_Part_Joiner" = "，";
+
+"Library_Sort_Order_Persistent" = "始终在这里使用这些选项";
 
 /*----------
  Focus Scope
@@ -244,9 +446,10 @@
  Content Blocks
  -------------*/
 
-"Content_Block_Error_No_Such_File" = "“%@”不存在。";
-"Content_Block_Error_No_Such_File_Title" = "“%@”不存在";
-"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "文件名可能有误。";
+"Content_Block_Error_No_Such_File" = "文件“%@”不存在。";
+"Content_Block_Error_No_Such_File_Title" = "文件“%@”不存在。";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "请确保文件名正确无误。";
+"Content_Block_Error_No_Such_File_Markdown_Or_HTML_Path_Recovery_Suggestion" = "如果您引用的是本地文件，请确保名称正确。如果您引用的是网络资源，请添加https://。";
 
 "Content_Block_Error_Unable_To_Process" = "“%@”无法处理。";
 "Content_Block_Error_Unable_To_Process_Title" = "“%@”无法处理";
@@ -263,46 +466,56 @@
 
 "Content_Block_Error_Unsupported_Location" = "内容块仅限Library中的文件支持。";
 "Content_Block_Error_Unsupported_Location_Title" = "不支持的位置";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "欲使用内容块，请将文件移动或复制到Library内。您可在偏好中向Library添加文件夹。";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "欲使用内容块，请将文件移动或复制到Library内。";
 "Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "内容块仅限%@Library中的文件支持。";
 
 /*---------
  Text Stats
  ---------*/
 
-/* Reading time label in text editor toolbar. */
 "Stats_Reading_Time" = "%@读取时间";
+"Stats_Name_Words" = "词";
+"Stats_Name_Sentences" = "句";
+"Stats_Name_Reading_Time" = "读取时间";
+"Stats_Name_Tasks" = "项任务";
+"Stats_Name_Characters" = "字符";
+"Stats_Name_Characters_Without_Spaces" = "字符不含空格";
 
-/*-------------
- Syntax Control
- -------------*/
+/*-----
+ Export
+ -----*/
 
-/* Syntax control menu title to enable all targets. */
-"Syntax_Control_Enable_All" = "启用全部";
+"Export_Format_Word_Name" = "Microsoft Word​​";
+"Export_Format_Word_Description" = "兼容Microsoft Word 2007或更新版本、Apple Pages和Google Docs。";
+"Export_Format_Word_Action" = "Export Microsoft Word";
 
-/* Syntax control menu title to enable last used targets. */
-"Syntax_Control_Enable_Last_Used" = "启用上次使用项目";
+"Export_Format_HTML_Name" = "HTML";
+"Export_Format_HTML_Description" = "通用HTML。";
+"Export_Format_HTML_Action" = "导出HTML";
 
-/* Syntax control menu title to disable all targets. */
-"Syntax_Control_Disable_All" = "禁用全部";
+"Export_Format_PDF_Name" = "PDF";
+"Export_Format_PDF_Description" = "欲变更PDF版式，选择 文件 → 页面设置。";
+"Export_Format_PDF_Action" = "导出PDF";
 
-/* All syntax control targets chosen. */
-"Syntax_Control_Target_All" = "全部";
+"Export_Format_Markdown_Name" = "Markdown";
+"Export_Format_Markdown_Description" = "兼容其他编辑器。";
+"Export_Format_Markdown_Action" = "导出Markdown";
 
-/* No syntax control target chosen. */
-"Syntax_Control_Target_None" = "无​​";
+"Export_Format_Project_Archive_Name" = "项目存档";
+"Export_Format_Project_Archive_Description" = "包含相关内容块。";
+"Export_Format_Project_Archive_Action" = "导出项目存档";
 
-/* Nouns syntax control target. */
-"Syntax_Control_Target_Nouns" = "名词";
+"Copy_Markdown" = "复制Markdown";
+"Copy_HTML" = "复制HTML";
+"Copy_Formatted" = "格式化复制";
 
-/* Verbs syntax control target. */
-"Syntax_Control_Target_Verbs" = "动词";
+/*------
+ Preview
+ ------*/
 
-/* Adjectives syntax control target. */
-"Syntax_Control_Target_Adjectives" = "形容词";
+"Display_Mode_Web" = "Web";
+"Display_Mode_PDF" = "PDF";
 
-/* Adverbs syntax control target. */
-"Syntax_Control_Target_Adverbs" = "副词";
-
-/* Conjunctions syntax control target. */
-"Syntax_Control_Target_Conjunctions" = "关联";
+"PDF_Scale_Fit_Page" = "适合页面";
+"PDF_Scale_Fit_Width" = "适合宽度";
+"PDF_Percent_Zoom" = "%zd %";

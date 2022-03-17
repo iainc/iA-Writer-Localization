@@ -1,13 +1,91 @@
 
-"Button_OK" = "확인";
-"Button_Cancel" = "취소";
-"Button_Try_Again" = "다시 시도";
-"Button_Share" = "공유";
-"Button_Close" = "닫기";
-"Button_Continue" = "계속";
-"Button_Enable" = "활성화";
-"Button_Disable" = "비활성화";
-"Button_Reset" = "재설정";
+"OK" = "확인";
+"Cancel" = "취소";
+"Try_Again" = "다시 시도";
+"Share" = "공유";
+"Close" = "닫기";
+"Continue" = "계속";
+"Enable" = "활성화";
+"Disable" = "비활성화";
+"Reset" = "재설정";
+"Edit" = "편집";
+"Done" = "완료";
+"Remove" = "계정";
+"Delete" = "삭제";
+"Delete_Immediately" = "즉시 삭제";
+"More" = "더 보기";
+"Hide" = "숨기기";
+"Add" = "추가";
+"Name" = "이름";
+"Add_Account" = "계정 추가";
+"Remove_Account" = "계정 삭제";
+"Authorize" = "인증";
+"Options" = "옵션";
+"Open_Mail" = "Mail 열기";
+"Add_Pattern" = "패턴 추가";
+"Remove_Pattern" = "패턴 제거";
+"New_Smart_Folder" = "새 스마트 폴더";
+"Add_Location" = "위치에서 추가";
+"Move_To_Trash" = "휴지통으로 이동";
+"Copy" = "복사";
+"Copy_Library_Path" = "라이브러리 경로 복사";
+"Copy_URL_Command" = "Copy URL Command";
+"Open" = "열기";
+"Open_Content_Block" = "콘텐츠 블록 열기";
+"Open_Link" = "링크 열기";
+"Open_Wikilink" = "위키링크 열기";
+"Open_Wikilink_In_Background_Window" = "배경 창에서 위키링크 열기";
+"Show_In_Quick_Search" = "빠른 검색에 표시";
+"Open_URL_Command" = "URL 명령 열기";
+"Save" = "저장";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Hide_Library" = "라이브러리 숨기기";
+"Hide_Preview" = "미리 보기 숨기기";
+"Show_Library" = "라이브러리 표시";
+"Show_Preview" = "미리 보기 표시";
+"Back" = "뒤로";
+"Forward" = "앞으로";
+"Go_Back" = "Go Back";
+"Go_Forward" = "Go Forward";
+"Back_In_Library" = "라이브러리에서 뒤로";
+"Forward_In_Library" = "라이브러리에서 앞으로";
+"Make_Text_Bigger" = "텍스트 크게";
+"Make_Text_Normal_Size" = "텍스트 보통 크기로";
+"Make_Text_Smaller" = "텍스트 작게";
+"Print" = "인쇄";
+"Print_Plain_Text" = "일반 텍스트 인쇄";
+"Export" = "내보내기";
+"Publish" = "게시";
+"Show_Completions" = "자동 완성 표시";
+
+"Add_Wikilink" = "Add Wikilink";
+"Remove_Wikilink" = "Remove Wikilink";
+"Add_Link" = "Add Link";
+"Remove_Link" = "Remove Link";
+"Add_Image" = "Add Image";
+"Remove_Image" = "Remove Image";
+"Add_Footnote" = "Add Footnote";
+"Remove_Footnote" = "Remove Footnote";
+
+"Library_Destination_Shortest" = "Shortest";
+"Library_Destination_Relative" = "Relative";
+"Library_Destination_Absolute" = "Absolute";
+
+"Menu_Focus" = "포커스";
+"Menu_Go" = "이동";
+
+"Label_Format" = "서식";
+"Label_Email" = "이메일";
+
+"Placeholder_Loading" = "로드 중…";
+"Placeholder_No_Accounts" = "계정 없음";
+"Placeholder_No_Custom_Patterns" = "사용자 지정 패턴 없음";
+"Custom_Patterns_Title" = "사용자 지정 패턴";
+"Custom_Patterns_Introduction" = "사용자 지정 규칙과 예외로 스타일 검사를 조정하세요.";
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
 
 "News_Title" = "새로운 기능";
 
@@ -21,8 +99,73 @@
 "Default_Smart_Folder_Name" = "제목 없음";
 "Default_Smart_Folder_Recently_Modified_Name" = "최근 수정됨";
 
+"Paper_Size_A3" = "A3";
 "Paper_Size_A4" = "A4";
+"Paper_Size_A5" = "A5";
 "Paper_Size_US_Letter" = "US 편지지";
+
+"Preview_Size_Full" = "전각";
+"Preview_Size_Split" = "분할하는";
+
+"Output_Source_Text" = "원문 텍스트";
+"Output_Text" = "텍스트";
+"Output_Span" = "범위";
+"Output_None" = "제거";
+"Output_Link" = "링크";
+"HTML_Output" = "HTML 출력";
+"Other_Output" = "기타 출력";
+"Preview_Output" = "미리 보기";
+"HTML_Output_Description" = "이 선호 사항은 HTML을 복사, 내보내기, 게시할 때 사용됩니다.";
+"Other_Output_Description" = "이 선호 사항은 텍스트를 복사, 내보내기, 게시할 때 사용됩니다.";
+"Preview_Output_Description" = "이 선호 사항은 미리 보기에서 사용됩니다.";
+"Destination_Type_Description" = "선호하는 경로 서식은 새로운 위키링크와 콘텐츠 블록에 사용됩니다.";
+"Content_Blocks" = "Content Blocks";
+"Wikilinks" = "위키링크";
+"Hashtags" = "해시태그";
+"Autolinks" = "자동링크";
+
+"Metadata" = "메타데이터";
+"Key" = "키";
+"Metadata_Key" = "메타데이터 키";
+"Value" = "값";
+"Add_Metadata" = "메타데이터 추가";
+
+"Template" = "템플릿";
+
+"Author" = "작성자";
+
+/*---------
+Text Check
+---------*/
+
+"Text_Check_Enable_All" = "모두 활성화";
+"Text_Check_Enable_Last_Used" = "마지막 사용 항목 활성화";
+"Text_Check_Disable_All" = "모두 비활성화";
+"Text_Check_Target_All" = "모두";
+"Text_Check_Target_None" = "없음";
+"Syntax_Control_Target_Nouns" = "명사";
+"Syntax_Control_Target_Verbs" = "동사";
+"Syntax_Control_Target_Adjectives" = "형용사";
+"Syntax_Control_Target_Adverbs" = "부사";
+"Syntax_Control_Target_Conjunctions" = "접속사";
+"Style_Check_Title" = "스타일 검사";
+"Style_Check_Sentence_Capitalization" = "스타일 검사";
+"Style_Check_Target_Fillers" = "간투사";
+"Style_Check_Target_Cliches" = "상투적인 표현";
+"Style_Check_Target_Redundancies" = "중복된 표현";
+"Style_Check_Target_Custom" = "사용자 지정";
+"Style_Check_Languages" = "영어, 프랑스어, 독일어를위한 내장 패턴.";
+
+/*----------
+ Focus Tools
+ ----------*/
+
+"Enable_Focus_Mode" = "포커스 모드 활성화";
+"Disable_Focus_Mode" = "포커스 모드 비활성화";
+"Enable_Syntax" = "구문 표시";
+"Disable_Syntax" = "구문 숨기기";
+"Enable_Style_Check" = "스타일 검사 활성화";
+"Disable_Style_Check" = "스타일 검사 비활성화";
 
 /*----
  Dates
@@ -33,6 +176,29 @@
 /*-----------
  Web Services
  -----------*/
+
+"Auth_Mode_Authorize_In_Browser" = "브라우저에서 인증";
+"Auth_Mode_Enter_Token_Manually" = "직접 토큰 입력하기";
+"Auth_Mode_Add_Account_Manually" = "계정 직접 추가";
+
+"Web_Service_URL" = "URL";
+"Web_Service_Token" = "Token";
+"Web_Service_Website_URL" = "웹사이트 URL";
+"Web_Service_Username" = "사용자명";
+"Web_Service_App_Password" = "앱 비밀번호";
+
+"Ghost_API_URL" = "API URL";
+"Ghost_Admin_API_Key" = "Admin API Key";
+
+"New_Draft_On_Web_Service" = "%@에 새 초안 만들기";
+"New_Post_On_Web_Service" = "%@에 새 게시물 만들기";
+
+"Web_Service_Introduction" = "iA Writer는 게시 전에 검토할 수 있는 초안을 생성합니다.";
+"Micropub_Introduction" = "iA Writer에서 새 게시물을 초안으로 만들 것을 요청합니다. 이 기능을 지원하지 않는 Micropub 서버가 즉시 게시합니다.";
+"WordPress.com_Description" = "Jetpack 플러그인을 사용한 WordPress 사이트 또는 WordPress.com에 게시.";
+"WordPress.org_Description" = "WordPress 사이트에 직접 게시하세요. WordPress 5.6 이상이 필요합니다.";
+"WordPress.com_Link_Action" = "Jetpack 정보";
+"Medium_Link_Action" = "Medium에서 토큰 획득";
 
 "Web_Service_Publish_Status_Draft" = "초안";
 "Web_Service_Publish_Status_Unlisted" = "목록에 없음";
@@ -65,9 +231,25 @@
 "Web_Service_Error_Other_Title" = "연결 오류";
 "Web_Service_Error_Other" = "서비스에 연결하는 중 오류가 발생했습니다.";
 
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "접근이 거부됨";
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "계정에 대한 접근이 거부되었습니다.";
-"Web_Service_Recovery_Suggestion_Auth_Denied" = "iA Writer에서 사용할 수 있도록 계정에 대한 접근을 허용해야 합니다.";
+"Web_Service_Error_Auth_Denied_Title" = "접근이 거부됨";
+"Web_Service_Error_Auth_Denied" = "계정에 대한 접근이 거부되었습니다.";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "iA Writer에서 사용할 수 있도록 계정에 대한 접근을 허용해야 합니다.";
+
+"Web_Service_Error_IndieAuth_Not_Found_Title" = "IndieAuth 찾을 수 없음";
+"Web_Service_Error_IndieAuth_Not_Found" = "IndieAuth를 찾을 수 없습니다.";
+"Web_Service_Error_IndieAuth_Not_Found_Recovery_Suggestion" = "IndieAuth 메타 태그 또는 링크 헤더가 있는지 확인해보세요.";
+
+"Web_Service_Error_Micropub_Not_Found_Title" = "Micropub 찾을 수 없음";
+"Web_Service_Error_Micropub_Not_Found" = "Micropub를 찾을 수 없습니다.";
+"Web_Service_Error_Micropub_Not_Found_Recovery_Suggestion" = "Micropub 메타 태그 또는 링크 헤더가 있는지 확인해보세요.";
+
+"Web_Service_Error_WordPress_API_Not_Found_Title" = "WordPress API 찾을 수 없음";
+"Web_Service_Error_WordPress_API_Not_Found" = "WordPress API를 찾을 수 없습니다.";
+"Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "WordPress 4.7 이상의 버전을 사용하고 있는지, 그리고 WordPress API 메타 태그가 있는지 확인해보세요.";
+
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress 앱 비밀번호 이용 불가";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress 앱 비밀번호를 이용할 수 없습니다.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "WordPress 5.6 이상의 버전을 사용하고 있는지, 앱 비밀번호가 사이트에서 또는 사용자에 대해 비활성화되어 있지 않은지 확인하세요.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "나중에 다시 시도하세요.";
 
@@ -96,6 +278,28 @@
 "Medium_Image_Upload_Error_Unauthorized" = "Medium에서 이미지 업로드가 비활성화되었습니다.";
 "Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Medium에 연락해서 토큰에 대한 이미지 업로드를 활성화하세요.";
 "Medium_Image_Upload_Error_Contact" = "Medium에 연락하기";
+
+"Ghost_Export_Type_HTML" = "기본";
+"Ghost_Export_Type_HTML_Description" = "일부 마크업이 손실될 수 있습니다.\nGhost에서 편집 시 가장 좋습니다.";
+"Ghost_Export_Type_HTML_Card" = "HTML 카드";
+"Ghost_Export_Type_HTML_Card_Description" = "가장 호환 가능.";
+"Ghost_Export_Type_Markdown_Card" = "마크다운 카드";
+"Ghost_Export_Type_Markdown_Card_Description" = "일부 마크업이 다르게 보일 수 있습니다.";
+
+"Micropub_Export_Type_HTML" = "HTML";
+"Micropub_Export_Type_HTML_Description" = "가장 호환 가능.";
+"Micropub_Export_Type_Markdown" = "Markdown";
+"Micropub_Export_Type_Markdown_Description" = "일부 마크업이 다르게 보일 수 있습니다.";
+
+"WordPress_Export_Type_HTML" = "HTML";
+"WordPress_Export_Type_HTML_Description" = "가장 호환 가능.";
+"WordPress_Export_Type_Markdown" = "Markdown";
+"WordPress_Export_Type_Markdown_Description" = "일부 마크업이 다르게 보일 수 있습니다.";
+
+"Microblog_Sign_In_Action" = "로그인 링크 전송";
+"Microblog_Sign_In_Title" = "Micro.blog에서 로그인 링크 전송";
+"Microblog_Sign_In" = "Micro.blog에서 이메일로 로그인 링크를 전송했습니다.";
+"Microblog_Sign_In_Recovery_Suggestion" = "%@에서 이메일을 확인한 후 링크를 사용해 계정을 iA Writer에 추가하세요.";
 
 /*--------
  Templates
@@ -142,33 +346,13 @@
  -------*/
 
 "Storage_Name_Cloud" = "iCloud";
+"Storage_Name_From_Other_Apps" = "다른 앱";
 "Storage_Name_Unknown" = "알 수 없음";
 "Storage_Name_Local" = "로컬";
 "Storage_Name_On_My_Device" = "내 %@";
 
 "Library_Location_Desktop" = "데스크탑";
 "Library_Location_Documents" = "도큐멘트";
-
-/*----
- Fonts
- ----*/
-
-"Font_Name_Monospaced" = "Mono";
-"Font_Name_Duospaced" = "Duo";
-"Font_Name_Quattro" = "Quattro";
-
-"Content_Typography_System" = "시스템 — %@";
-"Content_Typography_Default" = "기본";
-"Content_Typography_Simplified_Chinese" = "중국어 간체";
-"Content_Typography_Traditional_Chinese" = "중국어 번체";
-"Content_Typography_Japanese" = "일본어";
-"Content_Typography_Korean" = "한국어";
-
-"Content_Typography_Emphasis_Italic" = "이탤릭체";
-"Content_Typography_Emphasis_Mark" = "강조";
-
-"Content_Typography_Emphasis_Description_Italic" = "이탤릭체";
-"Content_Typography_Emphasis_Description_Mark" = "강조";
 
 /*----------------
  Library Locations
@@ -183,6 +367,14 @@
 "Library_Location_Error_Not_Found" = "라이브러리 위치를 찾을 수 없습니다. ";
 "Library_Location_Error_Not_Found_Failure_Reason" = "이미 제거되었거나 탈착식 드라이브에 위치하고 있는 것 같습니다.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "라이브러리 위치에 접근하려면 탈착식 드라이브를 연결하세요.";
+
+/*---------
+ Wikilinks
+ ---------*/
+
+"Wikilink_Error_Library_Location_Not_Found_Title" = "이름이 “%@”인 라이브러리 위치를 찾을 수 없습니다";
+"Wikilink_Error_Library_Location_Not_Found" = "이름이 “%@”인 라이브러리 위치를 찾을 수 없습니다.";
+"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "이름이 “%@”인 라이브러리 위치가 있는지 확인하세요.";
 
 /*--------
  Documents
@@ -201,17 +393,25 @@
 "Library_Sort_Order_Name" = "이름";
 "Library_Sort_Order_Extension" = "확장명";
 "Library_Sort_Order_Date_Modified" = "수정한 날짜";
-"Library_Sort_Order_Search_Rank" = "검색 관련성";
+"Library_Sort_Order_Date_Created" = "생성한 날짜";
+"Library_Sort_Order_Search_Relevance" = "검색 관련성";
+
+"Library_Show_Date" = "날짜 표시";
+"Library_Show_Date_Modified" = "수정한 날짜";
+"Library_Show_Date_Created" = "생성한 날짜";
+
+"Library_Sort_By" = "정렬 기준";
+"Library_Sort_By_Name" = "이름";
+"Library_Sort_By_Extension" = "확장명";
+"Library_Sort_By_Date_Modified" = "수정한 날짜";
+"Library_Sort_By_Date_Created" = "생성 날짜";
+"Library_Sort_By_Search_Relevance" = "검색 관련성";
 
 "Library_Sort_By_Name_Phrase" = "이름별 정렬";
 "Library_Sort_By_Extension_Phrase" = "확장명별 정렬";
 "Library_Sort_By_Date_Modified_Phrase" = "수정한 날짜별 정렬";
-"Library_Sort_By_Search_Rank_Phrase" = "검색 관련성별 정렬";
-
-"Library_Sort_By_Name" = "이름";
-"Library_Sort_By_Extension" = "확장명";
-"Library_Sort_By_Date_Modified" = "수정한 날짜";
-"Library_Sort_By_Search_Rank" = "검색 관련성";
+"Library_Sort_By_Date_Created_Phrase" = "생성 날짜순 정렬";
+"Library_Sort_By_Search_Relevance_Phrase" = "검색 관련성별 정렬";
 
 "Library_Sort_By_Date_Ascending" = "오래된 항목순";
 "Library_Sort_By_Date_Descending" = "최신 항목순";
@@ -219,10 +419,12 @@
 "Library_Sort_By_Text_Ascending" = "오름차순";
 "Library_Sort_By_Text_Descending" = "내림차순";
 
-"Library_Sort_By_Search_Rank_Ascending" = "관련성이 높은 항목순";
-"Library_Sort_By_Search_Rank_Descending" = "관련성이 낮은 항목순";
+"Library_Sort_By_Search_Relevance_Ascending" = "관련성이 높은 항목순";
+"Library_Sort_By_Search_Relevance_Descending" = "관련성이 낮은 항목순";
 
 "Library_Sort_By_Part_Joiner" = ", ";
+
+"Library_Sort_Order_Persistent" = "여기서 항상 이 옵션 사용";
 
 /*----------
  Focus Scope
@@ -244,9 +446,10 @@
  Content Blocks
  -------------*/
 
-"Content_Block_Error_No_Such_File" = "“%@”은(는) 존재하지 않습니다.";
-"Content_Block_Error_No_Such_File_Title" = "“%@”은(는) 존재하지 않습니다";
-"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "파일 이름이 잘못된 것 같습니다.";
+"Content_Block_Error_No_Such_File" = "“%@” 파일은 존재하지 않습니다.";
+"Content_Block_Error_No_Such_File_Title" = "“%@” 파일은 존재하지 않습니다";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "파일 이름이 올바른지 확인하세요.";
+"Content_Block_Error_No_Such_File_Markdown_Or_HTML_Path_Recovery_Suggestion" = "로컬 파일을 참조하는 경우, 이름이 올바른지 확인하세요. 웹 리소스를 참조하는 경우, https://를 추가하세요.";
 
 "Content_Block_Error_Unable_To_Process" = "“%@”을(를) 처리하지 못했습니다.";
 "Content_Block_Error_Unable_To_Process_Title" = "“%@”을(를) 처리하지 못했습니다";
@@ -263,46 +466,56 @@
 
 "Content_Block_Error_Unsupported_Location" = "콘텐츠 블록은 라이브러리의 파일에서만 지원됩니다.";
 "Content_Block_Error_Unsupported_Location_Title" = "지원되지 않는 위치";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "콘텐츠 블록을 사용하려면 라이브러리로 파일을 이동 또는 복사하세요. 환경 설정에서 라이브러리에 폴더를 추가할 수 있습니다.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "콘텐츠 블록을 사용하려면 라이브러리로 파일을 이동 또는 복사하세요.";
 "Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "콘텐츠 블록은 %@ 라이브러리의 파일에서만 지원됩니다.";
 
 /*---------
  Text Stats
  ---------*/
 
-/* Reading time label in text editor toolbar. */
 "Stats_Reading_Time" = "%@ 읽기 시간";
+"Stats_Name_Words" = "단어";
+"Stats_Name_Sentences" = "문장";
+"Stats_Name_Reading_Time" = "읽기 시간";
+"Stats_Name_Tasks" = "작업";
+"Stats_Name_Characters" = "글자";
+"Stats_Name_Characters_Without_Spaces" = "글자 공백 제외";
 
-/*-------------
- Syntax Control
- -------------*/
+/*-----
+ Export
+ -----*/
 
-/* Syntax control menu title to enable all targets. */
-"Syntax_Control_Enable_All" = "모두 활성화";
+"Export_Format_Word_Name" = "Microsoft Word";
+"Export_Format_Word_Description" = "Microsoft Word 2007 이상 버전, Apple Pages 및 Google Docs와 호환됩니다.";
+"Export_Format_Word_Action" = "Microsoft Word 내보내기";
 
-/* Syntax control menu title to enable last used targets. */
-"Syntax_Control_Enable_Last_Used" = "마지막 사용 항목 활성화";
+"Export_Format_HTML_Name" = "HTML";
+"Export_Format_HTML_Description" = "일반 HTML.";
+"Export_Format_HTML_Action" = "HTML 내보내기";
 
-/* Syntax control menu title to disable all targets. */
-"Syntax_Control_Disable_All" = "모두 비활성화";
+"Export_Format_PDF_Name" = "PDF";
+"Export_Format_PDF_Description" = "PDF 레이아웃을 변경하려면, 파일 > 페이지 설정을 선택하세요.";
+"Export_Format_PDF_Action" = "PDF 내보내기";
 
-/* All syntax control targets chosen. */
-"Syntax_Control_Target_All" = "모두";
+"Export_Format_Markdown_Name" = "마크다운";
+"Export_Format_Markdown_Description" = "다른 편집기들과 호환됩니다.";
+"Export_Format_Markdown_Action" = "Markdown 내보내기";
 
-/* No syntax control target chosen. */
-"Syntax_Control_Target_None" = "없음";
+"Export_Format_Project_Archive_Name" = "프로젝트 아카이브";
+"Export_Format_Project_Archive_Description" = "관련된 콘텐츠 블록을 포함합니다.";
+"Export_Format_Project_Archive_Action" = "프로젝트 아카이브 내보내기";
 
-/* Nouns syntax control target. */
-"Syntax_Control_Target_Nouns" = "명사";
+"Copy_Markdown" = "Markdown 복사";
+"Copy_HTML" = "HTML 복사";
+"Copy_Formatted" = "서식 복사";
 
-/* Verbs syntax control target. */
-"Syntax_Control_Target_Verbs" = "동사";
+/*------
+ Preview
+ ------*/
 
-/* Adjectives syntax control target. */
-"Syntax_Control_Target_Adjectives" = "형용사";
+"Display_Mode_Web" = "웹";
+"Display_Mode_PDF" = "PDF";
 
-/* Adverbs syntax control target. */
-"Syntax_Control_Target_Adverbs" = "부사";
-
-/* Conjunctions syntax control target. */
-"Syntax_Control_Target_Conjunctions" = "접속사";
+"PDF_Scale_Fit_Page" = "페이지에 맞추기";
+"PDF_Scale_Fit_Width" = "너비에 맞추기";
+"PDF_Percent_Zoom" = "%zd %";

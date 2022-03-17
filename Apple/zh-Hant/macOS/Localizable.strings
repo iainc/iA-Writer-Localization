@@ -12,6 +12,9 @@
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "資料庫新文件";
 
+/* New. Menu item title for creating new documents in Library in current window. */
+"New_Document_In_Library_In_Window_Menu" = "視窗資料庫的新文件";
+
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "新";
 
@@ -27,11 +30,13 @@
 /* Stats editor toolbar title. */
 "Editor_Toolbar_Stats_Menu" = "僅限統計";
 
-/* Contextual menu to copy formatted text. */
-"Editor_Copy_Formatted_Menu" = "複製格式化";
-
-/* Contextual menu to copy HTML. */
-"Editor_Copy_HTML_Menu" = "複製 HTML";
+"Menu_Share" = "分享";
+"Menu_Publish" = "發布";
+"Menu_Export" = "匯出";
+"Menu_Export_With_Ellipsis" = "匯出⋯";
+"Menu_Print" = "列印";
+"Menu_Print_Formatted" = "列印⋯";
+"Menu_Print_Plain_Text" = "列印純文字⋯";
 
 /*----
  Trial
@@ -82,36 +87,6 @@
 /* Export panel format picker label. */
 "Export_Panel_Export_To_Label" = "匯出至：";
 
-/* Microsoft Word export format. */
-"Export_Format_Word_Name" = "Microsoft Word";
-
-/* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "與Microsoft Word 2007或更新版本、Apple Pages和Google Docs相容。";
-
-/* HTML export format. */
-"Export_Format_HTML_Name" = "HTML";
-
-/* HTML export format description. */
-"Export_Format_HTML_Description" = "通用 HTML。";
-
-/* PDF export format. */
-"Export_Format_PDF_Name" = "PDF";
-
-/* PDF export format description. */
-"Export_Format_PDF_Description" = "更改 PDF 設計，選取檔案→頁面設定。";
-
-/* Plain text export format. */
-"Export_Format_Markdown_Name" = "Markdown";
-
-/* Plain text export format description. */
-"Export_Format_Markdown_Description" = "與其他編編器兼容。";
-
-/* Project archive text export format. */
-"Export_Format_Project_Archive_Name" = "項目檔案";
-
-/* Plain text export format description. */
-"Export_Format_Project_Archive_Description" = "包含關聯的內容塊。";
-
 /* Checkmark title in print options. */
 "Print_Header" = "列印標題";
 
@@ -135,23 +110,11 @@
  Window
  -----*/
 
-/* Menu item to hide library. */
-"Hide_Library" = "隱藏資料庫";
-
-/* Menu item to hide preview. */
-"Hide_Preview" = "隱藏預覽";
-
-/* Menu item to show library. */
-"Show_Library" = "顯示資料庫";
+/* Menu item to show preview. */
+"Show_Source_List" = "顯示管理欄";
 
 /* Menu item to show preview. */
-"Show_Preview" = "顯示預覽";
-
-/* Menu item to show preview. */
-"Show_Source_List" = "顯示管理栏";
-
-/* Menu item to show preview. */
-"Hide_Source_List" = "隱藏管理栏";
+"Hide_Source_List" = "隱藏管理欄";
 
 /* Menu item to show filter bar. */
 "Show_Search_Bar" = "顯示過濾欄";
@@ -169,10 +132,10 @@
 "Preview_Toolbar_Export" = "匯出";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "半寬";
+"Preview_Layout_Split" = "分開";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "全寬";
+"Preview_Layout_Full" = "全寬";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "沒有內容預覽";
@@ -180,18 +143,6 @@
 /*------
  Library
  ------*/
-
-/* Button title to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order" = "自訂";
-
-/* Button tooltip to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order_Tooltip" = "在目前的檢視畫面中使用自訂分類排序";
-
-/* Go menu item title to go back. */
-"Library_Go_Back" = "返回";
-
-/* Go menu item title to go forward. */
-"Library_Go_Forward" = "向前";
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "上層資料夾";
@@ -205,9 +156,6 @@
 
 /* Deletion confrimation infromative text for a local item. */
 "Library_Delete_Confrimation_Informative_Text" = "此動作不能被撤銷。";
-
-/* No comment provided by engineer. */
-"Library_Delete_Confrimation_Button" = "刪除";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "空白文件";
@@ -240,15 +188,6 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "取得資訊";
 
-/* Menu to copy library path for an item in Library. */
-"Library_Action_Copy_Library_Path" = "複製資料庫路徑";
-
-/* Menu to copy URL command path for an item in Library. */
-"Library_Action_Copy_URL_Command_Path" = "複制 URL 命令路徑";
-
-/* Menu to copy URL command to open file for an item in Library. */
-"Library_Action_Copy_URL_Command_To_Open_File" = "將 URL 命令複制至「開啟檔案」";
-
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "排序方式";
 
@@ -276,8 +215,8 @@
 /* Search menu item to show currently selected document in Library. */
 "Show_In_Library" = "在資料庫中顯示";
 
-/* Search field placeholder. */
-"Library_Search_Field_Placeholder" = "過濾";
+/* Library filter field placeholder. */
+"Library_Filter_Field_Placeholder" = "過濾";
 
 /* Loading content message for document library. */
 "Library_Loading_Message" = "正在載入文檔…若資料庫內容較多，可能需時數分鐘。";
@@ -337,18 +276,6 @@
  Editor
  -----*/
 
-/* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "啟動對焦模式";
-
-/* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "停用對焦模式";
-
-/* Menu title to enable syntax highlight. */
-"Menu_Enable_Syntax_Higlight" = "啟用語法突出";
-
-/* Menu title to disable syntax highlight. */
-"Menu_Disable_Syntax_Higlight" = "停用語法突出";
-
 /* Apply English title capitalization to selected text. */
 "Make_Title_Case" = "製作標題案例";
 
@@ -391,6 +318,15 @@
 /* Bold inline element name. */
 "Inline_Element_Bold" = "粗體";
 
+/* Bold inline element name. */
+"Inline_Element_Code" = "代碼";
+
+/* Bold inline element name. */
+"Inline_Element_Highlight" = "突出顯示";
+
+/* Wikilink inline element name. */
+"Inline_Element_Wikilink" = "維基鏈接";
+
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "底線";
 
@@ -425,6 +361,9 @@
 /* General preferences pane title. */
 "Preferences_Pane_Title_General" = "一般";
 
+/* Sharing preferences pane title. */
+"Preferences_Pane_Title_Accounts" = "帳號";
+
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "檔案";
 
@@ -437,11 +376,8 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "範本";
 
-/* Button to add account in preferences. */
-"Preferences_Add_Account_Button" = "新增帳戶…";
-
-/* Button to remove account in preferences. */
-"Preferences_Remove_Account_Button" = "移除帳戶";
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
 "URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "您確定要重設驗證權杖嗎？";
@@ -454,6 +390,24 @@
 
 /* URL scheme first use alert informative text. */
 "URL_Scheme_First_Use_Informative_Text" = "您可以稍後前往「偏好」修改。";
+
+/* Markdown processing lazy paragraphs. */
+"Markdown_Lazy_Paragraphs" = "按一次下一行以開始新段落";
+
+"Markdown_Lazy_Paragraphs_Description" = "依預設，Markdown 在段落間須有兩次換行 (空白行)。啟用時，單一換行會開始一個新段落。";
+
+"Markdown_Lazy_Paragraphs_Warning" = "提供與 iA Writer 較舊版本相容使用。其他 Markdown 處理器恕不支援。";
+
+/* Markdown processing smart punctuation. */
+"Markdown_Smart_Punctuation" = "套用智能標點符號";
+
+"Markdown_Smart_Punctuation_Description" = "將直線引號與單純破折號轉換為所有格式化輸出的智慧對應項目。";
+
+"Markdown_Metadata_Tab" = "中繼資料";
+
+"Markdown_Library_Paths_And_Links_Tab" = "資料庫路徑與連結";
+
+"Markdown_Processing_Tab" = "正在處理";
 
 /*-----------
  Quick Search

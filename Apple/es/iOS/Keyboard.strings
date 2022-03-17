@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "Restablecer el diseño del teclado";
 "Key_Picker_Action_Cancel" = "Cancelar";
 
+"Menu_Quick_Search" = "Búsqueda rápida";
+"Menu_Find" = "Buscar y reemplazar";
+"Menu_Replace" = "Reemplazar";
+"Menu_Replace_All" = "Reemplazar todo";
+
 "Find_Placeholder" = "Buscar";
 "Find_Replace_Placeholder" = "Reemplazar";
+
+"Key_Description_Lightning" = "Menú de rayo";
+"Key_Description_Insert_Selected_Completion" = "Insertar término seleccionado";
+"Key_Description_Cancel" = "Cancelar";
+"Key_Description_Open_Link" = "Abrir enlace";
 
 "Key_Description_Find" = "Barra de búsqueda";
 "Key_Description_Show_Find" = "Mostrar barra de búsqueda";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "Buscar anterior";
 "Key_Description_Replace" = "Reemplazar";
 "Key_Description_Replace_All" = "Reemplazar todo";
+
+"Find_Contains" = "Contiene";
+"Find_Matches_Word" = "Contiene la palabra";
+"Find_Starts_With" = "Empieza por";
+"Find_Ends_With" = "Termina en";
+"Find_Regular_Expression" = "Expresión regular";
 
 "Key_Description_Search" = "Buscar";
 "Key_Description_Command" = "Comandos";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "Descartar menú";
 
 "Key_Title_Return" = "volver";
-"Key_Title_Shift_Right" = "tabulador";
-"Key_Title_Shift_Left" = "tabular atrás";
+"Key_Title_Tab" = "tabulador";
+"Key_Title_Backtab" = "tabular atrás";
 "Key_Title_Home" = "inicio";
 "Key_Title_End" = "fin";
-"Key_Title_Shift_Up" = "mover\ntexto ↑";
-"Key_Title_Shift_Down" = "mover\ntexto ↓";
+"Key_Title_Move_Text_Up" = "mover\ntexto ↑";
+"Key_Title_Move_Text_Down" = "mover\ntexto ↓";
 "Key_Title_Undo" = "deshacer";
 "Key_Title_Redo" = "rehacer";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "Eliminar hacia atrás";
 "Key_Description_Delete_Paragraph" = "Eliminar párrafo";
 "Key_Description_Dismiss_Keyboard" = "Ocultar teclado";
-"Key_Description_Shift_Left" = "Alargar";
-"Key_Description_Shift_Right" = "Sangrar";
-"Key_Description_Shift_Up" = "Mover párrafo arriba";
-"Key_Description_Shift_Down" = "Mover párrafo abajo";
+"Key_Description_Backtab" = "Alargar";
+"Key_Description_Tab" = "Sangrar";
+"Key_Description_Outdent" = "Alargar";
+"Key_Description_Indent" = "Sangrar";
+"Key_Description_Move_Text_Up" = "Mover línea arriba";
+"Key_Description_Move_Text_Down" = "Mover línea abajo";
 "Key_Description_Dismiss_Keyboard" = "Ocultar teclado";
 "Key_Description_Move_To_Beginning" = "Ir al comienzo del documento";
 "Key_Description_Move_To_End" = "Ir al final del documento";

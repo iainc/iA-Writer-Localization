@@ -13,19 +13,13 @@
 "Library_Favorites_Section_Title" = "收藏";
 
 /* Title for action to add a new smart folder in library root view. */
-"Library_Action_Add_Favorite" = "添加收藏…";
-
-/* Title for action to add a new library location in library root. */
-"Library_Action_Add_Location" = "Add Location…";
+"Library_Menu_Favorite" = "添加收藏…";
 
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "智能文件夹";
 
 /* Title for root library view. */
 "Library_Hashtags_Section_Title" = "标签";
-
-/* Title for action to add a new smart folder in library root view. */
-"Library_Action_New_Smart_Folder" = "新建智能文件夹…";
 
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Edit_Smart_Folder" = "编辑";
@@ -60,6 +54,12 @@
 "Library_Location_Introduction_Hide_Forever_Alert_Title" = "不要再显示";
 "Library_Location_Rename_Alert_Title" = "重命名Library Location";
 
+/*-----------
+ Smart Folder
+ -----------*/
+
+"Smart_Folder_Rename_Alert_Title" = "重命名智能文件夹";
+
 /*------
  Backups
  ------*/
@@ -68,7 +68,7 @@
 "Backups_Title" = "备份";
 
 /* Message under title when browsing backups. */
-"Backup_Submitem_Message" = "来自于其他应用的文件经编辑后会在此%@备份。文件经过重命名后，旧有备份依然使用原有文件名。";
+"Backup_Submitem_Message" = "文件经编辑后会在此%@备份。文件经过重命名后，旧有备份依然使用原有文件名。";
 
 /* Button title to restore a backup. */
 "Backups_Restore_Button_Title" = "恢复";
@@ -88,63 +88,21 @@
 /* Button description to browse all backups. */
 "Backups_Button_Title" = "浏览备份";
 
-/* Action in editor to browse backups for currently opened file from other apps. */
-"Action_Browse_Backups" = "浏览备份";
+/* Title for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the name of the folder that will include backups. */
+"Backup_Prompt_Title" = "为“%@”启用备份？";
+
+/* Message for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the current device kind (iPhone, iPad). */
+"Backup_Prompt_Message" = "文件在编辑时备份在这台%@上。我们建议启用备份，除非您将这台外部设备用于某台共享%@上的私人文件。";
 
 /*------
  Library
  ------*/
-
-/* Button to move to move files or folders. */
-"Button_Move" = "移动​​";
-
-/* Button to delete. */
-"Button_Delete" = "刪除";
 
 /* Button to select all visible items. */
 "Button_Select_All" = "全选";
 
 /* Button to deselect all visible items. */
 "Button_Deselect_All" = "全不选";
-
-/* Button to save. */
-"Button_Save" = "保存";
-
-/* Action to move files or folders. */
-"Action_Move" = "移动​​…";
-
-/* Action to duplicate. */
-"Action_Duplicate" = "复制";
-
-/* Action to rename. */
-"Action_Rename" = "重命名…";
-
-/* Action to rename. */
-"Action_Remove" = "移除";
-
-/* Action to delete. */
-"Action_Delete" = "刪除";
-
-/* Action to open file or folder info. */
-"Action_Get_Info" = "信息";
-
-/* Action to add folder to favorites. */
-"Action_Remove_External_File" = "移除";
-
-/* Action to add folder to favorites. */
-"Action_Add_Favorite" = "添加到​​收藏";
-
-/* Action to add folder to favorites. */
-"Action_Remove_Favorite" = "移除收藏";
-
-/* Action to browse file versions. */
-"Action_Browse_Versions" = "浏览版本";
-
-/* Action to browse file versions. */
-"Action_Find_And_Replace" = "查找和替换​​";
-
-/* Generic update button. */
-"Action_Update" = "更新​​";
 
 /* Action to switch to night mode. */
 "Action_Dark_Mode" = "使用深色主题";
@@ -215,17 +173,17 @@
 /* Library empty message in hashtags. */
 "Library_Empty_Hashtag" = "未找到带标签的文件";
 
-/* Title for external files section. */
-"Library_External_Files_Section_Title" = "外部";
-
-/* Title for action to open external files location. */
-"Library_External_Files" = "来自其他应用";
-
 /* Title for action to open external files picker. */
 "Library_External_Files_Open" = "打开…";
 
 /* Title for move to folder destination picker title. */
 "Move_Title" = "移动​​";
+
+/* Title for to begin editing a document. */
+"Begin_Editing" = "Begin Editing";
+
+/* Title for to end editing a document. */
+"End_Editing" = "End Editing";
 
 /*-----
  Editor
@@ -243,23 +201,17 @@
 /* Title for content block picker. */
 "Content_Block_Picker_Title" = "添加​​内容块";
 
-/* Action sheet action to enable focus mode. */
-"Action_Enable_Focus_Mode" = "启用焦点模式";
-
-/* Action sheet action to disable focus mode. */
-"Action_Disable_Focus_Mode" = "禁用焦点模式";
-
-/* Action sheet action to enable syntax control. */
-"Action_Enable_Syntax_Control" = "显示语法";
-
-/* Action sheet action to disable syntax control. */
-"Action_Disable_Syntax_Control" = "隐藏语法";
-
-/* Action sheet action to enable syntax control. */
+/* Action sheet action to show stats. */
 "Action_Show_Stats" = "显示状态";
 
-/* Action sheet action to disable syntax control. */
+/* Action sheet action to hide stats. */
 "Action_Hide_Stats" = "隐藏状态";
+
+/* Action sheet action to show find bar. */
+"Action_Show_Find_And_Replace" = "显示查找和替换";
+
+/* Action sheet action to hide find bar. */
+"Action_Hide_Find_And_Replace" = "隐藏查找和替换";
 
 /* Action sheet action. */
 "Action_Configure_Editor" = "配置编辑器";
@@ -269,53 +221,58 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Item_Transform" = "转换…";
+"Menu_Transform" = "转换…";
 
 /* Menu item title for transforming text to upper case. */
-"Menu_Item_Transform_To_Upper_Case" = "大写";
+"Menu_Transform_To_Upper_Case" = "大写";
 
 /* Menu item title for transforming text to lower case. */
-"Menu_Item_Transform_To_Lower_Case" = "小写";
+"Menu_Transform_To_Lower_Case" = "小写";
 
 /* Menu item title for captilizing first letter of every word. */
-"Menu_Item_Transform_To_Capitalized" = "全大写";
+"Menu_Transform_To_Capitalized" = "全大写";
 
 /* Menu item title for transforming text to title case. */
-"Menu_Item_Transform_To_Title_Case" = "首字母大写";
+"Menu_Transform_To_Title_Case" = "首字母大写";
 
-/* Menu item to copy a library path to file. */
-"Menu_Item_Copy_Library_Path" = "复制资料库路径";
+/* Action to add folder to favorites. */
+"Menu_Favorite" = "添加到​​收藏";
 
-/* Menu item to copy URL command path for an item in Library. */
-"Menu_Item_Copy_URL_Command_Path" = "复制URL命令路径";
+/* Action to add folder to favorites. */
+"Menu_Unfavorite" = "移除收藏";
 
-/* Menu item to copy URL command to open file for an item in Library. */
-"Menu_Item_Copy_URL_Command_To_Open_File" = "复制URL命令以打开文件";
+/* Action to add folder to favorites. */
+"Menu_Remove_Location" = "从Locations中删除";
 
-/* Menu item title for copying HTML. */
-"Menu_Item_Copy_HTML" = "复制HTML";
+/* Action to add folder to favorites. */
+"Menu_Rename_Location" = "在位置中重命名";
 
-/* Menu item title for copying formatted text. */
-"Menu_Item_Copy_Formatted" = "格式化复制";
+/* Action to browse file versions. */
+"Menu_Browse_Versions" = "浏览版本";
 
-/*----------
- Table Views
- ----------*/
+/* Action to browse file backups. */
+"Menu_Browse_Backups" = "浏览备份";
 
-/* Table view swipe action title. */
-"Table_View_Action_Delete" = "刪除";
+/* Action to show a file in Files app. */
+"Menu_Show_In_Files" = "在文件中显示";
 
-/* Table view swipe action title. */
-"Table_View_Action_Rename" = "Rename";
+/* Action to show a file in Library. */
+"Menu_Show_In_Library" = "Show in Library";
 
-/* Table view swipe action title. */
-"Table_View_Action_Remove" = "移除";
+/* Action to open a file in new window. */
+"Menu_Open_In_New_Window" = "在新窗口中​​打开";
 
-/* Table view swipe action title. */
-"Table_View_Action_More" = "更多";
+/* Action to move files or folders. */
+"Menu_Move" = "移动​​";
 
-/* Table view swipe action title. */
-"Table_View_Action_Hide" = "隐藏​​";
+/* Action to duplicate. */
+"Menu_Duplicate" = "复制";
+
+/* Action to rename. */
+"Menu_Rename" = "重命名";
+
+/* Action to open file or folder info. */
+"Menu_Get_Info" = "信息";
 
 /*------------
  Folder Picker
@@ -336,9 +293,6 @@
 
 /* Smart folder editor title while creating a new smart folder. */
 "Smart_Folder_Editor_New_Title" = "新建智能文件夹";
-
-/* Smart folder editor section title. */
-"Smart_Folder_Editor_Name_Section_Title" = "名称";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Rules_Section_Title" = "规则​​";
@@ -362,9 +316,6 @@
 
 /* Smart folder editor section title. */
 "Smart_Folder_Sort_By_Custom" = "自定义排序方式";
-
-/* Button to show sort by options. */
-"Smart_Folder_Sort_By_Custom_Edit" = "排序方式：";
 
 /*----------
  Rule Editor
@@ -428,6 +379,12 @@
 /* Action title to confirm renaming to renaming items. */
 "Rename_Confirmation" = "重命名​​";
 
+/* Rename failure title. */
+"Rename_Failure_Title" = "无法重命名";
+
+/* Rename failure title. */
+"Rename_Failure_Permissions" = "来自其他应用的文件只能在“文件”应用中重命名。";
+
 /*---------
  Table Size
  ---------*/
@@ -464,53 +421,22 @@
 "Library_Info_Size" = "大小";
 
 /*-----
+Document
+-----*/
+
+"Document_Already_Open_Content_Placeholder_Title" = "无法显示文件";
+"Document_Already_Open_Content_Placeholder_Message" = "文件已在另一个窗口打开。";
+"Document_Already_Open_Content_Placeholder_Button" = "在此窗口打开";
+
+/*-----
  Export
  -----*/
-
-/* Share sheet Medium activity option */
-"Share_Sheet_Medium_Activity_Title" = "在Medium新建草稿";
-
-/* Share sheet WordPress activity option */
-"Share_Sheet_WordPress_Activity_Title" = "在WordPress新建草稿";
 
 /* Share sheet `open file in app` activity option */
 "Share_Sheet_Open_In_Activity_Title" = "用其他方式打开";
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "保存至…";
-
-/* Sharing button title. */
-"Button_Share" = "分享";
-
-/* Sharing button title. */
-"Action_Share" = "分享…";
-
-/* Action menu title. */
-"Action_Export" = "导出…";
-
-/* Action menu title. */
-"Action_Print" = "打印…";
-
-/* Action menu title. */
-"Action_Print_Formatted" = "打印格式化文本…";
-
-/* Action menu title. */
-"Action_Print_Plain_Text" = "打印纯文本…";
-
-/* Action menu title. */
-"Action_Export_Markdown" = "Markdown…";
-
-/* Action menu title. */
-"Action_Export_HTML" = "HTML…";
-
-/* Action menu title. */
-"Action_Export_PDF" = "PDF…";
-
-/* Action menu title. */
-"Action_Export_Word" = "Microsoft Word​​…";
-
-/* Action menu title. */
-"Action_Export_Project_Archive" = "项目存档…";
 
 /*--------------
  Version Browser
@@ -610,56 +536,30 @@
  --------------------------*/
 
 /* Quick Search key command titles. */
-"Discoverability_Quick_Search_Select_Next_Result" = "选定​​下一个";
-"Discoverability_Quick_Search_Select_Previous_Result" = "选定​​上一个";
 "Discoverability_Quick_Search" = "快速搜索";
 
-/* General action key command titles. */
+/* New file key command titles. */
 "Discoverability_New" = "新建";
+"Discoverability_New_Document" = "新增文件";
+"Discoverability_New_Window" = "新建窗口";
 
+/* Appearance command titles. */
 "Discoverability_Dark_Mode" = "深色主题";
 "Discoverability_Light_Mode" = "浅色主题";
 /* Old name used for search matching. */
 "Discoverability_Night_Mode" = "夜间模式";
 
 /* Editor action key command titles. */
-"Discoverability_Syntax" = "语法高亮";
-"Discoverability_Browse_Versions" = "浏览版本";
-"Discoverability_New" = "新建";
 "Discoverability_Open" = "打开…";
-"Discoverability_Preview" = "预览";
-"Discoverability_Strong" = "粗体";
-"Discoverability_Strikethrough" = "删除线";
-"Discoverability_Headings" = "标题1-6";
-"Discoverability_Blockquote" = "块引用";
-"Discoverability_List" = "列表";
-"Discoverability_Link" = "链接";
-"Discoverability_Footnote" = "脚注";
-"Discoverability_Task_List" = "任务列表";
-"Discoverability_Ordered_List" = "已排序列表";
-"Discoverability_Ordered_Task_List" = "已排序任务列表";
-"Discoverability_Move_Line_Up" = "向上移动行";
-"Discoverability_Move_Line_Down" = "向下移动行";
-"Discoverability_Focus" = "聚焦模式";
-"Discoverability_Typewriter" = "打字机模式";
-"Discoverability_Share" = "分享";
-"Discoverability_Export_PDF" = "导出 PDF";
-"Discoverability_Export_Markdown" = "导出Markdown";
-"Discoverability_Export_HTML" = "导出HTML";
-"Discoverability_Export_Word" = "导出Microsoft Word";
-"Discoverability_Export_Project_Archive" = "导出项目存档";
+"Discoverability_Move_Text_Up" = "向上移动行";
+"Discoverability_Move_Text_Down" = "向下移动行";
 "Discoverability_Configure_Keyboard" = "配置键盘";
-"Discoverability_Settings" = "设置";
-"Discoverability_Configure_Keyboard" = "配置键盘";
-"Discoverability_Settings" = "设置";
-"Discoverability_Increase_Size" = "字号加大";
-"Discoverability_Decrease_Size" = "字号缩小";
-"Discoverability_Default_Size" = "默认字号";
+"Discoverability_Use_Selection_For_Find" = "使用选定内容查找";
 "Discoverability_Find_Next" = "查找​​下一个";
 "Discoverability_Find_Previous" = "查找​​上一个";
-"Discoverability_Find" = "查找";
-"Discoverability_Help" = "帮助";
-"Discoverability_Stats" = "统计数据";
+"Discoverability_Find_And_Replace" = "查找和替换";
+"Discoverability_Show_Settings" = "显示设置";
+"Discoverability_Show_Help" = "显示帮助";
 
 /*------
  Preview
@@ -694,18 +594,26 @@
 /* Button to open settings. */
 "Settings_Title" = "设置";
 
-/* Action to switch to night mode. */
-"Settings_Dark_Appearance" = "深色主题";
 
-/* Action to switch to night mode. */
-"Settings_Dark_App_Icon" = "深色应用图标";
+/* Appearance settings. */
+"Settings_Appearance" = "主题";
+"Settings_App_Icon" = "应用图标";
+
+/* Appearance names. */
+"Appearance_System" = "系统";
+"Appearance_Light" = "浅色";
+"Appearance_Dark" = "深色​";
 
 /* Settings panes. */
+"Settings_Interface_Title" = "界面";
+"Settings_Keyboard_Title" = "键盘";
 "Settings_General_Title" = "通用";
 "Settings_Files_Title" = "文件";
+"Settings_Accounts_Title" = "帐户";
 "Settings_Library_Title" = "资料库";
 "Settings_Editor_Title" = "编辑器";
 "Settings_Templates_Title" = "模板";
+"Settings_Markdown_Title" = "Markdown";
 "Settings_URL_Scheme_Title" = "URL命令";
 
 /* Appearance section in settings. */
@@ -714,23 +622,22 @@
 /* Sharing accounts section in settings. */
 "Settings_Accounts_Section_Title" = "正在分享账号";
 
-"Settings_Accounts_Medium_Add" = "添加Medium账号…";
-"Settings_Accounts_Medium_Remove" = "移除Medium…";
-"Settings_Accounts_Medium_Remove_Confirmation" = "移除Medium";
-"Settings_Accounts_Medium_Add_Title" = "Medium";
-"Settings_Accounts_Medium_Add_Message" = "iA Writer创建草稿，供您在出版前进行检查。";
-"Settings_Accounts_Medium_Get_Token" = "获取Medium令牌";
-"Settings_Accounts_Medium_Add_Token_Placeholder" = "令牌";
-"Settings_Accounts_Medium_Invalid_Token_Title" = "无效令牌";
-"Settings_Accounts_Medium_Invalid_Token_Message" = "请确保您输入了有效的Medium令牌。";
+"Settings_Accounts_Add" = "添加账号…";
+"Settings_Accounts_Remove" = "删除帐户";
+"Settings_Accounts_Configure" = "配置帐户";
 
-"Settings_Accounts_WordPress_Add" = "添加WordPress账号…";
-"Settings_Accounts_WordPress_Remove" = "移除WordPress…";
-"Settings_Accounts_WordPress_Remove_Confirmation" = "移除WordPress";
-"Settings_Accounts_WordPress_Add_Title" = "WordPress";
-"Settings_Accounts_WordPress_Add_Message" = "iA Writer创建草稿，供您在出版前进行检查。\n\n使用自架服务器的WordPress站点仅可通过Jetpack支持。\n\n如果您的账号关联了多个网站，发布内容将在您的首选网站上创建。";
-"Settings_Accounts_WordPress_About_Jetpack" = "关于Jetpack";
-"Settings_Accounts_WordPress_Authorize" = "授权";
+/*-----------------
+ Interface Settings
+ -----------------*/
+
+"Setttings_Interface_File_Extensions" = "文件扩展名";
+
+"Settings_Interface_Scroll_Sync" = "同步滚动";
+"Settings_Interface_Editor_Preview_Section_Header" = "编辑和预览";
+
+"Settings_Interface_Toolbars" = "工具栏";
+"Settings_Interface_Toolbars_Show_Hide" = "显示/隐藏";
+"Settings_Interface_Toolbars_Always_Show" = "总是显示";
 
 /*-------------
  Files Settings
@@ -752,7 +659,6 @@
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "排序方式";
-"Settings_Library_Sort_By_Edit" = "排序方式：";
 
 /*--------------
  Editor Settings
@@ -778,15 +684,33 @@
 "Settings_Editor_Focus_Mode_Scope" = "范围";
 
 /* Keyboard section in settings. */
-"Settings_Editor_Keyboard_Section_Title" = "自定义键盘";
-"Settings_Editor_Keyboard_Prefers_Popover" = "始终使用软键盘";
-"Settings_Editor_Keyboard_Configure" = "配置键盘";
-"Settings_Editor_Keyboard_Section_Footer" = "欲更快访问配置模式，可轻点并长按自定义键盘中的任一白色键。";
+"Settings_Keyboard_Lightning_Menu" = "闪电菜单";
+"Settings_Keyboard_Lightning_Menu_Add_Actions" = "添加操作";
+"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "添加子菜单";
+"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "编辑子菜单";
+"Settings_Keyboard_Lightning_Menu_Remove_Action" = "删除操作";
+"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "删除子菜单";
+"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "选择操作";
+"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "操作";
+"Settings_Keyboard_Lightning_Menu_Section_Footer" = "点击并按住闪电菜单中的任何操作来打开这些设置。";
+
+"Settings_Command_Keyboard" = "命令键盘";
+"Settings_Command_Keyboard_Enable" = "在键盘栏中显示";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "始终显示为弹出框";
+"Settings_Command_Keyboard_Configure" = "配置";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "点击并按住命令键盘中的任何一个轻键，以打开配置模式。";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "命令键盘操作可在闪电菜单和快速搜索中使用，并在连接硬件键盘时用作键盘快捷键。";
+
+/* Lightning menu strings. */
+"Lightning_Menu_Group_Text" = "文本";
+"Lightning_Menu_Group_Actions" = "操作";
+"Lightning_Menu_Group_Menu" = "菜单";
+"Configure_Menu" = "配置菜单";
 
 /* Hardware keyboard section in settings. */
 "Settings_Editor_Hardware_Keyboard_Title" = "硬键盘";
-"Settings_Editor_Hardware_Keyboard_Footer" = "键盘栏将在连接硬键盘后隐藏";
-"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "隐藏键盘栏";
+"Settings_Editor_Hardware_Keyboard_Footer" = "这只会在连接硬件键盘时影响键盘栏。";
+"Settings_Editor_Hardware_Keyboard_Show_Bar" = "显示键盘栏";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "文本输入";
@@ -809,6 +733,7 @@
 "Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "插入Tab";
 
 "Settings_Editor_Tab_Width" = "Tab宽度";
+"Settings_Editor_Indent_Width" = "缩进宽度";
 
 "Settings_Editor_Wrapped_Line_Indent_Section_Title" = "包装行缩进包括";
 "Settings_Editor_Wrapped_Line_Indent_Whitespace" = "白空格";
@@ -841,11 +766,12 @@
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "反转预览颜色";
 
 /* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Markdown处理";
+"Settings_Markdown_Processing_Section_Title" = "Markdown处理";
+"Settings_Markdown_Library_Paths_Title" = "资源库路径";
+"Settings_Markdown_Output_Section_Title" = "维基链接、话题标签、自动链接";
 "Settings_Markdown_Lazy_Paragraphs" = "单次回车开启新段落";
 "Settings_Markdown_Smart_Punctuation" = "智能标点";
 "Settings_Markdown_Process_Metadata" = "处理元数据";
-"Settings_Markdown_Hide_Hashtags" = "隐藏标签";
 
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "打印和导出PDF";
@@ -876,12 +802,6 @@
 /* URL scheme settings auth token footer. */
 "Settings_URL_Sheme_Auth_Token_Footer" = "部分URL命令需要验证令牌。";
 
-/* URL scheme settings button to copy auth token. */
-"Settings_URL_Sheme_Auth_Token_Copy" = "复制";
-
-/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
-"Settings_URL_Sheme_Auth_Token_Reset" = "重置​​…";
-
 /*---------
  URL Scheme
  ----------*/
@@ -897,3 +817,19 @@
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "是否重置验证令牌？此操作无法撤销。";
+
+/*-----
+ Editor
+ -----*/
+
+/* Find bar menu menu item. */
+"Find_Match_Style" = "匹配样式";
+
+/* Find bar menu menu item. */
+"Find_Match_Case" = "匹配文本大小写";
+
+/* Find bar action to replace selected result. */
+"Replace_Action" = "替换";
+
+/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
+"Replace_All_Action" = "全部";

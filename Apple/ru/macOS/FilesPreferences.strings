@@ -1,4 +1,10 @@
 
+/* Class = "NSTextFieldCell"; title = "Saving:"; ObjectID = "DAH-ta-FHC"; */
+"DAH-ta-FHC.title" = "Сохранение:";
+
+/* Class = "NSTextFieldCell"; title = "Files are always automatically saved. \nIf selected, files will ask whether you want \nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
+"GLa-Mz-lpI.title" = "Файлы всегда сохраняются автоматически.\nЕсли включено, файлы будут спрашивать,\nхотите ли вы оставить или отменить изменения при закрытии.";
+
 /* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "Предпочитаемая команда будет использована при нажатии ⌘N,\nили иконки в Dock когда ни один другой файл не открыт.\nАльтернативная команда будет использована при нажатии ⌥⌘N.";
 
@@ -13,6 +19,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "Файлы будут автоматически\nсозданы в библиотеке.";
+
+/* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
+"dT3-nQ-wep.title" = "Спрашивать, оставлять ли правки";
 
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "Новый в библиотеке";

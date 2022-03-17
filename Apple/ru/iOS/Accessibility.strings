@@ -3,10 +3,15 @@
 "Default_Text_Size" = "Размер текста по умолчанию";
 "Decrease_Text_Size" = "Уменьшить размер текста";
 
+"Button_Back" = "Go Back";
+"Button_Forward" = "Go Forward";
 "Button_Compose" = "Создать файл";
+"Button_Library" = "Library";
 "Button_Preview" = "Предварительный просмотр";
 "Button_Search" = "Поиск";
 "Button_Appearance" = "Опции просмотра";
+"Button_Preview_Appearance" = "Preview Options";
+"Button_Editor_Appearance" = "Editor Options";
 "Button_Action" = "Действия с файлом";
 "Button_Move_Selected" = "Переместить выбранное";
 "Button_Delete_Selected" = "Удалить выбранное";

@@ -9,7 +9,8 @@
 "Punctuation" = "Puntuación";
 "Structure" = "Estructura";
 
-"Headings" = "Todos los encabezados";
+"Wikilink" = "Wikienlace";
+"Headings" = "Título 1-6";
 "Heading1" = "Título 1";
 "Heading2" = "Título 2";
 "Heading3" = "Título 3";
@@ -26,6 +27,7 @@
 "HorizontalRule" = "Añadir regla horizontal";
 "PageBreak" = "Agregar salto de página";
 "Strong" = "Negrita";
+"Highlight" = "Resaltar";
 "Code" = "Código";
 "Strikethrough" = "Tachado";
 "SmartCurlyQuotes6699" = "Comillas inglesas";
@@ -96,8 +98,11 @@
 "MoveLineUp" = "Mover línea arriba";
 "MoveLineDown" = "Mover línea abajo";
 "TableOfContents" = "Agregar índice";
-"AddContentBlock" = "Añadir bloque de contenido";
+"Hashtag" = "Agregar hashtag";
+"ScanText" = "Escanear texto";
+"AddContentBlock" = "Agregar bloque de contenido";
 "AddDate" = "Añadir fecha";
+"ChooseDate" = "Choose Date";
 "DismissKeyboard" = "Descartar teclado";
 "MarkTask" = "Marcar tarea como completada";
 "Night" = "Alternar modo nocturno";

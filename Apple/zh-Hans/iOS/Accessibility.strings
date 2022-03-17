@@ -3,10 +3,15 @@
 "Default_Text_Size" = "默认字号";
 "Decrease_Text_Size" = "字号缩小";
 
+"Button_Back" = "Go Back";
+"Button_Forward" = "Go Forward";
 "Button_Compose" = "新建文件";
+"Button_Library" = "Library";
 "Button_Preview" = "预览";
 "Button_Search" = "搜索";
 "Button_Appearance" = "视图选项​​";
+"Button_Preview_Appearance" = "Preview Options";
+"Button_Editor_Appearance" = "Editor Options";
 "Button_Action" = "文件操作";
 "Button_Move_Selected" = "移动选中项";
 "Button_Delete_Selected" = "删除选中项";

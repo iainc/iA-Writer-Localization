@@ -7,16 +7,32 @@
 "Key_Picker_Action_Reset" = "Repor Configuração do Teclado";
 "Key_Picker_Action_Cancel" = "Cancelar";
 
+"Menu_Quick_Search" = "Procura Rápida";
+"Menu_Find" = "Procurar e substituir";
+"Menu_Replace" = "Substituir";
+"Menu_Replace_All" = "Substituir todos";
+
 "Find_Placeholder" = "Encontrar";
 "Find_Replace_Placeholder" = "Substituir";
+
+"Key_Description_Lightning" = "Raio";
+"Key_Description_Insert_Selected_Completion" = "Inserir conclusão selecionada";
+"Key_Description_Cancel" = "Cancelar";
+"Key_Description_Open_Link" = "Abrir ligação";
 
 "Key_Description_Find" = "Barra de Encontrar";
 "Key_Description_Show_Find" = "Mostrar Barra de Encontrar";
 "Key_Description_Hide_Find" = "Ocultar Barra de Encontrar";
-"Key_Description_Find_Next" = "Encontrar Próximo";
+"Key_Description_Find_Next" = "Encontrar Seguinte";
 "Key_Description_Find_Previous" = "Encontrar Anterior";
 "Key_Description_Replace" = "Substituir";
 "Key_Description_Replace_All" = "Substituir Todos";
+
+"Find_Contains" = "Contém";
+"Find_Matches_Word" = "Combina com palavra";
+"Find_Starts_With" = "Começa por";
+"Find_Ends_With" = "Termina em";
+"Find_Regular_Expression" = "Expressão habitual";
 
 "Key_Description_Search" = "Procurar";
 "Key_Description_Command" = "Comandos";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "Dispensar Menu";
 
 "Key_Title_Return" = "voltar";
-"Key_Title_Shift_Right" = "tabulação";
-"Key_Title_Shift_Left" = "retroceder";
+"Key_Title_Tab" = "tabulação";
+"Key_Title_Backtab" = "retroceder";
 "Key_Title_Home" = "início";
 "Key_Title_End" = "fim";
-"Key_Title_Shift_Up" = "mover\ntexto ↑";
-"Key_Title_Shift_Down" = "mover\ntexto ↓";
+"Key_Title_Move_Text_Up" = "mover\ntexto ↑";
+"Key_Title_Move_Text_Down" = "mover\ntexto ↓";
 "Key_Title_Undo" = "desfazer";
 "Key_Title_Redo" = "refazer";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "Eliminar para Trás";
 "Key_Description_Delete_Paragraph" = "Eliminar Parágrafo";
 "Key_Description_Dismiss_Keyboard" = "Ocultar Teclado";
-"Key_Description_Shift_Left" = "Recuo invertido";
-"Key_Description_Shift_Right" = "Recuo";
-"Key_Description_Shift_Up" = "Mover Parágrafo para Cima";
-"Key_Description_Shift_Down" = "Mover Parágrafo para Baixo";
+"Key_Description_Backtab" = "Recuo invertido";
+"Key_Description_Tab" = "Recuo";
+"Key_Description_Outdent" = "Recuo invertido";
+"Key_Description_Indent" = "Recuo";
+"Key_Description_Move_Text_Up" = "Mover Linha para Cima";
+"Key_Description_Move_Text_Down" = "Mover Linha para Baixo";
 "Key_Description_Dismiss_Keyboard" = "Ocultar Teclado";
 "Key_Description_Move_To_Beginning" = "Ir para o Início do Documento";
 "Key_Description_Move_To_End" = "Ir para o Fim do Documento";

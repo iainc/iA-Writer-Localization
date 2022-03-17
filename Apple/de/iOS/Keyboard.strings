@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "Tastatur-Anordnung zurücksetzen";
 "Key_Picker_Action_Cancel" = "Abbrechen";
 
+"Menu_Quick_Search" = "Schnellsuche";
+"Menu_Find" = "Suchen und ersetzen";
+"Menu_Replace" = "Ersetzen";
+"Menu_Replace_All" = "Alle ersetzen";
+
 "Find_Placeholder" = "Finden";
 "Find_Replace_Placeholder" = "Ersetzen";
+
+"Key_Description_Lightning" = "Blitz";
+"Key_Description_Insert_Selected_Completion" = "Ausgewählte Fertigstellung einfügen";
+"Key_Description_Cancel" = "Abbrechen";
+"Key_Description_Open_Link" = "Link öffnen";
 
 "Key_Description_Find" = "Suchfeld";
 "Key_Description_Show_Find" = "Suchfeld anzeigen";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "Vorheriger Eintrag";
 "Key_Description_Replace" = "Ersetzen";
 "Key_Description_Replace_All" = "Alles ersetzen";
+
+"Find_Contains" = "Enthält";
+"Find_Matches_Word" = "Passt zum Wort";
+"Find_Starts_With" = "Beginnt mit";
+"Find_Ends_With" = "Endet auf";
+"Find_Regular_Expression" = "Regulärer Ausdruck";
 
 "Key_Description_Search" = "Suche";
 "Key_Description_Command" = "Befehle";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "Menu schließen";
 
 "Key_Title_Return" = "Umbruch";
-"Key_Title_Shift_Right" = "Tabulator";
-"Key_Title_Shift_Left" = "Rückwärts-Tabulator";
+"Key_Title_Tab" = "Tabulator";
+"Key_Title_Backtab" = "Rückwärts-Tabulator";
 "Key_Title_Home" = "Zum Dokument-Anfang";
 "Key_Title_End" = "Zum Dokument-Ende";
-"Key_Title_Shift_Up" = "Verschiebe\nText ↑";
-"Key_Title_Shift_Down" = "Verschiebe\nText ↓";
+"Key_Title_Move_Text_Up" = "Verschiebe\nText ↑";
+"Key_Title_Move_Text_Down" = "Verschiebe\nText ↓";
 "Key_Title_Undo" = "Widerrufen";
 "Key_Title_Redo" = "Wiederholen";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "Rückwärts löschen";
 "Key_Description_Delete_Paragraph" = "Absatz löschen";
 "Key_Description_Dismiss_Keyboard" = "Tastatur ausblenden";
-"Key_Description_Shift_Left" = "Hängender Einzug";
-"Key_Description_Shift_Right" = "Einzug";
-"Key_Description_Shift_Up" = "Absatz nach oben verschieben";
-"Key_Description_Shift_Down" = "Absatz nach unten verschieben";
+"Key_Description_Backtab" = "Hängender Einzug";
+"Key_Description_Tab" = "Einzug";
+"Key_Description_Outdent" = "Hängender Einzug";
+"Key_Description_Indent" = "Einzug";
+"Key_Description_Move_Text_Up" = "Zeile nach oben";
+"Key_Description_Move_Text_Down" = "Zeile nach unten";
 "Key_Description_Dismiss_Keyboard" = "Tastatur ausblenden";
 "Key_Description_Move_To_Beginning" = "Zum Dokument-Anfang";
 "Key_Description_Move_To_End" = "Zum Dokument-Ende";

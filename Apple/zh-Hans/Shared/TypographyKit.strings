@@ -1,0 +1,17 @@
+
+"Font_Name_Mono" = "Mono";
+"Font_Name_Duo" = "Duo";
+"Font_Name_Quattro" = "Quattro";
+
+"Typography_Tradition_System" = "系统 – %@";
+"Typography_Tradition_Default" = "默认";
+"Typography_Tradition_Simplified_Chinese" = "简体中文";
+"Typography_Tradition_Traditional_Chinese" = "繁体中文";
+"Typography_Tradition_Japanese" = "日语";
+"Typography_Tradition_Korean" = "朝鲜语";
+
+"Typography_Emphasis_Italic" = "斜体";
+"Typography_Emphasis_Mark" = "着重号";
+
+"Typography_Emphasis_Description_Italic" = "斜体";
+"Typography_Emphasis_Description_Mark" = "着重号";

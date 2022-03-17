@@ -9,7 +9,8 @@
 "Punctuation" = "Zeichensetzung";
 "Structure" = "Struktur";
 
-"Headings" = "Alle Überschriften";
+"Wikilink" = "Wikilink";
+"Headings" = "Überschrift 1–6";
 "Heading1" = "Überschrift 1";
 "Heading2" = "Überschrift 2";
 "Heading3" = "Überschrift 3";
@@ -26,8 +27,9 @@
 "HorizontalRule" = "Horizontale Linie";
 "PageBreak" = "Seitenumbruch";
 "Strong" = "Fett";
+"Highlight" = "Markieren";
 "Code" = "Code";
-"Strikethrough" = "Durchstreichung";
+"Strikethrough" = "Durchgestrichen";
 "SmartCurlyQuotes6699" = "Typog. Anführungszeichen, E";
 "SmartDoubleGuillemets" = "Doppelte Guillemets";
 "SmartFullwidthBrackets" = "Nichtprop. eckige Klammern";
@@ -96,8 +98,11 @@
 "MoveLineUp" = "Linie nach oben verschieben";
 "MoveLineDown" = "Linie nach unten verschieben";
 "TableOfContents" = "Inhalt";
+"Hashtag" = "Hashtag hinzufügen";
+"ScanText" = "Text scannen";
 "AddContentBlock" = "Contentblock hinzufügen";
 "AddDate" = "Datum hinzufügen";
+"ChooseDate" = "Choose Date";
 "DismissKeyboard" = "Tastatur ausblenden";
 "MarkTask" = "Task abhaken";
 "Night" = "Nachmodus ein/aus";

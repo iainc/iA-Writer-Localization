@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "重置键盘布局";
 "Key_Picker_Action_Cancel" = "取消​​";
 
+"Menu_Quick_Search" = "快速搜索";
+"Menu_Find" = "查找和替换";
+"Menu_Replace" = "替换";
+"Menu_Replace_All" = "替换全部";
+
 "Find_Placeholder" = "查找";
 "Find_Replace_Placeholder" = "替换";
+
+"Key_Description_Lightning" = "闪电";
+"Key_Description_Insert_Selected_Completion" = "插入选定的完成情况";
+"Key_Description_Cancel" = "取消​​";
+"Key_Description_Open_Link" = "打开链接";
 
 "Key_Description_Find" = "查找栏";
 "Key_Description_Show_Find" = "显示查找栏";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "查找​​上一个";
 "Key_Description_Replace" = "替换";
 "Key_Description_Replace_All" = "替换全部";
+
+"Find_Contains" = "包含";
+"Find_Matches_Word" = "全字匹配";
+"Find_Starts_With" = "开头为";
+"Find_Ends_With" = "结尾为";
+"Find_Regular_Expression" = "正则表达式";
 
 "Key_Description_Search" = "搜索";
 "Key_Description_Command" = "命令";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "关闭菜单";
 
 "Key_Title_Return" = "回车";
-"Key_Title_Shift_Right" = "跳格";
-"Key_Title_Shift_Left" = "反跳格";
+"Key_Title_Tab" = "跳格";
+"Key_Title_Backtab" = "反跳格";
 "Key_Title_Home" = "顶部";
 "Key_Title_End" = "底部";
-"Key_Title_Shift_Up" = "移动\n文本上移";
-"Key_Title_Shift_Down" = "移动\n文本下移";
+"Key_Title_Move_Text_Up" = "移动\n文本上移";
+"Key_Title_Move_Text_Down" = "移动\n文本下移";
 "Key_Title_Undo" = "撤消";
 "Key_Title_Redo" = "恢复";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "向后删除";
 "Key_Description_Delete_Paragraph" = "删除段落";
 "Key_Description_Dismiss_Keyboard" = "隐藏键盘";
-"Key_Description_Shift_Left" = "减少缩进";
-"Key_Description_Shift_Right" = "缩进";
-"Key_Description_Shift_Up" = "上移段落";
-"Key_Description_Shift_Down" = "下移段落";
+"Key_Description_Backtab" = "减少缩进";
+"Key_Description_Tab" = "缩进";
+"Key_Description_Outdent" = "减少缩进";
+"Key_Description_Indent" = "缩进";
+"Key_Description_Move_Text_Up" = "向上移动行";
+"Key_Description_Move_Text_Down" = "向下移动行";
 "Key_Description_Dismiss_Keyboard" = "隐藏键盘";
 "Key_Description_Move_To_Beginning" = "前往文档顶部";
 "Key_Description_Move_To_End" = "前往文档底部";

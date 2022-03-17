@@ -11,6 +11,14 @@
 "%[dateModified]@ %[begins with]@ %@" = "%1$[Дата изменения]@ %2$[В последние]@ %3$[^Количество дней]@";
 "%[dateModified]@ %[ends with]@ %@" = "%1$[Дата изменения]@ %2$[Не в последние]@ %3$[^Количество дней]@";
 
+/* Date created kind rule templates. */
+"%[dateCreated]@ %[is less than]@ %@" = "%1$[Дата создания]@ %2$[До даты]@ %3$@";
+"%[dateCreated]@ %[is greater than]@ %@" = "%1$[Дата создания]@ %2$[После даты]@ %3$@";
+
+/* Date created relative rule templates. */
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[Дата создания]@ %2$[В последние]@ %3$[^Количество дней]@";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[Дата создания]@ %2$[Не в последние]@ %3$[^Количество дней]@";
+
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[Тип]@ %2$[Только]@ %3$[Текст]@";
 "%[kind]@ %[is not]@ %[text]@" = "%1$[Тип]@ %2$[Только не]@ %3$[Текст]@";

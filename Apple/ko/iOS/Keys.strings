@@ -9,7 +9,8 @@
 "Punctuation" = "구두점";
 "Structure" = "구조";
 
-"Headings" = "모든 제목";
+"Wikilink" = "위키링크";
+"Headings" = "제목 1–6";
 "Heading1" = "제목 1";
 "Heading2" = "제목 2";
 "Heading3" = "제목 3";
@@ -26,6 +27,7 @@
 "HorizontalRule" = "가로줄 추가";
 "PageBreak" = "페이지 구분선 추가";
 "Strong" = "볼드체";
+"Highlight" = "강조 표시를";
 "Code" = "코드";
 "Strikethrough" = "취소선";
 "SmartCurlyQuotes6699" = "말린 따옴표";
@@ -96,8 +98,11 @@
 "MoveLineUp" = "위로 줄 이동";
 "MoveLineDown" = "아래로 줄 이동";
 "TableOfContents" = "목차 추가";
+"Hashtag" = "해시태그 추가";
+"ScanText" = "텍스트 스캔";
 "AddContentBlock" = "콘텐츠 블록 추가";
 "AddDate" = "날짜 추가";
+"ChooseDate" = "Choose Date";
 "DismissKeyboard" = "키보드 해제";
 "MarkTask" = "작업을 완료로 표시";
 "Night" = "야간 모드 전환";

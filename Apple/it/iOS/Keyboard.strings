@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "Ripristina layout tastiera";
 "Key_Picker_Action_Cancel" = "Annulla";
 
+"Menu_Quick_Search" = "Ricerca rapida";
+"Menu_Find" = "Trova e sostituisci";
+"Menu_Replace" = "Sostituisci";
+"Menu_Replace_All" = "Sostituisci tutto";
+
 "Find_Placeholder" = "Trova";
 "Find_Replace_Placeholder" = "Sostituisci";
+
+"Key_Description_Lightning" = "Più frequenti";
+"Key_Description_Insert_Selected_Completion" = "Inserisci completamento selezionato";
+"Key_Description_Cancel" = "Annulla";
+"Key_Description_Open_Link" = "Apri link";
 
 "Key_Description_Find" = "Barra Trova";
 "Key_Description_Show_Find" = "Mostra Barra Trova";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "Trova prec.";
 "Key_Description_Replace" = "Sostituisci";
 "Key_Description_Replace_All" = "Sostituisci tutto";
+
+"Find_Contains" = "Contiene";
+"Find_Matches_Word" = "Corrisponde alla parola";
+"Find_Starts_With" = "Inizia con";
+"Find_Ends_With" = "Finisce con";
+"Find_Regular_Expression" = "Espressione regolare";
 
 "Key_Description_Search" = "Cerca";
 "Key_Description_Command" = "Comandi";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "Elimina menu";
 
 "Key_Title_Return" = "invio";
-"Key_Title_Shift_Right" = "tab";
-"Key_Title_Shift_Left" = "backtab";
+"Key_Title_Tab" = "tab";
+"Key_Title_Backtab" = "backtab";
 "Key_Title_Home" = "home";
 "Key_Title_End" = "fine";
-"Key_Title_Shift_Up" = "sposta\ntesto ↑";
-"Key_Title_Shift_Down" = "sposta\ntesto ↓";
+"Key_Title_Move_Text_Up" = "sposta\ntesto ↑";
+"Key_Title_Move_Text_Down" = "sposta\ntesto ↓";
 "Key_Title_Undo" = "annulla";
 "Key_Title_Redo" = "ripeti";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "Cancella indietro";
 "Key_Description_Delete_Paragraph" = "Cancella paragrafo";
 "Key_Description_Dismiss_Keyboard" = "Nascondi tastiera";
-"Key_Description_Shift_Left" = "Rientro negativo";
-"Key_Description_Shift_Right" = "Rientro";
-"Key_Description_Shift_Up" = "Sposta su paragrafo";
-"Key_Description_Shift_Down" = "Sposta giù paragrafo";
+"Key_Description_Backtab" = "Rientro negativo";
+"Key_Description_Tab" = "Rientro";
+"Key_Description_Outdent" = "Rientro negativo";
+"Key_Description_Indent" = "Rientro";
+"Key_Description_Move_Text_Up" = "Sposta linea su";
+"Key_Description_Move_Text_Down" = "Sposta linea giù";
 "Key_Description_Dismiss_Keyboard" = "Nascondi tastiera";
 "Key_Description_Move_To_Beginning" = "Vai all’inizio del documento";
 "Key_Description_Move_To_End" = "Vai alla fine del documento";

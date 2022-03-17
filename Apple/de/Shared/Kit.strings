@@ -1,15 +1,93 @@
 
-"Button_OK" = "OK";
-"Button_Cancel" = "Abbrechen";
-"Button_Try_Again" = "Nochmals versuchen";
-"Button_Share" = "Teilen";
-"Button_Close" = "Schließen";
-"Button_Continue" = "Weiter";
-"Button_Enable" = "Aktivieren";
-"Button_Disable" = "Deaktivieren";
-"Button_Reset" = "Reset";
+"OK" = "OK";
+"Cancel" = "Abbrechen";
+"Try_Again" = "Nochmals versuchen";
+"Share" = "Teilen";
+"Close" = "Schließen";
+"Continue" = "Weiter";
+"Enable" = "Aktivieren";
+"Disable" = "Deaktivieren";
+"Reset" = "Reset";
+"Edit" = "Bearbeiten";
+"Done" = "Erledigt";
+"Remove" = "Entfernen";
+"Delete" = "Löschen";
+"Delete_Immediately" = "Sofort löschen";
+"More" = "Mehr";
+"Hide" = "Ausblenden";
+"Add" = "Hinzufügen";
+"Name" = "Name";
+"Add_Account" = "Account hinzufügen";
+"Remove_Account" = "Account entfernen";
+"Authorize" = "Freigeben";
+"Options" = "Optionen";
+"Open_Mail" = "Mail öffnen";
+"Add_Pattern" = "Muster hinzufügen";
+"Remove_Pattern" = "Muster entfernen";
+"New_Smart_Folder" = "Neuer Intelligenter Ordner";
+"Add_Location" = "Quelle hinzufügen";
+"Move_To_Trash" = "In den Papierkorb legen";
+"Copy" = "Kopieren";
+"Copy_Library_Path" = "Bibliothekspfad kopieren";
+"Copy_URL_Command" = "URL-Befehlspfad kopieren";
+"Open" = "Öffnen";
+"Open_Content_Block" = "Inhaltlichen Block öffnen";
+"Open_Link" = "Link öffnen";
+"Open_Wikilink" = "Wiki-Link öffnen";
+"Open_Wikilink_In_Background_Window" = "Wiki-Link im Hintergrundfenster öffnen";
+"Show_In_Quick_Search" = "In Schnellsuche zeigen";
+"Open_URL_Command" = "URL-Befehl öffnen";
+"Save" = "Speichern";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Hide_Library" = "Bibliothek ausblenden";
+"Hide_Preview" = "Vorschau ausblenden";
+"Show_Library" = "Bibliothek";
+"Show_Preview" = "Vorschau anzeigen";
+"Back" = "Zurück";
+"Forward" = "Vorwärts";
+"Go_Back" = "Go Back";
+"Go_Forward" = "Go Forward";
+"Back_In_Library" = "Zurück in der Bibliothek";
+"Forward_In_Library" = "Vorwärts in der Bibliothek";
+"Make_Text_Bigger" = "Schrift größer";
+"Make_Text_Normal_Size" = "Schrift normalgroß";
+"Make_Text_Smaller" = "Schrift kleiner";
+"Print" = "Drucken";
+"Print_Plain_Text" = "Drucke Klartext";
+"Export" = "Exportieren";
+"Publish" = "Veröffentlichen";
+"Show_Completions" = "Autovervollständigung anzeigen";
 
-"News_Title" = "Was gibt's Neues";
+"Add_Wikilink" = "Wiki-Link hinzufügen";
+"Remove_Wikilink" = "Wiki-Link entfernen";
+"Add_Link" = "Link hinzufügen";
+"Remove_Link" = "Link entfernen";
+"Add_Image" = "Bild hinzufügen";
+"Remove_Image" = "Bild entfernen";
+"Add_Footnote" = "Fußnote hinzufügen";
+"Remove_Footnote" = "Fußnote entfernen";
+
+"Library_Destination_Shortest" = "Kürzeste";
+"Library_Destination_Relative" = "Relativ";
+"Library_Destination_Absolute" = "Absolut";
+
+"Menu_Focus" = "Fokus";
+"Menu_Go" = "Öffnen";
+
+"Label_Format" = "Format";
+"Label_Email" = "E-Mail";
+
+"Placeholder_Loading" = "Laden …";
+"Placeholder_No_Accounts" = "Keine Accounts";
+"Placeholder_No_Custom_Patterns" = "Keine benutzerdef. Muster";
+"Custom_Patterns_Title" = "Benutzerdef. Muster";
+"Custom_Patterns_Introduction" = "Optimieren Sie die Stilprüfung mit Ihren eigenen Regeln und Ausnahmen.";
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = " …";
+
+"News_Title" = "Was gibt’s Neues";
 
 "Unknown_Error_Title" = "Unbekannter Fehler";
 "Unknown_Error" = "Ein unbekannter Fehler ist aufgetreten.";
@@ -21,8 +99,73 @@
 "Default_Smart_Folder_Name" = "Ohne Titel";
 "Default_Smart_Folder_Recently_Modified_Name" = "Kürzlich verändert";
 
+"Paper_Size_A3" = "A3";
 "Paper_Size_A4" = "A4";
+"Paper_Size_A5" = "A5";
 "Paper_Size_US_Letter" = "US Letter";
+
+"Preview_Size_Full" = "Vollbild";
+"Preview_Size_Split" = "Geteilt";
+
+"Output_Source_Text" = "Quelltext";
+"Output_Text" = "Text";
+"Output_Span" = "Spannweite";
+"Output_None" = "Entfernen";
+"Output_Link" = "Link";
+"HTML_Output" = "HTML-Ausgang";
+"Other_Output" = "Anderer Ausgang";
+"Preview_Output" = "Vorschau";
+"HTML_Output_Description" = "Diese Einstellungen werden beim Kopieren, Exportieren und Veröffentlichen von HTML verwendet.";
+"Other_Output_Description" = "Diese Einstellungen werden beim Kopieren, Exportieren und Veröffentlichen von Text verwendet.";
+"Preview_Output_Description" = "Diese Einstellungen werden in der Vorschau genutzt.";
+"Destination_Type_Description" = "Das bevorzugte Pfadformat wird für neue WikiLinks und Inhaltsblöcke verwendet.";
+"Content_Blocks" = "Inhaltsblöcke";
+"Wikilinks" = "Wiki-Links";
+"Hashtags" = "Hashtags";
+"Autolinks" = "Auto-Links";
+
+"Metadata" = "Metadaten";
+"Key" = "Schlüssel";
+"Metadata_Key" = "Metadaten-Schlüssel";
+"Value" = "Wert";
+"Add_Metadata" = "Metadaten hinzufügen";
+
+"Template" = "Vorlage";
+
+"Author" = "Autor";
+
+/*---------
+Text Check
+---------*/
+
+"Text_Check_Enable_All" = "Alle einblenden";
+"Text_Check_Enable_Last_Used" = "Letzte einblenden";
+"Text_Check_Disable_All" = "Alle ausblenden";
+"Text_Check_Target_All" = "Alle";
+"Text_Check_Target_None" = "Keine Hervorhebung";
+"Syntax_Control_Target_Nouns" = "Hauptwörter";
+"Syntax_Control_Target_Verbs" = "Verben";
+"Syntax_Control_Target_Adjectives" = "Adjektive";
+"Syntax_Control_Target_Adverbs" = "Adverbien";
+"Syntax_Control_Target_Conjunctions" = "Konjunktionen";
+"Style_Check_Title" = "Stilprüfung";
+"Style_Check_Sentence_Capitalization" = "Stilprüfung";
+"Style_Check_Target_Fillers" = "Füllwörter";
+"Style_Check_Target_Cliches" = "Leere Phrasen";
+"Style_Check_Target_Redundancies" = "Überflüssige Wörter";
+"Style_Check_Target_Custom" = "Eigene Kriterien";
+"Style_Check_Languages" = "Lokalisierungen für Deutsch, Englisch, und Französisch.";
+
+/*----------
+ Focus Tools
+ ----------*/
+
+"Enable_Focus_Mode" = "Fokus-Modus aktivieren";
+"Disable_Focus_Mode" = "Fokus-Modus deaktivieren";
+"Enable_Syntax" = "Syntax anzeigen";
+"Disable_Syntax" = "Syntax ausblenden";
+"Enable_Style_Check" = "Stilprüfung aktivieren";
+"Disable_Style_Check" = "Stilprüfung deaktivieren";
 
 /*----
  Dates
@@ -33,6 +176,29 @@
 /*-----------
  Web Services
  -----------*/
+
+"Auth_Mode_Authorize_In_Browser" = "Im Browser autorisieren";
+"Auth_Mode_Enter_Token_Manually" = "Token manuell eingeben";
+"Auth_Mode_Add_Account_Manually" = "Konto manuell hinzufügen";
+
+"Web_Service_URL" = "URL";
+"Web_Service_Token" = "Token";
+"Web_Service_Website_URL" = "Website-URL";
+"Web_Service_Username" = "Benutzername";
+"Web_Service_App_Password" = "App-Passwort";
+
+"Ghost_API_URL" = "API URL";
+"Ghost_Admin_API_Key" = "Admin API Key";
+
+"New_Draft_On_Web_Service" = "Neuer Entwurf auf %@";
+"New_Post_On_Web_Service" = "neuer Beitrag auf  %@";
+
+"Web_Service_Introduction" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung online überprüfen können.";
+"Micropub_Introduction" = "iA Writer sieht vor, dass neue Beiträge als Entwürfe erstellt werden. Auf Micropub-Servern, die diese Funktion nicht unterstützen, erfolgt die Veröffentlichung sofort.";
+"WordPress.com_Description" = "Veröffentlichen Sie entweder auf WordPress.com oder auf WordPress-Websites mit dem Jetpack-Plugin.";
+"WordPress.org_Description" = "Sie können direkt bei Websites unter WordPress veröffentlichen. Es ist mind. WordPress 5.6 erforderlich.";
+"WordPress.com_Link_Action" = "Über Jetpack";
+"Medium_Link_Action" = "Token einfordern";
 
 "Web_Service_Publish_Status_Draft" = "Entwurf";
 "Web_Service_Publish_Status_Unlisted" = "Nicht eingetragen";
@@ -65,9 +231,25 @@
 "Web_Service_Error_Other_Title" = "Verbindungsfehler";
 "Web_Service_Error_Other" = "Erhaltene Fehlermeldung: %@.";
 
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "Zugriff verweigert";
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Zugriff verweigert.";
-"Web_Service_Recovery_Suggestion_Auth_Denied" = "Bitte stellen Sie sicher, dass iA Writer auf ihr Konto zugreifen darf.";
+"Web_Service_Error_Auth_Denied_Title" = "Zugriff verweigert";
+"Web_Service_Error_Auth_Denied" = "Zugriff verweigert.";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass iA Writer auf ihr Account zugreifen darf.";
+
+"Web_Service_Error_IndieAuth_Not_Found_Title" = "IndieAuth nicht gefunden";
+"Web_Service_Error_IndieAuth_Not_Found" = "Konnte IndieAuth nicht finden.";
+"Web_Service_Error_IndieAuth_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass IndieAuth-Metatags oder Link-Header vorhanden sind.";
+
+"Web_Service_Error_Micropub_Not_Found_Title" = "Micropub nicht gefunden";
+"Web_Service_Error_Micropub_Not_Found" = "Konnte Micropub nicht finden.";
+"Web_Service_Error_Micropub_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass Micropub-Metatags oder Link-Header vorhanden sind.";
+
+"Web_Service_Error_WordPress_API_Not_Found_Title" = "WordPress API nicht gefunden";
+"Web_Service_Error_WordPress_API_Not_Found" = "Konnte WordPress API nicht finden.";
+"Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass Sie mindestens die Version WordPress 4.7 einsetzen und dass das Metatag für die WordPress API meta tag vorhanden ist.";
+
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress-App-Passwörter nicht verfügbar";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress-App-Passwörter sind nicht verfügbar.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass Sie mind. WordPress 5.6 haben und dass App-Passwörter auf der Website oder für Ihren Nutzer nicht deaktiviert sind.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "Versuchen Sie es später nochmals.";
 
@@ -82,9 +264,9 @@
 "Medium_Failure_Reason_Unsupported_Content_H6" = "Überschrift 6";
 "Medium_Failure_Reason_Unsupported_Content_TOC" = "Inhaltsverzeichnis";
 
-"WordPress_No_Sites_Error" = "Konnte keine Seiten finden, die mit Ihrem WordPress-Konto verbunden sind.";
+"WordPress_No_Sites_Error" = "Konnte keine Seiten finden, die mit Ihrem WordPress-Account verbunden sind.";
 "WordPress_No_Sites_Error_Title" = "Keine Webseite vorhanden";
-"WordPress_No_Sites_Error_Recovery_Suggestion" = "Stellen Sie sicher, dass Sie das richtige Konto freigeschaltet haben, oder fügen Sie ihrem Konto eine neue Installation hinzu.";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "Stellen Sie sicher, dass Sie das richtige Account freigeschaltet haben, oder fügen Sie ihrem Account eine neue Installation hinzu.";
 "WordPress_Manage_Sites" = "Seiten verwalten";
 
 "Web_Service_Image_Upload_Error" = "Einige Bilder konnten nicht hochgeladen werden.";
@@ -96,6 +278,28 @@
 "Medium_Image_Upload_Error_Unauthorized" = "Medium hat das Hochladen von Bildern deaktiviert.";
 "Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Bitte kontaktieren Sie Medium, um das Hochladen von Bildern für Ihr Token zu aktivieren.";
 "Medium_Image_Upload_Error_Contact" = "Medium kontaktieren";
+
+"Ghost_Export_Type_HTML" = "Standard";
+"Ghost_Export_Type_HTML_Description" = "Einige Formatierungen könnten verloren gehen.\nZur Bearbeitung empfehlen wir Ghost.";
+"Ghost_Export_Type_HTML_Card" = "HTML-Karte";
+"Ghost_Export_Type_HTML_Card_Description" = "Sehr kompatibel.";
+"Ghost_Export_Type_Markdown_Card" = "Markdown-Karte";
+"Ghost_Export_Type_Markdown_Card_Description" = "Einige Formatierungen könnten anders aussehen.";
+
+"Micropub_Export_Type_HTML" = "HTML";
+"Micropub_Export_Type_HTML_Description" = "Sehr kompatibel.";
+"Micropub_Export_Type_Markdown" = "Markdown";
+"Micropub_Export_Type_Markdown_Description" = "Einige Formatierungen könnten anders aussehen.";
+
+"WordPress_Export_Type_HTML" = "HTML";
+"WordPress_Export_Type_HTML_Description" = "Sehr kompatibel.";
+"WordPress_Export_Type_Markdown" = "Markdown";
+"WordPress_Export_Type_Markdown_Description" = "Einige Formatierungen könnten anders aussehen.";
+
+"Microblog_Sign_In_Action" = "Anmeldelink senden";
+"Microblog_Sign_In_Title" = "Micro.blog hat einen Anmeldelink gesendet";
+"Microblog_Sign_In" = "Micro.blog hat einen Anmeldelink an Ihre E-Mail-Adresse gesendet.";
+"Microblog_Sign_In_Recovery_Suggestion" = "Überprüfen Sie Ihre E-Mails auf diesem %@ und verwenden Sie den Link, um das Konto zu iA Writer hinzuzufügen.";
 
 /*--------
  Templates
@@ -134,41 +338,21 @@
 "URL_Scheme_Error_Invalid_Auth_Token" = "Der URL-Befehl wurde mit einem ungültigen Authentifizierungs-Token aufgerufen.";
 "URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Stellen Sie sicher, dass das Authentifizierungs-Token korrekt ist.";
 
-"URL_Scheme_Auth_Token_Description" = "Das Authentifizierungs-Token ist für einige URL-Befehle erforderlich.";
-"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Das Token ist für einige URL-Befehle erforderlich. Ihre Geräte teilen sich über iCloud dasselbe Authentifizierungs-Token.";
+"URL_Scheme_Auth_Token_Description" = "Für einige URL-Befehle ist ein Authentifizierungstoken erforderlich.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Für einige URL-Befehle ist ein Authentifizierungstoken erforderlich. Ihre Geräte verwenden mit iCloud dasselbe Authentifizierungstoken.";
 
 /*-------
  Storages
  -------*/
 
 "Storage_Name_Cloud" = "iCloud";
+"Storage_Name_From_Other_Apps" = "Extern";
 "Storage_Name_Unknown" = "Unbekannter Speichername";
 "Storage_Name_Local" = "Lokal";
 "Storage_Name_On_My_Device" = "On My %@";
 
 "Library_Location_Desktop" = "Schreibtisch";
 "Library_Location_Documents" = "Dokumente";
-
-/*----
- Fonts
- ----*/
-
-"Font_Name_Monospaced" = "Mono";
-"Font_Name_Duospaced" = "Duo";
-"Font_Name_Quattro" = "Quattro";
-
-"Content_Typography_System" = "System — %@";
-"Content_Typography_Default" = "Standard";
-"Content_Typography_Simplified_Chinese" = "Vereinfachtes Chinesisch";
-"Content_Typography_Traditional_Chinese" = "Traditionelles Chinesisch";
-"Content_Typography_Japanese" = "Japanisch";
-"Content_Typography_Korean" = "Koreanisch";
-
-"Content_Typography_Emphasis_Italic" = "Kursiv";
-"Content_Typography_Emphasis_Mark" = "Betonungszeichen";
-
-"Content_Typography_Emphasis_Description_Italic" = "Kursiv";
-"Content_Typography_Emphasis_Description_Mark" = "Betonungszeichen";
 
 /*----------------
  Library Locations
@@ -184,12 +368,20 @@
 "Library_Location_Error_Not_Found_Failure_Reason" = "Entweder es wurde entfernt oder es war Teil eines mobilen Speichermediums.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Um Zugriff auf das Bibliotheksregister zu erhalten, schliessen Sie bitte das mobile Speichermedium an.";
 
+/*---------
+ Wikilinks
+ ---------*/
+
+"Wikilink_Error_Library_Location_Not_Found_Title" = "Bibliothek-Speicherort „%@“ nicht gefunden";
+"Wikilink_Error_Library_Location_Not_Found" = "Bibliothek-Speicherort „%@“ nicht gefunden";
+"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass es einen Bibliothek-Speicherort „%@“ gibt.";
+
 /*--------
  Documents
  --------*/
 
 "External_Change_Error_Localized_Description" = "Das Dokument „%@“ würde auf einem anderen Gerät geändert.";
-"External_Change_Error_Recovery_Suggestion" = "Das Dokument wurde ausserhalb von iA Writer geändert. Falls Sie das Dokument innerhalb von iA Writer wiederherstellen, werden die Änderungen, die Sie ausserhalb vorgenommen haben, überschrieben.  Sie können mittels 'Speichern unter …' die Änderungen in einem anderen Dokument abspeichern.";
+"External_Change_Error_Recovery_Suggestion" = "Das Dokument wurde ausserhalb von iA Writer geändert. Falls Sie das Dokument innerhalb von iA Writer wiederherstellen, werden die Änderungen, die Sie ausserhalb vorgenommen haben, überschrieben.  Sie können mittels „Speichern unter …“ die Änderungen in einem anderen Dokument abspeichern.";
 "External_Change_Error_Keep_Action" = "iA Writer Version behalten";
 "External_Change_Error_Revert_Action" = "Wiederherstellen";
 "External_Change_Error_Save_As_Action" = "Speichern unter …";
@@ -200,18 +392,26 @@
 
 "Library_Sort_Order_Name" = "Name";
 "Library_Sort_Order_Extension" = "Dateierweiterung";
-"Library_Sort_Order_Date_Modified" = "Änderungsdatum";
-"Library_Sort_Order_Search_Rank" = "Suchrelevanz";
+"Library_Sort_Order_Date_Modified" = "Datum geändert";
+"Library_Sort_Order_Date_Created" = "Datum erstellt";
+"Library_Sort_Order_Search_Relevance" = "Suchrelevanz";
 
-"Library_Sort_By_Name_Phrase" = "Sortieren nach Name";
-"Library_Sort_By_Extension_Phrase" = "Sortieren nach Dateierweiterung";
-"Library_Sort_By_Date_Modified_Phrase" = "Sortieren nach Änderungsdatum";
-"Library_Sort_By_Search_Rank_Phrase" = "Sortieren nach Suchrelevanz";
+"Library_Show_Date" = "Datum zeigen";
+"Library_Show_Date_Modified" = "Datum geändert";
+"Library_Show_Date_Created" = "Datum erstellt";
 
+"Library_Sort_By" = "Sortieren nach";
 "Library_Sort_By_Name" = "Name";
 "Library_Sort_By_Extension" = "Dateierweiterung";
 "Library_Sort_By_Date_Modified" = "Änderungsdatum";
-"Library_Sort_By_Search_Rank" = "Suchrelevanz";
+"Library_Sort_By_Date_Created" = "Datum erstellt";
+"Library_Sort_By_Search_Relevance" = "Suchrelevanz";
+
+"Library_Sort_By_Name_Phrase" = "Sortieren nach Name";
+"Library_Sort_By_Extension_Phrase" = "Sortieren nach Dateierweiterung";
+"Library_Sort_By_Date_Modified_Phrase" = "Sortieren nach Datum geändert";
+"Library_Sort_By_Date_Created_Phrase" = "Sortieren nach Datum erstellt";
+"Library_Sort_By_Search_Relevance_Phrase" = "Sortieren nach Suchrelevanz";
 
 "Library_Sort_By_Date_Ascending" = "Älteste zuerst";
 "Library_Sort_By_Date_Descending" = "Neueste zuerst";
@@ -219,10 +419,12 @@
 "Library_Sort_By_Text_Ascending" = "Von A bis Z";
 "Library_Sort_By_Text_Descending" = "Von Z bis A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "Relevanz von oben nach unten zunehmend";
-"Library_Sort_By_Search_Rank_Descending" = "Relevanz von oben nach unten abnehmend";
+"Library_Sort_By_Search_Relevance_Ascending" = "Relevanz von oben nach unten zunehmend";
+"Library_Sort_By_Search_Relevance_Descending" = "Relevanz von oben nach unten abnehmend";
 
 "Library_Sort_By_Part_Joiner" = ", ";
+
+"Library_Sort_Order_Persistent" = "Nutzen Sie immer diese Optionen hier";
 
 /*----------
  Focus Scope
@@ -244,9 +446,10 @@
  Content Blocks
  -------------*/
 
-"Content_Block_Error_No_Such_File" = "„%@“ ist nicht vorhanden.";
-"Content_Block_Error_No_Such_File_Title" = "„%@“ nicht vorhanden";
-"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "Prüfen Sie den Dateinamen.";
+"Content_Block_Error_No_Such_File" = "Die Datei „%@“ existiert nicht.";
+"Content_Block_Error_No_Such_File_Title" = "Die Datei „%@“ existiert nicht.";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass der Dateiname korrekt ist.";
+"Content_Block_Error_No_Such_File_Markdown_Or_HTML_Path_Recovery_Suggestion" = "Wenn Sie auf eine lokale Datei verweisen, stellen Sie bitte sicher, dass der Name korrekt ist. Wenn Sie auf eine Web-Resource verweisen, fügen Sie bitte https:// hinzu.";
 
 "Content_Block_Error_Unable_To_Process" = "„%@“ konnte nicht verarbeitet werden.";
 "Content_Block_Error_Unable_To_Process_Title" = "„%@“ konnte nicht verarbeitet werden";
@@ -263,46 +466,56 @@
 
 "Content_Block_Error_Unsupported_Location" = "Inhaltseinbettung funktioniert nur mit Dateien in der iA Writer Bibliothek.";
 "Content_Block_Error_Unsupported_Location_Title" = "Nicht unterstützer Speicherort";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Um die Dokumenteinbettung nutzen zu können, verschieben oder kopieren Sie bitte die Datei in die iA Writer Bibliothek. Über die Voreinstellungen können Sie auch lokale Ordner zur Bibliothek hinzufügen.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Um die Dokumenteinbettung nutzen zu können, verschieben oder kopieren Sie bitte die Datei in die iA Writer Bibliothek.";
 "Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Dokumenteinbettung wird nur durch Dokumente in der %@ Bibliothek unterstützt.";
 
 /*---------
  Text Stats
  ---------*/
 
-/* Reading time label in text editor toolbar. */
 "Stats_Reading_Time" = "%@ Lesezeit";
+"Stats_Name_Words" = "Wörtern";
+"Stats_Name_Sentences" = "Sätzen";
+"Stats_Name_Reading_Time" = "Lesezeit";
+"Stats_Name_Tasks" = "Aufgaben";
+"Stats_Name_Characters" = "Zeichen";
+"Stats_Name_Characters_Without_Spaces" = "Zeichen ohne Leerzeichen";
 
-/*-------------
- Syntax Control
- -------------*/
+/*-----
+ Export
+ -----*/
 
-/* Syntax control menu title to enable all targets. */
-"Syntax_Control_Enable_All" = "Alle einblenden";
+"Export_Format_Word_Name" = "Microsoft Word";
+"Export_Format_Word_Description" = "Kompatibel mit Microsoft Word (ab 2007), Apple Pages und Google Docs.";
+"Export_Format_Word_Action" = "Exportiere Microsoft Word";
 
-/* Syntax control menu title to enable last used targets. */
-"Syntax_Control_Enable_Last_Used" = "Letzte Auswahl einblenden";
+"Export_Format_HTML_Name" = "HTML";
+"Export_Format_HTML_Description" = "Generisches HTML.";
+"Export_Format_HTML_Action" = "Exportiere HTML";
 
-/* Syntax control menu title to disable all targets. */
-"Syntax_Control_Disable_All" = "Alle ausblenden";
+"Export_Format_PDF_Name" = "PDF";
+"Export_Format_PDF_Description" = "PDF-Layout ändern über Ablage → Seite einrichten.";
+"Export_Format_PDF_Action" = "Exportiere PDF";
 
-/* All syntax control targets chosen. */
-"Syntax_Control_Target_All" = "Alle";
+"Export_Format_Markdown_Name" = "Markdown";
+"Export_Format_Markdown_Description" = "Kompatibel mit anderen Texteditoren.";
+"Export_Format_Markdown_Action" = "Exportiere Markdown";
 
-/* No syntax control target chosen. */
-"Syntax_Control_Target_None" = "Keine Hervorhebung";
+"Export_Format_Project_Archive_Name" = "Projektarchiv";
+"Export_Format_Project_Archive_Description" = "Enthält verbundene Inhaltsblöcke.";
+"Export_Format_Project_Archive_Action" = "Exportiere Projektarchiv";
 
-/* Nouns syntax control target. */
-"Syntax_Control_Target_Nouns" = "Hauptwörter";
+"Copy_Markdown" = "Markdown ";
+"Copy_HTML" = "HTML kopieren";
+"Copy_Formatted" = "Kopieren mit Format";
 
-/* Verbs syntax control target. */
-"Syntax_Control_Target_Verbs" = "Verben";
+/*------
+ Preview
+ ------*/
 
-/* Adjectives syntax control target. */
-"Syntax_Control_Target_Adjectives" = "Adjektive";
+"Display_Mode_Web" = "Web";
+"Display_Mode_PDF" = "PDF";
 
-/* Adverbs syntax control target. */
-"Syntax_Control_Target_Adverbs" = "Adverbien";
-
-/* Conjunctions syntax control target. */
-"Syntax_Control_Target_Conjunctions" = "Konjunktionen";
+"PDF_Scale_Fit_Page" = "An Fenstergröße anpassen";
+"PDF_Scale_Fit_Width" = "An Fensterbreite anpassen";
+"PDF_Percent_Zoom" = "%zd %";

@@ -9,7 +9,8 @@
 "Punctuation" = "Пунктуация";
 "Structure" = "Структура";
 
-"Headings" = "Все заголовки";
+"Wikilink" = "Вики-ссылка";
+"Headings" = "Заголовок 1-6";
 "Heading1" = "Заголовок 1";
 "Heading2" = "Заголовок 2";
 "Heading3" = "Заголовок 3";
@@ -26,6 +27,7 @@
 "HorizontalRule" = "Горизонтальная линейка";
 "PageBreak" = "Разрыв страницы";
 "Strong" = "Жирный";
+"Highlight" = "Выделенный";
 "Code" = "Код";
 "Strikethrough" = "Зачеркнутый";
 "SmartCurlyQuotes6699" = "Изогнутые кавычки";
@@ -96,8 +98,11 @@
 "MoveLineUp" = "Переместить строку вверх";
 "MoveLineDown" = "Переместить строку вниз";
 "TableOfContents" = "Добавить оглавление";
+"Hashtag" = "Добавить хэштег";
+"ScanText" = "Сканировать текст";
 "AddContentBlock" = "Добавить блок контента";
 "AddDate" = "Добавить дату";
+"ChooseDate" = "Choose Date";
 "DismissKeyboard" = "Скрыть клавиатуру";
 "MarkTask" = "Пометить задачу как выполненную";
 "Night" = "Ночной режим";

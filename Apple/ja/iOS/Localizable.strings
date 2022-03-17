@@ -13,19 +13,13 @@
 "Library_Favorites_Section_Title" = "お気に入り";
 
 /* Title for action to add a new smart folder in library root view. */
-"Library_Action_Add_Favorite" = "お気に入りに追加…";
-
-/* Title for action to add a new library location in library root. */
-"Library_Action_Add_Location" = "Add Location…";
+"Library_Menu_Favorite" = "お気に入りに追加…";
 
 /* Title for root library view. */
 "Library_Smart_Folders_Section_Title" = "スマートフォルダ";
 
 /* Title for root library view. */
 "Library_Hashtags_Section_Title" = "ハッシュタグ";
-
-/* Title for action to add a new smart folder in library root view. */
-"Library_Action_New_Smart_Folder" = "スマートフォルダを作成…";
 
 /* Title for action to add a new smart folder in library root view. */
 "Library_Action_Edit_Smart_Folder" = "編集";
@@ -60,6 +54,12 @@
 "Library_Location_Introduction_Hide_Forever_Alert_Title" = "今後表示しない";
 "Library_Location_Rename_Alert_Title" = "ライブラリの場所の名前を変更する";
 
+/*-----------
+ Smart Folder
+ -----------*/
+
+"Smart_Folder_Rename_Alert_Title" = "スマートフォルダの名前を変更する";
+
 /*------
  Backups
  ------*/
@@ -88,63 +88,21 @@
 /* Button description to browse all backups. */
 "Backups_Button_Title" = "バックアップをブラウズ";
 
-/* Action in editor to browse backups for currently opened file from other apps. */
-"Action_Browse_Backups" = "バックアップをブラウズする";
+/* Title for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the name of the folder that will include backups. */
+"Backup_Prompt_Title" = "%@のバックアップを有効にしますか？";
+
+/* Message for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the current device kind (iPhone, iPad). */
+"Backup_Prompt_Message" = "編集されるとファイルがこの%@にバックアップされます。共有%@のプライベートファイル用に外付けデバイスを使用していない限り、バックアップを有効に設定することを推奨しています。";
 
 /*------
  Library
  ------*/
-
-/* Button to move to move files or folders. */
-"Button_Move" = "移動";
-
-/* Button to delete. */
-"Button_Delete" = "削除";
 
 /* Button to select all visible items. */
 "Button_Select_All" = "全て選択";
 
 /* Button to deselect all visible items. */
 "Button_Deselect_All" = "全て選択解除";
-
-/* Button to save. */
-"Button_Save" = "保存";
-
-/* Action to move files or folders. */
-"Action_Move" = "移動…";
-
-/* Action to duplicate. */
-"Action_Duplicate" = "複製";
-
-/* Action to rename. */
-"Action_Rename" = "名前を変更…";
-
-/* Action to rename. */
-"Action_Remove" = "削除";
-
-/* Action to delete. */
-"Action_Delete" = "削除…";
-
-/* Action to open file or folder info. */
-"Action_Get_Info" = "情報";
-
-/* Action to add folder to favorites. */
-"Action_Remove_External_File" = "削除";
-
-/* Action to add folder to favorites. */
-"Action_Add_Favorite" = "お気に入りに追加";
-
-/* Action to add folder to favorites. */
-"Action_Remove_Favorite" = "お気に入りから削除";
-
-/* Action to browse file versions. */
-"Action_Browse_Versions" = "バージョンを閲覧する";
-
-/* Action to browse file versions. */
-"Action_Find_And_Replace" = "検索と置換";
-
-/* Generic update button. */
-"Action_Update" = "アップデートする";
 
 /* Action to switch to night mode. */
 "Action_Dark_Mode" = "ダークモードを使う";
@@ -215,17 +173,17 @@
 /* Library empty message in hashtags. */
 "Library_Empty_Hashtag" = "ハッシュタグの付いたファイルがありません";
 
-/* Title for external files section. */
-"Library_External_Files_Section_Title" = "外部";
-
-/* Title for action to open external files location. */
-"Library_External_Files" = "ファイル";
-
 /* Title for action to open external files picker. */
 "Library_External_Files_Open" = "開く…";
 
 /* Title for move to folder destination picker title. */
 "Move_Title" = "移動";
+
+/* Title for to begin editing a document. */
+"Begin_Editing" = "Begin Editing";
+
+/* Title for to end editing a document. */
+"End_Editing" = "End Editing";
 
 /*-----
  Editor
@@ -243,23 +201,17 @@
 /* Title for content block picker. */
 "Content_Block_Picker_Title" = "コンテンツブロックを追加";
 
-/* Action sheet action to enable focus mode. */
-"Action_Enable_Focus_Mode" = "フォーカスモードを有効化";
-
-/* Action sheet action to disable focus mode. */
-"Action_Disable_Focus_Mode" = "フォーカスモードを無効化";
-
-/* Action sheet action to enable syntax control. */
-"Action_Enable_Syntax_Control" = "シンタックスを表示";
-
-/* Action sheet action to disable syntax control. */
-"Action_Disable_Syntax_Control" = "シンタックスを非表示";
-
-/* Action sheet action to enable syntax control. */
+/* Action sheet action to show stats. */
 "Action_Show_Stats" = "統計を表示";
 
-/* Action sheet action to disable syntax control. */
+/* Action sheet action to hide stats. */
 "Action_Hide_Stats" = "統計を非表示";
+
+/* Action sheet action to show find bar. */
+"Action_Show_Find_And_Replace" = "検索と置換を表示";
+
+/* Action sheet action to hide find bar. */
+"Action_Hide_Find_And_Replace" = "検索と置換を非表示";
 
 /* Action sheet action. */
 "Action_Configure_Editor" = "エディタの設定";
@@ -269,53 +221,58 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Item_Transform" = "変換…";
+"Menu_Transform" = "変換…";
 
 /* Menu item title for transforming text to upper case. */
-"Menu_Item_Transform_To_Upper_Case" = "大文字にする";
+"Menu_Transform_To_Upper_Case" = "大文字にする";
 
 /* Menu item title for transforming text to lower case. */
-"Menu_Item_Transform_To_Lower_Case" = "小文字にする";
+"Menu_Transform_To_Lower_Case" = "小文字にする";
 
 /* Menu item title for captilizing first letter of every word. */
-"Menu_Item_Transform_To_Capitalized" = "語頭を大文字にする";
+"Menu_Transform_To_Capitalized" = "語頭を大文字にする";
 
 /* Menu item title for transforming text to title case. */
-"Menu_Item_Transform_To_Title_Case" = "語頭を大文字にする（ヘッドラインスタイル）";
+"Menu_Transform_To_Title_Case" = "語頭を大文字にする（ヘッドラインスタイル）";
 
-/* Menu item to copy a library path to file. */
-"Menu_Item_Copy_Library_Path" = "ライブラリのパスをコピー";
+/* Action to add folder to favorites. */
+"Menu_Favorite" = "お気に入りに追加";
 
-/* Menu item to copy URL command path for an item in Library. */
-"Menu_Item_Copy_URL_Command_Path" = "URLコマンドパスをコピー";
+/* Action to add folder to favorites. */
+"Menu_Unfavorite" = "お気に入りから削除";
 
-/* Menu item to copy URL command to open file for an item in Library. */
-"Menu_Item_Copy_URL_Command_To_Open_File" = "URLコマンドをコピーしてファイルを開く";
+/* Action to add folder to favorites. */
+"Menu_Remove_Location" = "ロケーションから取り除く";
 
-/* Menu item title for copying HTML. */
-"Menu_Item_Copy_HTML" = "HTMLをコピー";
+/* Action to add folder to favorites. */
+"Menu_Rename_Location" = "ロケーションの名前変更";
 
-/* Menu item title for copying formatted text. */
-"Menu_Item_Copy_Formatted" = "フォーマット済テキストをコピー";
+/* Action to browse file versions. */
+"Menu_Browse_Versions" = "バージョンを閲覧する";
 
-/*----------
- Table Views
- ----------*/
+/* Action to browse file backups. */
+"Menu_Browse_Backups" = "バックアップをブラウズする";
 
-/* Table view swipe action title. */
-"Table_View_Action_Delete" = "削除";
+/* Action to show a file in Files app. */
+"Menu_Show_In_Files" = "ファイルに表示";
 
-/* Table view swipe action title. */
-"Table_View_Action_Rename" = "Rename";
+/* Action to show a file in Library. */
+"Menu_Show_In_Library" = "Show in Library";
 
-/* Table view swipe action title. */
-"Table_View_Action_Remove" = "取り除く";
+/* Action to open a file in new window. */
+"Menu_Open_In_New_Window" = "新しいウインドウで開く";
 
-/* Table view swipe action title. */
-"Table_View_Action_More" = "その他";
+/* Action to move files or folders. */
+"Menu_Move" = "移動";
 
-/* Table view swipe action title. */
-"Table_View_Action_Hide" = "隠す";
+/* Action to duplicate. */
+"Menu_Duplicate" = "複製";
+
+/* Action to rename. */
+"Menu_Rename" = "名前を変更";
+
+/* Action to open file or folder info. */
+"Menu_Get_Info" = "情報";
 
 /*------------
  Folder Picker
@@ -336,9 +293,6 @@
 
 /* Smart folder editor title while creating a new smart folder. */
 "Smart_Folder_Editor_New_Title" = "新規スマートフォルダ";
-
-/* Smart folder editor section title. */
-"Smart_Folder_Editor_Name_Section_Title" = "名前";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Rules_Section_Title" = "ルール";
@@ -362,9 +316,6 @@
 
 /* Smart folder editor section title. */
 "Smart_Folder_Sort_By_Custom" = "並べ替えを変更する";
-
-/* Button to show sort by options. */
-"Smart_Folder_Sort_By_Custom_Edit" = "順番";
 
 /*----------
  Rule Editor
@@ -428,6 +379,12 @@
 /* Action title to confirm renaming to renaming items. */
 "Rename_Confirmation" = "変更";
 
+/* Rename failure title. */
+"Rename_Failure_Title" = "名前を変更できません";
+
+/* Rename failure title. */
+"Rename_Failure_Permissions" = "他のアプリのファイルは、ファイルのアプリでのみ名前を変更できます。";
+
 /*---------
  Table Size
  ---------*/
@@ -464,53 +421,22 @@
 "Library_Info_Size" = "サイズ";
 
 /*-----
+Document
+-----*/
+
+"Document_Already_Open_Content_Placeholder_Title" = "ファイルを表示できません";
+"Document_Already_Open_Content_Placeholder_Message" = "ファイルは別のウィンドウで開かれています。";
+"Document_Already_Open_Content_Placeholder_Button" = "このウィンドウで開く";
+
+/*-----
  Export
  -----*/
-
-/* Share sheet Medium activity option */
-"Share_Sheet_Medium_Activity_Title" = "Medium で新規下書き";
-
-/* Share sheet WordPress activity option */
-"Share_Sheet_WordPress_Activity_Title" = "WordPress で新規下書き";
 
 /* Share sheet `open file in app` activity option */
 "Share_Sheet_Open_In_Activity_Title" = "別のアプリで開く…";
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "別に保存…";
-
-/* Sharing button title. */
-"Button_Share" = "共有";
-
-/* Sharing button title. */
-"Action_Share" = "共有…";
-
-/* Action menu title. */
-"Action_Export" = "書き出し…";
-
-/* Action menu title. */
-"Action_Print" = "印刷…";
-
-/* Action menu title. */
-"Action_Print_Formatted" = "フォーマット済印刷…";
-
-/* Action menu title. */
-"Action_Print_Plain_Text" = "プレーンテキストを印刷…";
-
-/* Action menu title. */
-"Action_Export_Markdown" = "Markdownを書き出し…";
-
-/* Action menu title. */
-"Action_Export_HTML" = "HTMLを書き出し…";
-
-/* Action menu title. */
-"Action_Export_PDF" = "PDFを書き出し…";
-
-/* Action menu title. */
-"Action_Export_Word" = "Microsoft Wordを書き出し…";
-
-/* Action menu title. */
-"Action_Export_Project_Archive" = "プロジェクトアーカイブを書き出し…";
 
 /*--------------
  Version Browser
@@ -577,13 +503,13 @@
  Files App
  --------*/
 
-"Files_App_Service_Provider_Error_Localized_Description_Title" = "ファイルアプリのクラウドサービスがリクエストの処理を行えませんでした";
-"Files_App_Service_Provider_Error_Localized_Description" = "ファイルアプリのクラウドサービスがリクエストの処理を行えませんでした。";
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "ファイルAppのクラウドサービスがリクエストの処理を行えませんでした";
+"Files_App_Service_Provider_Error_Localized_Description" = "ファイルAppのクラウドサービスがリクエストの処理を行えませんでした。";
 "Files_App_Service_Provider_Error_Recovery_Suggestion" = "エラーが継続するようであればクラウドサービスプロバイダーに連絡しサポートを受けてください。";
 
 "Files_App_Library_Location_Not_Supported_Error_Title" = "選択したライブラリの場所を追加できません";
 "Files_App_Library_Location_Not_Supported_Error" = "選択したライブラリの場所を追加できません";
-"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "ファイルアプリクラウドサービスはこの機能をサポートしていません。";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "ファイルAppクラウドサービスはこの機能をサポートしていません。";
 "Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "サポートについては、クラウドサービスのプロバイダーにお問い合わせください。";
 
 /*-----------
@@ -610,56 +536,30 @@
  --------------------------*/
 
 /* Quick Search key command titles. */
-"Discoverability_Quick_Search_Select_Next_Result" = "次を選択";
-"Discoverability_Quick_Search_Select_Previous_Result" = "前を選択";
 "Discoverability_Quick_Search" = "すぐに開く";
 
-/* General action key command titles. */
+/* New file key command titles. */
 "Discoverability_New" = "新規";
+"Discoverability_New_Document" = "新規";
+"Discoverability_New_Window" = "新規ウインドウ";
 
+/* Appearance command titles. */
 "Discoverability_Dark_Mode" = "ダークモード";
 "Discoverability_Light_Mode" = "ライトモード";
 /* Old name used for search matching. */
 "Discoverability_Night_Mode" = "ナイトモード";
 
 /* Editor action key command titles. */
-"Discoverability_Syntax" = "シンタックスハイライト";
-"Discoverability_Browse_Versions" = "古いバージョンを見る";
-"Discoverability_New" = "新規";
 "Discoverability_Open" = "開く…";
-"Discoverability_Preview" = "プレビュー";
-"Discoverability_Strong" = "太字";
-"Discoverability_Strikethrough" = "取消線";
-"Discoverability_Headings" = "見出し 1–6";
-"Discoverability_Blockquote" = "ブロック引用";
-"Discoverability_List" = "リスト";
-"Discoverability_Link" = "リンク";
-"Discoverability_Footnote" = "脚注";
-"Discoverability_Task_List" = "タスクリスト";
-"Discoverability_Ordered_List" = "番号付きリスト";
-"Discoverability_Ordered_Task_List" = "番号付きタスクリスト";
-"Discoverability_Move_Line_Up" = "行移動上";
-"Discoverability_Move_Line_Down" = "行移動下";
-"Discoverability_Focus" = "フォーカスモード";
-"Discoverability_Typewriter" = "タイプライターモード";
-"Discoverability_Share" = "共有";
-"Discoverability_Export_PDF" = "PDFに書き出し";
-"Discoverability_Export_Markdown" = "Markdownに書き出し";
-"Discoverability_Export_HTML" = "HTMLに書き出し";
-"Discoverability_Export_Word" = "Microsoft Wordに書き出し";
-"Discoverability_Export_Project_Archive" = "プロジェクトアーカイブに書き出し";
+"Discoverability_Move_Text_Up" = "行移動上";
+"Discoverability_Move_Text_Down" = "行移動下";
 "Discoverability_Configure_Keyboard" = "キーボードをカスタマイズ";
-"Discoverability_Settings" = "設定";
-"Discoverability_Configure_Keyboard" = "キーボードをカスタマイズ";
-"Discoverability_Settings" = "設定";
-"Discoverability_Increase_Size" = "文字を大きく";
-"Discoverability_Decrease_Size" = "文字を小さく";
-"Discoverability_Default_Size" = "デフォルトの文字サイズ";
+"Discoverability_Use_Selection_For_Find" = "検索に選択肢を使用";
 "Discoverability_Find_Next" = "次を検索";
 "Discoverability_Find_Previous" = "前を検索";
-"Discoverability_Find" = "ファイル内を検索";
-"Discoverability_Help" = "？";
-"Discoverability_Stats" = "統計を";
+"Discoverability_Find_And_Replace" = "検索と置換";
+"Discoverability_Show_Settings" = "設定を表示";
+"Discoverability_Show_Help" = "ヘルプを表示";
 
 /*------
  Preview
@@ -694,18 +594,26 @@
 /* Button to open settings. */
 "Settings_Title" = "設定";
 
-/* Action to switch to night mode. */
-"Settings_Dark_Appearance" = "ダークモード";
 
-/* Action to switch to night mode. */
-"Settings_Dark_App_Icon" = "ダークアプリアイコン";
+/* Appearance settings. */
+"Settings_Appearance" = "モード";
+"Settings_App_Icon" = "アプリアイコン";
+
+/* Appearance names. */
+"Appearance_System" = "システム";
+"Appearance_Light" = "ライト";
+"Appearance_Dark" = "ダーク";
 
 /* Settings panes. */
+"Settings_Interface_Title" = "インターフェース";
+"Settings_Keyboard_Title" = "キーボード";
 "Settings_General_Title" = "一般";
 "Settings_Files_Title" = "ファイル";
+"Settings_Accounts_Title" = "アカウント";
 "Settings_Library_Title" = "ライブラリ";
 "Settings_Editor_Title" = "エディタ";
 "Settings_Templates_Title" = "テンプレート";
+"Settings_Markdown_Title" = "Markdown";
 "Settings_URL_Scheme_Title" = "URLコマンド";
 
 /* Appearance section in settings. */
@@ -714,23 +622,22 @@
 /* Sharing accounts section in settings. */
 "Settings_Accounts_Section_Title" = "アカウント共有";
 
-"Settings_Accounts_Medium_Add" = "Mediumアカウントを追加…";
-"Settings_Accounts_Medium_Remove" = "Mediumを除外…";
-"Settings_Accounts_Medium_Remove_Confirmation" = "Mediumを除外";
-"Settings_Accounts_Medium_Add_Title" = "Medium";
-"Settings_Accounts_Medium_Add_Message" = "iA Writerから下書きを作成します。公開前に内容を確認できます。";
-"Settings_Accounts_Medium_Get_Token" = "Mediumでトークンを取得";
-"Settings_Accounts_Medium_Add_Token_Placeholder" = "トークン";
-"Settings_Accounts_Medium_Invalid_Token_Title" = "無効なトークン";
-"Settings_Accounts_Medium_Invalid_Token_Message" = "Mediumで作成された有効なトークンであるか確認してください。";
+"Settings_Accounts_Add" = "アカウント追加…";
+"Settings_Accounts_Remove" = "アカウントを削除";
+"Settings_Accounts_Configure" = "アカウントを設定";
 
-"Settings_Accounts_WordPress_Add" = "WordPressアカウントを追加…";
-"Settings_Accounts_WordPress_Remove" = "WordPressを除外…";
-"Settings_Accounts_WordPress_Remove_Confirmation" = "WordPressを除外";
-"Settings_Accounts_WordPress_Add_Title" = "WordPress";
-"Settings_Accounts_WordPress_Add_Message" = "iA Writerから下書きを作成します。公開前に内容を確認できます。\n\nセルフホスティングサーバーにはJetpackが必要です。\n\n複数のサイトをご利用の場合プライマリサイトに下書きを作成します。";
-"Settings_Accounts_WordPress_About_Jetpack" = "Jetpackについて";
-"Settings_Accounts_WordPress_Authorize" = "許可";
+/*-----------------
+ Interface Settings
+ -----------------*/
+
+"Setttings_Interface_File_Extensions" = "ファイル拡張子";
+
+"Settings_Interface_Scroll_Sync" = "同時スクロール";
+"Settings_Interface_Editor_Preview_Section_Header" = "エディタ＆プレビュー";
+
+"Settings_Interface_Toolbars" = "ツールバー";
+"Settings_Interface_Toolbars_Show_Hide" = "表示 / 非表示";
+"Settings_Interface_Toolbars_Always_Show" = "常に表示";
 
 /*-------------
  Files Settings
@@ -752,7 +659,6 @@
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "並べ替え";
-"Settings_Library_Sort_By_Edit" = "並べ替え";
 
 /*--------------
  Editor Settings
@@ -778,15 +684,33 @@
 "Settings_Editor_Focus_Mode_Scope" = "範囲";
 
 /* Keyboard section in settings. */
-"Settings_Editor_Keyboard_Section_Title" = "カスタムキーボード";
-"Settings_Editor_Keyboard_Prefers_Popover" = "キーボードのポップアップを常に使う";
-"Settings_Editor_Keyboard_Configure" = "キーボードをカスタマイズ";
-"Settings_Editor_Keyboard_Section_Footer" = "素早くキーをカスタマイズするにはカスタムキーボード上のいずれかのキーをタップ&ホールドしてください。";
+"Settings_Keyboard_Lightning_Menu" = "クイックメニュー";
+"Settings_Keyboard_Lightning_Menu_Add_Actions" = "操作を追加";
+"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "サブメニューを追加";
+"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "サブメニューを編集";
+"Settings_Keyboard_Lightning_Menu_Remove_Action" = "操作を削除";
+"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "サブメニューを削除";
+"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "操作を選択";
+"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "操作";
+"Settings_Keyboard_Lightning_Menu_Section_Footer" = "ライトニングメニューでいずれかの操作をタップし長押しして、これらの設定を開きます。";
+
+"Settings_Command_Keyboard" = "コマンドキーボード";
+"Settings_Command_Keyboard_Enable" = "キーボードバーで表示";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "常にポップオーバーで表示";
+"Settings_Command_Keyboard_Configure" = "設定";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "コマンドキーボードでいずれかのライトキーをタップし長押しして、設定モードを開きます。";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "コマンドキーボードの操作はライトニングメニューとクイック検索で利用できます。また、ハードウェアキーボードが接続されている場合、キーボードのショートカットとして使用できます。";
+
+/* Lightning menu strings. */
+"Lightning_Menu_Group_Text" = "テキスト";
+"Lightning_Menu_Group_Actions" = "操作";
+"Lightning_Menu_Group_Menu" = "メニュー";
+"Configure_Menu" = "メニューの設定";
 
 /* Hardware keyboard section in settings. */
 "Settings_Editor_Hardware_Keyboard_Title" = "ハードウェアキーボード";
-"Settings_Editor_Hardware_Keyboard_Footer" = "キーボードバーはハードウェアキーボードが接続されると非表示になります。";
-"Settings_Editor_Hardware_Keyboard_Hide_Bars" = "キーボードバーを非表示";
+"Settings_Editor_Hardware_Keyboard_Footer" = "ハードウェアキーボードが接続されている場合のみ、この操作はキーボードバーに影響します。";
+"Settings_Editor_Hardware_Keyboard_Show_Bar" = "キーボードバーを表示";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "テキスト入力";
@@ -809,6 +733,7 @@
 "Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "タブ挿入";
 
 "Settings_Editor_Tab_Width" = "タブ幅";
+"Settings_Editor_Indent_Width" = "インデント幅";
 
 "Settings_Editor_Wrapped_Line_Indent_Section_Title" = "折返しインデントに含む";
 "Settings_Editor_Wrapped_Line_Indent_Whitespace" = "ホワイトスペース";
@@ -841,11 +766,12 @@
 "Settings_Templates_Appearance_Invert_Preview_Colors" = "プレビューの色を反転";
 
 /* Markdown section in settings. */
-"Settings_Markdown_Section_Title" = "Markdown処理";
+"Settings_Markdown_Processing_Section_Title" = "Markdown処理";
+"Settings_Markdown_Library_Paths_Title" = "ライブラリのパス";
+"Settings_Markdown_Output_Section_Title" = "ウィキリンク、ハッシュタグ、自動リンク";
 "Settings_Markdown_Lazy_Paragraphs" = "一回のリターンキーで新しい段落を開始";
 "Settings_Markdown_Smart_Punctuation" = "スマート句読点";
 "Settings_Markdown_Process_Metadata" = "メタデータを処理";
-"Settings_Markdown_Hide_Hashtags" = "ハッシュタグを隠す";
 
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "印刷とPDF書き出し";
@@ -876,12 +802,6 @@
 /* URL scheme settings auth token footer. */
 "Settings_URL_Sheme_Auth_Token_Footer" = "一部のURLコマンドでは認証トークンが必要です。";
 
-/* URL scheme settings button to copy auth token. */
-"Settings_URL_Sheme_Auth_Token_Copy" = "コピー";
-
-/* URL scheme settings button to reset auth token, followed by confirmation sheet. */
-"Settings_URL_Sheme_Auth_Token_Reset" = "リセット…";
-
 /*---------
  URL Scheme
  ----------*/
@@ -897,3 +817,19 @@
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "認証トークンをリセットしてもよろしいですか? この操作は元に戻すことができません。";
+
+/*-----
+ Editor
+ -----*/
+
+/* Find bar menu menu item. */
+"Find_Match_Style" = "一致するスタイル";
+
+/* Find bar menu menu item. */
+"Find_Match_Case" = "一致するテキストの大文字小文字";
+
+/* Find bar action to replace selected result. */
+"Replace_Action" = "置換";
+
+/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
+"Replace_All_Action" = "すべて";

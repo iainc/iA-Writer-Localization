@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "Сбросить раскладку клавиатуры";
 "Key_Picker_Action_Cancel" = "Отмена";
 
+"Menu_Quick_Search" = "Быстрый поиск";
+"Menu_Find" = "Найти и заменить";
+"Menu_Replace" = "Заменить";
+"Menu_Replace_All" = "Заменить все";
+
 "Find_Placeholder" = "Найти";
 "Find_Replace_Placeholder" = "Заменить";
+
+"Key_Description_Lightning" = "Молния";
+"Key_Description_Insert_Selected_Completion" = "Завершение вставки выбранного";
+"Key_Description_Cancel" = "Отмена";
+"Key_Description_Open_Link" = "Открыть ссылку";
 
 "Key_Description_Find" = "Панель поиска";
 "Key_Description_Show_Find" = "Показать панель поиска";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "Найти предыдущий";
 "Key_Description_Replace" = "Заменить";
 "Key_Description_Replace_All" = "Заменить все";
+
+"Find_Contains" = "Содержит";
+"Find_Matches_Word" = "Слово целиком";
+"Find_Starts_With" = "Начинается с";
+"Find_Ends_With" = "Заканчивается на";
+"Find_Regular_Expression" = "Регулярное выражение";
 
 "Key_Description_Search" = "Поиск";
 "Key_Description_Command" = "Команды";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "Отменить меню";
 
 "Key_Title_Return" = "Enter";
-"Key_Title_Shift_Right" = "табуляция";
-"Key_Title_Shift_Left" = "обратная табуляция";
+"Key_Title_Tab" = "табуляция";
+"Key_Title_Backtab" = "обратная табуляция";
 "Key_Title_Home" = "home";
 "Key_Title_End" = "end";
-"Key_Title_Shift_Up" = "переместить\nтекст ↑";
-"Key_Title_Shift_Down" = "переместить\nтекст ↓";
+"Key_Title_Move_Text_Up" = "переместить\nтекст ↑";
+"Key_Title_Move_Text_Down" = "переместить\nтекст ↓";
 "Key_Title_Undo" = "отменить";
 "Key_Title_Redo" = "повторить";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "Удалить назад";
 "Key_Description_Delete_Paragraph" = "Удалить абзац";
 "Key_Description_Dismiss_Keyboard" = "Отклонить клавиатуру";
-"Key_Description_Shift_Left" = "Выступ";
-"Key_Description_Shift_Right" = "Отступ";
-"Key_Description_Shift_Up" = "Переместить абзац вверх";
-"Key_Description_Shift_Down" = "Переместить абзац вниз";
+"Key_Description_Backtab" = "Выступ";
+"Key_Description_Tab" = "Отступ";
+"Key_Description_Outdent" = "Выступ";
+"Key_Description_Indent" = "Отступ";
+"Key_Description_Move_Text_Up" = "Переместить строку вверх";
+"Key_Description_Move_Text_Down" = "Переместить строку вниз";
 "Key_Description_Dismiss_Keyboard" = "Отклонить клавиатуру";
 "Key_Description_Move_To_Beginning" = "Перейти к началу документа";
 "Key_Description_Move_To_End" = "Перейти к концу документа";

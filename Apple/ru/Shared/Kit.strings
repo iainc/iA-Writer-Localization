@@ -1,13 +1,91 @@
 
-"Button_OK" = "OK";
-"Button_Cancel" = "Отменить";
-"Button_Try_Again" = "Повторить попытку";
-"Button_Share" = "Поделиться";
-"Button_Close" = "Закрыть";
-"Button_Continue" = "Продолжить";
-"Button_Enable" = "Включить";
-"Button_Disable" = "Выключить";
-"Button_Reset" = "Сбросить";
+"OK" = "OK";
+"Cancel" = "Отменить";
+"Try_Again" = "Повторить попытку";
+"Share" = "Поделиться";
+"Close" = "Закрыть";
+"Continue" = "Продолжить";
+"Enable" = "Включить";
+"Disable" = "Выключить";
+"Reset" = "Сбросить";
+"Edit" = "Редактировать";
+"Done" = "Готово";
+"Remove" = "Удалить";
+"Delete" = "Удалить";
+"Delete_Immediately" = "Удалить немедленно";
+"More" = "Ещё";
+"Hide" = "Скрыть";
+"Add" = "Добавить";
+"Name" = "Имя";
+"Add_Account" = "Добавить учетную запись";
+"Remove_Account" = "Удалить учетную запись";
+"Authorize" = "Авторизовать";
+"Options" = "Параметры";
+"Open_Mail" = "Открыть Почту";
+"Add_Pattern" = "Добавить шаблон";
+"Remove_Pattern" = "Удалить шаблон";
+"New_Smart_Folder" = "Новая смарт-папка";
+"Add_Location" = "Добавить местоположение";
+"Move_To_Trash" = "Переместить в Корзину";
+"Copy" = "Копировать";
+"Copy_Library_Path" = "Скопировать путь в библиотеке";
+"Copy_URL_Command" = "Скопировать URL-команду";
+"Open" = "Открыть";
+"Open_Content_Block" = "Открыть блок содержимого";
+"Open_Link" = "Открыть ссылку";
+"Open_Wikilink" = "Открыть вики-ссылку";
+"Open_Wikilink_In_Background_Window" = "Открыть вики-ссылку в фоновом окне";
+"Show_In_Quick_Search" = "Показать в быстром поиске";
+"Open_URL_Command" = "Открыть URL-команду";
+"Save" = "Сохранить";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Hide_Library" = "Скрыть библиотеку";
+"Hide_Preview" = "Скрыть просмотр";
+"Show_Library" = "Показать библиотеку";
+"Show_Preview" = "Показать просмотр";
+"Back" = "Назад";
+"Forward" = "Вперед";
+"Go_Back" = "Go Back";
+"Go_Forward" = "Go Forward";
+"Back_In_Library" = "Назад в библиотеку";
+"Forward_In_Library" = "Вперед в библиотеку";
+"Make_Text_Bigger" = "Увеличить текст";
+"Make_Text_Normal_Size" = "Обычный размер текста";
+"Make_Text_Smaller" = "Уменьшить текст";
+"Print" = "Напечатать";
+"Print_Plain_Text" = "Напечатать редактор";
+"Export" = "Экспортировать";
+"Publish" = "Опубликовать";
+"Show_Completions" = "Показать автодополнения";
+
+"Add_Wikilink" = "Добавить Wiki-ссылку";
+"Remove_Wikilink" = "Удалить Wiki-ссылку";
+"Add_Link" = "Добавить ссылку";
+"Remove_Link" = "Удалить ссылку";
+"Add_Image" = "Добавить изображение";
+"Remove_Image" = "Удалить изображение";
+"Add_Footnote" = "Добавить сноску";
+"Remove_Footnote" = "Удалить сноску";
+
+"Library_Destination_Shortest" = "Кратчайшие";
+"Library_Destination_Relative" = "Относительные";
+"Library_Destination_Absolute" = "Абсолютные";
+
+"Menu_Focus" = "Фокус";
+"Menu_Go" = "Переход";
+
+"Label_Format" = "Формат";
+"Label_Email" = "Эл. почта";
+
+"Placeholder_Loading" = "Загрузка…";
+"Placeholder_No_Accounts" = "Нет учетных записей";
+"Placeholder_No_Custom_Patterns" = "Нет своих шаблонов";
+"Custom_Patterns_Title" = "Свои шаблоны";
+"Custom_Patterns_Introduction" = "Настройте проверку стиля по своим правилам и исключениям.";
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
 
 "News_Title" = "Обновления";
 
@@ -21,8 +99,73 @@
 "Default_Smart_Folder_Name" = "Без названия";
 "Default_Smart_Folder_Recently_Modified_Name" = "Недавние";
 
+"Paper_Size_A3" = "A3";
 "Paper_Size_A4" = "A4";
+"Paper_Size_A5" = "A5";
 "Paper_Size_US_Letter" = "US Letter";
+
+"Preview_Size_Full" = "На всё окно";
+"Preview_Size_Split" = "Пополам";
+
+"Output_Source_Text" = "Исходный текст";
+"Output_Text" = "Текст";
+"Output_Span" = "Спаны";
+"Output_None" = "Удалить";
+"Output_Link" = "Ссылки";
+"HTML_Output" = "HTML-вывод";
+"Other_Output" = "Другой вывод";
+"Preview_Output" = "Просмотр";
+"HTML_Output_Description" = "Эти параметры будут использоваться при копировании, экспорте и публикации HTML-содержимого.";
+"Other_Output_Description" = "Эти параметры будут использоваться при копировании, экспорте и публикации текста.";
+"Preview_Output_Description" = "Эти параметры будут использоваться в просмотре.";
+"Destination_Type_Description" = "Формат пути будет успользован для новых вики-ссылок и блоков контента.";
+"Content_Blocks" = "Блоки контента";
+"Wikilinks" = "Вики-ссылки";
+"Hashtags" = "Хэштеги";
+"Autolinks" = "Авто-ссылки";
+
+"Metadata" = "Метаданные";
+"Key" = "Ключ";
+"Metadata_Key" = "Ключ метаданных";
+"Value" = "Содержимое";
+"Add_Metadata" = "Добавить метаданные";
+
+"Template" = "Шаблон";
+
+"Author" = "Автор";
+
+/*---------
+Text Check
+---------*/
+
+"Text_Check_Enable_All" = "Включить все";
+"Text_Check_Enable_Last_Used" = "Включить последние";
+"Text_Check_Disable_All" = "Выключить все";
+"Text_Check_Target_All" = "Все";
+"Text_Check_Target_None" = "Нет";
+"Syntax_Control_Target_Nouns" = "Существительные";
+"Syntax_Control_Target_Verbs" = "Глаголы";
+"Syntax_Control_Target_Adjectives" = "Прилагательные";
+"Syntax_Control_Target_Adverbs" = "Наречия";
+"Syntax_Control_Target_Conjunctions" = "Союзы";
+"Style_Check_Title" = "Проверка стиля";
+"Style_Check_Sentence_Capitalization" = "Проверка стиля";
+"Style_Check_Target_Fillers" = "Слова-паразиты";
+"Style_Check_Target_Cliches" = "Клише";
+"Style_Check_Target_Redundancies" = "Многословие";
+"Style_Check_Target_Custom" = "Свое";
+"Style_Check_Languages" = "Встроенные шаблоны для английского, французского, немецкого языков.";
+
+/*----------
+ Focus Tools
+ ----------*/
+
+"Enable_Focus_Mode" = "Включить режим концентрации";
+"Disable_Focus_Mode" = "Отключить режим концентрации";
+"Enable_Syntax" = "Показать синтаксис";
+"Disable_Syntax" = "Скрыть синтаксис";
+"Enable_Style_Check" = "Включить проверку стиля";
+"Disable_Style_Check" = "Отключить проверку стиля";
 
 /*----
  Dates
@@ -33,6 +176,29 @@
 /*-----------
  Web Services
  -----------*/
+
+"Auth_Mode_Authorize_In_Browser" = "Авторизация в браузере";
+"Auth_Mode_Enter_Token_Manually" = "Ввести токен вручную";
+"Auth_Mode_Add_Account_Manually" = "Добавить учетную запись вручную";
+
+"Web_Service_URL" = "URL";
+"Web_Service_Token" = "Токен";
+"Web_Service_Website_URL" = "Адрес сайта";
+"Web_Service_Username" = "Имя пользователя";
+"Web_Service_App_Password" = "Пароль для приложения";
+
+"Ghost_API_URL" = "API URL";
+"Ghost_Admin_API_Key" = "Admin API Key";
+
+"New_Draft_On_Web_Service" = "Новый черновик на %@";
+"New_Post_On_Web_Service" = "Новый пост на %@";
+
+"Web_Service_Introduction" = "iA Writer создает черновики, которые вы можете проверить перед публикацией.";
+"Micropub_Introduction" = "iA Writer запросит создание черновика. Micropub серверы не поддерживающие эту функцию сразу же опубликуют текст.";
+"WordPress.com_Description" = "Публикация на WordPress.com, и на сайты на WordPress с плагином Jetpack.";
+"WordPress.org_Description" = "Публикация на сайтах на WordPress. Требуется WordPress 5.6 или новее.";
+"WordPress.com_Link_Action" = "Jetpack";
+"Medium_Link_Action" = "Получить токен в Medium";
 
 "Web_Service_Publish_Status_Draft" = "Черновик";
 "Web_Service_Publish_Status_Unlisted" = "Скрытый";
@@ -65,9 +231,25 @@
 "Web_Service_Error_Other_Title" = "Ошибка подключения";
 "Web_Service_Error_Other" = "При подключении к службе получена ошибка.";
 
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "Доступ запрещен";
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Доступ к учетной записи запрещен.";
-"Web_Service_Recovery_Suggestion_Auth_Denied" = "Вы должны предоставить доступ к своей учетной записи, чтобы использовать ее в iA Writer.";
+"Web_Service_Error_Auth_Denied_Title" = "Доступ запрещен";
+"Web_Service_Error_Auth_Denied" = "Доступ к учетной записи запрещен.";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Вы должны предоставить доступ к своей учетной записи, чтобы использовать ее в iA Writer.";
+
+"Web_Service_Error_IndieAuth_Not_Found_Title" = "IndieAuth не найден";
+"Web_Service_Error_IndieAuth_Not_Found" = "Не удалось найти IndieAuth.";
+"Web_Service_Error_IndieAuth_Not_Found_Recovery_Suggestion" = "Убедитесь, что мета теги или заголовки IndieAuth присутствуют на странице.";
+
+"Web_Service_Error_Micropub_Not_Found_Title" = "Micropub не найден";
+"Web_Service_Error_Micropub_Not_Found" = "Не удалось найти Micropub.";
+"Web_Service_Error_Micropub_Not_Found_Recovery_Suggestion" = "Убедитесь, что мета теги или заголовки Micropub присутствуют на странице.";
+
+"Web_Service_Error_WordPress_API_Not_Found_Title" = "WordPress API не найден";
+"Web_Service_Error_WordPress_API_Not_Found" = "Не удалось найти WordPress API.";
+"Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "Убедитесь, что вы используете WordPress 4.7 или новее, и что мета тег WordPress API присутствует на странице.";
+
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "Нет паролей для приложения от WordPress";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "Пароли для приложения от WordPress недоступны.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Убедитесь, что вы используете версию WordPress 5.6 или новее, а пароли для приложения не отключены на сайте или для вашего пользователя.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "Пожалуйста, попробуйте позже.";
 
@@ -96,6 +278,28 @@
 "Medium_Image_Upload_Error_Unauthorized" = "Medium отключил загрузку изображений.";
 "Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "Пожалуйста, свяжитесь с Medium чтобы включить загрузку изображений для вашего токена.";
 "Medium_Image_Upload_Error_Contact" = "Связаться с Medium";
+
+"Ghost_Export_Type_HTML" = "По умолчанию";
+"Ghost_Export_Type_HTML_Description" = "Часть разметки может быть потеряна.\nЛучше всего подходит для редактирования в Ghost.";
+"Ghost_Export_Type_HTML_Card" = "HTML Карточка";
+"Ghost_Export_Type_HTML_Card_Description" = "Лучшая совместимость.";
+"Ghost_Export_Type_Markdown_Card" = "Markdown Карточка";
+"Ghost_Export_Type_Markdown_Card_Description" = "Часть разметки может выглядеть по-другому.";
+
+"Micropub_Export_Type_HTML" = "HTML";
+"Micropub_Export_Type_HTML_Description" = "Лучшая совместимость.";
+"Micropub_Export_Type_Markdown" = "Markdown";
+"Micropub_Export_Type_Markdown_Description" = "Часть разметки может выглядеть по-другому.";
+
+"WordPress_Export_Type_HTML" = "HTML";
+"WordPress_Export_Type_HTML_Description" = "Лучшая совместимость.";
+"WordPress_Export_Type_Markdown" = "Markdown";
+"WordPress_Export_Type_Markdown_Description" = "Часть разметки может выглядеть по-другому.";
+
+"Microblog_Sign_In_Action" = "Отправить ссылку для входа";
+"Microblog_Sign_In_Title" = "Micro.blog отправил ссылку для входа";
+"Microblog_Sign_In" = "Micro.blog отправил вам на эл. почту ссылку для входа.";
+"Microblog_Sign_In_Recovery_Suggestion" = "Проверьте эл. почту на вашем %@ и с помощью ссылки добавьте учетную запись в iA Writer.";
 
 /*--------
  Templates
@@ -134,14 +338,15 @@
 "URL_Scheme_Error_Invalid_Auth_Token" = "Команда URL вызвана с неверным токеном авторизации.";
 "URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Убедитесь, что токен авторизации верен.";
 
-"URL_Scheme_Auth_Token_Description" = "Для некоторых URL-команд требуется токен авторизации.";
-"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Для некоторых URL-команд требуется токен авторизации. Токен синхронизируется на все ваши устройства с помощью iCloud.";
+"URL_Scheme_Auth_Token_Description" = "Токен авторизации требуется для некоторых команд URL.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Для некоторых команд URL требуется токен авторизации. Ваши устройства используют один и тот же токен авторизации благодаря iCloud.";
 
 /*-------
  Storages
  -------*/
 
 "Storage_Name_Cloud" = "iCloud";
+"Storage_Name_From_Other_Apps" = "Из других программ";
 "Storage_Name_Unknown" = "Неизвестное";
 "Storage_Name_Local" = "Локальное";
 "Storage_Name_On_My_Device" = "На моем %@";
@@ -149,32 +354,11 @@
 "Library_Location_Desktop" = "Рабочий стол";
 "Library_Location_Documents" = "Документы";
 
-/*----
- Fonts
- ----*/
-
-"Font_Name_Monospaced" = "Одноширинная";
-"Font_Name_Duospaced" = "Двуширинная";
-"Font_Name_Quattro" = "Четвероширинная";
-
-"Content_Typography_System" = "Системная — %@";
-"Content_Typography_Default" = "По умолчанию";
-"Content_Typography_Simplified_Chinese" = "Китайская упрощенная";
-"Content_Typography_Traditional_Chinese" = "Китайская традиционная";
-"Content_Typography_Japanese" = "Японская";
-"Content_Typography_Korean" = "Корейская";
-
-"Content_Typography_Emphasis_Italic" = "Курсив";
-"Content_Typography_Emphasis_Mark" = "Выделение";
-
-"Content_Typography_Emphasis_Description_Italic" = "Курсив";
-"Content_Typography_Emphasis_Description_Mark" = "Точки";
-
 /*----------------
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Existing_Item_Title" = "Cannot Add an Existing Library Location";
+"Library_Location_Error_Existing_Item_Title" = "Невозможно добавить уже существующее местоположение библиотеки";
 "Library_Location_Error_Existing_Item" = "Невозможно добавить местоположение библиотеки, потому что папка или ее подпапка являются частью другого местоположения библиотеки.";
 "Library_Location_Error_Existing_Item_Failure_Reason" = "Выбранная папка или ее подпапка являются частью другого местоположения библиотеки.";
 "Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Удалите существующее местоположение библиотеки перед добавлением выбранной папки.";
@@ -183,6 +367,14 @@
 "Library_Location_Error_Not_Found" = "Невозможно найти местоположение библиотеки. ";
 "Library_Location_Error_Not_Found_Failure_Reason" = "Возможно, оно было удалено или расположено на извлекаемом устройстве.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Подключите извлекаемое устройство, чтобы получить доступ к местоположению библиотеки.";
+
+/*---------
+ Wikilinks
+ ---------*/
+
+"Wikilink_Error_Library_Location_Not_Found_Title" = "Не удается найти местоположение библиотеки с именем «%@»";
+"Wikilink_Error_Library_Location_Not_Found" = "Не удается найти местоположение библиотеки с именем «%@».";
+"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Проверьте наличие местоположения библиотеки с именем «%@».";
 
 /*--------
  Documents
@@ -201,17 +393,25 @@
 "Library_Sort_Order_Name" = "Имя";
 "Library_Sort_Order_Extension" = "Расширение";
 "Library_Sort_Order_Date_Modified" = "Дата изменения";
-"Library_Sort_Order_Search_Rank" = "Релевантность";
+"Library_Sort_Order_Date_Created" = "Дата создания";
+"Library_Sort_Order_Search_Relevance" = "Релевантность";
+
+"Library_Show_Date" = "Показывать дату";
+"Library_Show_Date_Modified" = "Дату изменения";
+"Library_Show_Date_Created" = "Дату создания";
+
+"Library_Sort_By" = "Сортировать по";
+"Library_Sort_By_Name" = "Имени";
+"Library_Sort_By_Extension" = "Расширению";
+"Library_Sort_By_Date_Modified" = "Дате изменения";
+"Library_Sort_By_Date_Created" = "Дате создания";
+"Library_Sort_By_Search_Relevance" = "Релевантности";
 
 "Library_Sort_By_Name_Phrase" = "Сортировать по имени";
 "Library_Sort_By_Extension_Phrase" = "Сортировать по расширению";
 "Library_Sort_By_Date_Modified_Phrase" = "Сортировать по дате изменения";
-"Library_Sort_By_Search_Rank_Phrase" = "Сортировать по релевантности";
-
-"Library_Sort_By_Name" = "Имени";
-"Library_Sort_By_Extension" = "Расширению";
-"Library_Sort_By_Date_Modified" = "Дате изменения";
-"Library_Sort_By_Search_Rank" = "Релевантности";
+"Library_Sort_By_Date_Created_Phrase" = "Сортировать по дате создания";
+"Library_Sort_By_Search_Relevance_Phrase" = "Сортировать по релевантности";
 
 "Library_Sort_By_Date_Ascending" = "Старые сверху";
 "Library_Sort_By_Date_Descending" = "Новые сверху";
@@ -219,10 +419,12 @@
 "Library_Sort_By_Text_Ascending" = "От А до Я";
 "Library_Sort_By_Text_Descending" = "От Я до A";
 
-"Library_Sort_By_Search_Rank_Ascending" = "Наиболее релевантные сверху";
-"Library_Sort_By_Search_Rank_Descending" = "Наименее релевантные сверху";
+"Library_Sort_By_Search_Relevance_Ascending" = "Наиболее релевантные сверху";
+"Library_Sort_By_Search_Relevance_Descending" = "Наименее релевантные сверху";
 
 "Library_Sort_By_Part_Joiner" = ", ";
+
+"Library_Sort_Order_Persistent" = "Всегда использовать эти параметры здесь";
 
 /*----------
  Focus Scope
@@ -244,9 +446,10 @@
  Content Blocks
  -------------*/
 
-"Content_Block_Error_No_Such_File" = "«%@» не существует.";
-"Content_Block_Error_No_Such_File_Title" = "«%@» не существует";
-"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "Возможно, имя файла неправильное.";
+"Content_Block_Error_No_Such_File" = "Файл «%@» не существует.";
+"Content_Block_Error_No_Such_File_Title" = "Файл «%@» не существует";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "Проверьте правильность имени файла.";
+"Content_Block_Error_No_Such_File_Markdown_Or_HTML_Path_Recovery_Suggestion" = "Если вы ссылаетесь на локальный файл, проверьте правильность имени файла. Если вы ссылаетесь на веб-ресурс, добавьте «https://».";
 
 "Content_Block_Error_Unable_To_Process" = "Невозможно обработать «%@».";
 "Content_Block_Error_Unable_To_Process_Title" = "Невозможно обработать «%@».";
@@ -263,46 +466,56 @@
 
 "Content_Block_Error_Unsupported_Location" = "Блоки контента поддерживаются только файлами в библиотеке.";
 "Content_Block_Error_Unsupported_Location_Title" = "Неподдерживаемое местоположение";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Переместите или скопируйте файл в библиотеку, чтобы использовать блоки контента. Вы можете добавить папки в библиотеку в настройках.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Переместите или скопируйте файл в библиотеку, чтобы использовать блоки контента.";
 "Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Блоки контента поддерживаются только файлами в библиотеке %@.";
 
 /*---------
  Text Stats
  ---------*/
 
-/* Reading time label in text editor toolbar. */
-"Stats_Reading_Time" = "Время чтения %@";
+"Stats_Reading_Time" = "%@ время чтения";
+"Stats_Name_Words" = "Слова";
+"Stats_Name_Sentences" = "Предложения";
+"Stats_Name_Reading_Time" = "Время чтения";
+"Stats_Name_Tasks" = "Задачи";
+"Stats_Name_Characters" = "Символы";
+"Stats_Name_Characters_Without_Spaces" = "Символы без пробелов";
 
-/*-------------
- Syntax Control
- -------------*/
+/*-----
+ Export
+ -----*/
 
-/* Syntax control menu title to enable all targets. */
-"Syntax_Control_Enable_All" = "Включить все";
+"Export_Format_Word_Name" = "Microsoft Word";
+"Export_Format_Word_Description" = "Совместим с Microsoft Word 2007 или новее, Apple Pages и Документами Google.";
+"Export_Format_Word_Action" = "Export Microsoft Word";
 
-/* Syntax control menu title to enable last used targets. */
-"Syntax_Control_Enable_Last_Used" = "Включить последние";
+"Export_Format_HTML_Name" = "HTML";
+"Export_Format_HTML_Description" = "Стандартный HTML.";
+"Export_Format_HTML_Action" = "Экспортировать HTML";
 
-/* Syntax control menu title to disable all targets. */
-"Syntax_Control_Disable_All" = "Выключить все";
+"Export_Format_PDF_Name" = "PDF";
+"Export_Format_PDF_Description" = "Чтобы изменить макет PDF, выберите Файл → Настройка страницы.";
+"Export_Format_PDF_Action" = "Экспортировать PDF";
 
-/* All syntax control targets chosen. */
-"Syntax_Control_Target_All" = "Все";
+"Export_Format_Markdown_Name" = "Markdown";
+"Export_Format_Markdown_Description" = "Совместим с другими редакторами.";
+"Export_Format_Markdown_Action" = "Экспортировать Markdown";
 
-/* No syntax control target chosen. */
-"Syntax_Control_Target_None" = "Нет";
+"Export_Format_Project_Archive_Name" = "Архив проекта";
+"Export_Format_Project_Archive_Description" = "Включает связанные блоки контента.";
+"Export_Format_Project_Archive_Action" = "Экспортировать архив проекта";
 
-/* Nouns syntax control target. */
-"Syntax_Control_Target_Nouns" = "Существительные";
+"Copy_Markdown" = "Скопировать Markdown";
+"Copy_HTML" = "Скопировать HTML";
+"Copy_Formatted" = "Скопировать отформатированный текст";
 
-/* Verbs syntax control target. */
-"Syntax_Control_Target_Verbs" = "Глаголы";
+/*------
+ Preview
+ ------*/
 
-/* Adjectives syntax control target. */
-"Syntax_Control_Target_Adjectives" = "Прилагательные";
+"Display_Mode_Web" = "Веб";
+"Display_Mode_PDF" = "PDF";
 
-/* Adverbs syntax control target. */
-"Syntax_Control_Target_Adverbs" = "Наречия";
-
-/* Conjunctions syntax control target. */
-"Syntax_Control_Target_Conjunctions" = "Союзы";
+"PDF_Scale_Fit_Page" = "Страница целиком";
+"PDF_Scale_Fit_Width" = "По ширине страницы";
+"PDF_Percent_Zoom" = "%zd %";

@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "키보드 레이아웃 재설정";
 "Key_Picker_Action_Cancel" = "취소";
 
+"Menu_Quick_Search" = "빠른 검색";
+"Menu_Find" = "찾기 및 바꾸기";
+"Menu_Replace" = "바꾸기";
+"Menu_Replace_All" = "모두 바꾸기";
+
 "Find_Placeholder" = "찾기";
 "Find_Replace_Placeholder" = "바꾸기";
+
+"Key_Description_Lightning" = "번개";
+"Key_Description_Insert_Selected_Completion" = "선택된 자동 완성 내용 삽입";
+"Key_Description_Cancel" = "취소";
+"Key_Description_Open_Link" = "링크 열기";
 
 "Key_Description_Find" = "찾기 바";
 "Key_Description_Show_Find" = "찾기 바 표시";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "이전 찾기";
 "Key_Description_Replace" = "바꾸기";
 "Key_Description_Replace_All" = "모두 바꾸기";
+
+"Find_Contains" = "포함:";
+"Find_Matches_Word" = "일치하는 단어";
+"Find_Starts_With" = "다음으로 시작:";
+"Find_Ends_With" = "다음으로 종료:";
+"Find_Regular_Expression" = "정규 표현식";
 
 "Key_Description_Search" = "검색";
 "Key_Description_Command" = "명령";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "메뉴 해제";
 
 "Key_Title_Return" = "Return";
-"Key_Title_Shift_Right" = "탭";
-"Key_Title_Shift_Left" = "백탭";
+"Key_Title_Tab" = "탭";
+"Key_Title_Backtab" = "백탭";
 "Key_Title_Home" = "Home";
 "Key_Title_End" = "End";
-"Key_Title_Shift_Up" = "텍스트\n이동 ↑";
-"Key_Title_Shift_Down" = "텍스트\n이동 ↓";
+"Key_Title_Move_Text_Up" = "텍스트\n이동 ↑";
+"Key_Title_Move_Text_Down" = "텍스트\n이동 ↓";
 "Key_Title_Undo" = "실행 취소";
 "Key_Title_Redo" = "다시 실행";
 
@@ -46,10 +62,12 @@
 "Key_Description_Delete_Backward" = "뒤로 삭제";
 "Key_Description_Delete_Paragraph" = "단락 삭제";
 "Key_Description_Dismiss_Keyboard" = "키보드 해제";
-"Key_Description_Shift_Left" = "내어쓰기";
-"Key_Description_Shift_Right" = "들여쓰기";
-"Key_Description_Shift_Up" = "위로 단락 이동";
-"Key_Description_Shift_Down" = "아래로 단락 이동";
+"Key_Description_Backtab" = "내어쓰기";
+"Key_Description_Tab" = "들여쓰기";
+"Key_Description_Outdent" = "내어쓰기";
+"Key_Description_Indent" = "들여쓰기";
+"Key_Description_Move_Text_Up" = "위로 줄 이동";
+"Key_Description_Move_Text_Down" = "아래로 줄 이동";
 "Key_Description_Dismiss_Keyboard" = "키보드 해제";
 "Key_Description_Move_To_Beginning" = "문서의 처음으로 이동";
 "Key_Description_Move_To_End" = "문서의 끝으로 이동";

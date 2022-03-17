@@ -30,7 +30,7 @@
 "glA-Sr-Lyf.title" = "拡張子を表示";
 
 /* Class = "NSButtonCell"; title = "Filter bar"; ObjectID = "htJ-5i-qBe"; */
-"htJ-5i-qBe.title" = "フィルダーバー";
+"htJ-5i-qBe.title" = "フィルターバー";
 
 /* Class = "NSTextFieldCell"; title = "View options:"; ObjectID = "i4z-3b-PV5"; */
 "i4z-3b-PV5.title" = "表示オプション：";
@@ -39,13 +39,13 @@
 "iJN-Ml-9Yx.title" = "種類";
 
 /* Class = "NSTextFieldCell"; title = "Organizer:"; ObjectID = "jUI-P8-zHK"; */
-"jUI-P8-zHK.title" = "オーガナイザ:";
+"jUI-P8-zHK.title" = "オーガナイザ：";
 
 /* Class = "NSTextFieldCell"; title = "Sort by:"; ObjectID = "kND-5E-Z2a"; */
 "kND-5E-Z2a.title" = "並べ替え：";
 
 /* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "nVS-Cr-Jb3"; */
-"nVS-Cr-Jb3.title" = "ファイル:";
+"nVS-Cr-Jb3.title" = "ファイル：";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "oft-9R-Obz"; Note = "SKIP LOCALIZATION"; */
 "oft-9R-Obz.title" = "名前";

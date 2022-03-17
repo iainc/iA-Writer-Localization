@@ -9,7 +9,8 @@
 "Punctuation" = "標點";
 "Structure" = "結構";
 
-"Headings" = "所有標題";
+"Wikilink" = "維基鏈接";
+"Headings" = "標題 1–6";
 "Heading1" = "標題 1";
 "Heading2" = "標題 2";
 "Heading3" = "標題 3";
@@ -26,6 +27,7 @@
 "HorizontalRule" = "新增橫向條件";
 "PageBreak" = "新增分頁符";
 "Strong" = "粗體";
+"Highlight" = "突出顯示";
 "Code" = "代碼";
 "Strikethrough" = "刪除線";
 "SmartCurlyQuotes6699" = "彎引號";
@@ -96,8 +98,11 @@
 "MoveLineUp" = "整行上移";
 "MoveLineDown" = "整行下移";
 "TableOfContents" = "新增目錄";
+"Hashtag" = "新增主題標籤";
+"ScanText" = "掃描文字";
 "AddContentBlock" = "新增內容區塊";
 "AddDate" = "新增日期";
+"ChooseDate" = "Choose Date";
 "DismissKeyboard" = "關閉鍵盤";
 "MarkTask" = "將工作標記為已完成";
 "Night" = "切換夜間模式";
