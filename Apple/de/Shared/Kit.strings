@@ -33,8 +33,8 @@
 "Open" = "Öffnen";
 "Open_Content_Block" = "Inhaltlichen Block öffnen";
 "Open_Link" = "Link öffnen";
-"Open_Wikilink" = "Wiki-Link öffnen";
-"Open_Wikilink_In_Background_Window" = "Wiki-Link im Hintergrundfenster öffnen";
+"Open_Wikilink" = "Wikilink öffnen";
+"Open_Wikilink_In_Background_Window" = "Wikilink im Hintergrundfenster öffnen";
 "Show_In_Quick_Search" = "In Schnellsuche zeigen";
 "Open_URL_Command" = "URL-Befehl öffnen";
 "Save" = "Speichern";
@@ -59,8 +59,8 @@
 "Publish" = "Veröffentlichen";
 "Show_Completions" = "Autovervollständigung anzeigen";
 
-"Add_Wikilink" = "Wiki-Link hinzufügen";
-"Remove_Wikilink" = "Wiki-Link entfernen";
+"Add_Wikilink" = "Wikilink hinzufügen";
+"Remove_Wikilink" = "Wikilink entfernen";
 "Add_Link" = "Link hinzufügen";
 "Remove_Link" = "Link entfernen";
 "Add_Image" = "Bild hinzufügen";
@@ -118,9 +118,9 @@
 "HTML_Output_Description" = "Diese Einstellungen werden beim Kopieren, Exportieren und Veröffentlichen von HTML verwendet.";
 "Other_Output_Description" = "Diese Einstellungen werden beim Kopieren, Exportieren und Veröffentlichen von Text verwendet.";
 "Preview_Output_Description" = "Diese Einstellungen werden in der Vorschau genutzt.";
-"Destination_Type_Description" = "Das bevorzugte Pfadformat wird für neue WikiLinks und Inhaltsblöcke verwendet.";
+"Destination_Type_Description" = "Das bevorzugte Pfadformat wird für neue Wikilinks und Inhaltsblöcke verwendet.";
 "Content_Blocks" = "Inhaltsblöcke";
-"Wikilinks" = "Wiki-Links";
+"Wikilinks" = "Wikilinks";
 "Hashtags" = "Hashtags";
 "Autolinks" = "Auto-Links";
 
