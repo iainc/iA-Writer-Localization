@@ -3,7 +3,7 @@
 "1tl-et-2n4.title" = "Einzelner Umbruch beginnt einen neuen Absatz.";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
-"561-vh-uzh.ibShadowedToolTip" = "Für Nachmodus-Farben in der Vorschau. Nicht automatisch. Nachtfarben müssen im Template definiert werden.";
+"561-vh-uzh.ibShadowedToolTip" = "Dunkelmodus-Farben in der Vorschau verwenden. Benutzerdefinierte Vorlage müssen den Dunkelmodus implementiert haben um die Farben invertieren zu können.";
 
 /* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
 "794-EH-QRk.title" = "Metadaten verarbeiten";
