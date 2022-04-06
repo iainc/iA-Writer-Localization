@@ -609,7 +609,7 @@ Document
 "Settings_Keyboard_Title" = "Tastatur";
 "Settings_General_Title" = "Allgemein";
 "Settings_Files_Title" = "Dokumente";
-"Settings_Accounts_Title" = "Accounts";
+"Settings_Accounts_Title" = "Konten";
 "Settings_Library_Title" = "Bibliothek";
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Vorlagen";
@@ -622,9 +622,9 @@ Document
 /* Sharing accounts section in settings. */
 "Settings_Accounts_Section_Title" = "Sharing-Dienste";
 
-"Settings_Accounts_Add" = "Account hinzufügen …";
-"Settings_Accounts_Remove" = "Account entfernen";
-"Settings_Accounts_Configure" = "Account konfigurieren";
+"Settings_Accounts_Add" = "Konto hinzufügen…";
+"Settings_Accounts_Remove" = "Konto entfernen";
+"Settings_Accounts_Configure" = "Konto konfigurieren";
 
 /*-----------------
  Interface Settings
