@@ -3,19 +3,19 @@
 "Default_Text_Size" = "Originalgröße";
 "Decrease_Text_Size" = "Kleiner";
 
-"Button_Back" = "Go Back";
-"Button_Forward" = "Go Forward";
+"Button_Back" = "Zurück";
+"Button_Forward" = "Vorwärts";
 "Button_Compose" = "Neues Dokument";
-"Button_Library" = "Library";
+"Button_Library" = "Bibliothek";
 "Button_Preview" = "Vorschau";
 "Button_Search" = "Suche";
 "Button_Appearance" = "Ansicht";
-"Button_Preview_Appearance" = "Preview Options";
-"Button_Editor_Appearance" = "Editor Options";
+"Button_Preview_Appearance" = "Vorschau Optionen";
+"Button_Editor_Appearance" = "Editor Optionen";
 "Button_Action" = "Funktionen";
 "Button_Move_Selected" = "Auswahl verschieben";
 "Button_Delete_Selected" = "Auswahl löschen";
 "Button_Rename_Selected" = "Auswahl umbenennen";
 "Button_Add_Folder" = "Neuer Ordner";
-"Button_Duplicate" = "Duplicate";
+"Button_Duplicate" = "Duplizieren";
 "Button_Settings" = "Einstellungen";
