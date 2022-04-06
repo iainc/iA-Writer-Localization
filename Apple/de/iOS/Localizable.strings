@@ -547,7 +547,7 @@ Document
 "Discoverability_Dark_Mode" = "Dunkles Erscheinungsbild";
 "Discoverability_Light_Mode" = "Helles Erscheinungsbild";
 /* Old name used for search matching. */
-"Discoverability_Night_Mode" = "Nachtmodus";
+"Discoverability_Night_Mode" = "Dunkelmodus";
 
 /* Editor action key command titles. */
 "Discoverability_Open" = "Öffnen …";
