@@ -768,7 +768,7 @@ Document
 /* Markdown section in settings. */
 "Settings_Markdown_Processing_Section_Title" = "Markdown-Interpretation";
 "Settings_Markdown_Library_Paths_Title" = "Bibliothekspfade";
-"Settings_Markdown_Output_Section_Title" = "Wikilinks, Hashtags, Auto-Links";
+"Settings_Markdown_Output_Section_Title" = "Wikilinks, Hashtags, Autolinks";
 "Settings_Markdown_Lazy_Paragraphs" = "Einfacher Umbruch definiert Abschnitt";
 "Settings_Markdown_Smart_Punctuation" = "Intelligente Zeichensetzung";
 "Settings_Markdown_Process_Metadata" = "Metadaten einarbeiten";

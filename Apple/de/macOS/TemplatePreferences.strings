@@ -6,7 +6,7 @@
 "561-vh-uzh.ibShadowedToolTip" = "Für Nachmodus-Farben in der Vorschau. Nicht automatisch. Nachtfarben müssen im Template definiert werden.";
 
 /* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
-"794-EH-QRk.title" = "Meta-Daten einarbeiten";
+"794-EH-QRk.title" = "Metadaten verarbeiten";
 
 /* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
 "GBp-vd-erZ.title" = "Dokumentation lesen";
