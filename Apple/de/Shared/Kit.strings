@@ -17,8 +17,8 @@
 "Hide" = "Ausblenden";
 "Add" = "Hinzufügen";
 "Name" = "Name";
-"Add_Account" = "Account hinzufügen";
-"Remove_Account" = "Account entfernen";
+"Add_Account" = "Konto hinzufügen";
+"Remove_Account" = "Konto entfernen";
 "Authorize" = "Freigeben";
 "Options" = "Optionen";
 "Open_Mail" = "Mail öffnen";
@@ -79,7 +79,7 @@
 "Label_Email" = "E-Mail";
 
 "Placeholder_Loading" = "Laden …";
-"Placeholder_No_Accounts" = "Keine Accounts";
+"Placeholder_No_Accounts" = "Keine Kontos";
 "Placeholder_No_Custom_Patterns" = "Keine benutzerdef. Muster";
 "Custom_Patterns_Title" = "Benutzerdef. Muster";
 "Custom_Patterns_Introduction" = "Optimieren Sie die Stilprüfung mit Ihren eigenen Regeln und Ausnahmen.";
@@ -233,7 +233,7 @@ Text Check
 
 "Web_Service_Error_Auth_Denied_Title" = "Zugriff verweigert";
 "Web_Service_Error_Auth_Denied" = "Zugriff verweigert.";
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass iA Writer auf ihr Account zugreifen darf.";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass iA Writer auf ihr Konto zugreifen darf.";
 
 "Web_Service_Error_IndieAuth_Not_Found_Title" = "IndieAuth nicht gefunden";
 "Web_Service_Error_IndieAuth_Not_Found" = "Konnte IndieAuth nicht finden.";
@@ -264,9 +264,9 @@ Text Check
 "Medium_Failure_Reason_Unsupported_Content_H6" = "Überschrift 6";
 "Medium_Failure_Reason_Unsupported_Content_TOC" = "Inhaltsverzeichnis";
 
-"WordPress_No_Sites_Error" = "Konnte keine Seiten finden, die mit Ihrem WordPress-Account verbunden sind.";
+"WordPress_No_Sites_Error" = "Konnte keine Seiten finden, die mit Ihrem WordPress-Konto verbunden sind.";
 "WordPress_No_Sites_Error_Title" = "Keine Webseite vorhanden";
-"WordPress_No_Sites_Error_Recovery_Suggestion" = "Stellen Sie sicher, dass Sie das richtige Account freigeschaltet haben, oder fügen Sie ihrem Account eine neue Installation hinzu.";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "Stellen Sie sicher, dass Sie das richtige Konto freigeschaltet haben, oder fügen Sie ihrem Konto eine neue Installation hinzu.";
 "WordPress_Manage_Sites" = "Seiten verwalten";
 
 "Web_Service_Image_Upload_Error" = "Einige Bilder konnten nicht hochgeladen werden.";

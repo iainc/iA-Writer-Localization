@@ -104,7 +104,7 @@
 "WordPress_Picker_Message" = "Wo möchten Sie Ihren Entwurf erstellen?";
 
 /* WordPress site picker alert description. */
-"WordPress_Picker_Informative_Text" = "Ihr WordPress-Account hat Zugriff auf mehr als eine Installation";
+"WordPress_Picker_Informative_Text" = "Ihr WordPress-Konto hat Zugriff auf mehr als eine Installation";
 
 /*-----
  Window
@@ -362,7 +362,7 @@
 "Preferences_Pane_Title_General" = "Allgemein";
 
 /* Sharing preferences pane title. */
-"Preferences_Pane_Title_Accounts" = "Accounts";
+"Preferences_Pane_Title_Accounts" = "Konten";
 
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "Ablagen";
