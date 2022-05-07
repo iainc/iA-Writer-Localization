@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "Zurück in der Bibliothek";
 "Forward_In_Library" = "Vorwärts in der Bibliothek";
+"Text_Size" = "Textgrösse";
 "Make_Text_Bigger" = "Schrift größer";
 "Make_Text_Normal_Size" = "Schrift normalgroß";
 "Make_Text_Smaller" = "Schrift kleiner";
@@ -58,6 +59,13 @@
 "Export" = "Exportieren";
 "Publish" = "Veröffentlichen";
 "Show_Completions" = "Autovervollständigung anzeigen";
+
+"Yellow" = "Gelb";
+"Orange" = "Orange";
+"Pink" = "Rosa";
+"Purple" = "Lila";
+"Blue" = "Blau";
+"Green" = "Grün";
 
 "Add_Wikilink" = "Wikilink hinzufügen";
 "Remove_Wikilink" = "Wikilink entfernen";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "Bibliothek-Speicherort „%@“ nicht gefunden";
-"Wikilink_Error_Library_Location_Not_Found" = "Bibliothek-Speicherort „%@“ nicht gefunden";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass es einen Bibliothek-Speicherort „%@“ gibt.";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "Bibliothek-Speicherort „%@“ nicht gefunden";
+"Library_Destination_Error_Library_Location_Not_Found" = "Bibliothek-Speicherort „%@“ nicht gefunden";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass es einen Bibliothek-Speicherort „%@“ gibt.";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Kein Zugriff auf Elemente außerhalb der Bibliothek";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "Auf Elemente außerhalb der Bibliothek kann nicht zugegriffen werden.";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Bitte stellen Sie sicher, dass der Bibliothekspfad korrekt ist.";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "Inhaltseinbettung funktioniert nur mit Dateien in der iA Writer Bibliothek.";
 "Content_Block_Error_Unsupported_Location_Title" = "Nicht unterstützer Speicherort";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Um die Dokumenteinbettung nutzen zu können, verschieben oder kopieren Sie bitte die Datei in die iA Writer Bibliothek.";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Dokumenteinbettung wird nur durch Dokumente in der %@ Bibliothek unterstützt.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Um die Dokumenteinbettung nutzen zu können, verschieben oder kopieren Sie bitte die Datei in die iA Writer Bibliothek.";
+
+"Content_Block_Error_Deprecated_Path" = "„%@“ enthält einen veralteten Inhaltsblock.";
+"Content_Block_Error_Deprecated_Path_Title" = "„%@“ enthält einen veralteten Inhaltsblock";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "„%1$@“ verwendet das führende /, um auf den Ordner zu verweisen, der „%2$@“ enthält. Diese Funktion ist veraltet und wird in Zukunft nicht mehr unterstützt. Bitte aktualisieren Sie diesen Inhaltsblock auf den kürzesten Pfad, indem Sie alles außer dem Dateinamen entfernen. Sie können auch das führende / durch ./ ersetzen, um weiterhin den verwandten Pfad zu verwenden.";
 
 /*---------
  Text Stats

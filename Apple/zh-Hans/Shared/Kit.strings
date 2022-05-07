@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "在Library中后退";
 "Forward_In_Library" = "在Library中前进";
+"Text_Size" = "文本大小";
 "Make_Text_Bigger" = "使文本变大";
 "Make_Text_Normal_Size" = "使文本为正常大小";
 "Make_Text_Smaller" = "使文本变小";
@@ -58,6 +59,13 @@
 "Export" = "导出";
 "Publish" = "发布";
 "Show_Completions" = "显示自动完成";
+
+"Yellow" = "黄色的";
+"Orange" = "橙子";
+"Pink" = "粉色的";
+"Purple" = "紫色的";
+"Blue" = "蓝色的";
+"Green" = "绿";
 
 "Add_Wikilink" = "添加维基链接";
 "Remove_Wikilink" = "删除维基链接";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "无法找到名为 “%@”的Library Location";
-"Wikilink_Error_Library_Location_Not_Found" = "无法找到名为 “%@”的Library Location。";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "请确保存在一个名为 “%@”的Library Location。";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "无法找到名为 “%@”的Library Location";
+"Library_Destination_Error_Library_Location_Not_Found" = "无法找到名为 “%@”的Library Location。";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "请确保存在一个名为 “%@”的Library Location。";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "无法访问Library以外的项目";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "无法访问Library以外的项目。";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "请确保Library Path正确无误。";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "内容块仅限Library中的文件支持。";
 "Content_Block_Error_Unsupported_Location_Title" = "不支持的位置";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "欲使用内容块，请将文件移动或复制到Library内。";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "内容块仅限%@Library中的文件支持。";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "欲使用内容块，请将文件移动或复制到Library内。";
+
+"Content_Block_Error_Deprecated_Path" = "“%@”包含已弃用的内容块。";
+"Content_Block_Error_Deprecated_Path_Title" = "“%@”包含已弃用的内容块";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "“%1$@”使用前导的/来指代包含 “%2$@”的文件夹。该功能已被弃用，将来会停止运行。请将此内容块升级为最短路径，具体方式是删除除文件名以外的所有内容，或者将前导的/替换为./，以继续使用相对路径。";
 
 /*---------
  Text Stats

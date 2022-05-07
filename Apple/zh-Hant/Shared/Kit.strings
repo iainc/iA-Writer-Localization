@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "返回資料庫";
 "Forward_In_Library" = "前往資料庫";
+"Text_Size" = "文字大小";
 "Make_Text_Bigger" = "放大文字";
 "Make_Text_Normal_Size" = "顯示文字的原來大小";
 "Make_Text_Smaller" = "縮小文字";
@@ -58,6 +59,13 @@
 "Export" = "匯出";
 "Publish" = "發布";
 "Show_Completions" = "顯示自動完成";
+
+"Yellow" = "黃色的";
+"Orange" = "橙子";
+"Pink" = "粉色的";
+"Purple" = "紫色的";
+"Blue" = "藍色的";
+"Green" = "綠";
 
 "Add_Wikilink" = "新增 Wikilink";
 "Remove_Wikilink" = "移除 Wikilink";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "找不到名為「%@」的資料庫位置";
-"Wikilink_Error_Library_Location_Not_Found" = "找不到名為「%@」的資料庫位置。";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "請確認是否有名為「%@」的資料庫位置。";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "找不到名為「%@」的資料庫位置";
+"Library_Destination_Error_Library_Location_Not_Found" = "找不到名為「%@」的資料庫位置。";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "請確認是否有名為「%@」的資料庫位置。";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "無法存取資料庫外的項目";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "無法存取資料庫外的項目。";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "請確認資料庫路徑正確。";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "內容方塊只受資料庫內的文件支援。";
 "Content_Block_Error_Unsupported_Location_Title" = "不支援的位置";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "移動或複製檔案至資料庫以使用內容塊。";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "內容塊只受 %@ 資料庫內的文件支援。";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "移動或複製檔案至資料庫以使用內容塊。";
+
+"Content_Block_Error_Deprecated_Path" = "「%@」包含已過時的內容塊。";
+"Content_Block_Error_Deprecated_Path_Title" = "「%@」包含已過時的內容塊。";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "「%1$@」使用前置字元 / 指涉包含「%2$@」的資料夾。此功能已過時，未來將停止使用。請移除檔案名稱以外的所有部分，以將此內容塊升級為最短路徑，或將前置字元 / 取代為 ./，以繼續使用相關路徑。";
 
 /*---------
  Text Stats

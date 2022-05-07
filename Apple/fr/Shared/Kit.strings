@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "Retour à la bibliothèque";
 "Forward_In_Library" = "Transférer dans la bibliothèque";
+"Text_Size" = "Taille du texte";
 "Make_Text_Bigger" = "Agrandir la taille du texte";
 "Make_Text_Normal_Size" = "Rendre une taille normale au texte";
 "Make_Text_Smaller" = "Réduire la taille du texte";
@@ -58,6 +59,13 @@
 "Export" = "Exporter";
 "Publish" = "Publier";
 "Show_Completions" = "Afficher les saisies semi-automatiques";
+
+"Yellow" = "Jaune";
+"Orange" = "Orange";
+"Pink" = "Rose";
+"Purple" = "Violet";
+"Blue" = "Bleu";
+"Green" = "Vert";
 
 "Add_Wikilink" = "Ajouter un Wikilink";
 "Remove_Wikilink" = "Supprimer le Wikilink";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "L’emplacement de bibliothèque nommé « %@ » est introuvable.";
-"Wikilink_Error_Library_Location_Not_Found" = "L’emplacement de bibliothèque nommé « %@ » est introuvable.";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Veuillez vous assurer qu’un emplacement de bibliothèque nommé « %@ » existe.";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "L’emplacement de bibliothèque nommé « %@ » est introuvable.";
+"Library_Destination_Error_Library_Location_Not_Found" = "L’emplacement de bibliothèque nommé « %@ » est introuvable.";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Veuillez vous assurer qu’un emplacement de bibliothèque nommé « %@ » existe.";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Impossible d’accéder aux éléments en dehors de la bibliothèque";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "Impossible d’accéder aux éléments en dehors de la bibliothèque.";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Veuillez vous assurer que le chemin d’accès à la bibliothèque est correct.";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "Les blocs de contenu sont uniquement pris en charge par les fichiers dans la bibliothèque.";
 "Content_Block_Error_Unsupported_Location_Title" = "Emplacement non pris en charge";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Déplacez ou copiez le fichier dans la bibliothèque pour utiliser les blocs de contenu.";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Les blocs de contenu sont uniquement pris en charge par les fichiers dans la bibliothèque %@.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Déplacez ou copiez le fichier dans la bibliothèque pour utiliser les blocs de contenu.";
+
+"Content_Block_Error_Deprecated_Path" = "« %@ » contient un bloc de contenu obsolète.";
+"Content_Block_Error_Deprecated_Path_Title" = "« %@ » contient un bloc de contenu obsolète.";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "« %1$@ » utilise l’en-tête / pour faire référence au dossier contenant « %2$@ ». Cette fonctionnalité est obsolète et ne fonctionnera plus à l’avenir. Veuillez mettre à niveau le bloc de contenu au chemin d’accès le plus court en supprimant tout à l’exception du nom de fichier ou remplacez l’en-tête / par ./ pour continuer à utiliser le chemin d’accès concerné.";
 
 /*---------
  Text Stats

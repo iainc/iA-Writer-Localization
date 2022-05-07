@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "Recuar na Biblioteca";
 "Forward_In_Library" = "Avançar na Biblioteca";
+"Text_Size" = "Tamanho do Texto";
 "Make_Text_Bigger" = "Aumentar texto";
 "Make_Text_Normal_Size" = "Texto em tamanho normal";
 "Make_Text_Smaller" = "Reduzir texto";
@@ -59,18 +60,25 @@
 "Publish" = "Publicar";
 "Show_Completions" = "Mostrar Preenchimentos Automáticos";
 
-"Add_Wikilink" = "Add Wikilink";
-"Remove_Wikilink" = "Remove Wikilink";
-"Add_Link" = "Add Link";
-"Remove_Link" = "Remove Link";
-"Add_Image" = "Add Image";
-"Remove_Image" = "Remove Image";
-"Add_Footnote" = "Add Footnote";
-"Remove_Footnote" = "Remove Footnote";
+"Yellow" = "Amarelo";
+"Orange" = "Laranja";
+"Pink" = "Rosa";
+"Purple" = "Roxa";
+"Blue" = "Azul";
+"Green" = "Verde";
 
-"Library_Destination_Shortest" = "Shortest";
-"Library_Destination_Relative" = "Relative";
-"Library_Destination_Absolute" = "Absolute";
+"Add_Wikilink" = "Adicionar Wikilink";
+"Remove_Wikilink" = "Remover Wikilink";
+"Add_Link" = "Adicionar ligação";
+"Remove_Link" = "Remover ligação";
+"Add_Image" = "Adicionar imagem";
+"Remove_Image" = "Remover imagem";
+"Add_Footnote" = "Adicionar nota de rodapé";
+"Remove_Footnote" = "Remover nota de rodapé";
+
+"Library_Destination_Shortest" = "Mais curto";
+"Library_Destination_Relative" = "Relativo";
+"Library_Destination_Absolute" = "Absoluto";
 
 "Menu_Focus" = "Enfoque";
 "Menu_Go" = "Ir";
@@ -119,7 +127,7 @@
 "Other_Output_Description" = "Estas preferências serão usadas ao copiar, exportar e publicar texto.";
 "Preview_Output_Description" = "Estas preferências serão usadas na Pré-visualização.";
 "Destination_Type_Description" = "O formato de caminho preferido será usado para novos wikilinks e blocos de conteúdo.";
-"Content_Blocks" = "Content Blocks";
+"Content_Blocks" = "Blocos de conteúdos";
 "Wikilinks" = "Wikiligação";
 "Hashtags" = "Hashtags";
 "Autolinks" = "Autoligação";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "Não foi possível encontrar a Localização de Biblioteca com o nome \"%@\"";
-"Wikilink_Error_Library_Location_Not_Found" = "Não foi possível encontrar a Localização de Biblioteca com o nome \"%@\".";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Certifique-se de que existe uma Localização de Biblioteca com o nome \"%@\"";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "Não foi possível encontrar a Localização de Biblioteca com o nome \"%@\"";
+"Library_Destination_Error_Library_Location_Not_Found" = "Não foi possível encontrar a Localização de Biblioteca com o nome \"%@\".";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Certifique-se de que existe uma Localização de Biblioteca com o nome \"%@\"";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Não é possível aceder a itens exteriores à biblioteca";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "Não é possível aceder a itens exteriores à biblioteca.";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Certifique-se de que o Caminho para a Biblioteca está correto.";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "Os blocos de conteúdos são suportados apenas por ficheiros contidos na Biblioteca.";
 "Content_Block_Error_Unsupported_Location_Title" = "Localização não suportada";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Mova ou copie o ficheiro para a Biblioteca para usar os blocos de conteúdo.";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Os blocos de conteúdos são suportados apenas por ficheiros contidos na Biblioteca %@.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Mova ou copie o ficheiro para a Biblioteca para usar os blocos de conteúdo.";
+
+"Content_Block_Error_Deprecated_Path" = "“%@” contém um bloco de conteúdos obsoleto.";
+"Content_Block_Error_Deprecated_Path_Title" = "“%@” contém um bloco de conteúdos obsoleto";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "“%1$@” usa a / inicial para referenciar a pasta que contém “%2$@”. Esta funcionalidade é obsoleta e deixará de funcionar futuramente. Atualize o caminho deste bloco de conteúdos para um formato mais reduzido, removendo tudo menos o nome do ficheiro, ou substitua a / inicial por ./ para continuar a usar o caminho relativo.";
 
 /*---------
  Text Stats

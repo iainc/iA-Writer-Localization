@@ -1,5 +1,5 @@
 
-/* Class = "NSTextFieldCell"; title = "Style checking:"; ObjectID = "4qf-5k-bc5"; */
+/* Class = "NSTextFieldCell"; title = "Style check:"; ObjectID = "4qf-5k-bc5"; */
 "4qf-5k-bc5.title" = "Style checking:";
 
 /* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
@@ -23,7 +23,7 @@
 /* Class = "NSMenuItem"; title = "Simplified Chinese"; ObjectID = "C1b-T8-UKG"; */
 "C1b-T8-UKG.title" = "Simplified Chinese";
 
-/* Class = "NSTextFieldCell"; title = "Syntax highlighting:"; ObjectID = "DL6-wL-dFh"; */
+/* Class = "NSTextFieldCell"; title = "Syntax:"; ObjectID = "DL6-wL-dFh"; */
 "DL6-wL-dFh.title" = "Syntax:";
 
 /* Class = "NSTextFieldCell"; title = "A"; ObjectID = "F4u-Y8-AKd"; */
@@ -47,6 +47,9 @@
 /* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
 "Muo-8w-HeG.title" = "Fokus:";
 
+/* Class = "NSTextFieldCell"; title = "Built-in patterns for English, French, German."; ObjectID = "NJh-qd-ap3"; */
+"NJh-qd-ap3.title" = "Built-in patterns for English, French, German.";
+
 /* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
 "ODb-aW-xzV.title" = "72";
 
@@ -68,6 +71,9 @@
 /* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "aae-lC-eDI"; */
 "aae-lC-eDI.title" = "Duospaced";
 
+/* Class = "NSTextFieldCell"; title = "Highlight color:"; ObjectID = "bpW-0u-u88"; */
+"bpW-0u-u88.title" = "Hervorhebungsfarbe:";
+
 /* Class = "NSButtonCell"; title = "Custom"; ObjectID = "d8E-l0-S4B"; */
 "d8E-l0-S4B.title" = "Custom";
 
@@ -86,7 +92,7 @@
 /* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "gDR-81-YkH"; Note = "SKIP LOCALIZATION"; */
 "gDR-81-YkH.title" = "Absatz";
 
-/* Class = "NSButtonCell"; title = "Edit…"; ObjectID = "hSp-Lu-7pZ"; */
+/* Class = "NSButtonCell"; title = "Custom Patterns…"; ObjectID = "hSp-Lu-7pZ"; */
 "hSp-Lu-7pZ.title" = "Edit…";
 
 /* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */

@@ -669,6 +669,7 @@ Document
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Apparence";
+"Settings_Editor_Highlight_Color" = "Couleur de surbrillance";
 "Settings_Editor_Show_Stats" = "Afficher les statistiques";
 
 /* Typography section in settings. */
@@ -692,6 +693,8 @@ Document
 "Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Supprimer le sous-menu";
 "Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Sélectionner l’action";
 "Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Actions";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Afficher l’inlining";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Les actions du sous-menu inline sont affichées dans le menu parent, séparées des autres actions.";
 "Settings_Keyboard_Lightning_Menu_Section_Footer" = "Touchez et maintenez n’importe quelle action dans le Menu Éclair pour ouvrir ces paramètres.";
 
 "Settings_Command_Keyboard" = "Clavier de commande";

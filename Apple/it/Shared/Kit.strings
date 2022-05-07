@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "Indietro nella Libreria";
 "Forward_In_Library" = "Avanti nella Libreria";
+"Text_Size" = "Dimensioni testo";
 "Make_Text_Bigger" = "Ingrandisci dimensione testo";
 "Make_Text_Normal_Size" = "Dimensione testo normale";
 "Make_Text_Smaller" = "Riduci dimensione testo";
@@ -58,6 +59,13 @@
 "Export" = "Esporta";
 "Publish" = "Pubblica";
 "Show_Completions" = "Mostra completamenti automatici";
+
+"Yellow" = "Giallo";
+"Orange" = "Arancia";
+"Pink" = "Rosa";
+"Purple" = "Viola";
+"Blue" = "Blu";
+"Green" = "Verde";
 
 "Add_Wikilink" = "Aggiungi Wikilink";
 "Remove_Wikilink" = "Elimina Wikilink";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "Impossibile trovare la posizione nella Libreria \"%@\".";
-"Wikilink_Error_Library_Location_Not_Found" = "Impossibile trovare la posizione nella Libreria \"%@\".";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Assicurati che esista una posizione nella Libreria chiamata \"%@\".";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "Impossibile trovare la posizione nella Libreria \"%@\".";
+"Library_Destination_Error_Library_Location_Not_Found" = "Impossibile trovare la posizione nella Libreria \"%@\".";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Assicurati che esista una posizione nella Libreria chiamata \"%@\".";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Impossibile accedere agli elementi fuori dalla libreria";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "Impossibile accedere agli elementi fuori dalla libreria.";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Assicurati che il percorso della libreria sia corretto.";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "I blocchi di contenuti sono supportati solo da file nella Libreria.";
 "Content_Block_Error_Unsupported_Location_Title" = "Posizione non supportata";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Sposta o copia il file nella Libreria per utilizzare i blocchi di contenuti.";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "I blocchi di contenuti sono supportati solo da file nella Libreria %@.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Sposta o copia il file nella Libreria per utilizzare i blocchi di contenuti.";
+
+"Content_Block_Error_Deprecated_Path" = "\"%@\" contiene un blocco con contenuto obsoleto.";
+"Content_Block_Error_Deprecated_Path_Title" = "\"%@\" contiene un blocco con contenuto obsoleto";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "\"%1$@\" usa / iniziale per fare riferimento alla cartella che contiene \"%2$@\". Questa funzione è obsoleta e non esisterà più in futuro. Effettua l'upgrade di questo blocco di contenuti al percorso più breve rimuovendo tutto eccetto il nome del file o sostituisci la / iniziale con ./ per continuare a usare il relativo percorso.";
 
 /*---------
  Text Stats

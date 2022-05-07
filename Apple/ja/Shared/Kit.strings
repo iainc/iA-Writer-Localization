@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "ライブラリで戻る";
 "Forward_In_Library" = "ライブラリで進む";
+"Text_Size" = "テキストサイズ";
 "Make_Text_Bigger" = "文字を拡大";
 "Make_Text_Normal_Size" = "文字を標準のサイズにする";
 "Make_Text_Smaller" = "文字を縮小";
@@ -58,6 +59,13 @@
 "Export" = "書き出し";
 "Publish" = "公開";
 "Show_Completions" = "完了を表示";
+
+"Yellow" = "黄色";
+"Orange" = "オレンジ";
+"Pink" = "ピンク";
+"Purple" = "紫の";
+"Blue" = "青";
+"Green" = "緑";
 
 "Add_Wikilink" = "Wikilinkを追加";
 "Remove_Wikilink" = "Wikilinkを削除";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "「%@」という名前のライブラリの場所が見つかりません";
-"Wikilink_Error_Library_Location_Not_Found" = "「%@」という名前のライブラリの場所が見つかりません。";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "「%@」という名前のライブラリの場所が存在することを確認してください。";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "「%@」という名前のライブラリの場所が見つかりません";
+"Library_Destination_Error_Library_Location_Not_Found" = "「%@」という名前のライブラリの場所が見つかりません。";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "「%@」という名前のライブラリの場所が存在することを確認してください。";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "ライブラリ外にあるアイテムにはアクセスできません";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "ライブラリ外にあるアイテムにはアクセスできません。";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "ライブラリのパスが正しいことを確認してください。";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "コンテンツブロックはライブラリ内のファイルのみ対応しています。";
 "Content_Block_Error_Unsupported_Location_Title" = "対応していないロケーション";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "コンテンツブロックを使うにはファイルをライブラリ内に移動、もしくはコピーしてください。";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "コンテンツブロックは端末内とiCloudライブラリ内のファイルのみ対応しています。";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "コンテンツブロックを使うにはファイルをライブラリ内に移動、もしくはコピーしてください。";
+
+"Content_Block_Error_Deprecated_Path" = "「%@」は非推奨のコンテンツブロックを含んでいます。";
+"Content_Block_Error_Deprecated_Path_Title" = "「%@」は非推奨のコンテンツブロックを含んでいます。";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "「%1$@」は先頭の「/」を使用して「%2$@」を含むフォルダを参照します。この機能は非推奨で、将来的には機能しなくなります。このコンテンツブロックを、ファイル名以外を削除して最短パスにアップグレードしてください。または、「/」を「./」に置き換えて、引き続き相対パスを使用してください。";
 
 /*---------
  Text Stats

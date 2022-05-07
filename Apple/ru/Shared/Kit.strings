@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "Назад в библиотеку";
 "Forward_In_Library" = "Вперед в библиотеку";
+"Text_Size" = "Размер текста";
 "Make_Text_Bigger" = "Увеличить текст";
 "Make_Text_Normal_Size" = "Обычный размер текста";
 "Make_Text_Smaller" = "Уменьшить текст";
@@ -59,8 +60,15 @@
 "Publish" = "Опубликовать";
 "Show_Completions" = "Показать автодополнения";
 
-"Add_Wikilink" = "Добавить Wiki-ссылку";
-"Remove_Wikilink" = "Удалить Wiki-ссылку";
+"Yellow" = "Желтый";
+"Orange" = "Оранжевый";
+"Pink" = "Розовый";
+"Purple" = "Фиолетовый";
+"Blue" = "Синий";
+"Green" = "Зеленый";
+
+"Add_Wikilink" = "Добавить вики-ссылку";
+"Remove_Wikilink" = "Удалить вики-ссылку";
 "Add_Link" = "Добавить ссылку";
 "Remove_Link" = "Удалить ссылку";
 "Add_Image" = "Добавить изображение";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "Не удается найти местоположение библиотеки с именем «%@»";
-"Wikilink_Error_Library_Location_Not_Found" = "Не удается найти местоположение библиотеки с именем «%@».";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Проверьте наличие местоположения библиотеки с именем «%@».";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "Не удается найти местоположение библиотеки с именем «%@»";
+"Library_Destination_Error_Library_Location_Not_Found" = "Не удается найти местоположение библиотеки с именем «%@».";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Проверьте наличие местоположения библиотеки с именем «%@».";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Невозможно получить доступ к элементам за пределами библиотеки";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "Невозможно получить доступ к элементам за пределами библиотеки.";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Убедитесь, что путь к библиотеке задан правильно.";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "Блоки контента поддерживаются только файлами в библиотеке.";
 "Content_Block_Error_Unsupported_Location_Title" = "Неподдерживаемое местоположение";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Переместите или скопируйте файл в библиотеку, чтобы использовать блоки контента.";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Блоки контента поддерживаются только файлами в библиотеке %@.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Переместите или скопируйте файл в библиотеку, чтобы использовать блоки контента.";
+
+"Content_Block_Error_Deprecated_Path" = "«%@» содержит устаревший блок контента.";
+"Content_Block_Error_Deprecated_Path_Title" = "«%@» содержит устаревший блок контента";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "«%1$@» использует открывающий знак / для указания папки, которая содержит «%2$@». Эта функция устарела и перестанет работать в будущем. Обновите блок контента до кратчайшего пути, удалив всё, кроме имени файла, или замените открывающий / на ./, чтобы и дальше использовать относительный путь.";
 
 /*---------
  Text Stats

@@ -208,10 +208,10 @@
 "Action_Hide_Stats" = "통계 숨기기";
 
 /* Action sheet action to show find bar. */
-"Action_Show_Find_And_Replace" = "Show Find and Replace";
+"Action_Show_Find_And_Replace" = "'찾기 및 바꾸기' 표시";
 
 /* Action sheet action to hide find bar. */
-"Action_Hide_Find_And_Replace" = "Hide Find and Replace";
+"Action_Hide_Find_And_Replace" = "'찾기 및 바꾸기' 숨기기";
 
 /* Action sheet action. */
 "Action_Configure_Editor" = "편집기 구성";
@@ -554,10 +554,10 @@ Document
 "Discoverability_Move_Text_Up" = "위로 줄 이동";
 "Discoverability_Move_Text_Down" = "아래로 줄 이동";
 "Discoverability_Configure_Keyboard" = "키보드 구성";
-"Discoverability_Use_Selection_For_Find" = "Use Selection for Find";
+"Discoverability_Use_Selection_For_Find" = "실렉션을 사용해 찾기";
 "Discoverability_Find_Next" = "다음 찾기";
 "Discoverability_Find_Previous" = "이전 찾기";
-"Discoverability_Find_And_Replace" = "Find and Replace";
+"Discoverability_Find_And_Replace" = "찾기 및 바꾸기";
 "Discoverability_Show_Settings" = "설정 표시";
 "Discoverability_Show_Help" = "도움말 표시";
 
@@ -669,6 +669,7 @@ Document
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "외관";
+"Settings_Editor_Highlight_Color" = "하이라이트 색상";
 "Settings_Editor_Show_Stats" = "통계 표시";
 
 /* Typography section in settings. */
@@ -685,21 +686,23 @@ Document
 
 /* Keyboard section in settings. */
 "Settings_Keyboard_Lightning_Menu" = "번개 메뉴";
-"Settings_Keyboard_Lightning_Menu_Add_Actions" = "Add Actions";
-"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Add Submenu";
-"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Edit Submenu";
-"Settings_Keyboard_Lightning_Menu_Remove_Action" = "Remove Action";
-"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Remove Submenu";
-"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Select Action";
-"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Actions";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Tap and hold any action in Lightning Menu to open these settings.";
+"Settings_Keyboard_Lightning_Menu_Add_Actions" = "작업 추가";
+"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "하위 메뉴 추가";
+"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "하위 메뉴 편집";
+"Settings_Keyboard_Lightning_Menu_Remove_Action" = "작업 제거";
+"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "하위 메뉴 제거";
+"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "작업 선택";
+"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "작업";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "인라인 표시";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "인라인 하위 메뉴 작업은 다른 작업과는 분리되어 상위 메뉴에 표시됩니다.";
+"Settings_Keyboard_Lightning_Menu_Section_Footer" = "라이트닝 메뉴에서 아무 작업을 길게 눌러 이 설정을 여세요.";
 
-"Settings_Command_Keyboard" = "Command Keyboard";
-"Settings_Command_Keyboard_Enable" = "Show in Keyboard Bar";
-"Settings_Command_Keyboard_Always_Show_As_Popover" = "Always Show As Popover";
-"Settings_Command_Keyboard_Configure" = "Configure";
-"Settings_Command_Keyboard_Enabled_Section_Footer" = "Tap and hold any light key in Command Keyboard to open the configuration mode.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Command Keyboard actions are available in Lightning Menu, Quick Search, and as keyboard shortcuts when a hardware keyboard is connected.";
+"Settings_Command_Keyboard" = "커맨드 키보드";
+"Settings_Command_Keyboard_Enable" = "키보드 바에 표시";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "항상 팝오버로 표시";
+"Settings_Command_Keyboard_Configure" = "환경 설정";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "커맨드 키보드의 라이트 키를 길게 눌러 환경 설정 모드를 여세요.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "커맨드 키보드 작업은 라이트닝 메뉴, 빠른 검색에서 가능하며, 하드웨어 키보드가 연결되어 있을 때 키보드 단축키로 이용할 수 있습니다.";
 
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "텍스트";
@@ -709,8 +712,8 @@ Document
 
 /* Hardware keyboard section in settings. */
 "Settings_Editor_Hardware_Keyboard_Title" = "하드웨어 키보드";
-"Settings_Editor_Hardware_Keyboard_Footer" = "This affects the keyboard bar only when a hardware keyboard is connected.";
-"Settings_Editor_Hardware_Keyboard_Show_Bar" = "Show Keyboard Bar";
+"Settings_Editor_Hardware_Keyboard_Footer" = "하드웨어 키보드가 연결되었을 때만 키보드 바에 영향을 미칩니다.";
+"Settings_Editor_Hardware_Keyboard_Show_Bar" = "키보드 바 표시";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "텍스트 입력";
@@ -823,13 +826,13 @@ Document
  -----*/
 
 /* Find bar menu menu item. */
-"Find_Match_Style" = "Match Style";
+"Find_Match_Style" = "스타일 매칭";
 
 /* Find bar menu menu item. */
-"Find_Match_Case" = "Match Text Case";
+"Find_Match_Case" = "텍스트 대/소문자 매칭";
 
 /* Find bar action to replace selected result. */
-"Replace_Action" = "Replace";
+"Replace_Action" = "바꾸기";
 
 /* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
-"Replace_All_Action" = "All";
+"Replace_All_Action" = "모두";

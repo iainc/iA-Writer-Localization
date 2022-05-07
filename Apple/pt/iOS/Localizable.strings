@@ -208,10 +208,10 @@
 "Action_Hide_Stats" = "Ocultar Estatísticas";
 
 /* Action sheet action to show find bar. */
-"Action_Show_Find_And_Replace" = "Show Find and Replace";
+"Action_Show_Find_And_Replace" = "Mostrar Procurar e Substituir";
 
 /* Action sheet action to hide find bar. */
-"Action_Hide_Find_And_Replace" = "Hide Find and Replace";
+"Action_Hide_Find_And_Replace" = "Ocultar Procurar e Substituir";
 
 /* Action sheet action. */
 "Action_Configure_Editor" = "Configurar Editor";
@@ -554,10 +554,10 @@ Document
 "Discoverability_Move_Text_Up" = "Mover Linha para Cima";
 "Discoverability_Move_Text_Down" = "Mover Linha para Baixo";
 "Discoverability_Configure_Keyboard" = "Configurar Teclado";
-"Discoverability_Use_Selection_For_Find" = "Use Selection for Find";
+"Discoverability_Use_Selection_For_Find" = "Usar Seleção para Procurar";
 "Discoverability_Find_Next" = "Encontrar Seguinte";
 "Discoverability_Find_Previous" = "Encontrar Anterior";
-"Discoverability_Find_And_Replace" = "Find and Replace";
+"Discoverability_Find_And_Replace" = "Procurar e Substituir";
 "Discoverability_Show_Settings" = "Mostrar Definições";
 "Discoverability_Show_Help" = "Mostrar Ajuda";
 
@@ -669,6 +669,7 @@ Document
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Aparência";
+"Settings_Editor_Highlight_Color" = "Cor de destaque";
 "Settings_Editor_Show_Stats" = "Mostrar Estatísticas";
 
 /* Typography section in settings. */
@@ -685,21 +686,23 @@ Document
 
 /* Keyboard section in settings. */
 "Settings_Keyboard_Lightning_Menu" = "Menu de Iluminação";
-"Settings_Keyboard_Lightning_Menu_Add_Actions" = "Add Actions";
-"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Add Submenu";
-"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Edit Submenu";
-"Settings_Keyboard_Lightning_Menu_Remove_Action" = "Remove Action";
-"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Remove Submenu";
-"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Select Action";
-"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Actions";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Tap and hold any action in Lightning Menu to open these settings.";
+"Settings_Keyboard_Lightning_Menu_Add_Actions" = "Adicionar ações";
+"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Adicionar submenu";
+"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Editar submenu";
+"Settings_Keyboard_Lightning_Menu_Remove_Action" = "Remover ação";
+"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Remover submenu";
+"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Selecionar ação";
+"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Ações";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Mostrar Incorporado";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "As ações do submenu incorporado são mostradas no menu principal, separadas das restantes ações.";
+"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Toque demoradamente em qualquer ação no Menu Raio para abrir estas definições.";
 
-"Settings_Command_Keyboard" = "Command Keyboard";
-"Settings_Command_Keyboard_Enable" = "Show in Keyboard Bar";
-"Settings_Command_Keyboard_Always_Show_As_Popover" = "Always Show As Popover";
-"Settings_Command_Keyboard_Configure" = "Configure";
-"Settings_Command_Keyboard_Enabled_Section_Footer" = "Tap and hold any light key in Command Keyboard to open the configuration mode.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Command Keyboard actions are available in Lightning Menu, Quick Search, and as keyboard shortcuts when a hardware keyboard is connected.";
+"Settings_Command_Keyboard" = "Teclado de comando";
+"Settings_Command_Keyboard_Enable" = "Mostrar na Barra de teclado";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Mostrar sempre como pop-over";
+"Settings_Command_Keyboard_Configure" = "Configurar";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Toque demoradamente em qualquer tecla clara no Teclado de comando para abrir o modo de configuração.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "As ações do Teclado de comando estão disponíveis no Menu Raio, na Procura Rápida e como atalhos de teclado quando estiver ligado um teclado físico.";
 
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Texto";
@@ -709,8 +712,8 @@ Document
 
 /* Hardware keyboard section in settings. */
 "Settings_Editor_Hardware_Keyboard_Title" = "Equipamento de Teclado";
-"Settings_Editor_Hardware_Keyboard_Footer" = "This affects the keyboard bar only when a hardware keyboard is connected.";
-"Settings_Editor_Hardware_Keyboard_Show_Bar" = "Show Keyboard Bar";
+"Settings_Editor_Hardware_Keyboard_Footer" = "Isto afeta a barra de teclado apenas quando estiver ligado um teclado físico";
+"Settings_Editor_Hardware_Keyboard_Show_Bar" = "Mostrar barra de teclado";
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Introduzir Texto";
@@ -823,13 +826,13 @@ Document
  -----*/
 
 /* Find bar menu menu item. */
-"Find_Match_Style" = "Match Style";
+"Find_Match_Style" = "Combinar estilo";
 
 /* Find bar menu menu item. */
-"Find_Match_Case" = "Match Text Case";
+"Find_Match_Case" = "Combinar maiúsculas/minúsculas";
 
 /* Find bar action to replace selected result. */
-"Replace_Action" = "Replace";
+"Replace_Action" = "Substituir";
 
 /* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
-"Replace_All_Action" = "All";
+"Replace_All_Action" = "Todos";

@@ -669,6 +669,7 @@ Document
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "外观";
+"Settings_Editor_Highlight_Color" = "高亮颜色";
 "Settings_Editor_Show_Stats" = "显示状态";
 
 /* Typography section in settings. */
@@ -692,6 +693,8 @@ Document
 "Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "删除子菜单";
 "Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "选择操作";
 "Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "操作";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "显示嵌入式";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "嵌入式子菜单操作显示在父菜单中，与其他操作分开。";
 "Settings_Keyboard_Lightning_Menu_Section_Footer" = "点击并按住闪电菜单中的任何操作来打开这些设置。";
 
 "Settings_Command_Keyboard" = "命令键盘";

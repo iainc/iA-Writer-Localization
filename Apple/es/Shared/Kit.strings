@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "Atrás a biblioteca";
 "Forward_In_Library" = "Adelante a biblioteca";
+"Text_Size" = "Tamaño del texto";
 "Make_Text_Bigger" = "Aumentar tamaño del texto";
 "Make_Text_Normal_Size" = "Usar tamaño normal de texto";
 "Make_Text_Smaller" = "Reducir tamaño del texto";
@@ -58,6 +59,13 @@
 "Export" = "Exportar";
 "Publish" = "Publicar";
 "Show_Completions" = "Mostrar autocompletar";
+
+"Yellow" = "Amarillo";
+"Orange" = "Naranja";
+"Pink" = "Rosa";
+"Purple" = "Púrpura";
+"Blue" = "Azul";
+"Green" = "Verde";
 
 "Add_Wikilink" = "Añadir wikienlace";
 "Remove_Wikilink" = "Eliminar wikienlace";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "No se ha encontrado la ubicación de la biblioteca “%@”";
-"Wikilink_Error_Library_Location_Not_Found" = "No se ha encontrado la ubicación de la biblioteca “%@”.";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Asegúrate de que hay una ubicación de la biblioteca llamada “%@”.";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "No se ha encontrado la ubicación de la biblioteca “%@”";
+"Library_Destination_Error_Library_Location_Not_Found" = "No se ha encontrado la ubicación de la biblioteca “%@”.";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Asegúrate de que hay una ubicación de la biblioteca llamada “%@”.";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "No puedes acceder a artículos fuera de la biblioteca";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "No puedes acceder a artículos fuera de la biblioteca.";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Asegúrate de que la ruta de la biblioteca es correcta.";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "Los bloques de contenido solo son compatibles con archivos de la biblioteca.";
 "Content_Block_Error_Unsupported_Location_Title" = "Ubicación no admitida";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Mueve o copia el archivo a la biblioteca para usar bloques de contenido.";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Los bloques de contenido solo son compatibles con archivos de la biblioteca %@.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Mueve o copia el archivo a la biblioteca para usar bloques de contenido.";
+
+"Content_Block_Error_Deprecated_Path" = "“%@” contiene un bloque de contenido obsoleto.";
+"Content_Block_Error_Deprecated_Path_Title" = "“%@” contiene un bloque de contenido obsoleto.";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "“%1$@” usa la / inicial para indicar la carpeta que contiene “%2$@”. Esta característica está obsoleta y dejará de funcionar en el futuro. Para actualizar este bloque de contenido a la ruta más corta, elimina todo menos el nombre de archivo o sustituye la / inicial por ./ para seguir usando la ruta correspondiente.";
 
 /*---------
  Text Stats

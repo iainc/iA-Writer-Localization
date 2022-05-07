@@ -50,6 +50,7 @@
 "Go_Forward" = "Go Forward";
 "Back_In_Library" = "Back in Library";
 "Forward_In_Library" = "Forward in Library";
+"Text_Size" = "Text Size";
 "Make_Text_Bigger" = "Make Text Bigger";
 "Make_Text_Normal_Size" = "Make Text Normal Size";
 "Make_Text_Smaller" = "Make Text Smaller";
@@ -58,6 +59,13 @@
 "Export" = "Export";
 "Publish" = "Publish";
 "Show_Completions" = "Show Completions";
+
+"Yellow" = "Yellow";
+"Orange" = "Orange";
+"Pink" = "Pink";
+"Purple" = "Purple";
+"Blue" = "Blue";
+"Green" = "Green";
 
 "Add_Wikilink" = "Add Wikilink";
 "Remove_Wikilink" = "Remove Wikilink";
@@ -372,9 +380,13 @@ Text Check
  Wikilinks
  ---------*/
 
-"Wikilink_Error_Library_Location_Not_Found_Title" = "Cannot Find the Library Location Named “%@”";
-"Wikilink_Error_Library_Location_Not_Found" = "Cannot find the Library Location named “%@”.";
-"Wikilink_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Please make sure that that there is a Library Location named “%@”.";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "Cannot Find the Library Location Named “%@”";
+"Library_Destination_Error_Library_Location_Not_Found" = "Cannot find the Library Location named “%@”.";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Please make sure that that there is a Library Location named “%@”.";
+
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Cannot Access Items Outside Library";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "Cannot access items outside Library.";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Please make sure that the Library Path is correct.";
 
 /*--------
  Documents
@@ -466,8 +478,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "Content blocks are supported only by files in Library.";
 "Content_Block_Error_Unsupported_Location_Title" = "Unsupported Location";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Move or copy file to Library to use content blocks.";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Content blocks are supported only by files in %@ Library.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Move or copy file to Library to use content blocks.";
+
+"Content_Block_Error_Deprecated_Path" = "“%@” contains a deprecated content block.";
+"Content_Block_Error_Deprecated_Path_Title" = "“%@” Contains a Deprecated Content Block";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "“%@” uses the leading / to refer to the folder that contains “%@”. This feature is deprecated and will stop working in the future. Please upgrade this content block to the shortest path by removing everything but the filename, or replace the leading / with ./ to keep using the relative path.";
 
 /*---------
  Text Stats

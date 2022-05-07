@@ -669,6 +669,7 @@ Document
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "Aspetto";
+"Settings_Editor_Highlight_Color" = "Evidenzia il colore";
 "Settings_Editor_Show_Stats" = "Mostra statistiche";
 
 /* Typography section in settings. */
@@ -692,6 +693,8 @@ Document
 "Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Rimuovi sottomenu";
 "Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Seleziona azione";
 "Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Azioni";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Mostra inline";
+"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Le azioni del sottomenu inline sono mostrate nel menu principale, separate dalle altre azioni.";
 "Settings_Keyboard_Lightning_Menu_Section_Footer" = "Tocca e tieni premuta qualsiasi azione nel menu rapido per aprire queste impostazioni.";
 
 "Settings_Command_Keyboard" = "Tastiera di comando";
