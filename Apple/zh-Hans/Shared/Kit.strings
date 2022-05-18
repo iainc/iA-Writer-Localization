@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "删除维基链接";
 "Add_Link" = "添加链接";
 "Remove_Link" = "删除链接";
+"Add_Image_Link" = "添加图片链接";
+"Remove_Image_Link" = "删除图片链接";
 "Add_Image" = "添加图片";
 "Remove_Image" = "删除图片";
 "Add_Footnote" = "添加脚注";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "格式";
 "Label_Email" = "电子邮件";
+
+"Completed_Tasks" = "已完成任务";
+"Completed_Tasks_Title" = "已完成任务";
+"Completed_Task_Strikethrough" = "删除线";
+"Completed_Task_Fade" = "变暗";
 
 "Placeholder_Loading" = "正在载入…";
 "Placeholder_No_Accounts" = "无账户";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "“%@”所用扩展名不被支持。";
 "Content_Block_Error_Unknown_Extension_Title" = "“%@”所用扩展名不被支持";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "内容块必须为纯文本文件或图像。";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "“%@”内存在递归引用。";
 "Content_Block_Error_Recursive_Reference_Title" = "“%@”内存在递归引用";

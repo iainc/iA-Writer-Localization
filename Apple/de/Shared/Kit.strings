@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "Wikilink entfernen";
 "Add_Link" = "Link hinzufügen";
 "Remove_Link" = "Link entfernen";
+"Add_Image_Link" = "Bildlink hinzufügen";
+"Remove_Image_Link" = "Bildlink entfernen";
 "Add_Image" = "Bild hinzufügen";
 "Remove_Image" = "Bild entfernen";
 "Add_Footnote" = "Fußnote hinzufügen";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "Format";
 "Label_Email" = "E-Mail";
+
+"Completed_Tasks" = "Erledigte Aufgaben";
+"Completed_Tasks_Title" = "Erledigte Aufgaben";
+"Completed_Task_Strikethrough" = "Durchgestrichen";
+"Completed_Task_Fade" = "Verblassen";
 
 "Placeholder_Loading" = "Laden …";
 "Placeholder_No_Accounts" = "Keine Kontos";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "„%@“ hat eine nicht unterstützte Dateierweiterung.";
 "Content_Block_Error_Unknown_Extension_Title" = "„%@“ hat nicht unterstützte Dateierweiterung";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Inhaltseinbettung unterstützt nur Klartext- oder Bilddateien.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "„%@“ enthält eine Selbstreferenz.";
 "Content_Block_Error_Recursive_Reference_Title" = "„%@“ enthält Selbstreferenz.";

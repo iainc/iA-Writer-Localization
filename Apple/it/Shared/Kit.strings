@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "Elimina Wikilink";
 "Add_Link" = "Aggiungi link";
 "Remove_Link" = "Rimuovi link";
+"Add_Image_Link" = "Aggiungi collegamento immagine";
+"Remove_Image_Link" = "Rimuovi collegamento immagine";
 "Add_Image" = "Aggiungi immagine";
 "Remove_Image" = "Rimuovi immagine";
 "Add_Footnote" = "Aggiungi nota a piè di pagina";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "Formato";
 "Label_Email" = "E-mail";
+
+"Completed_Tasks" = "Compiti completati";
+"Completed_Tasks_Title" = "Compiti completati";
+"Completed_Task_Strikethrough" = "Barrato";
+"Completed_Task_Fade" = "Attenuato";
 
 "Placeholder_Loading" = "Carico…";
 "Placeholder_No_Accounts" = "Nessun account";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "«%@» ha un’estensione non supportata.";
 "Content_Block_Error_Unknown_Extension_Title" = "«%@» ha un’estensione non supportata";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "I blocchi di contenuti devono essere file di solo testo o immagini.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "«%@» contiene un riferimento ricorsivo.";
 "Content_Block_Error_Recursive_Reference_Title" = "«%@» contiene un riferimento ricorsivo";

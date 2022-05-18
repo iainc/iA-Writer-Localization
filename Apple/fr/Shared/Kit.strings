@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "Supprimer le Wikilink";
 "Add_Link" = "Ajouter un lien";
 "Remove_Link" = "Supprimer le lien";
+"Add_Image_Link" = "Ajouter un lien d’image";
+"Remove_Image_Link" = "Supprimer le lien de l’image";
 "Add_Image" = "Ajouter une image";
 "Remove_Image" = "Supprimer l’image";
 "Add_Footnote" = "Ajouter une note de bas de page";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "Format";
 "Label_Email" = "E-mail";
+
+"Completed_Tasks" = "Tâches terminées";
+"Completed_Tasks_Title" = "Tâches terminées";
+"Completed_Task_Strikethrough" = "Barré";
+"Completed_Task_Fade" = "Grisé";
 
 "Placeholder_Loading" = "Chargement…";
 "Placeholder_No_Accounts" = "Aucun compte";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "« %@ » comporte une extension incompatible.";
 "Content_Block_Error_Unknown_Extension_Title" = "« %@ » comporte une extension incompatible.";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Les blocs de contenu doivent être des fichiers de texte brut ou des images.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "« %@ » contient une référence récursive.";
 "Content_Block_Error_Recursive_Reference_Title" = "« %@ » contient une référence récursive";

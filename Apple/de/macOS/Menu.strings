@@ -242,7 +242,7 @@
 /* Class = "NSMenuItem"; title = "Move Line Up"; ObjectID = "31i-Zt-4nU"; */
 "31i-Zt-4nU.title" = "Zeile nach oben verschieben";
 
-/* Class = "NSMenuItem"; title = "Add Image"; ObjectID = "3aK-2F-Caq"; */
+/* Class = "NSMenuItem"; title = "Add Image Link"; ObjectID = "3aK-2F-Caq"; */
 "3aK-2F-Caq.title" = "Bild";
 
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3k5-Ng-E0x"; */

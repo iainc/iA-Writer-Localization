@@ -257,7 +257,7 @@
 "Menu_Show_In_Files" = "ファイルに表示";
 
 /* Action to show a file in Library. */
-"Menu_Show_In_Library" = "Show in Library";
+"Menu_Show_In_Library" = "ライブラリ内に表示";
 
 /* Action to open a file in new window. */
 "Menu_Open_In_New_Window" = "新しいウインドウで開く";

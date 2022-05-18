@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "Eliminar wikienlace";
 "Add_Link" = "Añadir enlace";
 "Remove_Link" = "Eliminar enlace";
+"Add_Image_Link" = "Agregar enlace de imagen";
+"Remove_Image_Link" = "Eliminar enlace de imagen";
 "Add_Image" = "Añadir imagen";
 "Remove_Image" = "Borrar imagen";
 "Add_Footnote" = "Añadir nota al pie";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "Formato";
 "Label_Email" = "Correo electrónico";
+
+"Completed_Tasks" = "Tareas completadas";
+"Completed_Tasks_Title" = "Tareas completadas";
+"Completed_Task_Strikethrough" = "Tachado";
+"Completed_Task_Fade" = "Atenuadas";
 
 "Placeholder_Loading" = "Cargando…";
 "Placeholder_No_Accounts" = "Sin cuentas";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "«%@» tiene una extensión no compatible.";
 "Content_Block_Error_Unknown_Extension_Title" = "«%@» tiene una extensión no admitida";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Los bloques de contenido deben ser archivos de texto sin formato o imágenes.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "«%@» contiene una referencia recursiva.";
 "Content_Block_Error_Recursive_Reference_Title" = "«%@» contiene una referencia recursiva";

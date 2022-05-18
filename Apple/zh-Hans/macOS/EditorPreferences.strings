@@ -35,6 +35,9 @@
 /* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "IkY-dB-hew"; */
 "IkY-dB-hew.title" = "版式：";
 
+/* Class = "NSButtonCell"; title = "Strikethrough"; ObjectID = "Imx-aM-oC4"; */
+"Imx-aM-oC4.title" = "Strikethrough";
+
 /* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
 "JpA-gV-jQe.title" = "文本置换";
 
@@ -62,6 +65,9 @@
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "SX8-w8-P8A"; */
 "SX8-w8-P8A.title" = "Default";
 
+/* Class = "NSTextFieldCell"; title = "Completed tasks:"; ObjectID = "Tx6-0W-msN"; */
+"Tx6-0W-msN.title" = "任务：";
+
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
 "Wed-ZH-mmU.title" = "打字机";
 
@@ -76,6 +82,9 @@
 
 /* Class = "NSButtonCell"; title = "Custom"; ObjectID = "d8E-l0-S4B"; */
 "d8E-l0-S4B.title" = "Custom";
+
+/* Class = "NSButtonCell"; title = "Fade"; ObjectID = "dPl-Rq-CpB"; */
+"dPl-Rq-CpB.title" = "Fade";
 
 /* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
 "dqc-LX-3Cd.title" = "智能替换：";

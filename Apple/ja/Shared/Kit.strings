@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "Wikilinkを削除";
 "Add_Link" = "リンクを追加";
 "Remove_Link" = "リンクを削除";
+"Add_Image_Link" = "画像リンクを追加";
+"Remove_Image_Link" = "画像リンクを削除";
 "Add_Image" = "画像を追加";
 "Remove_Image" = "画像を削除";
 "Add_Footnote" = "脚注を追加";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "形式";
 "Label_Email" = "メールアドレス";
+
+"Completed_Tasks" = "完了したタスク";
+"Completed_Tasks_Title" = "完了したタスク";
+"Completed_Task_Strikethrough" = "打ち消し線";
+"Completed_Task_Fade" = "Fade";
 
 "Placeholder_Loading" = "読み込み中…";
 "Placeholder_No_Accounts" = "アカウントがありません";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "“%@” はサポートしていない拡張子です。";
 "Content_Block_Error_Unknown_Extension_Title" = "“%@” はサポートしていない拡張子です";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "コンテンツブロックはプレーンテキストファイル、もしくは画像ファイルの必要があります。";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "“%@” は再帰的参照を行っています。";
 "Content_Block_Error_Recursive_Reference_Title" = "“%@” は再帰的参照を行っています";

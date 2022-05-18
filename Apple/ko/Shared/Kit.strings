@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "위키링크 제거";
 "Add_Link" = "링크 추가";
 "Remove_Link" = "링크 제거";
+"Add_Image_Link" = "이미지 링크 추가";
+"Remove_Image_Link" = "이미지 링크 제거";
 "Add_Image" = "이미지 추가";
 "Remove_Image" = "이미지 제거";
 "Add_Footnote" = "각주 추가";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "서식";
 "Label_Email" = "이메일";
+
+"Completed_Tasks" = "완료된 할일";
+"Completed_Tasks_Title" = "완료된 할일";
+"Completed_Task_Strikethrough" = "취소선";
+"Completed_Task_Fade" = "흐리게 표시됨";
 
 "Placeholder_Loading" = "로드 중…";
 "Placeholder_No_Accounts" = "계정 없음";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "“%@”에 지원되지 않는 확장명이 있습니다.";
 "Content_Block_Error_Unknown_Extension_Title" = "“%@”에 지원되지 않는 확장명이 있습니다";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "콘텐츠 블록은 일반 텍스트 파일 또는 이미지이어야 합니다.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "“%@”에 재귀 참조가 포함되어 있습니다.";
 "Content_Block_Error_Recursive_Reference_Title" = "“%@”에 재귀 참조가 포함되어 있습니다";

@@ -242,7 +242,7 @@
 /* Class = "NSMenuItem"; title = "Move Line Up"; ObjectID = "31i-Zt-4nU"; */
 "31i-Zt-4nU.title" = "Sposta linea su";
 
-/* Class = "NSMenuItem"; title = "Add Image"; ObjectID = "3aK-2F-Caq"; */
+/* Class = "NSMenuItem"; title = "Add Image Link"; ObjectID = "3aK-2F-Caq"; */
 "3aK-2F-Caq.title" = "Immagine";
 
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3k5-Ng-E0x"; */
@@ -318,7 +318,7 @@
 "CDK-JV-i5Y.title" = "Mostra barra dei filtri";
 
 /* Class = "NSMenuItem"; title = "Show in Library"; ObjectID = "Cpv-uS-hze"; */
-"Cpv-uS-hze.title" = "Mostra nella Libreria";
+"Cpv-uS-hze.title" = "Mostra nella libreria";
 
 /* Class = "NSMenuItem"; title = "Add Table of Contents"; ObjectID = "DPy-JT-lWH"; */
 "DPy-JT-lWH.title" = "Aggiungi indice";

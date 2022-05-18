@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "Remove Wikilink";
 "Add_Link" = "Add Link";
 "Remove_Link" = "Remove Link";
+"Add_Image_Link" = "Add Image Link";
+"Remove_Image_Link" = "Remove Image Link";
 "Add_Image" = "Add Image";
 "Remove_Image" = "Remove Image";
 "Add_Footnote" = "Add Footnote";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "Format";
 "Label_Email" = "Email";
+
+"Completed_Tasks" = "Completed tasks";
+"Completed_Tasks_Title" = "Completed Tasks";
+"Completed_Task_Strikethrough" = "Strikethrough";
+"Completed_Task_Fade" = "Fade";
 
 "Placeholder_Loading" = "Loading…";
 "Placeholder_No_Accounts" = "No Accounts";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "“%@” has unsupported extension.";
 "Content_Block_Error_Unknown_Extension_Title" = "“%@” Has Unsupported Extension";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Content blocks must be plain text files or images.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "“%@” contains a recursive reference.";
 "Content_Block_Error_Recursive_Reference_Title" = "“%@” Contains a Recursive Reference";

@@ -71,6 +71,8 @@
 "Remove_Wikilink" = "Удалить вики-ссылку";
 "Add_Link" = "Добавить ссылку";
 "Remove_Link" = "Удалить ссылку";
+"Add_Image_Link" = "Добавить ссылку на изображение";
+"Remove_Image_Link" = "Удалить ссылку на изображение";
 "Add_Image" = "Добавить изображение";
 "Remove_Image" = "Удалить изображение";
 "Add_Footnote" = "Добавить сноску";
@@ -85,6 +87,11 @@
 
 "Label_Format" = "Формат";
 "Label_Email" = "Эл. почта";
+
+"Completed_Tasks" = "Выполненные задачи";
+"Completed_Tasks_Title" = "Выполненные задачи";
+"Completed_Task_Strikethrough" = "Зачеркнутые";
+"Completed_Task_Fade" = "Блеклые";
 
 "Placeholder_Loading" = "Загрузка…";
 "Placeholder_No_Accounts" = "Нет учетных записей";
@@ -471,6 +478,7 @@ Text Check
 "Content_Block_Error_Unknown_Extension" = "«%@» имеет неподдерживаемое расширение.";
 "Content_Block_Error_Unknown_Extension_Title" = "«%@» имеет неподдерживаемое расширение.";
 "Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Блоки контента должны быть текстовыми файлами или изображениями.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "«%@» содержит рекурсивную ссылку.";
 "Content_Block_Error_Recursive_Reference_Title" = "«%@» содержит рекурсивную ссылку";
