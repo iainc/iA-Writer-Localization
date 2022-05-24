@@ -31,12 +31,6 @@
 "Copy_Library_Path" = "Copier le chemin de bibliothèque";
 "Copy_URL_Command" = "Copier le commande URL";
 "Open" = "Ouvrir";
-"Open_Content_Block" = "Ouvrir le bloc de contenu";
-"Open_Link" = "Ouvrir le lien";
-"Open_Wikilink" = "Ouvrir le Wikilink";
-"Open_Wikilink_In_Background_Window" = "Ouvrir le Wikilink dans une fenêtre en arrière-plan";
-"Show_In_Quick_Search" = "Afficher dans la recherche rapide";
-"Open_URL_Command" = "Ouvrir la commande URL";
 "Save" = "Enregistrer";
 "Discard_Changes" = "Discard Changes";
 "Keep_Editing" = "Keep Editing";
@@ -44,10 +38,14 @@
 "Hide_Preview" = "Masquer l’aperçu";
 "Show_Library" = "Afficher la bibliothèque";
 "Show_Preview" = "Afficher l’aperçu";
-"Back" = "Retour";
-"Forward" = "Continuer";
-"Go_Back" = "Go Back";
-"Go_Forward" = "Go Forward";
+"Back" = "Arrière";
+"Forward" = "Avant";
+"Go_Back" = "Arrière";
+"Go_Forward" = "Avant";
+"Go_Back_Tooltip" = "Arrière";
+"Go_Forward_Tooltip" = "Avant";
+"Go_Back_To_Item_Tooltip" = "Revenir à %@";
+"Go_Forward_To_Item_Tooltip" = "Aller à %@";
 "Back_In_Library" = "Retour à la bibliothèque";
 "Forward_In_Library" = "Transférer dans la bibliothèque";
 "Text_Size" = "Taille du texte";
@@ -59,6 +57,26 @@
 "Export" = "Exporter";
 "Publish" = "Publier";
 "Show_Completions" = "Afficher les saisies semi-automatiques";
+
+"Open_Content_Block" = "Ouvrir le bloc de contenu";
+"Open_Content_Block_Tooltip" = "⌘-cliquer pour ouvrir le bloc de contenu";
+
+"Open_Link" = "Ouvrir le lien";
+"Open_Link_Tooltip" = "⌘-cliquer pour ouvrir le lien";
+
+"Show_In_Quick_Search" = "Afficher dans la recherche rapide";
+"Show_In_Quick_Search_Tooltip" = "⌘-cliquer pour afficher dans la recherche rapide";
+
+"Open_URL_Command" = "Ouvrir la commande URL";
+"Open_URL_Command_Tooltip" = "⌘-cliquer pour ouvrir la commande URL";
+
+"Open_Wikilink" = "Ouvrir le Wikilink";
+"Open_Wikilink_Tooltip" = "⌘-cliquer pour ouvrir le Wikilink";
+
+"Open_Item_Tooltip" = "⌘-cliquer pour ouvrir %@";
+"Open_New_Item_Tooltip" = "⌘-cliquer pour ouvrir un nouveau %@";
+
+"Open_Wikilink_In_Background_Window" = "Ouvrir le Wikilink dans une fenêtre en arrière-plan";
 
 "Yellow" = "Jaune";
 "Orange" = "Orange";

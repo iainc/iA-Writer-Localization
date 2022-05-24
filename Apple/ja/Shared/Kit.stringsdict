@@ -5,33 +5,29 @@
 	<key>Library_Path_Matches</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>Library Path (%#@matches@)</string>
+		<string>ライブラリのパス(%#@matches@)</string>
 		<key>matches</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>one</key>
-			<string>%tu Match</string>
 			<key>other</key>
-			<string>%tu Matches</string>
+			<string>%tu個の一致</string>
 		</dict>
 	</dict>
 	<key>Search_Results</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>Search (%#@results@)</string>
+		<string>検索(%#@results@)</string>
 		<key>results</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>one</key>
-			<string>%tu Result</string>
 			<key>other</key>
-			<string>%tu Results</string>
+			<string>%tu個の結果</string>
 		</dict>
 	</dict>
 	<key>Stats_Characters</key>

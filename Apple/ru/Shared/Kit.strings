@@ -31,12 +31,6 @@
 "Copy_Library_Path" = "Скопировать путь в библиотеке";
 "Copy_URL_Command" = "Скопировать URL-команду";
 "Open" = "Открыть";
-"Open_Content_Block" = "Открыть блок содержимого";
-"Open_Link" = "Открыть ссылку";
-"Open_Wikilink" = "Открыть вики-ссылку";
-"Open_Wikilink_In_Background_Window" = "Открыть вики-ссылку в фоновом окне";
-"Show_In_Quick_Search" = "Показать в быстром поиске";
-"Open_URL_Command" = "Открыть URL-команду";
 "Save" = "Сохранить";
 "Discard_Changes" = "Discard Changes";
 "Keep_Editing" = "Keep Editing";
@@ -46,8 +40,12 @@
 "Show_Preview" = "Показать просмотр";
 "Back" = "Назад";
 "Forward" = "Вперед";
-"Go_Back" = "Go Back";
-"Go_Forward" = "Go Forward";
+"Go_Back" = "Назад";
+"Go_Forward" = "Вперед";
+"Go_Back_Tooltip" = "Назад";
+"Go_Forward_Tooltip" = "Вперед";
+"Go_Back_To_Item_Tooltip" = "Назад к %@";
+"Go_Forward_To_Item_Tooltip" = "Вперед к %@";
 "Back_In_Library" = "Назад в библиотеку";
 "Forward_In_Library" = "Вперед в библиотеку";
 "Text_Size" = "Размер текста";
@@ -59,6 +57,26 @@
 "Export" = "Экспортировать";
 "Publish" = "Опубликовать";
 "Show_Completions" = "Показать автодополнения";
+
+"Open_Content_Block" = "Открыть блок контента";
+"Open_Content_Block_Tooltip" = "⌘-нажатие мыши: открыть блок контента";
+
+"Open_Link" = "Открыть ссылку";
+"Open_Link_Tooltip" = "⌘-нажатие мыши: открыть ссылку";
+
+"Show_In_Quick_Search" = "Показать в быстром поиске";
+"Show_In_Quick_Search_Tooltip" = "⌘-нажатие мыши: показать в быстром поиске";
+
+"Open_URL_Command" = "Открыть URL-команду";
+"Open_URL_Command_Tooltip" = "⌘-нажатие мыши: открыть URL-команду";
+
+"Open_Wikilink" = "Открыть вики-ссылку";
+"Open_Wikilink_Tooltip" = "⌘-нажатие мыши: открыть вики-ссылку";
+
+"Open_Item_Tooltip" = "⌘-нажатие мыши: открыть %@";
+"Open_New_Item_Tooltip" = "⌘-нажатие мыши: создать %@";
+
+"Open_Wikilink_In_Background_Window" = "Открыть вики-ссылку в фоновом окне";
 
 "Yellow" = "Желтый";
 "Orange" = "Оранжевый";

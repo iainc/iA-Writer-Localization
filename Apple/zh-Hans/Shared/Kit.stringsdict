@@ -5,33 +5,29 @@
 	<key>Library_Path_Matches</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>Library Path (%#@matches@)</string>
+		<string>资料库路径 (%#@matches@)</string>
 		<key>matches</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>one</key>
-			<string>%tu Match</string>
 			<key>other</key>
-			<string>%tu Matches</string>
+			<string>%tu个匹配项</string>
 		</dict>
 	</dict>
 	<key>Search_Results</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>Search (%#@results@)</string>
+		<string>搜索(%#@results@)</string>
 		<key>results</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>one</key>
-			<string>%tu Result</string>
 			<key>other</key>
-			<string>%tu Results</string>
+			<string>%tu个结果</string>
 		</dict>
 	</dict>
 	<key>Stats_Characters</key>

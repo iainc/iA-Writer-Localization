@@ -31,12 +31,6 @@
 "Copy_Library_Path" = "라이브러리 경로 복사";
 "Copy_URL_Command" = "Copy URL Command";
 "Open" = "열기";
-"Open_Content_Block" = "콘텐츠 블록 열기";
-"Open_Link" = "링크 열기";
-"Open_Wikilink" = "위키링크 열기";
-"Open_Wikilink_In_Background_Window" = "배경 창에서 위키링크 열기";
-"Show_In_Quick_Search" = "빠른 검색에 표시";
-"Open_URL_Command" = "URL 명령 열기";
 "Save" = "저장";
 "Discard_Changes" = "Discard Changes";
 "Keep_Editing" = "Keep Editing";
@@ -46,8 +40,12 @@
 "Show_Preview" = "미리 보기 표시";
 "Back" = "뒤로";
 "Forward" = "앞으로";
-"Go_Back" = "Go Back";
-"Go_Forward" = "Go Forward";
+"Go_Back" = "뒤로 이동";
+"Go_Forward" = "앞으로 이동";
+"Go_Back_Tooltip" = "뒤로 이동";
+"Go_Forward_Tooltip" = "앞으로 이동";
+"Go_Back_To_Item_Tooltip" = "%@(으)로 뒤로 이동";
+"Go_Forward_To_Item_Tooltip" = "%@(으)로 앞으로 이동";
 "Back_In_Library" = "라이브러리에서 뒤로";
 "Forward_In_Library" = "라이브러리에서 앞으로";
 "Text_Size" = "텍스트 크기";
@@ -59,6 +57,26 @@
 "Export" = "내보내기";
 "Publish" = "게시";
 "Show_Completions" = "자동 완성 표시";
+
+"Open_Content_Block" = "콘텐츠 블록 열기";
+"Open_Content_Block_Tooltip" = "⌘-클릭하여 콘텐츠 블록 열기";
+
+"Open_Link" = "링크 열기";
+"Open_Link_Tooltip" = "⌘-클릭하여 링크 열기";
+
+"Show_In_Quick_Search" = "빠른 검색에 표시";
+"Show_In_Quick_Search_Tooltip" = "⌘-클릭하여 빠른 검색에 표시";
+
+"Open_URL_Command" = "URL 명령 열기";
+"Open_URL_Command_Tooltip" = "⌘-클릭하여 URL 명령 열기";
+
+"Open_Wikilink" = "위키링크 열기";
+"Open_Wikilink_Tooltip" = "⌘-클릭하여 위키링크 열기";
+
+"Open_Item_Tooltip" = "⌘-클릭하여 %@ 열기";
+"Open_New_Item_Tooltip" = "⌘-클릭하여 새로운 %@ 열기";
+
+"Open_Wikilink_In_Background_Window" = "배경 창에서 위키링크 열기";
 
 "Yellow" = "노란색";
 "Orange" = "오렌지";

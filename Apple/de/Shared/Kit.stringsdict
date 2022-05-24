@@ -5,7 +5,7 @@
 	<key>Library_Path_Matches</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>Library Path (%#@matches@)</string>
+		<string>Bibliothekspfad (%#@matches@)</string>
 		<key>matches</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -13,15 +13,15 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
 			<key>one</key>
-			<string>%tu Match</string>
+			<string>%tu Treffer</string>
 			<key>other</key>
-			<string>%tu Matches</string>
+			<string>%tu Treffer</string>
 		</dict>
 	</dict>
 	<key>Search_Results</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>Search (%#@results@)</string>
+		<string>Suche (%#@results@)</string>
 		<key>results</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -29,9 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
 			<key>one</key>
-			<string>%tu Result</string>
+			<string>%tu Ergebnis</string>
 			<key>other</key>
-			<string>%tu Results</string>
+			<string>%tu Ergebnisse</string>
 		</dict>
 	</dict>
 	<key>Stats_Characters</key>

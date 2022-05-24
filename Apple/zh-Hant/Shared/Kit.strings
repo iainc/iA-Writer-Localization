@@ -31,12 +31,6 @@
 "Copy_Library_Path" = "複製資料庫路徑";
 "Copy_URL_Command" = "將 URL 命令複制";
 "Open" = "打開";
-"Open_Content_Block" = "開啟內容塊";
-"Open_Link" = "開啟連結";
-"Open_Wikilink" = "開啟維基鏈接";
-"Open_Wikilink_In_Background_Window" = "在背景視窗開啟維基鏈接";
-"Show_In_Quick_Search" = "在快速搜尋中顯示";
-"Open_URL_Command" = "開啟 URL 命令";
 "Save" = "儲存";
 "Discard_Changes" = "Discard Changes";
 "Keep_Editing" = "Keep Editing";
@@ -46,8 +40,12 @@
 "Show_Preview" = "顯示預覽";
 "Back" = "返回";
 "Forward" = "向前";
-"Go_Back" = "Go Back";
-"Go_Forward" = "Go Forward";
+"Go_Back" = "返回";
+"Go_Forward" = "前往";
+"Go_Back_Tooltip" = "返回";
+"Go_Forward_Tooltip" = "前往";
+"Go_Back_To_Item_Tooltip" = "返回至 %@";
+"Go_Forward_To_Item_Tooltip" = "前往 %@";
 "Back_In_Library" = "返回資料庫";
 "Forward_In_Library" = "前往資料庫";
 "Text_Size" = "文字大小";
@@ -59,6 +57,26 @@
 "Export" = "匯出";
 "Publish" = "發布";
 "Show_Completions" = "顯示自動完成";
+
+"Open_Content_Block" = "開啟內容塊";
+"Open_Content_Block_Tooltip" = "⌘-按一下開啟內容塊";
+
+"Open_Link" = "開啟連結";
+"Open_Link_Tooltip" = "⌘-按一下開啟連結";
+
+"Show_In_Quick_Search" = "在快速搜尋中顯示";
+"Show_In_Quick_Search_Tooltip" = "⌘-按一下在快速搜尋中顯示";
+
+"Open_URL_Command" = "開啟 URL 命令";
+"Open_URL_Command_Tooltip" = "⌘-按一下開啟 URL 命令";
+
+"Open_Wikilink" = "開啟維基鏈接";
+"Open_Wikilink_Tooltip" = "⌘-按一下開啟 Wikilink";
+
+"Open_Item_Tooltip" = "⌘-按一下開啟 %@";
+"Open_New_Item_Tooltip" = "⌘-按一下開啟新的 %@";
+
+"Open_Wikilink_In_Background_Window" = "在背景視窗開啟維基鏈接";
 
 "Yellow" = "黃色的";
 "Orange" = "橙子";

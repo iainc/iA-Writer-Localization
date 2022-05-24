@@ -31,12 +31,6 @@
 "Copy_Library_Path" = "Copy Library Path";
 "Copy_URL_Command" = "Copy URL Command";
 "Open" = "Open";
-"Open_Content_Block" = "Open Content Block";
-"Open_Link" = "Open Link";
-"Open_Wikilink" = "Open Wikilink";
-"Open_Wikilink_In_Background_Window" = "Open Wikilink in Background Window";
-"Show_In_Quick_Search" = "Show in Quick Search";
-"Open_URL_Command" = "Open URL Command";
 "Save" = "Save";
 "Discard_Changes" = "Discard Changes";
 "Keep_Editing" = "Keep Editing";
@@ -48,6 +42,10 @@
 "Forward" = "Forward";
 "Go_Back" = "Go Back";
 "Go_Forward" = "Go Forward";
+"Go_Back_Tooltip" = "Go back";
+"Go_Forward_Tooltip" = "Go forward";
+"Go_Back_To_Item_Tooltip" = "Go back to %@";
+"Go_Forward_To_Item_Tooltip" = "Go forward to %@";
 "Back_In_Library" = "Back in Library";
 "Forward_In_Library" = "Forward in Library";
 "Text_Size" = "Text Size";
@@ -59,6 +57,26 @@
 "Export" = "Export";
 "Publish" = "Publish";
 "Show_Completions" = "Show Completions";
+
+"Open_Content_Block" = "Open Content Block";
+"Open_Content_Block_Tooltip" = "⌘-click to open content block";
+
+"Open_Link" = "Open Link";
+"Open_Link_Tooltip" = "⌘-click to open link";
+
+"Show_In_Quick_Search" = "Show in Quick Search";
+"Show_In_Quick_Search_Tooltip" = "⌘-click to show in Quick Search";
+
+"Open_URL_Command" = "Open URL Command";
+"Open_URL_Command_Tooltip" = "⌘-click to open URL command";
+
+"Open_Wikilink" = "Open Wikilink";
+"Open_Wikilink_Tooltip" = "⌘-click to open wikilink";
+
+"Open_Item_Tooltip" = "⌘-click to open %@";
+"Open_New_Item_Tooltip" = "⌘-click to open new %@";
+
+"Open_Wikilink_In_Background_Window" = "Open Wikilink in Background Window";
 
 "Yellow" = "Yellow";
 "Orange" = "Orange";

@@ -31,12 +31,6 @@
 "Copy_Library_Path" = "复制资料库路径";
 "Copy_URL_Command" = "复制URL命令";
 "Open" = "打开";
-"Open_Content_Block" = "打开内容块";
-"Open_Link" = "打开链接";
-"Open_Wikilink" = "打开维基链接";
-"Open_Wikilink_In_Background_Window" = "在后台窗口打开维基链接";
-"Show_In_Quick_Search" = "在快速搜索中显示";
-"Open_URL_Command" = "打开URL命令";
 "Save" = "保存";
 "Discard_Changes" = "Discard Changes";
 "Keep_Editing" = "Keep Editing";
@@ -46,8 +40,12 @@
 "Show_Preview" = "显示预览";
 "Back" = "返回​​";
 "Forward" = "前进";
-"Go_Back" = "Go Back";
-"Go_Forward" = "Go Forward";
+"Go_Back" = "返回";
+"Go_Forward" = "前进";
+"Go_Back_Tooltip" = "返回​​";
+"Go_Forward_Tooltip" = "前进";
+"Go_Back_To_Item_Tooltip" = "返回到%@";
+"Go_Forward_To_Item_Tooltip" = "前进到%@";
 "Back_In_Library" = "在Library中后退";
 "Forward_In_Library" = "在Library中前进";
 "Text_Size" = "文本大小";
@@ -59,6 +57,26 @@
 "Export" = "导出";
 "Publish" = "发布";
 "Show_Completions" = "显示自动完成";
+
+"Open_Content_Block" = "打开内容块";
+"Open_Content_Block_Tooltip" = "⌘-点击以打开内容块";
+
+"Open_Link" = "打开链接";
+"Open_Link_Tooltip" = "⌘-点击以打开链接";
+
+"Show_In_Quick_Search" = "在快速搜索中显示";
+"Show_In_Quick_Search_Tooltip" = "⌘-点击以在“快速搜索”中显示";
+
+"Open_URL_Command" = "打开URL命令";
+"Open_URL_Command_Tooltip" = "⌘-点击以打开URL命令";
+
+"Open_Wikilink" = "打开维基链接";
+"Open_Wikilink_Tooltip" = "⌘-点击以打开维基链接";
+
+"Open_Item_Tooltip" = "⌘-点击以打开%@";
+"Open_New_Item_Tooltip" = "⌘-点击以打开新的%@";
+
+"Open_Wikilink_In_Background_Window" = "在后台窗口打开维基链接";
 
 "Yellow" = "黄色的";
 "Orange" = "橙子";

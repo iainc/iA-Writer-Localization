@@ -31,12 +31,6 @@
 "Copy_Library_Path" = "ライブラリのパスをコピー";
 "Copy_URL_Command" = "URLコマンドをコピー";
 "Open" = "開く";
-"Open_Content_Block" = "コンテンツブロックを開く";
-"Open_Link" = "リンクを開く";
-"Open_Wikilink" = "Wikilinkを開く";
-"Open_Wikilink_In_Background_Window" = "バックグラウンドウィンドウでWikilinkを開く";
-"Show_In_Quick_Search" = "クイック検索で表示";
-"Open_URL_Command" = "URLコマンドを開く";
 "Save" = "保存";
 "Discard_Changes" = "Discard Changes";
 "Keep_Editing" = "Keep Editing";
@@ -46,8 +40,12 @@
 "Show_Preview" = "プレビューを表示";
 "Back" = "戻る";
 "Forward" = "進む";
-"Go_Back" = "Go Back";
-"Go_Forward" = "Go Forward";
+"Go_Back" = "戻る";
+"Go_Forward" = "進む";
+"Go_Back_Tooltip" = "戻る";
+"Go_Forward_Tooltip" = "進む";
+"Go_Back_To_Item_Tooltip" = "%@に戻る";
+"Go_Forward_To_Item_Tooltip" = "%@へ進む";
 "Back_In_Library" = "ライブラリで戻る";
 "Forward_In_Library" = "ライブラリで進む";
 "Text_Size" = "テキストサイズ";
@@ -60,6 +58,26 @@
 "Publish" = "公開";
 "Show_Completions" = "完了を表示";
 
+"Open_Content_Block" = "コンテンツブロックを開く";
+"Open_Content_Block_Tooltip" = "⌘-クリックしてコンテンツブロックを開く";
+
+"Open_Link" = "リンクを開く";
+"Open_Link_Tooltip" = "⌘-クリックしてリンクを開く";
+
+"Show_In_Quick_Search" = "クイック検索で表示";
+"Show_In_Quick_Search_Tooltip" = "⌘-クリックしてクイック検索を表示";
+
+"Open_URL_Command" = "URLコマンドを開く";
+"Open_URL_Command_Tooltip" = "⌘-クリックしてURLコマンドを開く";
+
+"Open_Wikilink" = "ウィキリンクを開く";
+"Open_Wikilink_Tooltip" = "⌘-クリックしてウィキリンクを開く";
+
+"Open_Item_Tooltip" = "⌘-クリックして%@を開く";
+"Open_New_Item_Tooltip" = "⌘-クリックして新しい%@を開く";
+
+"Open_Wikilink_In_Background_Window" = "バックグラウンドウィンドウでWikilinkを開く";
+
 "Yellow" = "黄色";
 "Orange" = "オレンジ";
 "Pink" = "ピンク";
@@ -67,8 +85,8 @@
 "Blue" = "青";
 "Green" = "緑";
 
-"Add_Wikilink" = "Wikilinkを追加";
-"Remove_Wikilink" = "Wikilinkを削除";
+"Add_Wikilink" = "ウィキリンクを追加";
+"Remove_Wikilink" = "ウィキリンクを削除";
 "Add_Link" = "リンクを追加";
 "Remove_Link" = "リンクを削除";
 "Add_Image_Link" = "画像リンクを追加";
@@ -133,11 +151,11 @@
 "HTML_Output_Description" = "これらの詳細設定はHTMLをコピー、エクスポート、公開する際に使用されます。";
 "Other_Output_Description" = "これらの詳細設定はテキストをコピー、エクスポート、公開する際に使用されます。";
 "Preview_Output_Description" = "これらの詳細設定はプレビューで使用されます。";
-"Destination_Type_Description" = "パスの優先フォーマットは新しいWikilinkとコンテンツブロックに使用されます。";
+"Destination_Type_Description" = "パスの優先フォーマットは新しいウィキリンクとコンテンツブロックに使用されます。";
 "Content_Blocks" = "コンテンツブロック";
-"Wikilinks" = "Wikilink";
+"Wikilinks" = "ウィキリンク";
 "Hashtags" = "ハッシュダグ";
-"Autolinks" = "Autolink";
+"Autolinks" = "オートリンク";
 
 "Metadata" = "メタデータ";
 "Key" = "キー";
