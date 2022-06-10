@@ -4,22 +4,22 @@
  -----*/
 
 /* Menu title to enable dark appearance. */
-"Menu_Enable_Dark_Appearance" = "使用暗色模式";
+"Menu_Enable_Dark_Appearance" = "使用深色模式";
 
 /* Menu title to enable light appearance. */
 "Menu_Enable_Light_Appearance" = "使用淺色模式";
 
 /* New in Library. Menu item title for creating new documents in Library. */
-"New_Document_In_Library_Menu" = "資料庫新文件";
+"New_Document_In_Library_Menu" = "文件庫新文件";
 
 /* New. Menu item title for creating new documents in Library in current window. */
-"New_Document_In_Library_In_Window_Menu" = "視窗資料庫的新文件";
+"New_Document_In_Library_In_Window_Menu" = "視窗文件庫的新文件";
 
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "新";
 
 /* New Tab in Library. Menu item title for creating new documents in Library. */
-"New_Document_In_Tab_In_Library_Menu" = "資料庫新標籤";
+"New_Document_In_Tab_In_Library_Menu" = "文件庫新標籤";
 
 /* New Tab. Menu item title for creating new documents. */
 "New_Document_In_Tab_Menu" = "新標籤";
@@ -59,7 +59,7 @@
 "Template_Installed_Title" = "已安裝「%@」範本";
 
 /* Notification info text after a template is successfully installed via Finder or Dock icon. */
-"Template_Installed_Description" = "您可以在預覽及查看＞範本內存取範本。您可以在偏好內解除安裝範本。";
+"Template_Installed_Description" = "您可以在「預覽」中存取範本。您可以在「設定」中刪除範本。";
 
 /*------------
  Release Notes
@@ -69,7 +69,7 @@
 "Updated_Notification_Title" = "iA Writer 已更新至版本 %@";
 
 /* Notification info text, shown on first launch of a new version. */
-"Updated_Notification_Message" = "點擊以查看發行說明。";
+"Updated_Notification_Message" = "點擊來查看新版本資訊。";
 
 /*-----
  Export
@@ -101,7 +101,7 @@
 "Button_Share" = "分享";
 
 /* WordPress site picker alert title. */
-"WordPress_Picker_Message" = "您希望在哪裡創建草稿？";
+"WordPress_Picker_Message" = "您希望在哪裡新增草稿？";
 
 /* WordPress site picker alert description. */
 "WordPress_Picker_Informative_Text" = "WordPress 帳戶存取至多於一個網站。";
@@ -213,13 +213,13 @@
 "Show_In_Finder" = "在 Finder 顯示";
 
 /* Search menu item to show currently selected document in Library. */
-"Show_In_Library" = "在資料庫中顯示";
+"Show_In_Library" = "在文件庫中顯示";
 
 /* Library filter field placeholder. */
-"Library_Filter_Field_Placeholder" = "過濾";
+"Library_Filter_Field_Placeholder" = "篩選";
 
 /* Loading content message for document library. */
-"Library_Loading_Message" = "正在載入文檔…若資料庫內容較多，可能需時數分鐘。";
+"Library_Loading_Message" = "正在載入文件…若文件庫內容較多，可能需時數分鐘。";
 
 /* Button to move document to library. */
 "Library_Import_Prompt_Button_Move" = "移動";
@@ -231,7 +231,7 @@
 "Library_Import_Prompt_Button_Copy_To" = "複製至「%@」";
 
 /* Message label for documents edited outside the Library. */
-"Library_Import_Prompt_Message" = "您正在編輯 iA Writer 資料庫外的文件。您可以繼續編輯，或您可以把它移至資料庫。";
+"Library_Import_Prompt_Message" = "您正在編輯 iA Writer 文件庫外的文件。您可以繼續編輯，或您可以把它移至文件庫。";
 
 /* Search title. */
 "Library_Search_Title" = "搜尋結果";
@@ -240,7 +240,7 @@
 "Library_Info_Date_Modified" = "修改";
 
 /* Library info popover label for date created. */
-"Library_Info_Date_Created" = "已創建";
+"Library_Info_Date_Created" = "已建立";
 
 /* Library info popover label for extension. */
 "Library_Info_Name" = "名稱";
@@ -258,7 +258,7 @@
 "Library_Root_Favorites" = "最愛";
 
 /* Organizer section title. */
-"Library_Root_Smart_Folders" = "智能資料夾";
+"Library_Root_Smart_Folders" = "智慧資料夾";
 
 /* Organizer section title. */
 "Library_Root_Hashtags" = "主題標籤";
@@ -277,7 +277,7 @@
  -----*/
 
 /* Apply English title capitalization to selected text. */
-"Make_Title_Case" = "製作標題案例";
+"Make_Title_Case" = "製作標題範例";
 
 /* List block element name. */
 "Block_Element_List" = "列表";
@@ -310,28 +310,28 @@
 "Block_Element_Heading_6" = "標題 6";
 
 /* Body text block element name. */
-"Block_Element_Blockquote" = "大段引用";
+"Block_Element_Blockquote" = "引用區塊";
 
 /* Body text block element name. */
-"Block_Element_Body_Text" = "主體";
+"Block_Element_Body_Text" = "本文";
 
 /* Bold inline element name. */
 "Inline_Element_Bold" = "粗體";
 
 /* Bold inline element name. */
-"Inline_Element_Code" = "代碼";
+"Inline_Element_Code" = "程式碼";
 
 /* Bold inline element name. */
-"Inline_Element_Highlight" = "突出顯示";
+"Inline_Element_Highlight" = "畫線顯示";
 
 /* Wikilink inline element name. */
-"Inline_Element_Wikilink" = "維基鏈接";
+"Inline_Element_Wikilink" = "維基連結";
 
 /* Strikethrough inline element name. */
-"Inline_Element_Strikethrough" = "底線";
+"Inline_Element_Strikethrough" = "刪除線";
 
 /* Body text inline element name. */
-"Inline_Element_Body_Text" = "主體";
+"Inline_Element_Body_Text" = "本文";
 
 /* Footnote button in text edit toolbar. */
 "Text_Editor_Toolbar_Action_Footnote" = "註腳";
@@ -368,7 +368,7 @@
 "Preferences_Pane_Title_Files" = "檔案";
 
 /* Library preferences pane title. */
-"Preferences_Pane_Title_Library" = "資料庫";
+"Preferences_Pane_Title_Library" = "文件庫";
 
 /* Editor preferences pane title. */
 "Preferences_Pane_Title_Editor" = "編輯器";
@@ -392,20 +392,20 @@
 "URL_Scheme_First_Use_Informative_Text" = "您可以稍後前往「偏好」修改。";
 
 /* Markdown processing lazy paragraphs. */
-"Markdown_Lazy_Paragraphs" = "按一次下一行以開始新段落";
+"Markdown_Lazy_Paragraphs" = "換行自動分段模式";
 
-"Markdown_Lazy_Paragraphs_Description" = "依預設，Markdown 在段落間須有兩次換行 (空白行)。啟用時，單一換行會開始一個新段落。";
+"Markdown_Lazy_Paragraphs_Description" = "預設 Markdown 在段落間須有兩次換行 (以空白行隔開)。啟用時，單一換行即會開始新段落。";
 
 "Markdown_Lazy_Paragraphs_Warning" = "提供與 iA Writer 較舊版本相容使用。其他 Markdown 處理器恕不支援。";
 
 /* Markdown processing smart punctuation. */
-"Markdown_Smart_Punctuation" = "套用智能標點符號";
+"Markdown_Smart_Punctuation" = "套用智慧標點符號";
 
 "Markdown_Smart_Punctuation_Description" = "將直線引號與單純破折號轉換為所有格式化輸出的智慧對應項目。";
 
 "Markdown_Metadata_Tab" = "中繼資料";
 
-"Markdown_Library_Paths_And_Links_Tab" = "資料庫路徑與連結";
+"Markdown_Library_Paths_And_Links_Tab" = "文件庫路徑與連結";
 
 "Markdown_Processing_Tab" = "正在處理";
 
@@ -421,7 +421,7 @@
  -------------*/
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
-"Content_Block_Processing_Alert_Message" = "無法處理一件些內容。";
+"Content_Block_Processing_Alert_Message" = "無法處理一些內容。";
 
 /* Generic error alert title. */
 "Generic_Error_Alert_Message" = "無法完成操作。";
@@ -437,4 +437,4 @@
 "Touch_Bar_Item_Lists" = "列表";
 
 /* Touch bar customization label for button with inline elements. */
-"Touch_Bar_Item_Inline_Elements" = "內聯元素";
+"Touch_Bar_Item_Inline_Elements" = "內嵌元素";

@@ -39,7 +39,7 @@
 "81.title" = "檔案";
 
 /* Class = "NSMenuItem"; title = "New in Library in Window"; ObjectID = "82"; */
-"82.title" = "視窗資料庫的新文件";
+"82.title" = "視窗文件庫的新文件";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
 "83.title" = "檔案";
@@ -168,19 +168,19 @@
 "694.title" = "顯示替換";
 
 /* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "695"; */
-"695.title" = "智能破折號";
+"695.title" = "智慧破折號";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "697"; */
-"697.title" = "智能引用";
+"697.title" = "智慧引用";
 
 /* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "698"; */
-"698.title" = "智能複製／貼上";
+"698.title" = "智慧複製／貼上";
 
 /* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "706"; */
-"706.title" = "文本替換";
+"706.title" = "文字取代";
 
 /* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "713"; */
-"713.title" = "使用選擇查找";
+"713.title" = "使用選取來尋找";
 
 /* Class = "NSMenuItem"; title = "Rate on the Mac App Store"; ObjectID = "728"; */
 "728.title" = "在 Mac App Store 上評分";
@@ -225,7 +225,7 @@
 "776.title" = "有序列表";
 
 /* Class = "NSMenuItem"; title = "Fit Width"; ObjectID = "0WI-I6-eCG"; */
-"0WI-I6-eCG.title" = "Fit Width";
+"0WI-I6-eCG.title" = "符合寬度";
 
 /* Class = "NSMenuItem"; title = "Make Text Bigger"; ObjectID = "14Z-T9-ghK"; */
 "14Z-T9-ghK.title" = "放大";
@@ -249,7 +249,7 @@
 "3k5-Ng-E0x.title" = "開始說話";
 
 /* Class = "NSMenuItem"; title = "Add Hashtag"; ObjectID = "4H6-XR-Ax3"; */
-"4H6-XR-Ax3.title" = "添加主題標籤";
+"4H6-XR-Ax3.title" = "新增主題標籤";
 
 /* Class = "NSMenu"; title = "Sort Files By"; ObjectID = "4Pv-de-LIC"; */
 "4Pv-de-LIC.title" = "檔案排序方式";
@@ -258,7 +258,7 @@
 "4e7-W3-T62.title" = "文字大小";
 
 /* Class = "NSMenuItem"; title = "Add Page Break"; ObjectID = "4ls-Rs-YBF"; */
-"4ls-Rs-YBF.title" = "新增分頁符";
+"4ls-Rs-YBF.title" = "新增頁面分隔線";
 
 /* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "64r-hf-9Nv"; */
 "64r-hf-9Nv.title" = "淡入／出";
@@ -270,7 +270,7 @@
 "6dA-y4-hCQ.title" = "複製格式化";
 
 /* Class = "NSMenu"; title = "Preview"; ObjectID = "6sR-ox-9CG"; */
-"6sR-ox-9CG.title" = "Preview";
+"6sR-ox-9CG.title" = "預覽";
 
 /* Class = "NSMenuItem"; title = "Fillers"; ObjectID = "7T6-MH-A5Q"; Note = "SKIP LOCALIZATION"; */
 "7T6-MH-A5Q.title" = "Fillers";
@@ -279,7 +279,7 @@
 "7Tu-74-DMo.title" = "檔案排序方式";
 
 /* Class = "NSMenuItem"; title = "New Tab in Library"; ObjectID = "7oS-VZ-vDq"; */
-"7oS-VZ-vDq.title" = "資料庫新標籤";
+"7oS-VZ-vDq.title" = "文件庫新標籤";
 
 /* Class = "NSMenuItem"; title = "Visit Online Support"; ObjectID = "7vb-VJ-lxX"; */
 "7vb-VJ-lxX.title" = "前往線上支援";
@@ -288,7 +288,7 @@
 "8JJ-MZ-cn8.title" = "查看";
 
 /* Class = "NSMenuItem"; title = "Fit Page"; ObjectID = "8k5-pc-sju"; */
-"8k5-pc-sju.title" = "Fit Page";
+"8k5-pc-sju.title" = "符合頁面大小";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "9cn-bG-2ki"; */
 "9cn-bG-2ki.title" = "大寫";
@@ -303,22 +303,22 @@
 "Aaw-jt-2hg.title" = "註腳";
 
 /* Class = "NSMenuItem"; title = "Search Relevance"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
-"Ac8-2T-zWZ.title" = "Date Modified";
+"Ac8-2T-zWZ.title" = "修改日期";
 
 /* Class = "NSMenuItem"; title = "Split"; ObjectID = "B6m-l2-hLe"; */
 "B6m-l2-hLe.title" = "分開";
 
 /* Class = "NSMenuItem"; title = "Show Date"; ObjectID = "BDa-l5-uWf"; */
-"BDa-l5-uWf.title" = "Show Date";
+"BDa-l5-uWf.title" = "顯示日期";
 
 /* Class = "NSMenuItem"; title = "Code"; ObjectID = "BGk-i5-EV3"; */
-"BGk-i5-EV3.title" = "代碼";
+"BGk-i5-EV3.title" = "程式碼";
 
 /* Class = "NSMenuItem"; title = "Show Filter Bar"; ObjectID = "CDK-JV-i5Y"; Note = "SKIP LOCALIZATION"; */
-"CDK-JV-i5Y.title" = "顯示過濾欄";
+"CDK-JV-i5Y.title" = "顯示篩選欄";
 
 /* Class = "NSMenuItem"; title = "Show in Library"; ObjectID = "Cpv-uS-hze"; */
-"Cpv-uS-hze.title" = "在資料庫中顯示";
+"Cpv-uS-hze.title" = "在文件庫中顯示";
 
 /* Class = "NSMenuItem"; title = "Add Table of Contents"; ObjectID = "DPy-JT-lWH"; */
 "DPy-JT-lWH.title" = "增加目錄";
@@ -330,7 +330,7 @@
 "Dss-9L-8xE.title" = "快速搜尋";
 
 /* Class = "NSMenuItem"; title = "Sentences"; ObjectID = "Dxf-FA-Kal"; */
-"Dxf-FA-Kal.title" = "Sentences";
+"Dxf-FA-Kal.title" = "句子";
 
 /* Class = "NSMenuItem"; title = "Add Table"; ObjectID = "E9e-Rh-FJM"; */
 "E9e-Rh-FJM.title" = "增加表";
@@ -360,13 +360,13 @@
 "GWQ-RT-dPL.title" = "格式";
 
 /* Class = "NSMenuItem"; title = "Make Text Normal Size"; ObjectID = "Hl3-0o-vGs"; */
-"Hl3-0o-vGs.title" = "默認";
+"Hl3-0o-vGs.title" = "預設";
 
 /* Class = "NSMenu"; title = "Print"; ObjectID = "JHp-cH-Uqt"; */
-"JHp-cH-Uqt.title" = "Print";
+"JHp-cH-Uqt.title" = "列印";
 
 /* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "K0l-2A-eAA"; Note = "SKIP LOCALIZATION"; */
-"K0l-2A-eAA.title" = "上升中";
+"K0l-2A-eAA.title" = "遞增排序";
 
 /* Class = "NSMenuItem"; title = "Make Title Case"; ObjectID = "KBV-gu-Ege"; */
 "KBV-gu-Ege.title" = "製作標題案例";
@@ -375,7 +375,7 @@
 "KBk-l8-2xM.title" = "顯示所有標籤";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "LPd-cf-zDL"; Note = "SKIP LOCALIZATION"; */
-"LPd-cf-zDL.title" = "Date Created";
+"LPd-cf-zDL.title" = "建立日期";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "LYz-UD-Dee"; */
 "LYz-UD-Dee.title" = "演說";
@@ -402,7 +402,7 @@
 "N72-ZJ-nQT.title" = "名稱";
 
 /* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "NK9-fh-oVK"; */
-"NK9-fh-oVK.title" = "經常顯示";
+"NK9-fh-oVK.title" = "總是顯示";
 
 /* Class = "NSMenu"; ibExternalAccessibilityDescription = "Dock Menu"; ObjectID = "O60-31-O7a"; */
 "O60-31-O7a.ibExternalAccessibilityDescription" = "Dock 目錄";
@@ -411,19 +411,19 @@
 "Ofm-dK-n9w.title" = "輸入全螢幕";
 
 /* Class = "NSMenuItem"; title = "Add Horizontal Rule"; ObjectID = "Pfk-jy-BKg"; */
-"Pfk-jy-BKg.title" = "增加水平法則";
+"Pfk-jy-BKg.title" = "新增分隔線";
 
 /* Class = "NSMenuItem"; title = "Extension"; ObjectID = "Pqq-PE-FNk"; Note = "SKIP LOCALIZATION"; */
 "Pqq-PE-FNk.title" = "擴展";
 
 /* Class = "NSMenuItem"; title = "Show Library"; ObjectID = "RKB-Zq-q2A"; Note = "SKIP LOCALIZATION"; */
-"RKB-Zq-q2A.title" = "顯示資料庫";
+"RKB-Zq-q2A.title" = "顯示文件庫";
 
 /* Class = "NSMenuItem"; title = "Template"; ObjectID = "RUq-jy-AKe"; */
 "RUq-jy-AKe.title" = "範本";
 
 /* Class = "NSMenuItem"; title = "Mark Task as Completed"; ObjectID = "RVT-Ja-lWk"; */
-"RVT-Ja-lWk.title" = "把任期標誌為完成";
+"RVT-Ja-lWk.title" = "將任務標記為已完成";
 
 /* Class = "NSMenuItem"; title = "Make Text Smaller"; ObjectID = "RVh-9x-N9T"; */
 "RVh-9x-N9T.title" = "縮小";
@@ -435,7 +435,7 @@
 "S9Z-zm-s36.title" = "使用大寫";
 
 /* Class = "NSMenuItem"; title = "Blockquote"; ObjectID = "T8p-6L-CKh"; */
-"T8p-6L-CKh.title" = "大段引用";
+"T8p-6L-CKh.title" = "引用區塊";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "TDj-hJ-cB4"; Note = "SKIP LOCALIZATION"; */
 "TDj-hJ-cB4.title" = "預設";
@@ -444,7 +444,7 @@
 "TcI-cP-nWB.title" = "僅限統計";
 
 /* Class = "NSMenu"; title = "Share"; ObjectID = "UDX-sC-GbF"; */
-"UDX-sC-GbF.title" = "Share";
+"UDX-sC-GbF.title" = "分享";
 
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "UVF-We-TtK"; Note = "SKIP LOCALIZATION"; */
 "UVF-We-TtK.title" = "打字機";
@@ -453,22 +453,22 @@
 "UhO-wG-w1d.title" = "停止說話";
 
 /* Class = "NSMenuItem"; title = "Publish"; ObjectID = "Unu-u1-EIe"; */
-"Unu-u1-EIe.title" = "分享";
+"Unu-u1-EIe.title" = "發布";
 
 /* Class = "NSMenu"; title = "Publish"; ObjectID = "Unu-u1-EKe"; */
 "Unu-u1-EKe.title" = "發布";
 
 /* Class = "NSMenu"; title = "Title Bar"; ObjectID = "V8b-Ma-1TU"; */
-"V8b-Ma-1TU.title" = "Title Bar";
+"V8b-Ma-1TU.title" = "標題欄";
 
 /* Class = "NSMenuItem"; title = "Tasks"; ObjectID = "VRV-wq-54f"; */
-"VRV-wq-54f.title" = "Tasks";
+"VRV-wq-54f.title" = "任務";
 
 /* Class = "NSMenuItem"; title = "Characters"; ObjectID = "VwE-CW-cym"; */
-"VwE-CW-cym.title" = "Characters";
+"VwE-CW-cym.title" = "字元";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "Vya-Iv-4En"; */
-"Vya-Iv-4En.title" = "新";
+"Vya-Iv-4En.title" = "新建";
 
 /* Class = "NSMenuItem"; title = "Nouns"; ObjectID = "W5h-Z0-iGd"; Note = "SKIP LOCALIZATION"; */
 "W5h-Z0-iGd.title" = "名詞";
@@ -495,22 +495,22 @@
 "XrX-Rr-J73.title" = "更換";
 
 /* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "Xyc-BS-eg9"; */
-"Xyc-BS-eg9.title" = "突出顯示";
+"Xyc-BS-eg9.title" = "畫線顯示";
 
 /* Class = "NSMenuItem"; title = "Add Wikilink"; ObjectID = "YfW-1J-S0B"; */
-"YfW-1J-S0B.title" = "維基鏈接";
+"YfW-1J-S0B.title" = "維基連結";
 
 /* Class = "NSMenuItem"; title = "Ordered Task List"; ObjectID = "Yfg-br-Ti0"; */
 "Yfg-br-Ti0.title" = "已排序的任務列表";
 
 /* Class = "NSMenuItem"; title = "Conjunctions"; ObjectID = "Yqt-51-woO"; Note = "SKIP LOCALIZATION"; */
-"Yqt-51-woO.title" = "連詞";
+"Yqt-51-woO.title" = "連接詞";
 
 /* Class = "NSMenuItem"; title = "Add Date"; ObjectID = "YvP-d5-xVk"; */
 "YvP-d5-xVk.title" = "新增日期";
 
 /* Class = "NSMenuItem"; title = "Focus"; ObjectID = "Yvk-in-ABn"; */
-"Yvk-in-ABn.title" = "焦點";
+"Yvk-in-ABn.title" = "專注";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Z4R-Ya-gNJ"; Note = "SKIP LOCALIZATION"; */
 "Z4R-Ya-gNJ.title" = "已修改日期";
@@ -519,10 +519,10 @@
 "ZCr-JT-kwd.title" = "在 Twitter 上聯絡我們";
 
 /* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "ZGc-XD-4b3"; */
-"ZGc-XD-4b3.title" = "資料庫新文件";
+"ZGc-XD-4b3.title" = "文件庫新文件";
 
 /* Class = "NSMenuItem"; title = "Dark Appearance"; ObjectID = "ZaG-9j-uqb"; Note = "SKIP LOCALIZATION"; */
-"ZaG-9j-uqb.title" = "暗色模式";
+"ZaG-9j-uqb.title" = "深色模式";
 
 /* Class = "NSMenu"; title = "Template"; ObjectID = "ZfB-tX-XLB"; */
 "ZfB-tX-XLB.title" = "範本";
@@ -531,7 +531,7 @@
 "aM4-j0-Xa0.title" = "段落";
 
 /* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "aoh-WB-Ymx"; */
-"aoh-WB-Ymx.title" = "資料庫新文件";
+"aoh-WB-Ymx.title" = "文件庫新文件";
 
 /* Class = "NSMenuItem"; title = "Clichés"; ObjectID = "auv-Oc-Vb1"; Note = "SKIP LOCALIZATION"; */
 "auv-Oc-Vb1.title" = "Clichés";
@@ -558,7 +558,7 @@
 "gHR-aY-uy5.title" = "連結";
 
 /* Class = "NSMenu"; title = "Focus"; ObjectID = "hWZ-LO-mHH"; */
-"hWZ-LO-mHH.title" = "焦點";
+"hWZ-LO-mHH.title" = "專注";
 
 /* Class = "NSMenuItem"; title = "Full"; ObjectID = "hbT-yJ-p9S"; */
 "hbT-yJ-p9S.title" = "全寬";
@@ -591,13 +591,13 @@
 "jv0-Ge-A4O.title" = "Characters Without Spaces";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "kp2-jF-m3q"; Note = "SKIP LOCALIZATION"; */
-"kp2-jF-m3q.title" = "Date Modified";
+"kp2-jF-m3q.title" = "修改日期";
 
 /* Class = "NSMenuItem"; title = "Code Block"; ObjectID = "mel-Kb-3dV"; */
-"mel-Kb-3dV.title" = "編碼區塊";
+"mel-Kb-3dV.title" = "程式碼區塊";
 
 /* Class = "NSMenuItem"; title = "Always Use This Sort Order Here"; ObjectID = "n0n-mi-4Zq"; Note = "SKIP LOCALIZATION"; */
-"n0n-mi-4Zq.title" = "Always Use This Sort Order Here";
+"n0n-mi-4Zq.title" = "在此處固定使用這種排序方式";
 
 /* Class = "NSMenuItem"; title = "Print Plain Text…"; ObjectID = "nmZ-Vd-0HN"; */
 "nmZ-Vd-0HN.title" = "列印純文字⋯";
@@ -618,46 +618,46 @@
 "pur-a2-Aeh.title" = "工具欄";
 
 /* Class = "NSMenuItem"; title = "Filter Library..."; ObjectID = "qHW-3c-Ttt"; */
-"qHW-3c-Ttt.title" = "過濾資料庫";
+"qHW-3c-Ttt.title" = "篩選文件庫";
 
 /* Class = "NSMenuItem"; title = "Structure"; ObjectID = "qdR-wu-hiC"; */
 "qdR-wu-hiC.title" = "結構";
 
 /* Class = "NSMenuItem"; title = "Enable Style Sheck"; ObjectID = "rLo-rU-5pJ"; Note = "SKIP LOCALIZATION"; */
-"rLo-rU-5pJ.title" = "Enable Style Sheck";
+"rLo-rU-5pJ.title" = "啟用風格檢查";
 
 /* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "tAr-9g-Fab"; */
 "tAr-9g-Fab.title" = "頁面設定";
 
 /* Class = "NSMenuItem"; title = "Show Organizer"; ObjectID = "taf-dz-PMT"; Note = "SKIP LOCALIZATION"; */
-"taf-dz-PMT.title" = "顯示管理栏";
+"taf-dz-PMT.title" = "顯示管理欄";
 
 /* Class = "NSMenuItem"; title = "Reading Time"; ObjectID = "uJf-14-s0h"; */
-"uJf-14-s0h.title" = "Reading Time";
+"uJf-14-s0h.title" = "閱讀時間";
 
 /* Class = "NSMenuItem"; title = "Move Line Down"; ObjectID = "uOS-79-CAj"; */
 "uOS-79-CAj.title" = "把線向下移";
 
 /* Class = "NSMenu"; title = "Show Date"; ObjectID = "uX8-od-ELu"; */
-"uX8-od-ELu.title" = "Show Date";
+"uX8-od-ELu.title" = "顯示日期";
 
 /* Class = "NSMenuItem"; title = "Add Content Block"; ObjectID = "uff-bL-rHl"; */
 "uff-bL-rHl.title" = "新增內容區塊";
 
 /* Class = "NSMenuItem"; title = "Enable Focus Mode"; ObjectID = "urZ-cG-Loa"; Note = "SKIP LOCALIZATION"; */
-"urZ-cG-Loa.title" = "啟用對焦模式";
+"urZ-cG-Loa.title" = "啟用專注模式";
 
 /* Class = "NSMenu"; title = "Text Size"; ObjectID = "vw0-fL-fUK"; */
 "vw0-fL-fUK.title" = "文字大小";
 
 /* Class = "NSMenuItem"; title = "Copy Markdown"; ObjectID = "wEK-LN-hR3"; */
-"wEK-LN-hR3.title" = "Copy Markdown";
+"wEK-LN-hR3.title" = "複製 Markdown";
 
 /* Class = "NSMenuItem"; title = "Redundancies"; ObjectID = "wU4-tP-rRN"; Note = "SKIP LOCALIZATION"; */
 "wU4-tP-rRN.title" = "Redundancies";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "xrD-gF-rK8"; Note = "SKIP LOCALIZATION"; */
-"xrD-gF-rK8.title" = "Date Created";
+"xrD-gF-rK8.title" = "建立日期";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "yeD-Je-aOs"; */
 "yeD-Je-aOs.title" = "前往";

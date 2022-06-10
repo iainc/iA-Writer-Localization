@@ -3,7 +3,7 @@
 
 "Key_Picker_Button_Reset" = "重設";
 
-"Key_Picker_Message_Reset" = "Are you sure you would like to reset the keyboard layout? All your modifications will be lost.";
+"Key_Picker_Message_Reset" = "你確定要重設鍵盤排列？所有自定修改都會消失。";
 "Key_Picker_Action_Reset" = "重設鍵盤排列";
 "Key_Picker_Action_Cancel" = "取消";
 
@@ -15,7 +15,7 @@
 "Find_Placeholder" = "尋找";
 "Find_Replace_Placeholder" = "取代";
 
-"Key_Description_Lightning" = "閃電";
+"Key_Description_Lightning" = "快速";
 "Key_Description_Insert_Selected_Completion" = "插入選取的已完成檔案";
 "Key_Description_Cancel" = "取消";
 "Key_Description_Open_Link" = "開啟連結";
@@ -40,10 +40,10 @@
 "Key_Description_Undo" = "復原";
 "Key_Description_Redo" = "取消復原";
 
-"Key_Description_Move_Up" = "上箭嘴";
-"Key_Description_Move_Down" = "下箭嘴";
-"Key_Description_Move_Left" = "左箭嘴";
-"Key_Description_Move_Right" = "右箭嘴";
+"Key_Description_Move_Up" = "上箭頭";
+"Key_Description_Move_Down" = "下箭頭";
+"Key_Description_Move_Left" = "左箭頭";
+"Key_Description_Move_Right" = "右箭頭";
 
 "Key_Description_Dismiss_Menu" = "關閉選單";
 
@@ -69,5 +69,5 @@
 "Key_Description_Move_Text_Up" = "整行上移";
 "Key_Description_Move_Text_Down" = "整行下移";
 "Key_Description_Dismiss_Keyboard" = "隱藏鍵盤";
-"Key_Description_Move_To_Beginning" = "前往文檔頂端";
-"Key_Description_Move_To_End" = "前往文檔末端";
+"Key_Description_Move_To_Beginning" = "前往文件頂端";
+"Key_Description_Move_To_End" = "前往文件末端";

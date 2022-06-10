@@ -1,6 +1,6 @@
 
 /* Class = "NSTextFieldCell"; title = "iA Writer creates drafts which you can review before publishing.\n\nSelf-hosted WordPress sites are supported only with Jetpack."; ObjectID = "4MQ-Bc-oHu"; */
-"4MQ-Bc-oHu.title" = "iA Writer 會創建草稿，讓您可在發佈前預覽。\n\n只有 Jetpack 可支援自主 WordPress 網站。";
+"4MQ-Bc-oHu.title" = "iA Writer 會新增草稿，讓您可在發佈前預覽。\n\n只有 Jetpack 可支援自主 WordPress 網站。";
 
 /* Class = "NSButtonCell"; title = "Authorize"; ObjectID = "ULi-ex-koB"; */
 "ULi-ex-koB.title" = "授權";
