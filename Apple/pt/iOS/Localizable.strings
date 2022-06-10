@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "Título";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "Transformar em Maiúsculas";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "Transformar em Minúsculas";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "Transformar em maiúsculas";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "Transformar em Título";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "Acrescentar aos Favoritos";
 
@@ -673,9 +685,9 @@ Document
 "Settings_Editor_Show_Stats" = "Mostrar Estatísticas";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "Tipografia";
+"Settings_Editor_Text_Section_Title" = "Texto";
+"Settings_Editor_Typography" = "Tipografia";
 "Settings_Editor_Line_Length_Limit_Edit" = "Comprimento Máximo de Linha";
-"Settings_Editor_Font" = "Tipo de Letra";
 "Settings_Editor_Language" = "Idioma";
 "Settings_Editor_Emphasis" = "Ênfase";
 
@@ -685,7 +697,7 @@ Document
 "Settings_Editor_Focus_Mode_Scope" = "Âmbito";
 
 /* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "Menu de Iluminação";
+"Settings_Keyboard_Lightning_Menu" = "Menu Flash";
 "Settings_Keyboard_Lightning_Menu_Add_Actions" = "Adicionar ações";
 "Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Adicionar submenu";
 "Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Editar submenu";
@@ -695,7 +707,7 @@ Document
 "Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Ações";
 "Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Mostrar Incorporado";
 "Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "As ações do submenu incorporado são mostradas no menu principal, separadas das restantes ações.";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Toque demoradamente em qualquer ação no Menu Raio para abrir estas definições.";
+"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Toque demoradamente em qualquer ação no Menu Flash para abrir estas definições.";
 
 "Settings_Command_Keyboard" = "Teclado de comando";
 "Settings_Command_Keyboard_Enable" = "Mostrar na Barra de teclado";

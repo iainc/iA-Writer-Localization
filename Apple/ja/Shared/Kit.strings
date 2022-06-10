@@ -38,6 +38,7 @@
 "Hide_Preview" = "プレビューを非表示化";
 "Show_Library" = "ライブラリを表示";
 "Show_Preview" = "プレビューを表示";
+"Reload_Preview" = "リロードプレビュー";
 "Back" = "戻る";
 "Forward" = "進む";
 "Go_Back" = "戻る";
@@ -77,6 +78,13 @@
 "Open_New_Item_Tooltip" = "⌘-クリックして新しい%@を開く";
 
 "Open_Wikilink_In_Background_Window" = "バックグラウンドウィンドウでWikilinkを開く";
+
+"Accessibility_Wikilink" = "ウィキリンク";
+"Accessibility_Link" = "リンク";
+"Accessibility_Hashtag" = "ハッシュタグ";
+"Accessibility_Email" = "メールアドレス";
+"Accessibility_URL_Command" = "URLコマンド";
+"Accessibility_Content_Block" = "コンテンツブロック";
 
 "Yellow" = "黄色";
 "Orange" = "オレンジ";

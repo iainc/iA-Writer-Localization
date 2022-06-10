@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "Title Case";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "Make Upper Case";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "Make Lower Case";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "Capitalize";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "Make Title Case";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "Favorite";
 
@@ -673,9 +685,9 @@ Document
 "Settings_Editor_Show_Stats" = "Show Stats";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "Typography";
+"Settings_Editor_Text_Section_Title" = "Text";
+"Settings_Editor_Typography" = "Typography";
 "Settings_Editor_Line_Length_Limit_Edit" = "Maximum Line Length";
-"Settings_Editor_Font" = "Font";
 "Settings_Editor_Language" = "Language";
 "Settings_Editor_Emphasis" = "Emphasis";
 

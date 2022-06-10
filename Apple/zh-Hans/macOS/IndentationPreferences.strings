@@ -27,7 +27,7 @@
 "RdC-rk-Ffy.title" = "完成";
 
 /* Class = "NSTextFieldCell"; title = "Indent width:"; ObjectID = "SGD-xU-Qzg"; */
-"SGD-xU-Qzg.title" = "Indent width:";
+"SGD-xU-Qzg.title" = "缩进宽度：";
 
 /* Class = "NSTextFieldCell"; title = "Tab width:"; ObjectID = "UTH-s1-KRg"; */
 "UTH-s1-KRg.title" = "Tab宽度：";

@@ -27,7 +27,7 @@
 "RdC-rk-Ffy.title" = "Fatto";
 
 /* Class = "NSTextFieldCell"; title = "Indent width:"; ObjectID = "SGD-xU-Qzg"; */
-"SGD-xU-Qzg.title" = "Indent width:";
+"SGD-xU-Qzg.title" = "Larghezza rientro:";
 
 /* Class = "NSTextFieldCell"; title = "Tab width:"; ObjectID = "UTH-s1-KRg"; */
 "UTH-s1-KRg.title" = "Larghezza tab:";

@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "Английский заголовок";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "Верхний регистр";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "Нижний регистр";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "С заглавной буквы";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "С заглавной буквы (аглийский заголовок)";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "Добавить в избранное";
 
@@ -673,11 +685,11 @@ Document
 "Settings_Editor_Show_Stats" = "Показать статистику";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "Типографика";
+"Settings_Editor_Text_Section_Title" = "Текст";
+"Settings_Editor_Typography" = "Типографика";
 "Settings_Editor_Line_Length_Limit_Edit" = "Длина строки";
-"Settings_Editor_Font" = "Гарнитура";
-"Settings_Editor_Language" = "Тип";
-"Settings_Editor_Emphasis" = "Выделение";
+"Settings_Editor_Language" = "Языковая среда";
+"Settings_Editor_Emphasis" = "Акцент";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Режим фокуса";

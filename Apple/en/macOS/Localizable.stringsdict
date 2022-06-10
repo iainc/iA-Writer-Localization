@@ -97,9 +97,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>character per line</string>
+			<string>character</string>
 			<key>other</key>
-			<string>characters per line</string>
+			<string>characters</string>
 		</dict>
 	</dict>
 </dict>

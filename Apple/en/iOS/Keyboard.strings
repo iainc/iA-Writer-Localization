@@ -71,3 +71,7 @@
 "Key_Description_Dismiss_Keyboard" = "Dismiss Keyboard";
 "Key_Description_Move_To_Beginning" = "Go to Beginning of Document";
 "Key_Description_Move_To_End" = "Go to End of Document";
+
+"Lightning_Size" = "Size";
+"Lightning_Size_Regular" = "Regular";
+"Lightning_Size_Compact" = "Compact";

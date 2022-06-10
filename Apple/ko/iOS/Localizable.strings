@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "첫 글자만 대문자";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "대문자로 만들기";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "소문자로 만들기";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "대문자로 시작";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "첫 글자만 대문자";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "즐겨찾기에 추가";
 
@@ -673,9 +685,9 @@ Document
 "Settings_Editor_Show_Stats" = "통계 표시";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "입력 체계";
+"Settings_Editor_Text_Section_Title" = "텍스트";
+"Settings_Editor_Typography" = "입력 체계";
 "Settings_Editor_Line_Length_Limit_Edit" = "최대 줄 길이";
-"Settings_Editor_Font" = "서체";
 "Settings_Editor_Language" = "언어";
 "Settings_Editor_Emphasis" = "강조";
 

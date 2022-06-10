@@ -567,7 +567,7 @@
 "huC-mz-p9j.title" = "非表示化";
 
 /* Class = "NSMenuItem"; title = "Reload Preview"; ObjectID = "i9v-5S-h0b"; */
-"i9v-5S-h0b.title" = "Reload Preview";
+"i9v-5S-h0b.title" = "リロードプレビュー";
 
 /* Class = "NSMenuItem"; title = "Replace All"; ObjectID = "iJk-Ln-4Oq"; */
 "iJk-Ln-4Oq.title" = "全部置き換え";

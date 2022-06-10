@@ -114,8 +114,6 @@
 "Replace" = "在文件中尋找並取代";
 "Compose" = "新增文件";
 "CopyAll" = "複製全部";
-"CopyFormatted" = "複製格式化內容";
-"CopyHTML" = "複製 HTML";
 "PrintFormatted" = "列印格式";
 "Print" = "列印";
 "ExportTXT" = "匯出成 TXT";

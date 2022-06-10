@@ -8,8 +8,8 @@
 /* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "6pk-3q-M1t"; */
 "6pk-3q-M1t.title" = "Japanese";
 
-/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "7iw-vf-YLb"; */
-"7iw-vf-YLb.title" = "Dimensão do texto:";
+/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "83E-Gu-Ase"; */
+"83E-Gu-Ase.title" = "Idioma:";
 
 /* Class = "NSButtonCell"; title = "Clichés"; ObjectID = "8YN-0k-52S"; */
 "8YN-0k-52S.title" = "Clichés";
@@ -47,6 +47,9 @@
 /* Class = "NSMenuItem"; title = "Quattro"; ObjectID = "LjQ-8o-hLY"; */
 "LjQ-8o-hLY.title" = "Quattro";
 
+/* Class = "NSTextFieldCell"; title = "Line length limit:"; ObjectID = "M03-ZX-hvE"; */
+"M03-ZX-hvE.title" = "Comprimento máximo de linha:";
+
 /* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
 "Muo-8w-HeG.title" = "Âmbito do enfoque:";
 
@@ -70,6 +73,9 @@
 
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
 "Wed-ZH-mmU.title" = "Máquina de escrever";
+
+/* Class = "NSTextFieldCell"; title = "Advanced:"; ObjectID = "ZVG-gk-6xW"; */
+"ZVG-gk-6xW.title" = "Avançadas:";
 
 /* Class = "NSMenuItem"; title = "Monospaced"; ObjectID = "Zfe-pD-b7Z"; */
 "Zfe-pD-b7Z.title" = "Espaçamento duplo";
@@ -154,3 +160,6 @@
 
 /* Class = "NSButtonCell"; title = "Fillers"; ObjectID = "yhw-gf-1Ns"; */
 "yhw-gf-1Ns.title" = "Fillers";
+
+/* Class = "NSTextFieldCell"; title = "Emphasis:"; ObjectID = "yqQ-oe-okL"; */
+"yqQ-oe-okL.title" = "Ênfase:";

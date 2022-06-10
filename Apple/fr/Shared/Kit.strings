@@ -38,6 +38,7 @@
 "Hide_Preview" = "Masquer l’aperçu";
 "Show_Library" = "Afficher la bibliothèque";
 "Show_Preview" = "Afficher l’aperçu";
+"Reload_Preview" = "Recharger l’aperçu";
 "Back" = "Arrière";
 "Forward" = "Avant";
 "Go_Back" = "Arrière";
@@ -77,6 +78,13 @@
 "Open_New_Item_Tooltip" = "⌘-cliquer pour ouvrir un nouveau %@";
 
 "Open_Wikilink_In_Background_Window" = "Ouvrir le Wikilink dans une fenêtre en arrière-plan";
+
+"Accessibility_Wikilink" = "Wikilien";
+"Accessibility_Link" = "Lien";
+"Accessibility_Hashtag" = "Hashtag";
+"Accessibility_Email" = "E-mail";
+"Accessibility_URL_Command" = "Commande URL";
+"Accessibility_Content_Block" = "Bloc de contenu";
 
 "Yellow" = "Jaune";
 "Orange" = "Orange";

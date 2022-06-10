@@ -38,6 +38,7 @@
 "Hide_Preview" = "Скрыть просмотр";
 "Show_Library" = "Показать библиотеку";
 "Show_Preview" = "Показать просмотр";
+"Reload_Preview" = "Перезагрузить просмотр";
 "Back" = "Назад";
 "Forward" = "Вперед";
 "Go_Back" = "Назад";
@@ -70,13 +71,20 @@
 "Open_URL_Command" = "Открыть URL-команду";
 "Open_URL_Command_Tooltip" = "⌘-нажатие мыши: открыть URL-команду";
 
-"Open_Wikilink" = "Открыть вики-ссылку";
-"Open_Wikilink_Tooltip" = "⌘-нажатие мыши: открыть вики-ссылку";
+"Open_Wikilink" = "Открыть викиссылку";
+"Open_Wikilink_Tooltip" = "⌘-нажатие мыши: открыть викиссылку";
 
 "Open_Item_Tooltip" = "⌘-нажатие мыши: открыть %@";
 "Open_New_Item_Tooltip" = "⌘-нажатие мыши: создать %@";
 
-"Open_Wikilink_In_Background_Window" = "Открыть вики-ссылку в фоновом окне";
+"Open_Wikilink_In_Background_Window" = "Открыть викиссылку в фоновом окне";
+
+"Accessibility_Wikilink" = "Викиссылка";
+"Accessibility_Link" = "Ссылка";
+"Accessibility_Hashtag" = "Хэштег";
+"Accessibility_Email" = "Эл. почта";
+"Accessibility_URL_Command" = "URL-команда";
+"Accessibility_Content_Block" = "Блок контента";
 
 "Yellow" = "Желтый";
 "Orange" = "Оранжевый";
@@ -85,8 +93,8 @@
 "Blue" = "Синий";
 "Green" = "Зеленый";
 
-"Add_Wikilink" = "Добавить вики-ссылку";
-"Remove_Wikilink" = "Удалить вики-ссылку";
+"Add_Wikilink" = "Добавить викиссылку";
+"Remove_Wikilink" = "Удалить викиссылку";
 "Add_Link" = "Добавить ссылку";
 "Remove_Link" = "Удалить ссылку";
 "Add_Image_Link" = "Добавить ссылку на изображение";
@@ -151,9 +159,9 @@
 "HTML_Output_Description" = "Эти параметры будут использоваться при копировании, экспорте и публикации HTML-содержимого.";
 "Other_Output_Description" = "Эти параметры будут использоваться при копировании, экспорте и публикации текста.";
 "Preview_Output_Description" = "Эти параметры будут использоваться в просмотре.";
-"Destination_Type_Description" = "Формат пути будет успользован для новых вики-ссылок и блоков контента.";
+"Destination_Type_Description" = "Формат пути будет успользован для новых викиссылок и блоков контента.";
 "Content_Blocks" = "Блоки контента";
-"Wikilinks" = "Вики-ссылки";
+"Wikilinks" = "Викиссылки";
 "Hashtags" = "Хэштеги";
 "Autolinks" = "Авто-ссылки";
 

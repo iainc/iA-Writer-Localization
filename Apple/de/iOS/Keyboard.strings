@@ -71,3 +71,7 @@
 "Key_Description_Dismiss_Keyboard" = "Tastatur ausblenden";
 "Key_Description_Move_To_Beginning" = "Zum Dokument-Anfang";
 "Key_Description_Move_To_End" = "Zum Dokument-Ende";
+
+"Lightning_Size" = "Größe";
+"Lightning_Size_Regular" = "Normal";
+"Lightning_Size_Compact" = "Kompakt";

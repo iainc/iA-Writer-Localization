@@ -71,3 +71,7 @@
 "Key_Description_Dismiss_Keyboard" = "Ocultar teclado";
 "Key_Description_Move_To_Beginning" = "Ir al comienzo del documento";
 "Key_Description_Move_To_End" = "Ir al final del documento";
+
+"Lightning_Size" = "Tamaño";
+"Lightning_Size_Regular" = "Regular";
+"Lightning_Size_Compact" = "Compacto";

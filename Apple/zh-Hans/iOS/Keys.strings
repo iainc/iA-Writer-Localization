@@ -114,8 +114,6 @@
 "Replace" = "在文档中搜索和替换";
 "Compose" = "新建文档";
 "CopyAll" = "全部复制";
-"CopyFormatted" = "格式化复制";
-"CopyHTML" = "复制HTML";
 "PrintFormatted" = "打印格式化文本";
 "Print" = "打印";
 "ExportTXT" = "导出为TXT";

@@ -38,6 +38,7 @@
 "Hide_Preview" = "隐藏预览";
 "Show_Library" = "显示资料库";
 "Show_Preview" = "显示预览";
+"Reload_Preview" = "重新加载预览";
 "Back" = "返回​​";
 "Forward" = "前进";
 "Go_Back" = "返回";
@@ -77,6 +78,13 @@
 "Open_New_Item_Tooltip" = "⌘-点击以打开新的%@";
 
 "Open_Wikilink_In_Background_Window" = "在后台窗口打开维基链接";
+
+"Accessibility_Wikilink" = "维基链接";
+"Accessibility_Link" = "链接";
+"Accessibility_Hashtag" = "主题标签";
+"Accessibility_Email" = "电子邮件";
+"Accessibility_URL_Command" = "URL命令";
+"Accessibility_Content_Block" = "内容块";
 
 "Yellow" = "黄色的";
 "Orange" = "橙子";

@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "標題格式";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "使用大寫";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "小寫";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "大寫";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "製作標題案例";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "加到最愛";
 
@@ -673,9 +685,9 @@ Document
 "Settings_Editor_Show_Stats" = "顯示統計數據";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "字體排版";
+"Settings_Editor_Text_Section_Title" = "文本";
+"Settings_Editor_Typography" = "字體排版";
 "Settings_Editor_Line_Length_Limit_Edit" = "每行長度上限";
-"Settings_Editor_Font" = "字體";
 "Settings_Editor_Language" = "語言";
 "Settings_Editor_Emphasis" = "著重號";
 

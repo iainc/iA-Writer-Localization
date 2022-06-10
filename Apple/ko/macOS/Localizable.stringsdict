@@ -13,7 +13,7 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>other</key>
-			<string>문자 (줄당)</string>
+			<string>문자</string>
 		</dict>
 	</dict>
 	<key>Library_Delete_Confrimation_Message_Multiple</key>

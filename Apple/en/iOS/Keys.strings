@@ -114,8 +114,6 @@
 "Replace" = "Search and Replace in Document";
 "Compose" = "New Document";
 "CopyAll" = "Copy All";
-"CopyFormatted" = "Copy Formatted";
-"CopyHTML" = "Copy HTML";
 "PrintFormatted" = "Print Formatted";
 "Print" = "Print";
 "ExportTXT" = "Export to TXT";

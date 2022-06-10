@@ -71,3 +71,7 @@
 "Key_Description_Dismiss_Keyboard" = "隱藏鍵盤";
 "Key_Description_Move_To_Beginning" = "前往文件頂端";
 "Key_Description_Move_To_End" = "前往文件末端";
+
+"Lightning_Size" = "大小";
+"Lightning_Size_Regular" = "常規";
+"Lightning_Size_Compact" = "緊湊";

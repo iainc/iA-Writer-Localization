@@ -71,3 +71,7 @@
 "Key_Description_Dismiss_Keyboard" = "Отклонить клавиатуру";
 "Key_Description_Move_To_Beginning" = "Перейти к началу документа";
 "Key_Description_Move_To_End" = "Перейти к концу документа";
+
+"Lightning_Size" = "Размер";
+"Lightning_Size_Regular" = "Обычный";
+"Lightning_Size_Compact" = "Компактный";

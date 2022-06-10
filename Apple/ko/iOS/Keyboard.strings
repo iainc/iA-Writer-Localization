@@ -71,3 +71,7 @@
 "Key_Description_Dismiss_Keyboard" = "키보드 해제";
 "Key_Description_Move_To_Beginning" = "문서의 처음으로 이동";
 "Key_Description_Move_To_End" = "문서의 끝으로 이동";
+
+"Lightning_Size" = "크기";
+"Lightning_Size_Regular" = "일반";
+"Lightning_Size_Compact" = "소형";

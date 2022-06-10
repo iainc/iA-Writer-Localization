@@ -38,6 +38,7 @@
 "Hide_Preview" = "隱藏預覽";
 "Show_Library" = "顯示文件庫";
 "Show_Preview" = "顯示預覽";
+"Reload_Preview" = "重載預覽";
 "Back" = "返回";
 "Forward" = "向前";
 "Go_Back" = "返回";
@@ -77,6 +78,13 @@
 "Open_New_Item_Tooltip" = "⌘-按一下開啟新的 %@";
 
 "Open_Wikilink_In_Background_Window" = "在背景視窗開啟維基連結";
+
+"Accessibility_Wikilink" = "維基鏈接";
+"Accessibility_Link" = "連結";
+"Accessibility_Hashtag" = "標籤";
+"Accessibility_Email" = "郵件";
+"Accessibility_URL_Command" = "URL 命令";
+"Accessibility_Content_Block" = "內容區塊";
 
 "Yellow" = "黃色的";
 "Orange" = "橙子";

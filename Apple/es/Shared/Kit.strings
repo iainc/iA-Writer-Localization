@@ -38,6 +38,7 @@
 "Hide_Preview" = "Ocultar vista previa";
 "Show_Library" = "Mostrar biblioteca";
 "Show_Preview" = "Mostrar vista previa";
+"Reload_Preview" = "Recargar vista previa";
 "Back" = "Volver";
 "Forward" = "Avanzar";
 "Go_Back" = "Volver";
@@ -67,7 +68,7 @@
 "Show_In_Quick_Search" = "Mostrar en búsqueda rápida";
 "Show_In_Quick_Search_Tooltip" = "⌘-clic para mostrar en búsqueda rápida";
 
-"Open_URL_Command" = "Abrir URL";
+"Open_URL_Command" = "Abrir comando de URL";
 "Open_URL_Command_Tooltip" = "⌘-clic para abrir comando de URL";
 
 "Open_Wikilink" = "Abrir wikienlace";
@@ -77,6 +78,13 @@
 "Open_New_Item_Tooltip" = "⌘-clic para abrir nuevo %@";
 
 "Open_Wikilink_In_Background_Window" = "Abrir wikienlace en ventana de fondo";
+
+"Accessibility_Wikilink" = "Wikienlace";
+"Accessibility_Link" = "Enlace";
+"Accessibility_Hashtag" = "Hashtag";
+"Accessibility_Email" = "Correo electrónico";
+"Accessibility_URL_Command" = "Comando de URL";
+"Accessibility_Content_Block" = "Bloque de contenido";
 
 "Yellow" = "Amarillo";
 "Orange" = "Naranja";

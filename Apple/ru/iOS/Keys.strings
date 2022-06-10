@@ -9,7 +9,7 @@
 "Punctuation" = "Пунктуация";
 "Structure" = "Структура";
 
-"Wikilink" = "Вики-ссылка";
+"Wikilink" = "Викиссылка";
 "Headings" = "Заголовок 1-6";
 "Heading1" = "Заголовок 1";
 "Heading2" = "Заголовок 2";
@@ -114,8 +114,6 @@
 "Replace" = "Поиск и замена в документе";
 "Compose" = "Создать документ";
 "CopyAll" = "Копировать все";
-"CopyFormatted" = "Копировать форматирование";
-"CopyHTML" = "Копировать HTML";
 "PrintFormatted" = "Напечатать";
 "Print" = "Напечатать редактор";
 "ExportTXT" = "Экспортировать в Markdown";

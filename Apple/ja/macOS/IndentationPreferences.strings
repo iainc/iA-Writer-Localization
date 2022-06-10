@@ -27,7 +27,7 @@
 "RdC-rk-Ffy.title" = "設定";
 
 /* Class = "NSTextFieldCell"; title = "Indent width:"; ObjectID = "SGD-xU-Qzg"; */
-"SGD-xU-Qzg.title" = "Indent width:";
+"SGD-xU-Qzg.title" = "インデント幅：";
 
 /* Class = "NSTextFieldCell"; title = "Tab width:"; ObjectID = "UTH-s1-KRg"; */
 "UTH-s1-KRg.title" = "タブ幅：";
@@ -36,7 +36,7 @@
 "Z5W-CY-oCO.title" = "4";
 
 /* Class = "NSTextFieldCell"; title = "Wrapped line indent includes:"; ObjectID = "a0w-Tn-dzZ"; */
-"a0w-Tn-dzZ.title" = "ブロック要素マークダウン:";
+"a0w-Tn-dzZ.title" = "ブロック要素マークダウン：";
 
 /* Class = "NSMenuItem"; title = "4"; ObjectID = "i9Z-i2-bls"; */
 "i9Z-i2-bls.title" = "4";

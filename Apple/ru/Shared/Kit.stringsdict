@@ -12,12 +12,12 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>one</key>
-			<string>%tu совпадение</string>
 			<key>few</key>
 			<string>%tu совпадения</string>
 			<key>many</key>
 			<string>%tu совпадений</string>
+			<key>one</key>
+			<string>%tu совпадение</string>
 			<key>other</key>
 			<string>%tu совпадения</string>
 		</dict>
@@ -32,12 +32,12 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>one</key>
-			<string>%tu результат</string>
 			<key>few</key>
 			<string>%tu результата</string>
 			<key>many</key>
 			<string>%tu результатов</string>
+			<key>one</key>
+			<string>%tu результат</string>
 			<key>other</key>
 			<string>%tu результата</string>
 		</dict>

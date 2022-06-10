@@ -19,9 +19,9 @@
 "Heading6" = "見出し 6";
 "Lists" = "全てのリスト";
 "List" = "リスト";
-"OrderedList" = "順序付き　リスト";
+"OrderedList" = "番号付きリスト";
 "TaskList" = "タスクリスト";
-"OrderedTaskList" = "順序付き　タスクリスト";
+"OrderedTaskList" = "番号付きタスクリスト";
 "CodeBlock" = "コードブロック";
 "BlockQuote" = "ブロック引用";
 "HorizontalRule" = "水平線を追加";
@@ -114,8 +114,6 @@
 "Replace" = "置換";
 "Compose" = "新規ドキュメント";
 "CopyAll" = "全コピー";
-"CopyFormatted" = "フォーマット済テキストをコピー";
-"CopyHTML" = "HTMLをコピー";
 "PrintFormatted" = "印刷";
 "Print" = "テキスト印刷";
 "ExportTXT" = "テキストに書き出し";

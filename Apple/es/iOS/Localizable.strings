@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "Mayúsculas de título";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "Todo en mayúsculas";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "Todo en minúsculas";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "Mayúsculas";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "Mayúsculas iniciales";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "Añadir a Favoritos";
 
@@ -673,9 +685,9 @@ Document
 "Settings_Editor_Show_Stats" = "Mostrar estadísticas";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "Tipografía";
+"Settings_Editor_Text_Section_Title" = "Texto";
+"Settings_Editor_Typography" = "Tipografía";
 "Settings_Editor_Line_Length_Limit_Edit" = "Longitud máxima de línea";
-"Settings_Editor_Font" = "Fuente";
 "Settings_Editor_Language" = "Idioma";
 "Settings_Editor_Emphasis" = "Énfasis";
 
@@ -685,7 +697,7 @@ Document
 "Settings_Editor_Focus_Mode_Scope" = "Alcance";
 
 /* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "Menú principal";
+"Settings_Keyboard_Lightning_Menu" = "Menu flash";
 "Settings_Keyboard_Lightning_Menu_Add_Actions" = "Añadir acciones";
 "Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Añadir submenú";
 "Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Editar submenú";
@@ -702,7 +714,7 @@ Document
 "Settings_Command_Keyboard_Always_Show_As_Popover" = "Mostrar siempre como emergente";
 "Settings_Command_Keyboard_Configure" = "Configurar";
 "Settings_Command_Keyboard_Enabled_Section_Footer" = "Toca y mantén cualquier tecla de luz en el teclado de comandos para abrir el modo de configuración.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Las acciones del teclado de comandos están disponibles en el menú principal, en la búsqueda rápida y como accesos directos de teclado cuando se conecta un teclado.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Las acciones del teclado de comandos están disponibles en el menu flash, en la búsqueda rápida y como accesos directos de teclado cuando se conecta un teclado.";
 
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Texto";

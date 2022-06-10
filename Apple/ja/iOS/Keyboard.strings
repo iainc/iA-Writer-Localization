@@ -71,3 +71,7 @@
 "Key_Description_Dismiss_Keyboard" = "キーボード非表示";
 "Key_Description_Move_To_Beginning" = "ドキュメントの先頭へ移動";
 "Key_Description_Move_To_End" = "ドキュメントの最後へ移動";
+
+"Lightning_Size" = "サイズ";
+"Lightning_Size_Regular" = "レギュラー";
+"Lightning_Size_Compact" = "コンパクト";

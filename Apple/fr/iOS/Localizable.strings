@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "Initiales en majuscules";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "Mettre en majuscules";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "Mettre en minuscules";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "Mettre la première lettre en majuscule";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "Mettre les initiales en majuscule";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "Ajouter aux favoris";
 
@@ -673,9 +685,9 @@ Document
 "Settings_Editor_Show_Stats" = "Afficher les statistiques";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "Typographie";
+"Settings_Editor_Text_Section_Title" = "Texte";
+"Settings_Editor_Typography" = "Typographie";
 "Settings_Editor_Line_Length_Limit_Edit" = "Longueur de ligne maximum";
-"Settings_Editor_Font" = "Police";
 "Settings_Editor_Language" = "Langue";
 "Settings_Editor_Emphasis" = "Emphase";
 

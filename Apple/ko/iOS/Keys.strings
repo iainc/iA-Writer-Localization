@@ -114,8 +114,6 @@
 "Replace" = "문서에서 검색 및 바꾸기";
 "Compose" = "새 문서";
 "CopyAll" = "모두 복사";
-"CopyFormatted" = "서식 복사";
-"CopyHTML" = "HTML 복사";
 "PrintFormatted" = "서식 인쇄";
 "Print" = "인쇄";
 "ExportTXT" = "TXT로 내보내기";

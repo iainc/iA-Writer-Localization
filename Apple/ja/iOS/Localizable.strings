@@ -235,6 +235,18 @@
 /* Menu item title for transforming text to title case. */
 "Menu_Transform_To_Title_Case" = "語頭を大文字にする（ヘッドラインスタイル）";
 
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "大文字にする";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "小文字にする";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "語頭を大文字にする";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "語頭を大文字にする（ヘッドラインスタイル）";
+
 /* Action to add folder to favorites. */
 "Menu_Favorite" = "お気に入りに追加";
 
@@ -673,9 +685,9 @@ Document
 "Settings_Editor_Show_Stats" = "統計を表示";
 
 /* Typography section in settings. */
-"Settings_Editor_Typography_Section_Title" = "タイポグラフィ";
+"Settings_Editor_Text_Section_Title" = "文章";
+"Settings_Editor_Typography" = "タイポグラフィ";
 "Settings_Editor_Line_Length_Limit_Edit" = "1行の最大長";
-"Settings_Editor_Font" = "フォント";
 "Settings_Editor_Language" = "言語";
 "Settings_Editor_Emphasis" = "圏点";
 
@@ -685,7 +697,7 @@ Document
 "Settings_Editor_Focus_Mode_Scope" = "範囲";
 
 /* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "クイックメニュー";
+"Settings_Keyboard_Lightning_Menu" = "ライトニングメニュー";
 "Settings_Keyboard_Lightning_Menu_Add_Actions" = "操作を追加";
 "Settings_Keyboard_Lightning_Menu_Add_Submenu" = "サブメニューを追加";
 "Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "サブメニューを編集";
