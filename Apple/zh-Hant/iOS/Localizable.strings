@@ -4,7 +4,7 @@
  -----------*/
 
 /* Title for root library view. */
-"Library_Title" = "資料庫";
+"Library_Title" = "文件庫";
 
 /* Title for root library view. */
 "Library_Locations_Section_Title" = "位置";
@@ -16,7 +16,7 @@
 "Library_Menu_Favorite" = "加到最愛…";
 
 /* Title for root library view. */
-"Library_Smart_Folders_Section_Title" = "智能資料夾";
+"Library_Smart_Folders_Section_Title" = "智慧資料夾";
 
 /* Title for root library view. */
 "Library_Hashtags_Section_Title" = "主題標籤";
@@ -31,7 +31,7 @@
 "Help_Action_Open_Twitter" = "Twitter 上的 iA Writer";
 
 /* Title for help action to open release notes and other updates. */
-"Help_Action_News" = "新增功能";
+"Help_Action_News" = "新版本資訊";
 
 /* Title for support and feedback action on Twitter. */
 "Help_Action_Feedback_And_Support" = "支援及意見";
@@ -40,25 +40,25 @@
 "Help_Action_Newsletter" = "訂閱電子報";
 
 /* Title for support and feedback action on Twitter. */
-"Help_Action_Review" = "推薦 iA Writer";
+"Help_Action_Review" = "評論 iA Writer";
 
 /* Title for action to open main help page. */
-"Help_Action_Main" = "iA Writer 幫助";
+"Help_Action_Main" = "iA Writer 說明";
 
 /*---------------
  Library Location
  ---------------*/
 
-"Library_Location_Introduction_Alert_Title" = "如何新增資料庫位置";
-"Library_Location_Introduction_Alert_Message" = "\n打開您想設定為資料庫位置的資料夾的所在位置。\n\n點按選擇，選取該資料夾後點按打開。";
+"Library_Location_Introduction_Alert_Title" = "如何新增文件庫位置";
+"Library_Location_Introduction_Alert_Message" = "\n打開您想設定為文件庫位置的資料夾的所在位置。\n\n點按選擇，選取該資料夾後點按打開。";
 "Library_Location_Introduction_Hide_Forever_Alert_Title" = "不再顯示";
-"Library_Location_Rename_Alert_Title" = "更改資料庫位置名稱";
+"Library_Location_Rename_Alert_Title" = "更改文件庫位置名稱";
 
 /*-----------
  Smart Folder
  -----------*/
 
-"Smart_Folder_Rename_Alert_Title" = "更改智能資料夾名稱";
+"Smart_Folder_Rename_Alert_Title" = "更改智慧資料夾名稱";
 
 /*------
  Backups
@@ -105,13 +105,13 @@
 "Button_Deselect_All" = "取消選取全部";
 
 /* Action to switch to night mode. */
-"Action_Dark_Mode" = "使用暗色模式";
+"Action_Dark_Mode" = "使用深色模式";
 
 /* Action to switch to night mode. */
 "Action_Light_Mode" = "使用淺色模式";
 
 /* Action to configure keyboard. */
-"Action_Configure_Keyboard" = "配置鍵盤";
+"Action_Configure_Keyboard" = "設定鍵盤";
 
 /* Button to create new folder. */
 "Button_New_Folder" = "新資料夾";
@@ -141,13 +141,13 @@
 "New_File_Location_Prompt" = "選擇新檔案路徑。";
 
 /* Action to configure smart folder. */
-"Action_Edit_Smart_Folder" = "編輯智能資料夾";
+"Action_Edit_Smart_Folder" = "編輯智慧資料夾";
 
 /* Action to configure library. */
-"Action_Configure_Library" = "配置資料庫";
+"Action_Configure_Library" = "設定文件庫";
 
 /* Action to delete smart folder. */
-"Action_Delete_Smart_Folder" = "刪智能資料夾";
+"Action_Delete_Smart_Folder" = "刪除智慧資料夾";
 
 /* Excerpt for empty documents. */
 "Library_Excerpt_Empty" = "沒有內容";
@@ -165,7 +165,7 @@
 "Library_Empty_External_Files_Message" = "點按加號以新增檔案。";
 
 /* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
-"Library_Empty_External_Files_Message_Install" = "要存取 Dropbox、Google Drive 及其他雲端應用程式，請先從 App Store 下載這些應用程式，再點按加號以新增檔案。";
+"Library_Empty_External_Files_Message_Install" = "要存取 Dropbox、Google Drive 及其他雲端應用程式，請先從 App Store 下載這些應用程式，再點擊加號來新增檔案。";
 
 /* Library empty message in smart folders. */
 "Library_Empty_Smart_Folder" = "沒有符合條件的檔案";
@@ -180,10 +180,10 @@
 "Move_Title" = "移動";
 
 /* Title for to begin editing a document. */
-"Begin_Editing" = "Begin Editing";
+"Begin_Editing" = "開始編輯";
 
 /* Title for to end editing a document. */
-"End_Editing" = "End Editing";
+"End_Editing" = "關閉編輯";
 
 /*-----
  Editor
@@ -214,7 +214,7 @@
 "Action_Hide_Find_And_Replace" = "隱藏「尋找及取代」";
 
 /* Action sheet action. */
-"Action_Configure_Editor" = "配置編輯器";
+"Action_Configure_Editor" = "設定編輯器";
 
 /*---------
  Menu Items
@@ -257,7 +257,7 @@
 "Menu_Show_In_Files" = "在檔案顯示";
 
 /* Action to show a file in Library. */
-"Menu_Show_In_Library" = "在資料庫中顯示";
+"Menu_Show_In_Library" = "在文件庫中顯示";
 
 /* Action to open a file in new window. */
 "Menu_Open_In_New_Window" = "在新視窗開啟";
@@ -289,10 +289,10 @@
  ------------------*/
 
 /* Smart folder editor title while editing an existing smart folder. */
-"Smart_Folder_Editor_Edit_Title" = "編輯智能資料夾";
+"Smart_Folder_Editor_Edit_Title" = "編輯智慧資料夾";
 
 /* Smart folder editor title while creating a new smart folder. */
-"Smart_Folder_Editor_New_Title" = "新增智能資料夾";
+"Smart_Folder_Editor_New_Title" = "新增智慧資料夾";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Rules_Section_Title" = "條件";
@@ -350,7 +350,7 @@
 "Action_Choose_Photo" = "選擇相片…";
 
 /* Action to create new file. */
-"Action_New_File" = "新檔案";
+"Action_New_File" = "新增檔案";
 
 /* Title for alert to create new folder. */
 "New_File_Alert_Title" = "輸入檔案名稱";
@@ -383,7 +383,7 @@
 "Rename_Failure_Title" = "無法重新命名";
 
 /* Rename failure title. */
-"Rename_Failure_Permissions" = "來自其他應用程式的檔案只可以在 Files 應用程式中重新命名。";
+"Rename_Failure_Permissions" = "來自其他應用程式的檔案，只可以在「檔案」應用程式中重新命名。";
 
 /*---------
  Table Size
@@ -409,7 +409,7 @@
 "Library_Info_Date_Modified" = "已更新";
 
 /* Library info popover label for date created. */
-"Library_Info_Date_Created" = "已創建";
+"Library_Info_Date_Created" = "已建立";
 
 /* Library info popover label for extension. */
 "Library_Info_Name" = "名稱";
@@ -458,7 +458,7 @@ Document
 "Version_Browser_Subitem_Message" = "選擇要復原的較舊版本。選擇當前及較舊版本，分別建立為不同的檔案。";
 
 /* Version browser subitem message in conflict */
-"Version_Browser_Subitem_Message_Conflict" = "更新不會同步。選擇要保留的文檔。";
+"Version_Browser_Subitem_Message_Conflict" = "更新不會同步。選擇要保留的文件。";
 
 /* Version browser subitem title, %@ = document name. */
 "Version_Browser_Subitem_Title_Conflict" = "%@ 存在版本衝突。";
@@ -503,14 +503,14 @@ Document
  Files App
  --------*/
 
-"Files_App_Service_Provider_Error_Localized_Description_Title" = "Files 應用程式的雲端服務無法處理請求";
-"Files_App_Service_Provider_Error_Localized_Description" = "Files 應用程式的雲端服務無法處理請求";
-"Files_App_Service_Provider_Error_Recovery_Suggestion" = "如果錯誤仍然持續，請與您的雲端服務供應商聯繫以取得支援。";
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "「檔案」應用程式的雲端服務無法處理請求";
+"Files_App_Service_Provider_Error_Localized_Description" = "「檔案」應用程式的雲端服務無法處理請求";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "如果持續發生錯誤，請聯繫您的雲端服務供應商支援。";
 
-"Files_App_Library_Location_Not_Supported_Error_Title" = "無法添加所選現有資料庫位置";
-"Files_App_Library_Location_Not_Supported_Error" = "無法添加所選現有資料庫位置。";
+"Files_App_Library_Location_Not_Supported_Error_Title" = "無法新增所選現有文件庫位置";
+"Files_App_Library_Location_Not_Supported_Error" = "無法新增所選現有文件庫位置。";
 "Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "文件應用程式雲端服務不支援此功能。";
-"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "請聯繫您的雲端服務提供商以獲取支援。";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "請聯繫您的雲端服務供應商支援。";
 
 /*-----------
  Quick Search
@@ -544,7 +544,7 @@ Document
 "Discoverability_New_Window" = "新增視窗";
 
 /* Appearance command titles. */
-"Discoverability_Dark_Mode" = "暗色模式";
+"Discoverability_Dark_Mode" = "深色模式";
 "Discoverability_Light_Mode" = "淺色模式";
 /* Old name used for search matching. */
 "Discoverability_Night_Mode" = "夜間模式";
@@ -553,7 +553,7 @@ Document
 "Discoverability_Open" = "開啟…";
 "Discoverability_Move_Text_Up" = "整行上移";
 "Discoverability_Move_Text_Down" = "整行下移";
-"Discoverability_Configure_Keyboard" = "配置鍵盤";
+"Discoverability_Configure_Keyboard" = "設定鍵盤";
 "Discoverability_Use_Selection_For_Find" = "使用選取來尋找";
 "Discoverability_Find_Next" = "尋找下一個";
 "Discoverability_Find_Previous" = "尋找上一個";
@@ -575,7 +575,7 @@ Document
 "Preview_Template_Action" = "切換至已選項目";
 
 /* Action to change template. */
-"Action_Configure_Templates" = "配置範本";
+"Action_Configure_Templates" = "設定範本";
 
 /*---------------
  Template Install
@@ -585,7 +585,7 @@ Document
 "Template_Installed_Title" = "已安裝的「%@」範本";
 
 /* Alert info text after a template is successfully installed. */
-"Template_Installed_Description" = "您可以在「預覽」中存取範本。您可以在「設定」中卸載範本。";
+"Template_Installed_Description" = "您可以在「預覽」中存取範本。您可以在「設定」中刪除範本。";
 
 /*-------
  Settings
@@ -602,7 +602,7 @@ Document
 /* Appearance names. */
 "Appearance_System" = "系統";
 "Appearance_Light" = "淺色";
-"Appearance_Dark" = "暗色";
+"Appearance_Dark" = "深色";
 
 /* Settings panes. */
 "Settings_Interface_Title" = "介面";
@@ -610,7 +610,7 @@ Document
 "Settings_General_Title" = "一般";
 "Settings_Files_Title" = "檔案";
 "Settings_Accounts_Title" = "帳號";
-"Settings_Library_Title" = "資料庫";
+"Settings_Library_Title" = "文件庫";
 "Settings_Editor_Title" = "編輯器";
 "Settings_Templates_Title" = "範本";
 "Settings_Markdown_Title" = "Markdown";
@@ -624,7 +624,7 @@ Document
 
 "Settings_Accounts_Add" = "新增帳戶…";
 "Settings_Accounts_Remove" = "刪除帳戶";
-"Settings_Accounts_Configure" = "配置帳戶";
+"Settings_Accounts_Configure" = "設定帳戶";
 
 /*-----------------
  Interface Settings
@@ -677,12 +677,12 @@ Document
 "Settings_Editor_Line_Length_Limit_Edit" = "每行長度上限";
 "Settings_Editor_Font" = "字體";
 "Settings_Editor_Language" = "語言";
-"Settings_Editor_Emphasis" = "着重號";
+"Settings_Editor_Emphasis" = "著重號";
 
 /* Focus mode section in settings. */
-"Settings_Editor_Focus_Mode_Section_Title" = "焦點模式";
-"Settings_Editor_Focus_Mode" = "焦點模式";
-"Settings_Editor_Focus_Mode_Scope" = "範圍";
+"Settings_Editor_Focus_Mode_Section_Title" = "專注模式";
+"Settings_Editor_Focus_Mode" = "專注模式";
+"Settings_Editor_Focus_Mode_Scope" = "專注模式範圍";
 
 /* Keyboard section in settings. */
 "Settings_Keyboard_Lightning_Menu" = "快速選單";
@@ -717,11 +717,11 @@ Document
 
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "文字輸入";
-"Settings_Editor_Text_Input_Section_Footer" = "要啟用拼字檢查、智能引用和短橫線，請前往設定→一般→鍵盤。";
+"Settings_Editor_Text_Input_Section_Footer" = "要啟用拼字檢查、智慧引用和短橫線，請前往設定→一般→鍵盤。";
 "Settings_Editor_Check_Spelling" = "拼字檢查";
-"Settings_Editor_Smart_Quotes" = "智能引用";
-"Settings_Editor_Smart_Dashes" = "智能短橫線";
-"Settings_Editor_Smart_Inset_Delete" = "智能複製/貼上";
+"Settings_Editor_Smart_Quotes" = "智慧引用";
+"Settings_Editor_Smart_Dashes" = "智慧短橫線";
+"Settings_Editor_Smart_Inset_Delete" = "智慧複製/貼上";
 
 /* Indentation settings. */
 "Settings_Editor_Indentation_Title" = "縮排";
@@ -745,8 +745,8 @@ Document
 "Settings_Editor_Restore_Indent_Defaults" = "回復預設值";
 
 /* Find settings. */
-"Settings_Editor_Find_Section_Title" = "文本查找";
-"Settings_Editor_Find_Regular_Expression" = "使用常用形式";
+"Settings_Editor_Find_Section_Title" = "搜尋";
+"Settings_Editor_Find_Regular_Expression" = "規則運算式搜尋";
 
 /*----------------
  Templates Settings
@@ -770,11 +770,11 @@ Document
 
 /* Markdown section in settings. */
 "Settings_Markdown_Processing_Section_Title" = "正在處理 Markdown";
-"Settings_Markdown_Library_Paths_Title" = "資料庫路徑";
-"Settings_Markdown_Output_Section_Title" = "維基鏈接、標籤、自動連結";
-"Settings_Markdown_Lazy_Paragraphs" = "按一下返回鍵以開新一段";
-"Settings_Markdown_Smart_Punctuation" = "智能標點";
-"Settings_Markdown_Process_Metadata" = "處理元數據";
+"Settings_Markdown_Library_Paths_Title" = "文件庫路徑";
+"Settings_Markdown_Output_Section_Title" = "維基連結、標籤、自動連結";
+"Settings_Markdown_Lazy_Paragraphs" = "換行自動分段模式";
+"Settings_Markdown_Smart_Punctuation" = "智慧標點";
+"Settings_Markdown_Process_Metadata" = "處理中繼資料";
 
 /* Printing & PDF export section in settings. */
 "Settings_Printing_And_PDF_Export_Section_Title" = "列印和匯出 PDF";

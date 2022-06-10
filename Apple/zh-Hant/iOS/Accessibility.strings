@@ -1,8 +1,8 @@
 
-"Button_Back" = "Go Back";
-"Button_Forward" = "Go Forward";
-"Button_Compose" = "新檔案";
-"Button_Library" = "Library";
+"Button_Back" = "上一頁";
+"Button_Forward" = "下一頁";
+"Button_Compose" = "新增文件";
+"Button_Library" = "文件庫";
 "Button_Preview" = "預覽";
 "Button_Search" = "搜尋";
 "Button_Appearance" = "查看選項";

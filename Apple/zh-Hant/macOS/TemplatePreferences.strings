@@ -1,15 +1,15 @@
 
 /* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
-"1tl-et-2n4.title" = "按一次下一行以開始新段落";
+"1tl-et-2n4.title" = "單一換行即會開始新段落";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
 "561-vh-uzh.ibShadowedToolTip" = "在預覽以夜間模式反轉顏色。自訂範本必須執行夜間模式以反轉顏色。";
 
 /* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
-"794-EH-QRk.title" = "處理元數據";
+"794-EH-QRk.title" = "處理中繼數據";
 
 /* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
-"GBp-vd-erZ.title" = "開啟文檔";
+"GBp-vd-erZ.title" = "開啟文件";
 
 /* Class = "NSTextFieldCell"; title = "Default templates:"; ObjectID = "ILS-Oy-k2r"; */
 "ILS-Oy-k2r.title" = "預設範本：";
@@ -63,7 +63,7 @@
 "wLN-Zi-CIU.title" = "封面頁面";
 
 /* Class = "NSButtonCell"; title = "Apply smart punctuation"; ObjectID = "xcN-na-4AD"; */
-"xcN-na-4AD.title" = "套用智能標點符號";
+"xcN-na-4AD.title" = "套用智慧標點符號";
 
 /* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
 "y8E-dF-Bfw.title" = "安裝範本";

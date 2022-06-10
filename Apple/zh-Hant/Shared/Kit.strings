@@ -24,19 +24,19 @@
 "Open_Mail" = "開啟郵件";
 "Add_Pattern" = "新增樣式";
 "Remove_Pattern" = "移除樣式";
-"New_Smart_Folder" = "新增智能資料夾";
-"Add_Location" = "添加位置";
+"New_Smart_Folder" = "新增智慧資料夾";
+"Add_Location" = "新增位置";
 "Move_To_Trash" = "丟到垃圾桶";
 "Copy" = "複製";
-"Copy_Library_Path" = "複製資料庫路徑";
-"Copy_URL_Command" = "將 URL 命令複制";
+"Copy_Library_Path" = "複製文件庫路徑";
+"Copy_URL_Command" = "複製 URL 命令";
 "Open" = "打開";
 "Save" = "儲存";
-"Discard_Changes" = "Discard Changes";
-"Keep_Editing" = "Keep Editing";
-"Hide_Library" = "隱藏資料庫";
+"Discard_Changes" = "捨棄變更";
+"Keep_Editing" = "繼續編輯";
+"Hide_Library" = "隱藏文件庫";
 "Hide_Preview" = "隱藏預覽";
-"Show_Library" = "顯示資料庫";
+"Show_Library" = "顯示文件庫";
 "Show_Preview" = "顯示預覽";
 "Back" = "返回";
 "Forward" = "向前";
@@ -46,8 +46,8 @@
 "Go_Forward_Tooltip" = "前往";
 "Go_Back_To_Item_Tooltip" = "返回至 %@";
 "Go_Forward_To_Item_Tooltip" = "前往 %@";
-"Back_In_Library" = "返回資料庫";
-"Forward_In_Library" = "前往資料庫";
+"Back_In_Library" = "返回文件庫";
+"Forward_In_Library" = "前往文件庫";
 "Text_Size" = "文字大小";
 "Make_Text_Bigger" = "放大文字";
 "Make_Text_Normal_Size" = "顯示文字的原來大小";
@@ -58,8 +58,8 @@
 "Publish" = "發布";
 "Show_Completions" = "顯示自動完成";
 
-"Open_Content_Block" = "開啟內容塊";
-"Open_Content_Block_Tooltip" = "⌘-按一下開啟內容塊";
+"Open_Content_Block" = "開啟內容區塊";
+"Open_Content_Block_Tooltip" = "⌘-按一下開啟內容區塊";
 
 "Open_Link" = "開啟連結";
 "Open_Link_Tooltip" = "⌘-按一下開啟連結";
@@ -70,13 +70,13 @@
 "Open_URL_Command" = "開啟 URL 命令";
 "Open_URL_Command_Tooltip" = "⌘-按一下開啟 URL 命令";
 
-"Open_Wikilink" = "開啟維基鏈接";
+"Open_Wikilink" = "開啟維基連結";
 "Open_Wikilink_Tooltip" = "⌘-按一下開啟 Wikilink";
 
 "Open_Item_Tooltip" = "⌘-按一下開啟 %@";
 "Open_New_Item_Tooltip" = "⌘-按一下開啟新的 %@";
 
-"Open_Wikilink_In_Background_Window" = "在背景視窗開啟維基鏈接";
+"Open_Wikilink_In_Background_Window" = "在背景視窗開啟維基連結";
 
 "Yellow" = "黃色的";
 "Orange" = "橙子";
@@ -85,12 +85,12 @@
 "Blue" = "藍色的";
 "Green" = "綠";
 
-"Add_Wikilink" = "新增 Wikilink";
-"Remove_Wikilink" = "移除 Wikilink";
+"Add_Wikilink" = "新增維基連結";
+"Remove_Wikilink" = "移除維基連結";
 "Add_Link" = "新增連結";
 "Remove_Link" = "移除連結";
-"Add_Image_Link" = "添加圖片鏈接";
-"Remove_Image_Link" = "刪除圖片鏈接";
+"Add_Image_Link" = "新增圖片連結";
+"Remove_Image_Link" = "刪除圖片連結";
 "Add_Image" = "新增圖片";
 "Remove_Image" = "移除圖片";
 "Add_Footnote" = "新增註腳";
@@ -100,7 +100,7 @@
 "Library_Destination_Relative" = "相關";
 "Library_Destination_Absolute" = "絕對";
 
-"Menu_Focus" = "焦點";
+"Menu_Focus" = "專注";
 "Menu_Go" = "前往";
 
 "Label_Format" = "格式";
@@ -151,9 +151,9 @@
 "HTML_Output_Description" = "這些偏好設定將在複製、匯出及發佈 HTML 時使用。";
 "Other_Output_Description" = "這些偏好設定將在複製、匯出及發佈文字時使用。";
 "Preview_Output_Description" = "這些偏好設定將在「預覽」中使用。";
-"Destination_Type_Description" = "偏好路徑形式將用於新的 Wikilink 與內容塊。";
-"Content_Blocks" = "內容塊";
-"Wikilinks" = "維基鏈接";
+"Destination_Type_Description" = "偏好路徑形式將用於新的 Wikilink 與內容區塊。";
+"Content_Blocks" = "內容區塊";
+"Wikilinks" = "維基連結";
 "Hashtags" = "標籤";
 "Autolinks" = "自動連結";
 
@@ -193,8 +193,8 @@ Text Check
  Focus Tools
  ----------*/
 
-"Enable_Focus_Mode" = "啟用焦點模式";
-"Disable_Focus_Mode" = "停用焦點模式";
+"Enable_Focus_Mode" = "啟用專注模式";
+"Disable_Focus_Mode" = "停用專注模式";
 "Enable_Syntax" = "顯示語法";
 "Disable_Syntax" = "隱藏語法";
 "Enable_Style_Check" = "啟用風格檢查";
@@ -215,7 +215,7 @@ Text Check
 "Auth_Mode_Add_Account_Manually" = "手動新增帳戶";
 
 "Web_Service_URL" = "URL";
-"Web_Service_Token" = "令牌";
+"Web_Service_Token" = "權杖";
 "Web_Service_Website_URL" = "網站 URL";
 "Web_Service_Username" = "使用者名稱";
 "Web_Service_App_Password" = "應用程式密碼";
@@ -226,12 +226,12 @@ Text Check
 "New_Draft_On_Web_Service" = "新增%@草稿";
 "New_Post_On_Web_Service" = "新增%@帖子";
 
-"Web_Service_Introduction" = "iA Writer 創建的草稿讓您可在發佈前預覽。";
+"Web_Service_Introduction" = "iA Writer 新增的草稿讓您可在發佈前預覽。";
 "Micropub_Introduction" = "iA Writer 會要求新文章都先以草稿形式建立，不支持這項功能的 Micropub 伺服器將會直接發佈文章。";
 "WordPress.com_Description" = "發佈至 WordPress.com，或具有 Jetpack 外掛程式的 WordPress 網站。";
 "WordPress.org_Description" = "直接發佈至 WordPress 網站。須使用 WordPress 5.6 或更新版本。";
 "WordPress.com_Link_Action" = "關於 Jetpack";
-"Medium_Link_Action" = "獲取Medium令牌";
+"Medium_Link_Action" = "獲取 Medium 權杖";
 
 "Web_Service_Publish_Status_Draft" = "草稿";
 "Web_Service_Publish_Status_Unlisted" = "不公開";
@@ -247,15 +247,15 @@ Text Check
 "Web_Service_Error_Invalid_Response_Data_Parameter" = "接收到未完全的回應。";
 
 "Web_Service_Error_Unsupported_Content_Title" = "不支援的內容";
-"Web_Service_Error_Unsupported_Content" = "在此文檔內的部份內容不受支援。";
-"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "從文檔內移除不支援的內容。";
+"Web_Service_Error_Unsupported_Content" = "在此文件內的部份內容不受支援。";
+"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "從文件內移除不支援的內容。";
 
 "Web_Service_Error_Invalid_Request_Title" = "無效的請求";
 "Web_Service_Error_Invalid_Request" = "無效的請求。";
 
 "Web_Service_Error_Unauthorized_Title" = "未授權的請求";
-"Web_Service_Error_Unauthorized" = "存取令牌已被撤銷或不正確。";
-"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "請確保存取令牌已啟動及正確。";
+"Web_Service_Error_Unauthorized" = "存取權杖已被撤銷或不正確。";
+"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "請確保存取權杖已啟動及正確。";
 
 "Web_Service_Error_Forbidden_Title" = "禁止請求";
 "Web_Service_Error_Forbidden" = "沒有權限執行請求。";
@@ -309,7 +309,7 @@ Text Check
 
 "Medium_Image_Upload_Error_Unauthorized_Title" = "Medium 已停用圖片上載功能";
 "Medium_Image_Upload_Error_Unauthorized" = "Medium 已停用圖片上載功能。";
-"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "請聯絡 Medium，以啟用您令牌的圖片上載功能。";
+"Medium_Image_Upload_Error_Unauthorized_Recovery_Suggestion" = "請聯絡 Medium，以啟用您權杖的圖片上載功能。";
 "Medium_Image_Upload_Error_Contact" = "聯絡 Medium";
 
 "Ghost_Export_Type_HTML" = "預設";
@@ -353,11 +353,11 @@ Text Check
 
 "Template_Error_Invalid_Bundle_Title" = "無效範本";
 "Template_Error_Invalid_Bundle" = "未能處理範本。";
-"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "檢查文檔以取得更多資訊。";
+"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "檢查文件以取得更多資訊。";
 
 "Template_Error_Installed_Bundle_Title" = "範本已安裝";
 "Template_Error_Installed_Bundle" = "範本已安裝。";
-"Template_Error_Installed_Bundle_Recovery_Suggestion" = "若範本在 iA Writer 內不可用，請檢查文檔。";
+"Template_Error_Installed_Bundle_Recovery_Suggestion" = "若範本在 iA Writer 內不可用，請檢查文件。";
 
 /*--------
  URL Sheme
@@ -365,7 +365,7 @@ Text Check
 
 "URL_Scheme_Error_Invalid_Parameters_Title" = "無效的參數";
 "URL_Scheme_Error_Invalid_Parameters" = "呼叫 URL 命令的參數無效。";
-"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "檢查 URL 命令文檔。";
+"URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "檢查 URL 命令文件。";
 
 "URL_Scheme_Error_Invalid_Auth_Token_Title" = "無效的驗證權杖";
 "URL_Scheme_Error_Invalid_Auth_Token" = "呼叫 URL 命令的驗證權杖無效。";
@@ -391,27 +391,27 @@ Text Check
  Library Locations
  ----------------*/
 
-"Library_Location_Error_Existing_Item_Title" = "無法添加一個現有資料庫位置";
-"Library_Location_Error_Existing_Item" = "未能新增資料庫位置，因為資料夾或其子資料夾是另一個資料庫位置的一部分。";
-"Library_Location_Error_Existing_Item_Failure_Reason" = "已選取的資料夾或它的子資料夾是另一個資料庫位置的一部分。";
-"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "在新增已選取的資料夾前，先移除現有的資料庫位置。";
+"Library_Location_Error_Existing_Item_Title" = "無法新增一個現有文件庫位置";
+"Library_Location_Error_Existing_Item" = "未能新增文件庫位置，因為資料夾或其子資料夾是另一個文件庫位置的一部分。";
+"Library_Location_Error_Existing_Item_Failure_Reason" = "已選取的資料夾或它的子資料夾是另一個文件庫位置的一部分。";
+"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "在新增已選取的資料夾前，先移除現有的文件庫位置。";
 
-"Library_Location_Error_Not_Found_Title" = "未能找到資料庫的位置";
-"Library_Location_Error_Not_Found" = "未能找到資料庫的位置。";
+"Library_Location_Error_Not_Found_Title" = "未能找到文件庫的位置";
+"Library_Location_Error_Not_Found" = "未能找到文件庫的位置。";
 "Library_Location_Error_Not_Found_Failure_Reason" = "這可能因為已被移除，或曾位於可彈出編集。";
-"Library_Location_Error_Not_Found_Recovery_Suggestion" = "連接可彈出的編集以存取資料庫位置。";
+"Library_Location_Error_Not_Found_Recovery_Suggestion" = "連接可彈出的編集以存取文件庫位置。";
 
 /*---------
  Wikilinks
  ---------*/
 
-"Library_Destination_Error_Library_Location_Not_Found_Title" = "找不到名為「%@」的資料庫位置";
-"Library_Destination_Error_Library_Location_Not_Found" = "找不到名為「%@」的資料庫位置。";
-"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "請確認是否有名為「%@」的資料庫位置。";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "找不到名為「%@」的文件庫位置";
+"Library_Destination_Error_Library_Location_Not_Found" = "找不到名為「%@」的文件庫位置。";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "請確認是否有名為「%@」的文件庫位置。";
 
-"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "無法存取資料庫外的項目";
-"Library_Destination_Error_Destination_Points_Outside_Library" = "無法存取資料庫外的項目。";
-"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "請確認資料庫路徑正確。";
+"Library_Destination_Error_Destination_Points_Outside_Library_Title" = "無法存取文件庫外的項目";
+"Library_Destination_Error_Destination_Points_Outside_Library" = "無法存取文件庫外的項目。";
+"Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "請確認文件庫路徑正確。";
 
 /*--------
  Documents
@@ -447,7 +447,7 @@ Text Check
 "Library_Sort_By_Name_Phrase" = "以名稱排序";
 "Library_Sort_By_Extension_Phrase" = "以擴展排序";
 "Library_Sort_By_Date_Modified_Phrase" = "以已修改日期排序";
-"Library_Sort_By_Date_Created_Phrase" = "按創建日期排序";
+"Library_Sort_By_Date_Created_Phrase" = "按新增日期排序";
 "Library_Sort_By_Search_Relevance_Phrase" = "以搜索排名排序";
 
 "Library_Sort_By_Date_Ascending" = "最舊置頂";
@@ -495,20 +495,20 @@ Text Check
 
 "Content_Block_Error_Unknown_Extension" = "「%@」有不支援的擴展名。";
 "Content_Block_Error_Unknown_Extension_Title" = "「%@」有不支援的擴展名";
-"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "內容塊必須為純文字檔或圖像。";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "內容區塊必須為純文字檔或圖像。";
 "Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "「%@」包含一個遞歸的引用。";
 "Content_Block_Error_Recursive_Reference_Title" = "「%@」包含一個遞歸的引用";
 "Content_Block_Error_Recursive_Reference_Recovery_Suggestion" = "遞歸引用被忽略。";
 
-"Content_Block_Error_Unsupported_Location" = "內容方塊只受資料庫內的文件支援。";
+"Content_Block_Error_Unsupported_Location" = "內容方塊只受文件庫內的文件支援。";
 "Content_Block_Error_Unsupported_Location_Title" = "不支援的位置";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "移動或複製檔案至資料庫以使用內容塊。";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "移動或複製檔案至文件庫以使用內容區塊。";
 
-"Content_Block_Error_Deprecated_Path" = "「%@」包含已過時的內容塊。";
-"Content_Block_Error_Deprecated_Path_Title" = "「%@」包含已過時的內容塊。";
-"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "「%1$@」使用前置字元 / 指涉包含「%2$@」的資料夾。此功能已過時，未來將停止使用。請移除檔案名稱以外的所有部分，以將此內容塊升級為最短路徑，或將前置字元 / 取代為 ./，以繼續使用相關路徑。";
+"Content_Block_Error_Deprecated_Path" = "「%@」包含已過時的內容區塊。";
+"Content_Block_Error_Deprecated_Path_Title" = "「%@」包含已過時的內容區塊。";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "「%1$@」使用前置字元 / 指涉包含「%2$@」的資料夾。此功能已過時，未來將停止使用。請移除檔案名稱以外的所有部分，以將此內容區塊升級為最短路徑，或將前置字元 / 取代為 ./，以繼續使用相關路徑。";
 
 /*---------
  Text Stats
@@ -543,7 +543,7 @@ Text Check
 "Export_Format_Markdown_Action" = "匯出 Markdown";
 
 "Export_Format_Project_Archive_Name" = "項目檔案";
-"Export_Format_Project_Archive_Description" = "包含關聯的內容塊。";
+"Export_Format_Project_Archive_Description" = "包含關聯的內容區塊。";
 "Export_Format_Project_Archive_Action" = "匯出項目檔案";
 
 "Copy_Markdown" = "複製 Markdown";
