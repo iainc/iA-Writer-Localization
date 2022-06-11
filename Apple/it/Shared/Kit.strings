@@ -65,8 +65,8 @@
 "Open_Link" = "Apri link";
 "Open_Link_Tooltip" = "⌘-clicca per aprire link";
 
-"Show_In_Quick_Search" = "Mostra in Ricerca rapida";
-"Show_In_Quick_Search_Tooltip" = "⌘-clicca per mostrare su Ricerca rapida";
+"Show_In_Quick_Search" = "Mostra in Ricerca Rapida";
+"Show_In_Quick_Search_Tooltip" = "⌘-clicca per mostrare su Ricerca Rapida";
 
 "Open_URL_Command" = "Apri il comando dell'URL";
 "Open_URL_Command_Tooltip" = "⌘-clicca per aprire comando URL";

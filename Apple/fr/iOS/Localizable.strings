@@ -714,7 +714,7 @@ Document
 "Settings_Command_Keyboard_Always_Show_As_Popover" = "Toujours afficher en tant que Popover";
 "Settings_Command_Keyboard_Configure" = "Configurer";
 "Settings_Command_Keyboard_Enabled_Section_Footer" = "Touchez et maintenez n’importe quelle touche illuminée sur le clavier de commande pour ouvrir le mode configuration.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Les actions du clavier de commande sont disponibles dans le Menu Éclair, la Recherche Rapide et en tant que raccourcis clavier lorsqu’un clavier périphérique est connecté.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Les actions du clavier de commande sont disponibles dans le Menu Éclair, la Recherche rapide et en tant que raccourcis clavier lorsqu’un clavier périphérique est connecté.";
 
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Texte";

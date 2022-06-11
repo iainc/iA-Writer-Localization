@@ -529,7 +529,7 @@ Document
  -----------*/
 
 /* Placeholder for Quick Search field. */
-"Quick_Search_Placeholder" = "Búsqueda rápida";
+"Quick_Search_Placeholder" = "Búsqueda Rápida";
 
 /* Quick Search recent files section title. */
 "Quick_Search_Recent_Files_Section_Title" = "Archivos recientes";
@@ -548,7 +548,7 @@ Document
  --------------------------*/
 
 /* Quick Search key command titles. */
-"Discoverability_Quick_Search" = "Búsqueda rápida";
+"Discoverability_Quick_Search" = "Búsqueda Rápida";
 
 /* New file key command titles. */
 "Discoverability_New" = "Nuevo";
@@ -697,7 +697,7 @@ Document
 "Settings_Editor_Focus_Mode_Scope" = "Alcance";
 
 /* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "Menu flash";
+"Settings_Keyboard_Lightning_Menu" = "Menu Flash";
 "Settings_Keyboard_Lightning_Menu_Add_Actions" = "Añadir acciones";
 "Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Añadir submenú";
 "Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Editar submenú";
@@ -707,14 +707,14 @@ Document
 "Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Acciones";
 "Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Mostrar en línea";
 "Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Las acciones del submenú en línea se muestran en el menú principal, separadas de otras acciones.";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Toca y mantén cualquier acción en el menú principal para abrir estos ajustes.";
+"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Toca y mantén cualquier acción en el Menu Flash para abrir estos ajustes.";
 
 "Settings_Command_Keyboard" = "Teclado de comandos";
 "Settings_Command_Keyboard_Enable" = "Mostrar en la barra de teclado";
 "Settings_Command_Keyboard_Always_Show_As_Popover" = "Mostrar siempre como emergente";
 "Settings_Command_Keyboard_Configure" = "Configurar";
 "Settings_Command_Keyboard_Enabled_Section_Footer" = "Toca y mantén cualquier tecla de luz en el teclado de comandos para abrir el modo de configuración.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Las acciones del teclado de comandos están disponibles en el menu flash, en la búsqueda rápida y como accesos directos de teclado cuando se conecta un teclado.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Las acciones del teclado de comandos están disponibles en el Menu Flash, en la Búsqueda Rápida y como accesos directos de teclado cuando se conecta un teclado.";
 
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Texto";

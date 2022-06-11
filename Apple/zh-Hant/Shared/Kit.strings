@@ -72,7 +72,7 @@
 "Open_URL_Command_Tooltip" = "⌘-按一下開啟 URL 命令";
 
 "Open_Wikilink" = "開啟維基連結";
-"Open_Wikilink_Tooltip" = "⌘-按一下開啟 Wikilink";
+"Open_Wikilink_Tooltip" = "⌘-按一下開啟維基連結";
 
 "Open_Item_Tooltip" = "⌘-按一下開啟 %@";
 "Open_New_Item_Tooltip" = "⌘-按一下開啟新的 %@";
@@ -159,7 +159,7 @@
 "HTML_Output_Description" = "這些偏好設定將在複製、匯出及發佈 HTML 時使用。";
 "Other_Output_Description" = "這些偏好設定將在複製、匯出及發佈文字時使用。";
 "Preview_Output_Description" = "這些偏好設定將在「預覽」中使用。";
-"Destination_Type_Description" = "偏好路徑形式將用於新的 Wikilink 與內容區塊。";
+"Destination_Type_Description" = "偏好路徑形式將用於新的維基連結與內容區塊。";
 "Content_Blocks" = "內容區塊";
 "Wikilinks" = "維基連結";
 "Hashtags" = "標籤";

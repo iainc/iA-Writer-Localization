@@ -714,7 +714,7 @@ Document
 "Settings_Command_Keyboard_Always_Show_As_Popover" = "Mostrar sempre como pop-over";
 "Settings_Command_Keyboard_Configure" = "Configurar";
 "Settings_Command_Keyboard_Enabled_Section_Footer" = "Toque demoradamente em qualquer tecla clara no Teclado de comando para abrir o modo de configuração.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "As ações do Teclado de comando estão disponíveis no Menu Raio, na Procura Rápida e como atalhos de teclado quando estiver ligado um teclado físico.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "As ações do Teclado de comando estão disponíveis no Menu Flash, na Procura Rápida e como atalhos de teclado quando estiver ligado um teclado físico.";
 
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Texto";
