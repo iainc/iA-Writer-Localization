@@ -495,7 +495,7 @@
 "XrX-Rr-J73.title" = "更換";
 
 /* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "Xyc-BS-eg9"; */
-"Xyc-BS-eg9.title" = "畫線顯示";
+"Xyc-BS-eg9.title" = "重點標示";
 
 /* Class = "NSMenuItem"; title = "Add Wikilink"; ObjectID = "YfW-1J-S0B"; */
 "YfW-1J-S0B.title" = "維基連結";

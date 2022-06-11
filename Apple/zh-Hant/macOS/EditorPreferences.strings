@@ -84,7 +84,7 @@
 "aae-lC-eDI.title" = "Duospaced";
 
 /* Class = "NSTextFieldCell"; title = "Highlight color:"; ObjectID = "bpW-0u-u88"; */
-"bpW-0u-u88.title" = "突出顏色：";
+"bpW-0u-u88.title" = "重點標示顏色：";
 
 /* Class = "NSButtonCell"; title = "Custom"; ObjectID = "d8E-l0-S4B"; */
 "d8E-l0-S4B.title" = "Custom";
@@ -162,4 +162,4 @@
 "yhw-gf-1Ns.title" = "Fillers";
 
 /* Class = "NSTextFieldCell"; title = "Emphasis:"; ObjectID = "yqQ-oe-okL"; */
-"yqQ-oe-okL.title" = "着重號：";
+"yqQ-oe-okL.title" = "著重號：";

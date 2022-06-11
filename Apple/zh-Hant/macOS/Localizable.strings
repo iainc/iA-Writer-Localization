@@ -322,7 +322,7 @@
 "Inline_Element_Code" = "程式碼";
 
 /* Bold inline element name. */
-"Inline_Element_Highlight" = "畫線顯示";
+"Inline_Element_Highlight" = "重點標示";
 
 /* Wikilink inline element name. */
 "Inline_Element_Wikilink" = "維基連結";
