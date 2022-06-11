@@ -681,11 +681,11 @@ Document
 
 /* Editor section in settings. */
 "Settings_Editor_Appearance_Section_Title" = "外觀";
-"Settings_Editor_Highlight_Color" = "高亮顏色";
+"Settings_Editor_Highlight_Color" = "重點標示顏色";
 "Settings_Editor_Show_Stats" = "顯示統計數據";
 
 /* Typography section in settings. */
-"Settings_Editor_Text_Section_Title" = "文本";
+"Settings_Editor_Text_Section_Title" = "文字";
 "Settings_Editor_Typography" = "字體排版";
 "Settings_Editor_Line_Length_Limit_Edit" = "每行長度上限";
 "Settings_Editor_Language" = "語言";
@@ -747,7 +747,7 @@ Document
 "Settings_Editor_Tab_Key_Behavior_Indent" = "縮排";
 "Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "插入定位點";
 
-"Settings_Editor_Tab_Width" = "定位符號間隔寬度";
+"Settings_Editor_Tab_Width" = "Tab 間隔寬度";
 "Settings_Editor_Indent_Width" = "縮排寬度";
 
 "Settings_Editor_Wrapped_Line_Indent_Section_Title" = "換行縮排包含";
