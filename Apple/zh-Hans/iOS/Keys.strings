@@ -9,7 +9,8 @@
 "Punctuation" = "标点";
 "Structure" = "结构";
 
-"Headings" = "所有标题";
+"Wikilink" = "维基链接";
+"Headings" = "标题1-6";
 "Heading1" = "标题1";
 "Heading2" = "标题2";
 "Heading3" = "标题3";
@@ -26,6 +27,7 @@
 "HorizontalRule" = "添加水平标尺";
 "PageBreak" = "添加分页符";
 "Strong" = "粗体";
+"Highlight" = "突出显示";
 "Code" = "代码​​";
 "Strikethrough" = "删除线";
 "SmartCurlyQuotes6699" = "弯引号";
@@ -40,7 +42,7 @@
 "SmartGuillemets" = "书名号";
 "SmartInvertedGuillemets" = "反向书名号";
 "SmartCurlyQuotes9966" = "双重弯引号";
-"SmartBrackets" = "括号";
+"SmartBrackets" = "中括号";
 "SmartCurlyBrackets" = "大括号";
 "SmartCurlyQuotes96" = "弯引号";
 "Asterisk" = "星号";
@@ -96,8 +98,11 @@
 "MoveLineUp" = "向上移动行";
 "MoveLineDown" = "向下移动行";
 "TableOfContents" = "添加目录";
+"Hashtag" = "添加主题标签";
+"ScanText" = "扫描文本";
 "AddContentBlock" = "添加​​内容块";
 "AddDate" = "添加日期";
+"ChooseDate" = "Choose Date";
 "DismissKeyboard" = "关闭键盘";
 "MarkTask" = "标记任务为已完成";
 "Night" = "切换夜间模式";
@@ -109,8 +114,6 @@
 "Replace" = "在文档中搜索和替换";
 "Compose" = "新建文档";
 "CopyAll" = "全部复制";
-"CopyFormatted" = "格式化复制";
-"CopyHTML" = "复制HTML";
 "PrintFormatted" = "打印格式化文本";
 "Print" = "打印";
 "ExportTXT" = "导出为TXT";

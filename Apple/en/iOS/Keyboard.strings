@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "Reset Keyboard Layout";
 "Key_Picker_Action_Cancel" = "Cancel";
 
+"Menu_Quick_Search" = "Quick Search";
+"Menu_Find" = "Find and Replace";
+"Menu_Replace" = "Replace";
+"Menu_Replace_All" = "Replace All";
+
 "Find_Placeholder" = "Find";
 "Find_Replace_Placeholder" = "Replace";
+
+"Key_Description_Lightning" = "Lightning";
+"Key_Description_Insert_Selected_Completion" = "Insert Selected Completion";
+"Key_Description_Cancel" = "Cancel";
+"Key_Description_Open_Link" = "Open Link";
 
 "Key_Description_Find" = "Find Bar";
 "Key_Description_Show_Find" = "Show Find Bar";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "Find Previous";
 "Key_Description_Replace" = "Replace";
 "Key_Description_Replace_All" = "Replace All";
+
+"Find_Contains" = "Contains";
+"Find_Matches_Word" = "Matches Word";
+"Find_Starts_With" = "Starts With";
+"Find_Ends_With" = "Ends With";
+"Find_Regular_Expression" = "Regular Expression";
 
 "Key_Description_Search" = "Search";
 "Key_Description_Command" = "Commands";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "Dismiss Menu";
 
 "Key_Title_Return" = "return";
-"Key_Title_Shift_Right" = "tab";
-"Key_Title_Shift_Left" = "backtab";
+"Key_Title_Tab" = "tab";
+"Key_Title_Backtab" = "backtab";
 "Key_Title_Home" = "home";
 "Key_Title_End" = "end";
-"Key_Title_Shift_Up" = "move\ntext ↑";
-"Key_Title_Shift_Down" = "move\ntext ↓";
+"Key_Title_Move_Text_Up" = "move\ntext ↑";
+"Key_Title_Move_Text_Down" = "move\ntext ↓";
 "Key_Title_Undo" = "undo";
 "Key_Title_Redo" = "redo";
 
@@ -46,10 +62,16 @@
 "Key_Description_Delete_Backward" = "Delete Backward";
 "Key_Description_Delete_Paragraph" = "Delete Paragraph";
 "Key_Description_Dismiss_Keyboard" = "Hide Keyboard";
-"Key_Description_Shift_Left" = "Outdent";
-"Key_Description_Shift_Right" = "Indent";
-"Key_Description_Shift_Up" = "Move Paragraph Up";
-"Key_Description_Shift_Down" = "Move Paragraph Down";
+"Key_Description_Backtab" = "Backtab";
+"Key_Description_Tab" = "Tab";
+"Key_Description_Outdent" = "Outdent";
+"Key_Description_Indent" = "Indent";
+"Key_Description_Move_Text_Up" = "Move Text Up";
+"Key_Description_Move_Text_Down" = "Move Text Down";
 "Key_Description_Dismiss_Keyboard" = "Dismiss Keyboard";
 "Key_Description_Move_To_Beginning" = "Go to Beginning of Document";
 "Key_Description_Move_To_End" = "Go to End of Document";
+
+"Lightning_Size" = "Size";
+"Lightning_Size_Regular" = "Regular";
+"Lightning_Size_Compact" = "Compact";

@@ -1,12 +1,13 @@
 
-"Increase_Text_Size" = "Aumentar Tamanho do Texto";
-"Default_Text_Size" = "Tamanho de Texto Predefinido";
-"Decrease_Text_Size" = "Diminuir Tamanho do Texto";
-
+"Button_Back" = "Go Back";
+"Button_Forward" = "Go Forward";
 "Button_Compose" = "Novo ficheiro";
+"Button_Library" = "Library";
 "Button_Preview" = "Pré-visualizar";
 "Button_Search" = "Procurar";
 "Button_Appearance" = "Ver Opções";
+"Button_Preview_Appearance" = "Preview Options";
+"Button_Editor_Appearance" = "Editor Options";
 "Button_Action" = "Ações sobre ficheiros";
 "Button_Move_Selected" = "Mover Seleção";
 "Button_Delete_Selected" = "Eliminar Seleção";

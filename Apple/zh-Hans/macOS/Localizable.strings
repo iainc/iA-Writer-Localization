@@ -12,6 +12,9 @@
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "在资料库中新建";
 
+/* New. Menu item title for creating new documents in Library in current window. */
+"New_Document_In_Library_In_Window_Menu" = "在窗口中在资料库中新建";
+
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "新建";
 
@@ -27,11 +30,13 @@
 /* Stats editor toolbar title. */
 "Editor_Toolbar_Stats_Menu" = "仅限统计数据";
 
-/* Contextual menu to copy formatted text. */
-"Editor_Copy_Formatted_Menu" = "格式化复制";
-
-/* Contextual menu to copy HTML. */
-"Editor_Copy_HTML_Menu" = "复制HTML";
+"Menu_Share" = "分享";
+"Menu_Publish" = "发布";
+"Menu_Export" = "导出";
+"Menu_Export_With_Ellipsis" = "导出…";
+"Menu_Print" = "打印";
+"Menu_Print_Formatted" = "打印…";
+"Menu_Print_Plain_Text" = "打印纯文本…";
 
 /*----
  Trial
@@ -82,36 +87,6 @@
 /* Export panel format picker label. */
 "Export_Panel_Export_To_Label" = "导出至：";
 
-/* Microsoft Word export format. */
-"Export_Format_Word_Name" = "Microsoft Word​​";
-
-/* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "兼容Microsoft Word 2007或更新版本、Apple Pages和Google Docs。";
-
-/* HTML export format. */
-"Export_Format_HTML_Name" = "HTML";
-
-/* HTML export format description. */
-"Export_Format_HTML_Description" = "通用HTML。";
-
-/* PDF export format. */
-"Export_Format_PDF_Name" = "PDF";
-
-/* PDF export format description. */
-"Export_Format_PDF_Description" = "欲变更PDF版式，选择 文件 → 页面设置。";
-
-/* Plain text export format. */
-"Export_Format_Markdown_Name" = "Markdown";
-
-/* Plain text export format description. */
-"Export_Format_Markdown_Description" = "兼容其他编辑器。";
-
-/* Project archive text export format. */
-"Export_Format_Project_Archive_Name" = "项目存档";
-
-/* Plain text export format description. */
-"Export_Format_Project_Archive_Description" = "包含相关内容块。";
-
 /* Checkmark title in print options. */
 "Print_Header" = "打印页眉";
 
@@ -135,18 +110,6 @@
  Window
  -----*/
 
-/* Menu item to hide library. */
-"Hide_Library" = "隐藏资料库";
-
-/* Menu item to hide preview. */
-"Hide_Preview" = "隐藏预览";
-
-/* Menu item to show library. */
-"Show_Library" = "显示资料库";
-
-/* Menu item to show preview. */
-"Show_Preview" = "显示预览";
-
 /* Menu item to show preview. */
 "Show_Source_List" = "显示管理栏";
 
@@ -169,10 +132,10 @@
 "Preview_Toolbar_Export" = "导出";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "半屏";
+"Preview_Layout_Split" = "分开";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "全屏";
+"Preview_Layout_Full" = "全宽";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "无内容可预览";
@@ -180,18 +143,6 @@
 /*------
  Library
  ------*/
-
-/* Button title to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order" = "自定义​​";
-
-/* Button tooltip to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order_Tooltip" = "为当前视图使用自定义排序";
-
-/* Go menu item title to go back. */
-"Library_Go_Back" = "返回​​";
-
-/* Go menu item title to go forward. */
-"Library_Go_Forward" = "前进";
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "上一级文件夹";
@@ -205,9 +156,6 @@
 
 /* Deletion confrimation infromative text for a local item. */
 "Library_Delete_Confrimation_Informative_Text" = "此操作无法撤销。";
-
-/* No comment provided by engineer. */
-"Library_Delete_Confrimation_Button" = "刪除";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "空文档";
@@ -240,15 +188,6 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "获取信息";
 
-/* Menu to copy library path for an item in Library. */
-"Library_Action_Copy_Library_Path" = "复制资料库路径";
-
-/* Menu to copy URL command path for an item in Library. */
-"Library_Action_Copy_URL_Command_Path" = "复制URL命令路径";
-
-/* Menu to copy URL command to open file for an item in Library. */
-"Library_Action_Copy_URL_Command_To_Open_File" = "复制URL命令以打开文件";
-
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "排序方式";
 
@@ -276,8 +215,8 @@
 /* Search menu item to show currently selected document in Library. */
 "Show_In_Library" = "在Library中显示";
 
-/* Search field placeholder. */
-"Library_Search_Field_Placeholder" = "筛选​​器";
+/* Library filter field placeholder. */
+"Library_Filter_Field_Placeholder" = "筛选​​器";
 
 /* Loading content message for document library. */
 "Library_Loading_Message" = "正在加载文档…如果资料库容量较大，可能需要数分钟时间。";
@@ -337,18 +276,6 @@
  Editor
  -----*/
 
-/* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "启用聚焦模式";
-
-/* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "禁用聚焦模式";
-
-/* Menu title to enable syntax highlight. */
-"Menu_Enable_Syntax_Higlight" = "启用语法高亮";
-
-/* Menu title to disable syntax highlight. */
-"Menu_Disable_Syntax_Higlight" = "禁用语法高亮";
-
 /* Apply English title capitalization to selected text. */
 "Make_Title_Case" = "使用字首大写";
 
@@ -391,6 +318,15 @@
 /* Bold inline element name. */
 "Inline_Element_Bold" = "粗体";
 
+/* Bold inline element name. */
+"Inline_Element_Code" = "代码";
+
+/* Bold inline element name. */
+"Inline_Element_Highlight" = "突出显示";
+
+/* Wikilink inline element name. */
+"Inline_Element_Wikilink" = "维基链接";
+
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "删除线";
 
@@ -425,6 +361,9 @@
 /* General preferences pane title. */
 "Preferences_Pane_Title_General" = "通用";
 
+/* Sharing preferences pane title. */
+"Preferences_Pane_Title_Accounts" = "帐户";
+
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "文件";
 
@@ -437,11 +376,8 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "模板";
 
-/* Button to add account in preferences. */
-"Preferences_Add_Account_Button" = "添加账号…";
-
-/* Button to remove account in preferences. */
-"Preferences_Remove_Account_Button" = "移除账号";
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
 "URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "是否重置验证令牌？";
@@ -454,6 +390,24 @@
 
 /* URL scheme first use alert informative text. */
 "URL_Scheme_First_Use_Informative_Text" = "您以后可在偏好中更改此项。";
+
+/* Markdown processing lazy paragraphs. */
+"Markdown_Lazy_Paragraphs" = "单次回车开启新段";
+
+"Markdown_Lazy_Paragraphs_Description" = "默认情况下，Markdown要求在段落之间有两个回车（一个空行）。启用后，单个回车将开始一个新的段落。";
+
+"Markdown_Lazy_Paragraphs_Warning" = "为兼容iA Writer的旧版本而提供。其他Markdown处理程序不支持。";
+
+/* Markdown processing smart punctuation. */
+"Markdown_Smart_Punctuation" = "应用智能标点";
+
+"Markdown_Smart_Punctuation_Description" = "针对所有格式化输出，将直引号和普通破折号转换为智慧型引号和破折号。";
+
+"Markdown_Metadata_Tab" = "元数据";
+
+"Markdown_Library_Paths_And_Links_Tab" = "资源库路径和链接";
+
+"Markdown_Processing_Tab" = "处理";
 
 /*-----------
  Quick Search

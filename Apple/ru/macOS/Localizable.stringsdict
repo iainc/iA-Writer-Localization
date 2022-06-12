@@ -13,13 +13,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>few</key>
-			<string>символа в строке</string>
+			<string>символа</string>
 			<key>many</key>
-			<string>символов в строке</string>
+			<string>символов</string>
 			<key>one</key>
-			<string>символ в строке</string>
+			<string>символ</string>
 			<key>other</key>
-			<string>символа в строке</string>
+			<string>символа</string>
 		</dict>
 	</dict>
 	<key>Library_Delete_Confrimation_Message_Multiple</key>

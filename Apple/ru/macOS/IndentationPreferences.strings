@@ -2,8 +2,14 @@
 /* Class = "NSButtonCell"; title = "Whitespace"; ObjectID = "09U-kI-so3"; */
 "09U-kI-so3.title" = "Свободное пространство";
 
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "0Xu-Az-EBg"; */
+"0Xu-Az-EBg.title" = "8";
+
 /* Class = "NSMenuItem"; title = "2"; ObjectID = "3Pf-cg-VF9"; */
 "3Pf-cg-VF9.title" = "2";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "IQs-vj-7d6"; */
+"IQs-vj-7d6.title" = "2";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "IWB-dA-byr"; */
 "IWB-dA-byr.title" = "Настройки по умолчанию";
@@ -20,8 +26,14 @@
 /* Class = "NSButtonCell"; title = "Done"; ObjectID = "RdC-rk-Ffy"; */
 "RdC-rk-Ffy.title" = "Готово";
 
+/* Class = "NSTextFieldCell"; title = "Indent width:"; ObjectID = "SGD-xU-Qzg"; */
+"SGD-xU-Qzg.title" = "Ширина отступа:";
+
 /* Class = "NSTextFieldCell"; title = "Tab width:"; ObjectID = "UTH-s1-KRg"; */
 "UTH-s1-KRg.title" = "Ширина табуляции:";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "Z5W-CY-oCO"; */
+"Z5W-CY-oCO.title" = "4";
 
 /* Class = "NSTextFieldCell"; title = "Wrapped line indent includes:"; ObjectID = "a0w-Tn-dzZ"; */
 "a0w-Tn-dzZ.title" = "Отступ перенесенных строк включает:";

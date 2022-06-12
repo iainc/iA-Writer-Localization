@@ -9,7 +9,8 @@
 "Punctuation" = "Punteggiatura";
 "Structure" = "Struttura";
 
-"Headings" = "Tutte le intestazioni";
+"Wikilink" = "Wikilink";
+"Headings" = "Intestazione 1-6";
 "Heading1" = "Intestazione 1";
 "Heading2" = "Intestazione 2";
 "Heading3" = "Intestazione 3";
@@ -26,6 +27,7 @@
 "HorizontalRule" = "Aggiungi regola orizzontale";
 "PageBreak" = "Aggiungi interruzione di pagina";
 "Strong" = "Neretto";
+"Highlight" = "Evidenziare";
 "Code" = "Codice";
 "Strikethrough" = "Barrato";
 "SmartCurlyQuotes6699" = "Virgolette curve";
@@ -96,8 +98,11 @@
 "MoveLineUp" = "Sposta linea su";
 "MoveLineDown" = "Sposta linea giù";
 "TableOfContents" = "Aggiungi tabella di contenuti";
+"Hashtag" = "Aggiungi hashtag";
+"ScanText" = "Scansiona testo";
 "AddContentBlock" = "Aggiungi blocco di contenuti";
 "AddDate" = "Aggiungi data";
+"ChooseDate" = "Choose Date";
 "DismissKeyboard" = "Elimina tastiera";
 "MarkTask" = "Segna attività come completata";
 "Night" = "Passa a modalità notturna";
@@ -109,8 +114,6 @@
 "Replace" = "Cerca e sostituisci sul documento";
 "Compose" = "Nuovo documento";
 "CopyAll" = "Copia tutto";
-"CopyFormatted" = "Copia formattato";
-"CopyHTML" = "Copia HTML";
 "PrintFormatted" = "Stampa formattato";
 "Print" = "Stampa";
 "ExportTXT" = "Esporta a TXT";

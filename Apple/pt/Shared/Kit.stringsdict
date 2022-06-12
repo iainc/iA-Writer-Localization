@@ -2,6 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Library_Path_Matches</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Caminho da biblioteca (%#@correspondências@)</string>
+		<key>matches</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu correspondência</string>
+			<key>other</key>
+			<string>%tu correspondências</string>
+		</dict>
+	</dict>
+	<key>Search_Results</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Pesquisar (%#@resultados@)</string>
+		<key>results</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu resultado</string>
+			<key>other</key>
+			<string>%tu resultados</string>
+		</dict>
+	</dict>
 	<key>Stats_Characters</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
@@ -57,6 +89,20 @@
 			<string>%tu Tarefa</string>
 			<key>other</key>
 			<string>%tu Tarefas</string>
+		</dict>
+	</dict>
+	<key>Stats_Without_Spaces</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@chars@</string>
+		<key>chars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>other</key>
+			<string>%tu Sem Espaços</string>
 		</dict>
 	</dict>
 	<key>Stats_Words</key>

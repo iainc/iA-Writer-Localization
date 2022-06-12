@@ -1,6 +1,12 @@
 
+/* Class = "NSTextFieldCell"; title = "File extensions:"; ObjectID = "0IN-f9-orW"; */
+"0IN-f9-orW.title" = "Dateierweiterungen:";
+
 /* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
 "7Ng-I8-X9P.title" = "Mit Systemerscheinungsbild abgleichen";
+
+/* Class = "NSButtonCell"; title = "Show file extensions"; ObjectID = "8NU-YT-G88"; */
+"8NU-YT-G88.title" = "Dateierweiterungen anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
 "8RM-fb-kKC.title" = "Automatisierung:";
@@ -14,23 +20,17 @@
 /* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
 "BDr-jl-Y9p.title" = "Icon im Dock:";
 
-/* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
-"E5V-bl-YDo.title" = "WordPress:";
-
-/* Class = "NSTextFieldCell"; title = "Gestures:"; ObjectID = "EKU-lN-yAq"; */
-"EKU-lN-yAq.title" = "Gesten:";
-
-/* Class = "NSTextFieldCell"; title = "Medium:"; ObjectID = "GOB-Zh-pBT"; */
-"GOB-Zh-pBT.title" = "Medium:";
-
 /* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "LlI-C5-bpg"; */
 "LlI-C5-bpg.title" = "Werkzeugleiste:";
 
-/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
-"Lup-ic-GtQ.title" = "Konto";
+/* Class = "NSTextFieldCell"; title = "Window:"; ObjectID = "Luh-fz-AAE"; */
+"Luh-fz-AAE.title" = "Fenster:";
 
 /* Class = "NSButtonCell"; title = "Enable URL commands"; ObjectID = "Oh0-bg-EXQ"; */
 "Oh0-bg-EXQ.title" = "URL-Befehle aktivieren";
+
+/* Class = "NSButtonCell"; title = "Always resize window to show Library"; ObjectID = "Os5-IG-gLB"; */
+"Os5-IG-gLB.title" = "Fenstergröße immer anpassen & Bibliothek anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
 "Rnn-Wj-4HI.title" = "Erscheinungsbild:";
@@ -44,26 +44,26 @@
 /* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
 "UpS-Li-DCu.title" = "Verwalten …";
 
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "W2O-dO-Pds"; */
-"W2O-dO-Pds.title" = "Konto entfernen";
-
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "ar9-tg-u1B"; */
-"ar9-tg-u1B.title" = "Konto entfernen";
+/* Class = "NSTextFieldCell"; title = "Title bar:"; ObjectID = "Ws8-XL-Ktr"; */
+"Ws8-XL-Ktr.title" = "Titelleiste:";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
 "c8E-lj-f6I.title" = "Ausblenden";
 
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "dUf-up-413"; */
+"dUf-up-413.title" = "Ein/ausblenden";
+
 /* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
 "ilj-nk-Mxd.title" = "Synchronisiertes Scrolling";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "ioq-21-L8D"; */
+"ioq-21-L8D.title" = "Anzeigen";
 
 /* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
 "j0k-Io-Sa4.title" = "Anzeigen";
 
 /* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
 "pJV-vk-Inh.title" = "Wischbewegung für Bedien-Elemente";
-
-/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
-"sN4-AX-e4A.title" = "Konto";
 
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
 "vB9-wl-rUL.title" = "Hell";

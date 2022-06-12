@@ -1,12 +1,18 @@
 
+/* Class = "NSTextFieldCell"; title = "Style check:"; ObjectID = "4qf-5k-bc5"; */
+"4qf-5k-bc5.title" = "Style checking:";
+
 /* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
 "6L5-CK-rbm.title" = "拼写和语法：";
 
 /* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "6pk-3q-M1t"; */
 "6pk-3q-M1t.title" = "Japanese";
 
-/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "7iw-vf-YLb"; */
-"7iw-vf-YLb.title" = "文本大小：";
+/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "83E-Gu-Ase"; */
+"83E-Gu-Ase.title" = "语言：";
+
+/* Class = "NSButtonCell"; title = "Clichés"; ObjectID = "8YN-0k-52S"; */
+"8YN-0k-52S.title" = "Clichés";
 
 /* Class = "NSMenuItem"; title = "System — Default"; ObjectID = "9Ad-h2-Ffu"; */
 "9Ad-h2-Ffu.title" = "System — Default";
@@ -17,14 +23,20 @@
 /* Class = "NSMenuItem"; title = "Simplified Chinese"; ObjectID = "C1b-T8-UKG"; */
 "C1b-T8-UKG.title" = "Simplified Chinese";
 
-/* Class = "NSTextFieldCell"; title = "Syntax highlight:"; ObjectID = "DL6-wL-dFh"; */
+/* Class = "NSTextFieldCell"; title = "Syntax:"; ObjectID = "DL6-wL-dFh"; */
 "DL6-wL-dFh.title" = "语法高亮：";
 
 /* Class = "NSTextFieldCell"; title = "A"; ObjectID = "F4u-Y8-AKd"; */
 "F4u-Y8-AKd.title" = "A";
 
+/* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "GBD-zA-wZV"; */
+"GBD-zA-wZV.title" = "Enable Last Used";
+
 /* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "IkY-dB-hew"; */
-"IkY-dB-hew.title" = "版式:";
+"IkY-dB-hew.title" = "版式：";
+
+/* Class = "NSButtonCell"; title = "Strikethrough"; ObjectID = "Imx-aM-oC4"; */
+"Imx-aM-oC4.title" = "Strikethrough";
 
 /* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
 "JpA-gV-jQe.title" = "文本置换";
@@ -35,8 +47,14 @@
 /* Class = "NSMenuItem"; title = "Quattro"; ObjectID = "LjQ-8o-hLY"; */
 "LjQ-8o-hLY.title" = "Quattro";
 
+/* Class = "NSTextFieldCell"; title = "Line length limit:"; ObjectID = "M03-ZX-hvE"; */
+"M03-ZX-hvE.title" = "每行长度上限：";
+
 /* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
 "Muo-8w-HeG.title" = "聚焦范围：";
+
+/* Class = "NSTextFieldCell"; title = "Built-in patterns for English, French, German."; ObjectID = "NJh-qd-ap3"; */
+"NJh-qd-ap3.title" = "Built-in patterns for English, French, German.";
 
 /* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
 "ODb-aW-xzV.title" = "72";
@@ -50,14 +68,29 @@
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "SX8-w8-P8A"; */
 "SX8-w8-P8A.title" = "Default";
 
+/* Class = "NSTextFieldCell"; title = "Completed tasks:"; ObjectID = "Tx6-0W-msN"; */
+"Tx6-0W-msN.title" = "任务：";
+
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
 "Wed-ZH-mmU.title" = "打字机";
+
+/* Class = "NSTextFieldCell"; title = "Advanced:"; ObjectID = "ZVG-gk-6xW"; */
+"ZVG-gk-6xW.title" = "高级：";
 
 /* Class = "NSMenuItem"; title = "Monospaced"; ObjectID = "Zfe-pD-b7Z"; */
 "Zfe-pD-b7Z.title" = "双距";
 
 /* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "aae-lC-eDI"; */
 "aae-lC-eDI.title" = "Duospaced";
+
+/* Class = "NSTextFieldCell"; title = "Highlight color:"; ObjectID = "bpW-0u-u88"; */
+"bpW-0u-u88.title" = "突出颜色：";
+
+/* Class = "NSButtonCell"; title = "Custom"; ObjectID = "d8E-l0-S4B"; */
+"d8E-l0-S4B.title" = "Custom";
+
+/* Class = "NSButtonCell"; title = "Fade"; ObjectID = "dPl-Rq-CpB"; */
+"dPl-Rq-CpB.title" = "Fade";
 
 /* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
 "dqc-LX-3Cd.title" = "智能替换：";
@@ -73,6 +106,9 @@
 
 /* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "gDR-81-YkH"; Note = "SKIP LOCALIZATION"; */
 "gDR-81-YkH.title" = "段落";
+
+/* Class = "NSButtonCell"; title = "Custom Patterns…"; ObjectID = "hSp-Lu-7pZ"; */
+"hSp-Lu-7pZ.title" = "Edit…";
 
 /* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */
 "hdF-Eo-fOe.title" = "虚线​​";
@@ -113,8 +149,17 @@
 /* Class = "NSButtonCell"; title = "Verbs"; ObjectID = "u5B-6y-Y8m"; */
 "u5B-6y-Y8m.title" = "Verbs";
 
+/* Class = "NSButtonCell"; title = "Redundancies"; ObjectID = "vPu-2U-PzL"; */
+"vPu-2U-PzL.title" = "Redundancies";
+
 /* Class = "NSTextFieldCell"; title = "A"; ObjectID = "wgb-xJ-AmL"; */
 "wgb-xJ-AmL.title" = "A";
 
 /* Class = "NSTextFieldCell"; title = "characters per line"; ObjectID = "xtj-Jw-ENi"; */
 "xtj-Jw-ENi.title" = "每行字数";
+
+/* Class = "NSButtonCell"; title = "Fillers"; ObjectID = "yhw-gf-1Ns"; */
+"yhw-gf-1Ns.title" = "Fillers";
+
+/* Class = "NSTextFieldCell"; title = "Emphasis:"; ObjectID = "yqQ-oe-okL"; */
+"yqQ-oe-okL.title" = "着重号：";

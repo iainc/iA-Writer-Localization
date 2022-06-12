@@ -1,36 +1,36 @@
 
+/* Class = "NSTextFieldCell"; title = "File extensions:"; ObjectID = "0IN-f9-orW"; */
+"0IN-f9-orW.title" = "副檔名：";
+
 /* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
 "7Ng-I8-X9P.title" = "符合系統外觀";
+
+/* Class = "NSButtonCell"; title = "Show file extensions"; ObjectID = "8NU-YT-G88"; */
+"8NU-YT-G88.title" = "顯示副檔名";
 
 /* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
 "8RM-fb-kKC.title" = "自動化：";
 
 /* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
-"8Ra-gX-fPi.title" = "暗色";
+"8Ra-gX-fPi.title" = "深色";
 
 /* Class = "NSButtonCell"; title = "Dark"; ObjectID = "ACg-Xt-HjR"; */
-"ACg-Xt-HjR.title" = "暗色";
+"ACg-Xt-HjR.title" = "深色";
 
 /* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
 "BDr-jl-Y9p.title" = "Dock 圖標：";
 
-/* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
-"E5V-bl-YDo.title" = "WordPress：";
-
-/* Class = "NSTextFieldCell"; title = "Gestures:"; ObjectID = "EKU-lN-yAq"; */
-"EKU-lN-yAq.title" = "手勢：";
-
-/* Class = "NSTextFieldCell"; title = "Medium:"; ObjectID = "GOB-Zh-pBT"; */
-"GOB-Zh-pBT.title" = "Medium：";
-
 /* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "LlI-C5-bpg"; */
 "LlI-C5-bpg.title" = "工具欄：";
 
-/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
-"Lup-ic-GtQ.title" = "帳戶名稱";
+/* Class = "NSTextFieldCell"; title = "Window:"; ObjectID = "Luh-fz-AAE"; */
+"Luh-fz-AAE.title" = "視窗：";
 
 /* Class = "NSButtonCell"; title = "Enable URL commands"; ObjectID = "Oh0-bg-EXQ"; */
 "Oh0-bg-EXQ.title" = "啟用 URL 命令";
+
+/* Class = "NSButtonCell"; title = "Always resize window to show Library"; ObjectID = "Os5-IG-gLB"; */
+"Os5-IG-gLB.title" = "一律以調整視窗大小來顯示文件庫";
 
 /* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
 "Rnn-Wj-4HI.title" = "外觀：";
@@ -44,26 +44,26 @@
 /* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
 "UpS-Li-DCu.title" = "管理…";
 
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "W2O-dO-Pds"; */
-"W2O-dO-Pds.title" = "移除帳戶";
-
-/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "ar9-tg-u1B"; */
-"ar9-tg-u1B.title" = "移除帳戶";
+/* Class = "NSTextFieldCell"; title = "Title bar:"; ObjectID = "Ws8-XL-Ktr"; */
+"Ws8-XL-Ktr.title" = "標題欄：";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
 "c8E-lj-f6I.title" = "隱藏";
 
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "dUf-up-413"; */
+"dUf-up-413.title" = "淡入/淡出";
+
 /* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
 "ilj-nk-Mxd.title" = "預覽與編輯器同步捲動";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "ioq-21-L8D"; */
+"ioq-21-L8D.title" = "經常顯示";
 
 /* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
 "j0k-Io-Sa4.title" = "經常顯示";
 
 /* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
-"pJV-vk-Inh.title" = "滑動以顯示資料庫或預覽";
-
-/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
-"sN4-AX-e4A.title" = "帳戶名稱";
+"pJV-vk-Inh.title" = "滑動以顯示文件庫或預覽";
 
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
 "vB9-wl-rUL.title" = "淺色";

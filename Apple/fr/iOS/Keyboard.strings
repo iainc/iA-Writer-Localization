@@ -7,8 +7,18 @@
 "Key_Picker_Action_Reset" = "Réinitialiser la configuration du clavier";
 "Key_Picker_Action_Cancel" = "Annuler";
 
+"Menu_Quick_Search" = "Recherche rapide";
+"Menu_Find" = "Rechercher et remplacer";
+"Menu_Replace" = "Remplacer";
+"Menu_Replace_All" = "Tout remplacer";
+
 "Find_Placeholder" = "Trouver";
 "Find_Replace_Placeholder" = "Remplacer";
+
+"Key_Description_Lightning" = "Éclair";
+"Key_Description_Insert_Selected_Completion" = "Insérer le résultat sélectionné";
+"Key_Description_Cancel" = "Annuler";
+"Key_Description_Open_Link" = "Ouvrir le lien";
 
 "Key_Description_Find" = "Barre de recherche";
 "Key_Description_Show_Find" = "Afficher la barre de recherche";
@@ -17,6 +27,12 @@
 "Key_Description_Find_Previous" = "Trouver précédent";
 "Key_Description_Replace" = "Remplacer";
 "Key_Description_Replace_All" = "Remplacer tout";
+
+"Find_Contains" = "Contient";
+"Find_Matches_Word" = "Correspond au mot";
+"Find_Starts_With" = "Commence par";
+"Find_Ends_With" = "Se termine par";
+"Find_Regular_Expression" = "Expression régulière";
 
 "Key_Description_Search" = "Rechercher";
 "Key_Description_Command" = "Commandes";
@@ -32,12 +48,12 @@
 "Key_Description_Dismiss_Menu" = "Supprimer le menu";
 
 "Key_Title_Return" = "Retour";
-"Key_Title_Shift_Right" = "Tabulation";
-"Key_Title_Shift_Left" = "Tabulation arrière";
+"Key_Title_Tab" = "Tabulation";
+"Key_Title_Backtab" = "Tabulation arrière";
 "Key_Title_Home" = "Accueil";
 "Key_Title_End" = "Fin";
-"Key_Title_Shift_Up" = "Déplacer\nTexte ↑";
-"Key_Title_Shift_Down" = "Déplacer\nTexte ↓";
+"Key_Title_Move_Text_Up" = "Déplacer\nTexte ↑";
+"Key_Title_Move_Text_Down" = "Déplacer\nTexte ↓";
 "Key_Title_Undo" = "Annuler";
 "Key_Title_Redo" = "Refaire";
 
@@ -46,10 +62,16 @@
 "Key_Description_Delete_Backward" = "Retour arrière";
 "Key_Description_Delete_Paragraph" = "Supprimer le praragraphe";
 "Key_Description_Dismiss_Keyboard" = "Masquer le clavier";
-"Key_Description_Shift_Left" = "Désindenter";
-"Key_Description_Shift_Right" = "Indenter";
-"Key_Description_Shift_Up" = "Déplacer le paragraphe vers le haut";
-"Key_Description_Shift_Down" = "Déplacer le paragraphe vers le bas";
+"Key_Description_Backtab" = "Désindenter";
+"Key_Description_Tab" = "Indenter";
+"Key_Description_Outdent" = "Désindenter";
+"Key_Description_Indent" = "Indenter";
+"Key_Description_Move_Text_Up" = "Déplacer d’une ligne au dessus";
+"Key_Description_Move_Text_Down" = "Déplacer une ligne vers le bas";
 "Key_Description_Dismiss_Keyboard" = "Masquer le clavier";
 "Key_Description_Move_To_Beginning" = "Aller au début du document";
 "Key_Description_Move_To_End" = "Aller à la fin du document";
+
+"Lightning_Size" = "Taille";
+"Lightning_Size_Regular" = "Régulière";
+"Lightning_Size_Compact" = "Compacte";

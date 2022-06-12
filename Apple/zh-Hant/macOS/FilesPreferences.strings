@@ -1,4 +1,10 @@
 
+/* Class = "NSTextFieldCell"; title = "Saving:"; ObjectID = "DAH-ta-FHC"; */
+"DAH-ta-FHC.title" = "儲存中：";
+
+/* Class = "NSTextFieldCell"; title = "Files are always automatically saved. \nIf selected, files will ask whether you want \nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
+"GLa-Mz-lpI.title" = "檔案一律會自動儲存。選取檔案時，系統將詢問您是否要在關閉時保留或還原變更。";
+
 /* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "按下 ⌘N 或在沒有開啟其他檔案的情況下點擊 Dock 圖標，便會執行偏好操作。\n按 ⌥⌘N 則會執行復原操作。";
 
@@ -12,13 +18,16 @@
 "UWl-8e-UTr.title" = "新檔案均以此為副檔名。\n僅允許使用純文字檔案格式。";
 
 /* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
-"XcW-DB-W12.title" = "檔案將自動建立在資料庫。";
+"XcW-DB-W12.title" = "檔案將自動建立在文件庫。";
+
+/* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
+"dT3-nQ-wep.title" = "要求在關閉時保留變更";
 
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
-"faP-Wx-ytF.title" = "資料庫新文件";
+"faP-Wx-ytF.title" = "文件庫新文件";
 
 /* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
 "vCs-49-KMB.title" = "文件會在關閉時詢問您是否儲存。";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
-"whG-r6-ibK.title" = "默認範圍：";
+"whG-r6-ibK.title" = "預設範圍：";

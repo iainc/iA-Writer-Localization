@@ -2,6 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Library_Path_Matches</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>文件庫路徑 (%#@matches@)</string>
+		<key>matches</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>other</key>
+			<string>%tu 筆相符結果</string>
+		</dict>
+	</dict>
+	<key>Search_Results</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>搜尋 (%#@results@)</string>
+		<key>results</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>other</key>
+			<string>%tu 筆結果</string>
+		</dict>
+	</dict>
 	<key>Stats_Characters</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
@@ -51,6 +79,20 @@
 			<string>tu</string>
 			<key>other</key>
 			<string>%tu已完成任務</string>
+		</dict>
+	</dict>
+	<key>Stats_Without_Spaces</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@chars@</string>
+		<key>chars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>other</key>
+			<string>%tu沒有空格</string>
 		</dict>
 	</dict>
 	<key>Stats_Words</key>

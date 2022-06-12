@@ -13,9 +13,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>caractère par ligne</string>
+			<string>caractère</string>
 			<key>other</key>
-			<string>caractères par ligne</string>
+			<string>caractères</string>
 		</dict>
 	</dict>
 	<key>Library_Delete_Confrimation_Message_Multiple</key>

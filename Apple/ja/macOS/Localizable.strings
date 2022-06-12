@@ -12,6 +12,9 @@
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "ライブラリー内に新規ファイル";
 
+/* New. Menu item title for creating new documents in Library in current window. */
+"New_Document_In_Library_In_Window_Menu" = "ウインドウ内ライブラリの新規ファイル";
+
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "新規";
 
@@ -27,11 +30,13 @@
 /* Stats editor toolbar title. */
 "Editor_Toolbar_Stats_Menu" = "統計情報";
 
-/* Contextual menu to copy formatted text. */
-"Editor_Copy_Formatted_Menu" = "フォーマット済テキストをコピー";
-
-/* Contextual menu to copy HTML. */
-"Editor_Copy_HTML_Menu" = "HTMLをコピー";
+"Menu_Share" = "共有";
+"Menu_Publish" = "公開";
+"Menu_Export" = "書き出し";
+"Menu_Export_With_Ellipsis" = "書き出し…";
+"Menu_Print" = "印刷";
+"Menu_Print_Formatted" = "印刷…";
+"Menu_Print_Plain_Text" = "テキストを印刷する…";
 
 /*----
  Trial
@@ -82,36 +87,6 @@
 /* Export panel format picker label. */
 "Export_Panel_Export_To_Label" = "書き出す：";
 
-/* Microsoft Word export format. */
-"Export_Format_Word_Name" = "Microsoft Word";
-
-/* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Microsoft Word（2007以降）、Apple Pages、Google Docsとの互換性があります";
-
-/* HTML export format. */
-"Export_Format_HTML_Name" = "HTML";
-
-/* HTML export format description. */
-"Export_Format_HTML_Description" = "基本的なHTML";
-
-/* PDF export format. */
-"Export_Format_PDF_Name" = "PDF";
-
-/* PDF export format description. */
-"Export_Format_PDF_Description" = "レイアウト変更は ファイル > ページ設定 を選択";
-
-/* Plain text export format. */
-"Export_Format_Markdown_Name" = "Markdown";
-
-/* Plain text export format description. */
-"Export_Format_Markdown_Description" = "多くのテキストエディタと高い互換性";
-
-/* Project archive text export format. */
-"Export_Format_Project_Archive_Name" = "プロジェクトアーカイブ";
-
-/* Plain text export format description. */
-"Export_Format_Project_Archive_Description" = "埋め込まれたコンテンツブロックも含まれます";
-
 /* Checkmark title in print options. */
 "Print_Header" = "ヘッダをプリント";
 
@@ -135,18 +110,6 @@
  Window
  -----*/
 
-/* Menu item to hide library. */
-"Hide_Library" = "ライブラリを非表示化";
-
-/* Menu item to hide preview. */
-"Hide_Preview" = "プレビューを非表示化";
-
-/* Menu item to show library. */
-"Show_Library" = "ライブラリを表示";
-
-/* Menu item to show preview. */
-"Show_Preview" = "プレビューを表示";
-
 /* Menu item to show preview. */
 "Show_Source_List" = "オーガナイザを表示";
 
@@ -169,10 +132,10 @@
 "Preview_Toolbar_Export" = "書き出し";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "半分";
+"Preview_Layout_Split" = "半幅";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "全幅";
+"Preview_Layout_Full" = "全幅";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "プレビューできるコンテンツがありません";
@@ -180,18 +143,6 @@
 /*------
  Library
  ------*/
-
-/* Button title to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order" = "カスタム";
-
-/* Button tooltip to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order_Tooltip" = "現在の表示でカスタム並べ替えを使う";
-
-/* Go menu item title to go back. */
-"Library_Go_Back" = "戻る";
-
-/* Go menu item title to go forward. */
-"Library_Go_Forward" = "進む";
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "内包しているフォルダ";
@@ -205,9 +156,6 @@
 
 /* Deletion confrimation infromative text for a local item. */
 "Library_Delete_Confrimation_Informative_Text" = "このアクションはやり直しできません。";
-
-/* No comment provided by engineer. */
-"Library_Delete_Confrimation_Button" = "削除";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "コンテンツなし";
@@ -240,15 +188,6 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "Get Info";
 
-/* Menu to copy library path for an item in Library. */
-"Library_Action_Copy_Library_Path" = "ライブラリパスのコピー";
-
-/* Menu to copy URL command path for an item in Library. */
-"Library_Action_Copy_URL_Command_Path" = "URLコマンドパスをコピー";
-
-/* Menu to copy URL command to open file for an item in Library. */
-"Library_Action_Copy_URL_Command_To_Open_File" = "URLコマンドをコピーしてファイルを開く";
-
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "並べ替え";
 
@@ -276,8 +215,8 @@
 /* Search menu item to show currently selected document in Library. */
 "Show_In_Library" = "ライブラリ内に表示";
 
-/* Search field placeholder. */
-"Library_Search_Field_Placeholder" = "フィルター";
+/* Library filter field placeholder. */
+"Library_Filter_Field_Placeholder" = "フィルター";
 
 /* Loading content message for document library. */
 "Library_Loading_Message" = "ドキュメントを同期しています。ライブラリの大きさによっては数分かかる場合があります。";
@@ -337,18 +276,6 @@
  Editor
  -----*/
 
-/* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "フォーカスモードを有効化";
-
-/* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "フォーカスモードを無効化";
-
-/* Menu title to enable syntax highlight. */
-"Menu_Enable_Syntax_Higlight" = "シンタックスハイライトを有効化";
-
-/* Menu title to disable syntax highlight. */
-"Menu_Disable_Syntax_Higlight" = "シンタックスハイライトを無効化";
-
 /* Apply English title capitalization to selected text. */
 "Make_Title_Case" = "語頭を大文字にする（ヘッドラインスタイル）";
 
@@ -391,6 +318,15 @@
 /* Bold inline element name. */
 "Inline_Element_Bold" = "太字";
 
+/* Bold inline element name. */
+"Inline_Element_Code" = "コード";
+
+/* Bold inline element name. */
+"Inline_Element_Highlight" = "ハイライト";
+
+/* Wikilink inline element name. */
+"Inline_Element_Wikilink" = "ウィキリンク";
+
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "取消線";
 
@@ -425,6 +361,9 @@
 /* General preferences pane title. */
 "Preferences_Pane_Title_General" = "一般";
 
+/* Sharing preferences pane title. */
+"Preferences_Pane_Title_Accounts" = "アカウント";
+
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "ファイル";
 
@@ -437,11 +376,8 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "テンプレート";
 
-/* Button to add account in preferences. */
-"Preferences_Add_Account_Button" = "アカウント追加…";
-
-/* Button to remove account in preferences. */
-"Preferences_Remove_Account_Button" = "アカウント削除";
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
 "URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "認証トークンをリセットしてもよろしいですか?";
@@ -454,6 +390,24 @@
 
 /* URL scheme first use alert informative text. */
 "URL_Scheme_First_Use_Informative_Text" = "この設定は後から環境設定で変更することができます。";
+
+/* Markdown processing lazy paragraphs. */
+"Markdown_Lazy_Paragraphs" = "エンターキーを一度押すと新しい段落が始まります";
+
+"Markdown_Lazy_Paragraphs_Description" = "デフォルトでは、マークダウンには段落間に2つのリターン（空白行）が必要です。有効に設定すると、1回のリターンで新しい段落が始まります。";
+
+"Markdown_Lazy_Paragraphs_Warning" = "iA Writerの旧バージョンとの互換性のために提供されました。他のマークダウンプロセッサーではサポートされていません。";
+
+/* Markdown processing smart punctuation. */
+"Markdown_Smart_Punctuation" = "スマート括弧を適用";
+
+"Markdown_Smart_Punctuation_Description" = "直線状の引用符とプレーンダッシュをフォーマット化された\n出力すべてのスマートな対応記号に変換します。";
+
+"Markdown_Metadata_Tab" = "メタデータ";
+
+"Markdown_Library_Paths_And_Links_Tab" = "ライブラリのパスとリンク";
+
+"Markdown_Processing_Tab" = "処理";
 
 /*-----------
  Quick Search

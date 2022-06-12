@@ -11,6 +11,14 @@
 "%[dateModified]@ %[begins with]@ %@" = "%1$[수정한 날짜]@ %2$[과거 항목을 포함함]@ %3$[^일수]@";
 "%[dateModified]@ %[ends with]@ %@" = "%1$[수정한 날짜]@ %2$[과거 항목을 포함하지 않음]@ %3$[^일수]@";
 
+/* Date created kind rule templates. */
+"%[dateCreated]@ %[is less than]@ %@" = "%1$[생성한 날짜]@ %2$[이전]@ %3$@";
+"%[dateCreated]@ %[is greater than]@ %@" = "%1$[생성한 날짜]@ %2$[이후]@ %3$@";
+
+/* Date created relative rule templates. */
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[생성한 날짜]@ %2$[과거 항목을 포함함]@ %3$[^일수]@";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[생성한 날짜]@ %2$[과거 항목을 포함하지 않음]@ %3$[^일수]@";
+
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[유형]@ %2$[해당함]@ %3$[텍스트]@";
 "%[kind]@ %[is not]@ %[text]@" = "%1$[유형]@ %2$[해당하지 않음]@ %3$[텍스트]@";

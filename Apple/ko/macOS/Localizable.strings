@@ -12,6 +12,9 @@
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "라이브러리에 새로 만들기";
 
+/* New. Menu item title for creating new documents in Library in current window. */
+"New_Document_In_Library_In_Window_Menu" = "창의 라이브러리에서 새로 만들기";
+
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "새로 만들기";
 
@@ -27,11 +30,13 @@
 /* Stats editor toolbar title. */
 "Editor_Toolbar_Stats_Menu" = "통계만";
 
-/* Contextual menu to copy formatted text. */
-"Editor_Copy_Formatted_Menu" = "서식 복사";
-
-/* Contextual menu to copy HTML. */
-"Editor_Copy_HTML_Menu" = "HTML 복사";
+"Menu_Share" = "공유";
+"Menu_Publish" = "게시";
+"Menu_Export" = "내보내기";
+"Menu_Export_With_Ellipsis" = "내보내기…";
+"Menu_Print" = "인쇄";
+"Menu_Print_Formatted" = "인쇄…";
+"Menu_Print_Plain_Text" = "일반 텍스트 인쇄…";
 
 /*----
  Trial
@@ -82,36 +87,6 @@
 /* Export panel format picker label. */
 "Export_Panel_Export_To_Label" = "내보낼 곳:";
 
-/* Microsoft Word export format. */
-"Export_Format_Word_Name" = "Microsoft Word";
-
-/* Microsoft Word export format description. */
-"Export_Format_Word_Description" = "Microsoft Word 2007 이상 버전, Apple Pages 및 Google Docs와 호환됩니다.";
-
-/* HTML export format. */
-"Export_Format_HTML_Name" = "HTML";
-
-/* HTML export format description. */
-"Export_Format_HTML_Description" = "일반 HTML.";
-
-/* PDF export format. */
-"Export_Format_PDF_Name" = "PDF";
-
-/* PDF export format description. */
-"Export_Format_PDF_Description" = "PDF 레이아웃을 변경하려면, 파일 > 페이지 설정을 선택하세요.";
-
-/* Plain text export format. */
-"Export_Format_Markdown_Name" = "마크다운";
-
-/* Plain text export format description. */
-"Export_Format_Markdown_Description" = "다른 편집기들과 호환됩니다.";
-
-/* Project archive text export format. */
-"Export_Format_Project_Archive_Name" = "프로젝트 아카이브";
-
-/* Plain text export format description. */
-"Export_Format_Project_Archive_Description" = "관련된 콘텐츠 블록을 포함합니다.";
-
 /* Checkmark title in print options. */
 "Print_Header" = "머리글 인쇄";
 
@@ -135,18 +110,6 @@
  Window
  -----*/
 
-/* Menu item to hide library. */
-"Hide_Library" = "라이브러리 숨기기";
-
-/* Menu item to hide preview. */
-"Hide_Preview" = "미리 보기 숨기기";
-
-/* Menu item to show library. */
-"Show_Library" = "라이브러리 표시";
-
-/* Menu item to show preview. */
-"Show_Preview" = "미리 보기 표시";
-
 /* Menu item to show preview. */
 "Show_Source_List" = "오거나이저 표시";
 
@@ -169,10 +132,10 @@
 "Preview_Toolbar_Export" = "내보내기";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Half_Width" = "반각";
+"Preview_Layout_Split" = "분할하는";
 
 /* Preview sizes in preview toolbar. */
-"Preview_Toolbar_Full_Width" = "전각";
+"Preview_Layout_Full" = "전각";
 
 /* Message shown over empty preview. */
 "Preview_Content_Placeholder" = "미리 볼 콘텐츠가 없습니다";
@@ -180,18 +143,6 @@
 /*------
  Library
  ------*/
-
-/* Button title to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order" = "사용자 정의";
-
-/* Button tooltip to toggle custom smart folder sort order. */
-"Library_Custom_Sort_Order_Tooltip" = "현재 보기에 사용자 정의 정렬 순서를 사용합니다";
-
-/* Go menu item title to go back. */
-"Library_Go_Back" = "뒤로";
-
-/* Go menu item title to go forward. */
-"Library_Go_Forward" = "앞으로";
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "상위 폴더";
@@ -205,9 +156,6 @@
 
 /* Deletion confrimation infromative text for a local item. */
 "Library_Delete_Confrimation_Informative_Text" = "이 작업은 취소할 수 없습니다.";
-
-/* No comment provided by engineer. */
-"Library_Delete_Confrimation_Button" = "삭제";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "빈 문서";
@@ -240,15 +188,6 @@
 /* Menu get info about an item in Library. */
 "Library_Action_Get_Info" = "정보 확인";
 
-/* Menu to copy library path for an item in Library. */
-"Library_Action_Copy_Library_Path" = "라이브러리 경로 복사";
-
-/* Menu to copy URL command path for an item in Library. */
-"Library_Action_Copy_URL_Command_Path" = "URL 명령 경로 복사";
-
-/* Menu to copy URL command to open file for an item in Library. */
-"Library_Action_Copy_URL_Command_To_Open_File" = "URL 명령을 복사하여 파일 열기";
-
 /* Menu to change sorting in Library. */
 "Library_Action_Sort_By" = "정렬 기준";
 
@@ -271,13 +210,13 @@
 "Library_Action_Duplicate" = "복제";
 
 /* Menu to show currently selected document in Finder. */
-"Show_In_Finder" = "파인더에서 표시";
+"Show_In_Finder" = "Finder에서 표시";
 
 /* Search menu item to show currently selected document in Library. */
 "Show_In_Library" = "라이브러리에서 표시";
 
-/* Search field placeholder. */
-"Library_Search_Field_Placeholder" = "필터";
+/* Library filter field placeholder. */
+"Library_Filter_Field_Placeholder" = "필터";
 
 /* Loading content message for document library. */
 "Library_Loading_Message" = "문서를 불러오는 중입니다... 라이브러리가 크면 이 작업은 수 분 소요될 수 있습니다.";
@@ -337,18 +276,6 @@
  Editor
  -----*/
 
-/* Menu title to enable focus mode. */
-"Menu_Enable_Focus_Mode" = "포커스 모드 활성화";
-
-/* Menu title to disable focus mode. */
-"Menu_Disable_Focus_Mode" = "포커스 모드 비활성화";
-
-/* Menu title to enable syntax highlight. */
-"Menu_Enable_Syntax_Higlight" = "구문 강조 표시 활성화";
-
-/* Menu title to disable syntax highlight. */
-"Menu_Disable_Syntax_Higlight" = "구문 강조 표시 비활성화";
-
 /* Apply English title capitalization to selected text. */
 "Make_Title_Case" = "첫 글자만 대문자";
 
@@ -391,6 +318,15 @@
 /* Bold inline element name. */
 "Inline_Element_Bold" = "볼드체";
 
+/* Bold inline element name. */
+"Inline_Element_Code" = "코드";
+
+/* Bold inline element name. */
+"Inline_Element_Highlight" = "강조 표시를";
+
+/* Wikilink inline element name. */
+"Inline_Element_Wikilink" = "위키링크";
+
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "취소선";
 
@@ -425,6 +361,9 @@
 /* General preferences pane title. */
 "Preferences_Pane_Title_General" = "일반";
 
+/* Sharing preferences pane title. */
+"Preferences_Pane_Title_Accounts" = "계정";
+
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "파일";
 
@@ -437,11 +376,8 @@
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "템플릿";
 
-/* Button to add account in preferences. */
-"Preferences_Add_Account_Button" = "계정 추가...";
-
-/* Button to remove account in preferences. */
-"Preferences_Remove_Account_Button" = "계정 제거";
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
 "URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "인증 토큰을 재설정하시겠습니까?";
@@ -454,6 +390,24 @@
 
 /* URL scheme first use alert informative text. */
 "URL_Scheme_First_Use_Informative_Text" = "환경 설정에서 나중에 변경할 수 있습니다.";
+
+/* Markdown processing lazy paragraphs. */
+"Markdown_Lazy_Paragraphs" = "Return 키를 한 번 눌러서 새로운 단락 시작";
+
+"Markdown_Lazy_Paragraphs_Description" = "By default, Markdown requires two returns (an empty line)\nbetween paragraphs. When enabled, a single return will start a new paragraph.";
+
+"Markdown_Lazy_Paragraphs_Warning" = "Provided for compatibility with older versions of iA Writer. Not supported by other Markdown processors.";
+
+/* Markdown processing smart punctuation. */
+"Markdown_Smart_Punctuation" = "스마트 구두점 적용";
+
+"Markdown_Smart_Punctuation_Description" = "Convert straight quotes and plain dashes into\nsmart counterparts for all formatted output.";
+
+"Markdown_Metadata_Tab" = "메타데이터";
+
+"Markdown_Library_Paths_And_Links_Tab" = "라이브러리 경로 및 링크";
+
+"Markdown_Processing_Tab" = "처리";
 
 /*-----------
  Quick Search
