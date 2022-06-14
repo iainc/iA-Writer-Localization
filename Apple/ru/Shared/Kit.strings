@@ -71,15 +71,15 @@
 "Open_URL_Command" = "Открыть URL-команду";
 "Open_URL_Command_Tooltip" = "⌘-нажатие мыши: открыть URL-команду";
 
-"Open_Wikilink" = "Открыть викиссылку";
-"Open_Wikilink_Tooltip" = "⌘-нажатие мыши: открыть викиссылку";
+"Open_Wikilink" = "Открыть вики-ссылку";
+"Open_Wikilink_Tooltip" = "⌘-нажатие мыши: открыть вики-ссылку";
 
 "Open_Item_Tooltip" = "⌘-нажатие мыши: открыть %@";
 "Open_New_Item_Tooltip" = "⌘-нажатие мыши: создать %@";
 
-"Open_Wikilink_In_Background_Window" = "Открыть викиссылку в фоновом окне";
+"Open_Wikilink_In_Background_Window" = "Открыть вики-ссылку в фоновом окне";
 
-"Accessibility_Wikilink" = "Викиссылка";
+"Accessibility_Wikilink" = "Вики-ссылка";
 "Accessibility_Link" = "Ссылка";
 "Accessibility_Hashtag" = "Хэштег";
 "Accessibility_Email" = "Эл. почта";
@@ -93,8 +93,8 @@
 "Blue" = "Синий";
 "Green" = "Зеленый";
 
-"Add_Wikilink" = "Добавить викиссылку";
-"Remove_Wikilink" = "Удалить викиссылку";
+"Add_Wikilink" = "Добавить вики-ссылку";
+"Remove_Wikilink" = "Удалить вики-ссылку";
 "Add_Link" = "Добавить ссылку";
 "Remove_Link" = "Удалить ссылку";
 "Add_Image_Link" = "Добавить ссылку на изображение";
@@ -161,7 +161,7 @@
 "Preview_Output_Description" = "Эти параметры будут использоваться в просмотре.";
 "Destination_Type_Description" = "Формат пути будет успользован для новых викиссылок и блоков контента.";
 "Content_Blocks" = "Блоки контента";
-"Wikilinks" = "Викиссылки";
+"Wikilinks" = "Вики-ссылки";
 "Hashtags" = "Хэштеги";
 "Autolinks" = "Авто-ссылки";
 

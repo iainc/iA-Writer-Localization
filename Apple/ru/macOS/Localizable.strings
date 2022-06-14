@@ -325,7 +325,7 @@
 "Inline_Element_Highlight" = "Выделенный";
 
 /* Wikilink inline element name. */
-"Inline_Element_Wikilink" = "Викиссылка";
+"Inline_Element_Wikilink" = "Вики-ссылка";
 
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Зачеркнутый";
