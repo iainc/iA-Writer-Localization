@@ -1,27 +1,27 @@
 
 /* Class = "NSTextFieldCell"; title = "Style check:"; ObjectID = "4qf-5k-bc5"; */
-"4qf-5k-bc5.title" = "Style checking:";
+"4qf-5k-bc5.title" = "Stilprüfung:";
 
 /* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
 "6L5-CK-rbm.title" = "Rechtschreibung:";
 
 /* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "6pk-3q-M1t"; */
-"6pk-3q-M1t.title" = "Japanese";
+"6pk-3q-M1t.title" = "Japanisch";
 
 /* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "83E-Gu-Ase"; */
 "83E-Gu-Ase.title" = "Sprache:";
 
 /* Class = "NSButtonCell"; title = "Clichés"; ObjectID = "8YN-0k-52S"; */
-"8YN-0k-52S.title" = "Clichés";
+"8YN-0k-52S.title" = "Klischees";
 
 /* Class = "NSMenuItem"; title = "System — Default"; ObjectID = "9Ad-h2-Ffu"; */
-"9Ad-h2-Ffu.title" = "System — Default";
+"9Ad-h2-Ffu.title" = "System — Standard";
 
 /* Class = "NSMenuItem"; title = "Traditional Chinese"; ObjectID = "9LR-eY-nQC"; */
-"9LR-eY-nQC.title" = "Traditional Chinese";
+"9LR-eY-nQC.title" = "Traditionelles Chinesisch";
 
 /* Class = "NSMenuItem"; title = "Simplified Chinese"; ObjectID = "C1b-T8-UKG"; */
-"C1b-T8-UKG.title" = "Simplified Chinese";
+"C1b-T8-UKG.title" = "Vereinfachtes Chinese";
 
 /* Class = "NSTextFieldCell"; title = "Syntax:"; ObjectID = "DL6-wL-dFh"; */
 "DL6-wL-dFh.title" = "Syntax:";
@@ -30,13 +30,13 @@
 "F4u-Y8-AKd.title" = "A";
 
 /* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "GBD-zA-wZV"; */
-"GBD-zA-wZV.title" = "Enable Last Used";
+"GBD-zA-wZV.title" = "Zuletzt verwendet";
 
 /* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "IkY-dB-hew"; */
 "IkY-dB-hew.title" = "Typografie:";
 
 /* Class = "NSButtonCell"; title = "Strikethrough"; ObjectID = "Imx-aM-oC4"; */
-"Imx-aM-oC4.title" = "Strikethrough";
+"Imx-aM-oC4.title" = "Durchgestrichen";
 
 /* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
 "JpA-gV-jQe.title" = "Textersetzung";
@@ -54,7 +54,7 @@
 "Muo-8w-HeG.title" = "Fokus:";
 
 /* Class = "NSTextFieldCell"; title = "Built-in patterns for English, French, German."; ObjectID = "NJh-qd-ap3"; */
-"NJh-qd-ap3.title" = "Built-in patterns for English, French, German.";
+"NJh-qd-ap3.title" = "Muster für Englisch, Französisch, Deutsch.";
 
 /* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
 "ODb-aW-xzV.title" = "72";
@@ -66,10 +66,10 @@
 "S60-FG-qNb.title" = "64";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "SX8-w8-P8A"; */
-"SX8-w8-P8A.title" = "Default";
+"SX8-w8-P8A.title" = "Standardeinstellung";
 
 /* Class = "NSTextFieldCell"; title = "Completed tasks:"; ObjectID = "Tx6-0W-msN"; */
-"Tx6-0W-msN.title" = "Aufgaben:";
+"Tx6-0W-msN.title" = "Erledigte Tasks:";
 
 /* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
 "Wed-ZH-mmU.title" = "Volltext";
@@ -81,22 +81,22 @@
 "Zfe-pD-b7Z.title" = "Duospace";
 
 /* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "aae-lC-eDI"; */
-"aae-lC-eDI.title" = "Duospaced";
+"aae-lC-eDI.title" = "Duospace";
 
 /* Class = "NSTextFieldCell"; title = "Highlight color:"; ObjectID = "bpW-0u-u88"; */
 "bpW-0u-u88.title" = "Hervorhebungsfarbe:";
 
 /* Class = "NSButtonCell"; title = "Custom"; ObjectID = "d8E-l0-S4B"; */
-"d8E-l0-S4B.title" = "Custom";
+"d8E-l0-S4B.title" = "Benutzerdefiniert";
 
 /* Class = "NSButtonCell"; title = "Fade"; ObjectID = "dPl-Rq-CpB"; */
-"dPl-Rq-CpB.title" = "Fade";
+"dPl-Rq-CpB.title" = "Ausblenden";
 
 /* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
 "dqc-LX-3Cd.title" = "Intelligente Ersetzungen:";
 
 /* Class = "NSMenuItem"; title = "Italic"; ObjectID = "e89-pc-oPV"; */
-"e89-pc-oPV.title" = "Italic";
+"e89-pc-oPV.title" = "Kursiv";
 
 /* Class = "NSMenuItem"; title = "Sentence"; ObjectID = "eVp-ub-H3k"; Note = "SKIP LOCALIZATION"; */
 "eVp-ub-H3k.title" = "Satz";
@@ -108,19 +108,19 @@
 "gDR-81-YkH.title" = "Absatz";
 
 /* Class = "NSButtonCell"; title = "Custom Patterns…"; ObjectID = "hSp-Lu-7pZ"; */
-"hSp-Lu-7pZ.title" = "Edit…";
+"hSp-Lu-7pZ.title" = "Benutzerdefinierte Muster…";
 
 /* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */
 "hdF-Eo-fOe.title" = "Bindestriche";
 
 /* Class = "NSButtonCell"; title = "Conjunctions"; ObjectID = "jnn-zF-baY"; */
-"jnn-zF-baY.title" = "Conjunctions";
+"jnn-zF-baY.title" = "Konjunktionen";
 
 /* Class = "NSButtonCell"; title = "Copy/paste"; ObjectID = "mHr-Yd-9Gp"; */
 "mHr-Yd-9Gp.title" = "Kopieren und einsetzen";
 
 /* Class = "NSButtonCell"; title = "Adverbs"; ObjectID = "mTE-Da-Ai8"; */
-"mTE-Da-Ai8.title" = "Adverbs";
+"mTE-Da-Ai8.title" = "Adverben";
 
 /* Class = "NSButtonCell"; title = "Check grammar with spelling"; ObjectID = "nlh-Zj-3rv"; */
 "nlh-Zj-3rv.title" = "Grammatik mitprüfen";
@@ -129,28 +129,28 @@
 "o55-nN-2Rp.title" = "Während Texteingabe prüfen";
 
 /* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "q1A-U0-UTn"; */
-"q1A-U0-UTn.title" = "Enable Last Used";
+"q1A-U0-UTn.title" = "Zuletzt verwendet";
 
 /* Class = "NSButtonCell"; title = "Quotes"; ObjectID = "q1M-nl-ibX"; */
 "q1M-nl-ibX.title" = "Anführungszeichen";
 
 /* Class = "NSMenuItem"; title = "Korean"; ObjectID = "tHM-H4-etW"; */
-"tHM-H4-etW.title" = "Korean";
+"tHM-H4-etW.title" = "Koreanisch";
 
 /* Class = "NSButtonCell"; title = "Nouns"; ObjectID = "tJf-FO-eFT"; */
-"tJf-FO-eFT.title" = "Nouns";
+"tJf-FO-eFT.title" = "Nomina";
 
 /* Class = "NSMenuItem"; title = "Emphasis Mark"; ObjectID = "tLO-KH-mgO"; */
-"tLO-KH-mgO.title" = "Emphasis Mark";
+"tLO-KH-mgO.title" = "Hervorhebungs-Zeichen";
 
 /* Class = "NSButtonCell"; title = "Adjectives"; ObjectID = "u3t-jX-i9Z"; */
-"u3t-jX-i9Z.title" = "Adjectives";
+"u3t-jX-i9Z.title" = "Adjektive";
 
 /* Class = "NSButtonCell"; title = "Verbs"; ObjectID = "u5B-6y-Y8m"; */
-"u5B-6y-Y8m.title" = "Verbs";
+"u5B-6y-Y8m.title" = "Verben";
 
 /* Class = "NSButtonCell"; title = "Redundancies"; ObjectID = "vPu-2U-PzL"; */
-"vPu-2U-PzL.title" = "Redundancies";
+"vPu-2U-PzL.title" = "Redundanzen";
 
 /* Class = "NSTextFieldCell"; title = "A"; ObjectID = "wgb-xJ-AmL"; */
 "wgb-xJ-AmL.title" = "A";
@@ -159,7 +159,7 @@
 "xtj-Jw-ENi.title" = "Zeichen pro Zeile";
 
 /* Class = "NSButtonCell"; title = "Fillers"; ObjectID = "yhw-gf-1Ns"; */
-"yhw-gf-1Ns.title" = "Fillers";
+"yhw-gf-1Ns.title" = "Füllwörter";
 
 /* Class = "NSTextFieldCell"; title = "Emphasis:"; ObjectID = "yqQ-oe-okL"; */
-"yqQ-oe-okL.title" = "Betont:";
+"yqQ-oe-okL.title" = "Betonung:";
