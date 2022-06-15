@@ -30,7 +30,7 @@ Stringsdict file format is described in [Apple’s guide][stringsdict]. For the 
 
 ## Version Control
 
-This repository uses [`git-flow`][git-flow]. Currently shipping versions are on `master`, and localizations in progress are on `develop`.
+This repository uses [`git-flow`][git-flow]. Currently shipping versions are on `main`, and localizations in progress are on `develop`.
 
 [git-flow]: https://danielkummer.github.io/git-flow-cheatsheet/
 
