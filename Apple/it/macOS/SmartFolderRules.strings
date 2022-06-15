@@ -15,8 +15,8 @@
 "%[dateCreated]@ %[is greater than]@ %@" = "%1$[Data creata]@ %2$[è successiva]@ %3$@";
 
 /* Date created relative rule templates. */
-"%[dateCreated]@ %[begins with]@ %@" = "%1$[Date created]@ %2$[è negli ultimi]@ %3$@ giorni";
-"%[dateCreated]@ %[ends with]@ %@" = "%1$[Date created]@ %2$[non è negli ultimi]@ %3$@ giorni";
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[Data creata]@ %2$[è negli ultimi]@ %3$@ giorni";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[Data creata]@ %2$[non è negli ultimi]@ %3$@ giorni";
 
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[Tipo]@ %2$[è]@ %3$[testo]@";
