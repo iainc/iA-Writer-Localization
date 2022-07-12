@@ -1,6 +1,6 @@
 
 /* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "5eH-hV-O4D"; */
-"5eH-hV-O4D.title" = "新增帳戶";
+"5eH-hV-O4D.title" = "新增帳號";
 
 /* Class = "NSTextFieldCell"; title = "Token:"; ObjectID = "IKI-bB-hfJ"; */
 "IKI-bB-hfJ.title" = "權杖：";
