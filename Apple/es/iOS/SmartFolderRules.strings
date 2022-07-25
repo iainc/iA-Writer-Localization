@@ -10,6 +10,14 @@
 "%[dateModified]@ %[begins with]@ %@" = "%1$[Fecha modificada]@ %2$[Han pasado]@ %3$@ días";
 "%[dateModified]@ %[ends with]@ %@" = "%1$[Fecha modificada]@ %2$[No han pasado]@ %3$@ días";
 
+/* Date created kind rule templates. */
+"%[dateCreated]@ %[is less than]@ %@" = "%1$[Fecha de creación]@ %2$[Antes de]@ %3$@";
+"%[dateCreated]@ %[is greater than]@ %@" = "%1$[Fecha de creación]@ %2$[Después de]@ %3$@";
+
+/* Date created relative rule templates. */
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[Fecha de creación]@ %2$[Han pasado]@ %3$@ días";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[Fecha de creación]@ %2$[No han pasado]@ %3$@ días";
+
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[Clase]@ %2$[es]@ %3$[texto]@";
 "%[kind]@ %[is not]@ %[text]@" = "%1$[Clase]@ %2$[no es]@ %3$[texto]@";

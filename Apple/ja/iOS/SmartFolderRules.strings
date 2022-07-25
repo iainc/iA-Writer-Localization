@@ -10,6 +10,14 @@
 "%[dateModified]@ %[begins with]@ %@" = "%1$[変更日]@ %2$[変更してからの期間]@ %3$@ 日";
 "%[dateModified]@ %[ends with]@ %@" = "%1$[変更日]@ %2$[変更していない期間]@ %3$@ 日";
 
+/* Date created kind rule templates. */
+"%[dateCreated]@ %[is less than]@ %@" = "%1$[作成日]@ %2$[以前]@ %3$@";
+"%[dateCreated]@ %[is greater than]@ %@" = "%1$[作成日]@ %2$[以降]@ %3$@";
+
+/* Date created relative rule templates. */
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[作成日]@ %2$[変更してからの期間]@ %3$@ 日";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[作成日]@ %2$[変更していない期間]@ %3$@ 日";
+
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[種類]@ %2$[である]@ %3$[テキスト]@";
 "%[kind]@ %[is not]@ %[text]@" = "%1$[種類]@ %2$[でない]@ %3$[テキスト]@";
