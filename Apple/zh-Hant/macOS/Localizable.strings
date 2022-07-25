@@ -104,7 +104,7 @@
 "WordPress_Picker_Message" = "您希望在哪裡新增草稿？";
 
 /* WordPress site picker alert description. */
-"WordPress_Picker_Informative_Text" = "WordPress 帳戶存取至多於一個網站。";
+"WordPress_Picker_Informative_Text" = "WordPress 帳號最多存取一個網站。";
 
 /*-----
  Window
