@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "Durchgestrichen";
 "Completed_Task_Fade" = "Ausblenden";
 
+"Completions" = "Vervollständigungen";
+"Insert_And_Type_Over" = "Klammernpaare automatisch schließen";
+"Wrap_Selection" = "Automatische Klammerpaare bei Textauswahl";
+
 "Placeholder_Loading" = "Laden …";
 "Placeholder_No_Accounts" = "Keine Kontos";
 "Placeholder_No_Custom_Patterns" = "Keine benutzerdefinierte Muster";

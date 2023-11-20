@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "删除线";
 "Completed_Task_Fade" = "变暗";
 
+"Completions" = "完成情况";
+"Insert_And_Type_Over" = "插入和改写配对的括号";
+"Wrap_Selection" = "输入左括号，可将选中的内容包含在配对的括号中";
+
 "Placeholder_Loading" = "正在载入…";
 "Placeholder_No_Accounts" = "无账户";
 "Placeholder_No_Custom_Patterns" = "无自定义模式";

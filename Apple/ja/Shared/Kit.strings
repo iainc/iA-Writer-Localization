@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "打ち消し線";
 "Completed_Task_Fade" = "Fade";
 
+"Completions" = "完了";
+"Insert_And_Type_Over" = "一致する括弧を挿入および上書きする";
+"Wrap_Selection" = "選択した部分を入力した括弧で囲む";
+
 "Placeholder_Loading" = "読み込み中…";
 "Placeholder_No_Accounts" = "アカウントがありません";
 "Placeholder_No_Custom_Patterns" = "カスタムパターンがありません";

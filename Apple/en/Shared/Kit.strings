@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "Strikethrough";
 "Completed_Task_Fade" = "Fade";
 
+"Completions" = "Completions";
+"Insert_And_Type_Over" = "Insert and type-over matching brackets";
+"Wrap_Selection" = "Wrap selection in typed brackets";
+
 "Placeholder_Loading" = "Loading…";
 "Placeholder_No_Accounts" = "No Accounts";
 "Placeholder_No_Custom_Patterns" = "No Custom Patterns";

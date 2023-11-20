@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "刪除線";
 "Completed_Task_Fade" = "變暗";
 
+"Completions" = "完成";
+"Insert_And_Type_Over" = "插入並改寫對應的括號";
+"Wrap_Selection" = "輸入括號來包含選取項目";
+
 "Placeholder_Loading" = "載入中⋯";
 "Placeholder_No_Accounts" = "沒有帳號";
 "Placeholder_No_Custom_Patterns" = "沒有自訂樣式";

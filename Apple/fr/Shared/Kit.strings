@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "Barré";
 "Completed_Task_Fade" = "Grisé";
 
+"Completions" = "Finitions";
+"Insert_And_Type_Over" = "Insérez et écrivez dans des parenthèses";
+"Wrap_Selection" = "Entourez le texte avec les parenthèses choisies";
+
 "Placeholder_Loading" = "Chargement…";
 "Placeholder_No_Accounts" = "Aucun compte";
 "Placeholder_No_Custom_Patterns" = "Aucun modèle personnalisé";
