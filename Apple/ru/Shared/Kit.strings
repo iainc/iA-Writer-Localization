@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "Зачеркнутые";
 "Completed_Task_Fade" = "Блеклые";
 
+"Completions" = "Автодополнения";
+"Insert_And_Type_Over" = "Вставлять и печатать поверх скобок";
+"Wrap_Selection" = "Заключать выделенный текст в скобки";
+
 "Placeholder_Loading" = "Загрузка…";
 "Placeholder_No_Accounts" = "Нет учетных записей";
 "Placeholder_No_Custom_Patterns" = "Нет своих шаблонов";

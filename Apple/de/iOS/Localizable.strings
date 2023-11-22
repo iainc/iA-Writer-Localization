@@ -310,7 +310,7 @@
 "Smart_Folder_Editor_Rules_Section_Title" = "Regeln";
 
 /* Smart folder action to add a new rule. */
-"Smart_Folder_Editor_New_Rule_Action" = "Neue Regel …";
+"Smart_Folder_Editor_New_Rule_Action" = "Neue Regel…";
 
 /* Smart folder editor section title. */
 "Smart_Folder_Editor_Limit_Section_Title" = "Begrenzung";
@@ -356,10 +356,10 @@
  --*/
 
 /* Action to open camera. */
-"Action_Take_Photo" = "Bild erstellen …";
+"Action_Take_Photo" = "Bild erstellen…";
 
 /* Action to open photo library. */
-"Action_Choose_Photo" = "Bild aussuchen …";
+"Action_Choose_Photo" = "Bild aussuchen…";
 
 /* Action to create new file. */
 "Action_New_File" = "Neues Dokument";

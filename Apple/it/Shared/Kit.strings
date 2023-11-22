@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "Barrato";
 "Completed_Task_Fade" = "Attenuato";
 
+"Completions" = "Completamenti";
+"Insert_And_Type_Over" = "Inserisci e digita le parentesi corrispondenti";
+"Wrap_Selection" = "Racchiudi la selezione tra le parentesi digitate";
+
 "Placeholder_Loading" = "Carico…";
 "Placeholder_No_Accounts" = "Nessun account";
 "Placeholder_No_Custom_Patterns" = "Nessun modello personalizzato";

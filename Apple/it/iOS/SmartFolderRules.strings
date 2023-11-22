@@ -3,12 +3,20 @@
 /* NOTE: Do NOT translate comparison types (like “is less than” or “begins with”) directly. Please always check English value for the intended usage for the particular case. */
 
 /* Date modified kind rule templates. */
-"%[dateModified]@ %[is less than]@ %@" = "%1$[Data di modifica]@ %2$[è anteriore]@ %3$@";
-"%[dateModified]@ %[is greater than]@ %@" = "%1$[Data di modifica]@ %2$[è successiva]@ %3$@";
+"%[dateModified]@ %[is less than]@ %@" = "%1$[Data modifica]@ %2$[è anteriore]@ %3$@";
+"%[dateModified]@ %[is greater than]@ %@" = "%1$[Data modifica]@ %2$[è successiva]@ %3$@";
 
 /* Date modified relative rule templates. */
-"%[dateModified]@ %[begins with]@ %@" = "%1$[Data di modifica]@ %2$[è negli ultimi]@ %3$@ giorni";
-"%[dateModified]@ %[ends with]@ %@" = "%1$[Data di modifica]@ %2$[non è negli ultimi]@ %3$@ giorni";
+"%[dateModified]@ %[begins with]@ %@" = "%1$[Data modifica]@ %2$[è negli ultimi]@ %3$@ giorni";
+"%[dateModified]@ %[ends with]@ %@" = "%1$[Data modifica]@ %2$[non è negli ultimi]@ %3$@ giorni";
+
+/* Date created kind rule templates. */
+"%[dateCreated]@ %[is less than]@ %@" = "%1$[Data creata]@ %2$[è anteriore]@ %3$@";
+"%[dateCreated]@ %[is greater than]@ %@" = "%1$[Data creata]@ %2$[è successiva]@ %3$@";
+
+/* Date created relative rule templates. */
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[Data creata]@ %2$[è negli ultimi]@ %3$@ giorni";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[Data creata]@ %2$[non è negli ultimi]@ %3$@ giorni";
 
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[Tipo]@ %2$[è]@ %3$[testo]@";

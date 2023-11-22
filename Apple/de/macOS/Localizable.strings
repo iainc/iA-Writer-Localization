@@ -389,12 +389,12 @@
 "URL_Scheme_First_Use_Message" = "Möchten Sie iA Writer URL-Befehle aktivieren?";
 
 /* URL scheme first use alert informative text. */
-"URL_Scheme_First_Use_Informative_Text" = "You can change this later in Preferences.";
+"URL_Scheme_First_Use_Informative_Text" = "Kann später in den Voreinstellungen geändert werden.";
 
 /* Markdown processing lazy paragraphs. */
 "Markdown_Lazy_Paragraphs" = "Einzelner Umbruch beginnt einen neuen Absatz";
 
-"Markdown_Lazy_Paragraphs_Description" = "Standardmäßig benötigt Markdown zwei Zeilenwechsel (eine Leerzeile) zwischen Absätzen. Wenn aktiviert, beginnt ein neuer Absatz bereits nach einem Zeilenwechsel.";
+"Markdown_Lazy_Paragraphs_Description" = "Standardmäßig benötigt Markdown zwei Zeilenwechsel (eine Leerzeile) zwischen Absätzen. Wenn diese Einstellung aktiviert wird, beginnt ein neuer Absatz bereits nach einem Zeilenwechsel.";
 
 "Markdown_Lazy_Paragraphs_Warning" = "Zur Kompatibilität mit älteren Versionen von iA Writer. Wird nicht von anderen Markdown-Prozessoren unterstützt.";
 
@@ -407,7 +407,7 @@
 
 "Markdown_Library_Paths_And_Links_Tab" = "Bibliothekspfade und Links";
 
-"Markdown_Processing_Tab" = "Interpretation";
+"Markdown_Processing_Tab" = "Markdown-Interpretation";
 
 /*-----------
  Quick Search

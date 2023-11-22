@@ -632,11 +632,11 @@ Document
 "Settings_Appearance_Section_Title" = "外觀";
 
 /* Sharing accounts section in settings. */
-"Settings_Accounts_Section_Title" = "共享帳戶";
+"Settings_Accounts_Section_Title" = "共享帳號";
 
-"Settings_Accounts_Add" = "新增帳戶…";
-"Settings_Accounts_Remove" = "刪除帳戶";
-"Settings_Accounts_Configure" = "設定帳戶";
+"Settings_Accounts_Add" = "新增帳號…";
+"Settings_Accounts_Remove" = "刪除帳號";
+"Settings_Accounts_Configure" = "設定帳號";
 
 /*-----------------
  Interface Settings
@@ -664,7 +664,7 @@ Document
 
 /* Library section in settings. */
 "Settings_Library_Appearance_Section_Title" = "外觀";
-"Settings_Library_Show_Text_Excerpts" = "顯示文字摘錄";
+"Settings_Library_Show_Text_Excerpts" = "顯示文字摘要";
 "Settings_Library_Show_Extensions" = "顯示檔案副檔名";
 "Settings_Library_Show_Extensions" = "顯示檔案副檔名";
 "Settings_Library_Pin_Folders_To_Top" = "釘選置頂資料夾";

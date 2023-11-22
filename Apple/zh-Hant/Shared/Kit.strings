@@ -17,8 +17,8 @@
 "Hide" = "隱藏";
 "Add" = "新增";
 "Name" = "名稱";
-"Add_Account" = "新增帳戶";
-"Remove_Account" = "刪除帳戶";
+"Add_Account" = "新增帳號";
+"Remove_Account" = "刪除帳號";
 "Authorize" = "授權";
 "Options" = "選項";
 "Open_Mail" = "開啟郵件";
@@ -86,12 +86,12 @@
 "Accessibility_URL_Command" = "URL 命令";
 "Accessibility_Content_Block" = "內容區塊";
 
-"Yellow" = "黃色的";
-"Orange" = "橙子";
-"Pink" = "粉色的";
-"Purple" = "紫色的";
-"Blue" = "藍色的";
-"Green" = "綠";
+"Yellow" = "黃色";
+"Orange" = "橙色";
+"Pink" = "粉紅色";
+"Purple" = "紫色";
+"Blue" = "藍色";
+"Green" = "綠色";
 
 "Add_Wikilink" = "新增維基連結";
 "Remove_Wikilink" = "移除維基連結";
@@ -119,11 +119,15 @@
 "Completed_Task_Strikethrough" = "刪除線";
 "Completed_Task_Fade" = "變暗";
 
+"Completions" = "完成";
+"Insert_And_Type_Over" = "插入並改寫對應的括號";
+"Wrap_Selection" = "輸入括號來包含選取項目";
+
 "Placeholder_Loading" = "載入中⋯";
-"Placeholder_No_Accounts" = "沒有帳戶";
+"Placeholder_No_Accounts" = "沒有帳號";
 "Placeholder_No_Custom_Patterns" = "沒有自訂樣式";
 "Custom_Patterns_Title" = "自訂樣式";
-"Custom_Patterns_Introduction" = "使用自訂規則和例外事項來微調風格。";
+"Custom_Patterns_Introduction" = "使用自訂規則和例外項目來微調風格。";
 
 "Suffix_Colon" = "：";
 "Suffix_Ellipsis" = "⋯";
@@ -195,7 +199,7 @@ Text Check
 "Style_Check_Target_Cliches" = "陳腔濫調";
 "Style_Check_Target_Redundancies" = "贅詞";
 "Style_Check_Target_Custom" = "自訂";
-"Style_Check_Languages" = "內置英語、法語、德語模式。";
+"Style_Check_Languages" = "內建英語、法語、德語模式。";
 
 /*----------
  Focus Tools
@@ -220,7 +224,7 @@ Text Check
 
 "Auth_Mode_Authorize_In_Browser" = "在瀏覽器中授權";
 "Auth_Mode_Enter_Token_Manually" = "手動輸入權杖";
-"Auth_Mode_Add_Account_Manually" = "手動新增帳戶";
+"Auth_Mode_Add_Account_Manually" = "手動新增帳號";
 
 "Web_Service_URL" = "URL";
 "Web_Service_Token" = "權杖";
@@ -267,14 +271,14 @@ Text Check
 
 "Web_Service_Error_Forbidden_Title" = "禁止請求";
 "Web_Service_Error_Forbidden" = "沒有權限執行請求。";
-"Web_Service_Error_Forbidden_Recovery_Suggestion" = "請確保您的帳戶允許發佈。";
+"Web_Service_Error_Forbidden_Recovery_Suggestion" = "請確保您的帳號允許發佈。";
 
 "Web_Service_Error_Other_Title" = "連線錯誤";
 "Web_Service_Error_Other" = "連接服務時收到錯誤。";
 
 "Web_Service_Error_Auth_Denied_Title" = "存取被拒";
-"Web_Service_Error_Auth_Denied" = "存取至帳戶被拒。";
-"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "您必須允許存取帳戶以在 iA Writer 內使用。";
+"Web_Service_Error_Auth_Denied" = "存取帳號被拒。";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "您必須允許存取帳號以在 iA Writer 內使用。";
 
 "Web_Service_Error_IndieAuth_Not_Found_Title" = "找不到 IndieAuth";
 "Web_Service_Error_IndieAuth_Not_Found" = "無法找到 IndieAuth。";
@@ -305,13 +309,13 @@ Text Check
 "Medium_Failure_Reason_Unsupported_Content_H6" = "標題 6";
 "Medium_Failure_Reason_Unsupported_Content_TOC" = "目錄";
 
-"WordPress_No_Sites_Error" = "找不到與您的 WordPress 帳戶關聯的任何網站。";
+"WordPress_No_Sites_Error" = "找不到與您的 WordPress 帳號關聯的任何網站。";
 "WordPress_No_Sites_Error_Title" = "未找到網站";
-"WordPress_No_Sites_Error_Recovery_Suggestion" = "確保您授權正確的帳戶，或新增網頁至您的 WordPress 帳戶。";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "確保您授權正確的帳號，或新增網頁至您的 WordPress 帳號。";
 "WordPress_Manage_Sites" = "管理網站";
 
-"Web_Service_Image_Upload_Error" = "上傳部分圖像失敗。";
-"Web_Service_Image_Upload_Error_Title" = "上傳圖像失敗";
+"Web_Service_Image_Upload_Error" = "上傳部分圖片失敗。";
+"Web_Service_Image_Upload_Error_Title" = "上傳圖片失敗";
 /* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
 "Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@。%2$@";
 
@@ -340,7 +344,7 @@ Text Check
 "Microblog_Sign_In_Action" = "傳送登入連結";
 "Microblog_Sign_In_Title" = "Micro.blog 已傳送登入連結";
 "Microblog_Sign_In" = "Micro.blog 已傳送登入連結至您的電子郵件。";
-"Microblog_Sign_In_Recovery_Suggestion" = "請至您的電子郵件中查看 %@，並使用該連結至 iA Writer 新增帳戶。";
+"Microblog_Sign_In_Recovery_Suggestion" = "請至您的電子郵件中查看 %@，並使用該連結至 iA Writer 新增帳號。";
 
 /*--------
  Templates
@@ -503,7 +507,7 @@ Text Check
 
 "Content_Block_Error_Unknown_Extension" = "「%@」有不支援的擴展名。";
 "Content_Block_Error_Unknown_Extension_Title" = "「%@」有不支援的擴展名";
-"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "內容區塊必須為純文字檔或圖像。";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "內容區塊必須為純文字檔或圖片。";
 "Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
 
 "Content_Block_Error_Recursive_Reference" = "「%@」包含一個遞歸的引用。";

@@ -7,7 +7,7 @@
 "Continue" = "Weiter";
 "Enable" = "Aktivieren";
 "Disable" = "Deaktivieren";
-"Reset" = "Reset";
+"Reset" = "Zurücksetzen";
 "Edit" = "Bearbeiten";
 "Done" = "Erledigt";
 "Remove" = "Entfernen";
@@ -24,7 +24,7 @@
 "Open_Mail" = "Mail öffnen";
 "Add_Pattern" = "Muster hinzufügen";
 "Remove_Pattern" = "Muster entfernen";
-"New_Smart_Folder" = "Neuer Intelligenter Ordner";
+"New_Smart_Folder" = "Neuer intelligenter Ordner";
 "Add_Location" = "Quelle hinzufügen";
 "Move_To_Trash" = "In den Papierkorb legen";
 "Copy" = "Kopieren";
@@ -117,7 +117,11 @@
 "Completed_Tasks" = "Erledigte Aufgaben";
 "Completed_Tasks_Title" = "Erledigte Aufgaben";
 "Completed_Task_Strikethrough" = "Durchgestrichen";
-"Completed_Task_Fade" = "Verblassen";
+"Completed_Task_Fade" = "Ausblenden";
+
+"Completions" = "Vervollständigungen";
+"Insert_And_Type_Over" = "Klammernpaare automatisch schließen";
+"Wrap_Selection" = "Automatische Klammerpaare bei Textauswahl";
 
 "Placeholder_Loading" = "Laden …";
 "Placeholder_No_Accounts" = "Keine Kontos";
@@ -153,8 +157,8 @@
 "Output_Span" = "Spannweite";
 "Output_None" = "Entfernen";
 "Output_Link" = "Link";
-"HTML_Output" = "HTML-Ausgang";
-"Other_Output" = "Anderer Ausgang";
+"HTML_Output" = "HTML-Export";
+"Other_Output" = "Anderer Export";
 "Preview_Output" = "Vorschau";
 "HTML_Output_Description" = "Diese Einstellungen werden beim Kopieren, Exportieren und Veröffentlichen von HTML verwendet.";
 "Other_Output_Description" = "Diese Einstellungen werden beim Kopieren, Exportieren und Veröffentlichen von Text verwendet.";
@@ -187,7 +191,7 @@ Text Check
 "Syntax_Control_Target_Nouns" = "Hauptwörter";
 "Syntax_Control_Target_Verbs" = "Verben";
 "Syntax_Control_Target_Adjectives" = "Adjektive";
-"Syntax_Control_Target_Adverbs" = "Adverbien";
+"Syntax_Control_Target_Adverbs" = "Adverben";
 "Syntax_Control_Target_Conjunctions" = "Konjunktionen";
 "Style_Check_Title" = "Stilprüfung";
 "Style_Check_Sentence_Capitalization" = "Stilprüfung";
@@ -232,12 +236,12 @@ Text Check
 "Ghost_Admin_API_Key" = "Admin API Key";
 
 "New_Draft_On_Web_Service" = "Neuer Entwurf auf %@";
-"New_Post_On_Web_Service" = "neuer Beitrag auf  %@";
+"New_Post_On_Web_Service" = "Neuer Beitrag auf  %@";
 
 "Web_Service_Introduction" = "iA Writer erstellt Entwürfe, die Sie vor der Veröffentlichung online überprüfen können.";
-"Micropub_Introduction" = "iA Writer sieht vor, dass neue Beiträge als Entwürfe erstellt werden. Auf Micropub-Servern, die diese Funktion nicht unterstützen, erfolgt die Veröffentlichung sofort.";
-"WordPress.com_Description" = "Veröffentlichen Sie entweder auf WordPress.com oder auf WordPress-Websites mit dem Jetpack-Plugin.";
-"WordPress.org_Description" = "Sie können direkt bei Websites unter WordPress veröffentlichen. Es ist mind. WordPress 5.6 erforderlich.";
+"Micropub_Introduction" = "iA Writer erstellt neue Beiträge als Entwürfe. Auf Micropub-Servern, die diese Funktion nicht unterstützen, erfolgt die Veröffentlichung sofort.";
+"WordPress.com_Description" = "Veröffentlichung auf WordPress.com oder WordPress-Websites mit dem Jetpack-Plugin.";
+"WordPress.org_Description" = "Sie können direkt auf WordPress-Websites veröffentlichen. WordPress 5.6+ erforderlich.";
 "WordPress.com_Link_Action" = "Über Jetpack";
 "Medium_Link_Action" = "Token einfordern";
 
@@ -286,11 +290,11 @@ Text Check
 
 "Web_Service_Error_WordPress_API_Not_Found_Title" = "WordPress API nicht gefunden";
 "Web_Service_Error_WordPress_API_Not_Found" = "Konnte WordPress API nicht finden.";
-"Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass Sie mindestens die Version WordPress 4.7 einsetzen und dass das Metatag für die WordPress API meta tag vorhanden ist.";
+"Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass Sie WordPress 4.7+ einsetzen und dass der richtige Metatag für die WordPress API vorhanden ist.";
 
 "Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress-App-Passwörter nicht verfügbar";
 "Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress-App-Passwörter sind nicht verfügbar.";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass Sie mind. WordPress 5.6 haben und dass App-Passwörter auf der Website oder für Ihren Nutzer nicht deaktiviert sind.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Vergewissern Sie sich, dass Sie WordPress 5.6+ haben und dass App-Passwörter für Ihren Nutzer nicht deaktiviert sind.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "Versuchen Sie es später nochmals.";
 
@@ -390,7 +394,7 @@ Text Check
 "Storage_Name_From_Other_Apps" = "Extern";
 "Storage_Name_Unknown" = "Unbekannter Speichername";
 "Storage_Name_Local" = "Lokal";
-"Storage_Name_On_My_Device" = "On My %@";
+"Storage_Name_On_My_Device" = "Auf meinem %@";
 
 "Library_Location_Desktop" = "Schreibtisch";
 "Library_Location_Documents" = "Dokumente";
@@ -426,7 +430,7 @@ Text Check
  --------*/
 
 "External_Change_Error_Localized_Description" = "Das Dokument „%@“ würde auf einem anderen Gerät geändert.";
-"External_Change_Error_Recovery_Suggestion" = "Das Dokument wurde ausserhalb von iA Writer geändert. Falls Sie das Dokument innerhalb von iA Writer wiederherstellen, werden die Änderungen, die Sie ausserhalb vorgenommen haben, überschrieben.  Sie können mittels „Speichern unter …“ die Änderungen in einem anderen Dokument abspeichern.";
+"External_Change_Error_Recovery_Suggestion" = "Das Dokument wurde ausserhalb von iA Writer geändert. Falls Sie das Dokument innerhalb von iA Writer wiederherstellen, werden die Änderungen, die Sie ausserhalb vorgenommen haben, überschrieben.  Sie können die Änderungen mittels „Speichern unter …“ in einem anderen Dokument abspeichern.";
 "External_Change_Error_Keep_Action" = "iA Writer Version behalten";
 "External_Change_Error_Revert_Action" = "Wiederherstellen";
 "External_Change_Error_Save_As_Action" = "Speichern unter …";
@@ -523,8 +527,8 @@ Text Check
  ---------*/
 
 "Stats_Reading_Time" = "%@ Lesezeit";
-"Stats_Name_Words" = "Wörtern";
-"Stats_Name_Sentences" = "Sätzen";
+"Stats_Name_Words" = "Wörter";
+"Stats_Name_Sentences" = "Sätze";
 "Stats_Name_Reading_Time" = "Lesezeit";
 "Stats_Name_Tasks" = "Aufgaben";
 "Stats_Name_Characters" = "Zeichen";

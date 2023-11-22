@@ -119,6 +119,10 @@
 "Completed_Task_Strikethrough" = "취소선";
 "Completed_Task_Fade" = "흐리게 표시됨";
 
+"Completions" = "자동 완성";
+"Insert_And_Type_Over" = "일치하는 괄호 위로 삽입 및 입력합니다";
+"Wrap_Selection" = "입력된 괄호 안에서 선택 항목을 래핑합니다";
+
 "Placeholder_Loading" = "로드 중…";
 "Placeholder_No_Accounts" = "계정 없음";
 "Placeholder_No_Custom_Patterns" = "사용자 지정 패턴 없음";

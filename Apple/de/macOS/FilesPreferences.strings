@@ -21,7 +21,7 @@
 "XcW-DB-W12.title" = "Dateien werden automatisch zur \nBibliothek hinzugefügt.";
 
 /* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
-"dT3-nQ-wep.title" = "Fragen, ob Änderungen zu behalten sind";
+"dT3-nQ-wep.title" = "Fragen, ob Änderungen beibehalten werden sollen";
 
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "Neu in Bibliothek";

@@ -10,6 +10,14 @@
 "%[dateModified]@ %[begins with]@ %@" = "%1$[修改日期]@ %2$[過去]@ %3$@ 天";
 "%[dateModified]@ %[ends with]@ %@" = "%1$[修改日期]@ %2$[非過去]@ %3$@ 天";
 
+/* Date created kind rule templates. */
+"%[dateCreated]@ %[is less than]@ %@" = "%1$[已建立日期]@ %2$[早於]@ %3$@";
+"%[dateCreated]@ %[is greater than]@ %@" = "%1$[已建立日期]@ %2$[晚於]@ %3$@";
+
+/* Date created relative rule templates. */
+"%[dateCreated]@ %[begins with]@ %@" = "%1$[已建立日期]@ %2$[過去]@ %3$@ 天";
+"%[dateCreated]@ %[ends with]@ %@" = "%1$[已建立日期]@ %2$[非過去]@ %3$@ 天";
+
 /* Library item kind rule templates. */
 "%[kind]@ %[is]@ %[text]@" = "%1$[種類]@ %2$[是]@ %3$[文字]@";
 "%[kind]@ %[is not]@ %[text]@" = "%1$[種類]@ %2$[非]@ %3$[文字]@";
