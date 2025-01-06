@@ -7,6 +7,9 @@
 "Library_Title" = "资料库";
 
 /* Title for root library view. */
+"Organizer_Title" = "组织者";
+
+/* Title for root library view. */
 "Library_Locations_Section_Title" = "位置";
 
 /* Title for root library view. */
@@ -49,10 +52,8 @@
  Library Location
  ---------------*/
 
-"Library_Location_Introduction_Alert_Title" = "如何添加Library Location";
-"Library_Location_Introduction_Alert_Message" = "打开包含了您要用作Library Location的文件夹的文件夹。\n\n点击“选择”，选择文件夹，然后点击“打开“。";
-"Library_Location_Introduction_Hide_Forever_Alert_Title" = "不要再显示";
-"Library_Location_Rename_Alert_Title" = "重命名Library Location";
+"Library_Location_Rename_Alert_Title" = "重命名资料库位置";
+"Library_Location_Name_Alert_Title" = "输入资料库位置名称";
 
 /*-----------
  Smart Folder
@@ -112,9 +113,6 @@
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "配置键盘";
-
-/* Button to create new folder. */
-"Button_New_Folder" = "新建文件夹";
 
 /* Button to change sorting order. */
 "Button_Sort_By" = "排序方式：";
@@ -189,6 +187,12 @@
  Editor
  -----*/
 
+"Secure_Paste_Suggestion" = "厌倦了从其他应用程序确认粘贴？";
+
+"Secure_Paste_Recovery_Suggestion" = "请在系统设置中将“从其他应用程序粘贴”更改为“允许”。";
+
+"Open_System_Settings" = "打开系统设置";
+
 /* Title for content block warning list. */
 "Content_Block_Warnings_Title" = "内容块";
 
@@ -221,7 +225,7 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Transform" = "转换…";
+"Menu_Transform" = "转换";
 
 /* Menu item title for transforming text to upper case. */
 "Menu_Transform_To_Upper_Case" = "大写";
@@ -279,6 +283,8 @@
 
 /* Action to duplicate. */
 "Menu_Duplicate" = "复制";
+
+"Menu_Rename_Document" = "重命名文档";
 
 /* Action to rename. */
 "Menu_Rename" = "重命名";
@@ -361,9 +367,6 @@
 /* Action to open photo library. */
 "Action_Choose_Photo" = "选择照片…";
 
-/* Action to create new file. */
-"Action_New_File" = "新建文件";
-
 /* Title for alert to create new folder. */
 "New_File_Alert_Title" = "输入文件名";
 
@@ -400,12 +403,6 @@
 /*---------
  Table Size
  ---------*/
-
-/* Columns number label in table size picker. */
-"Table_Size_Picker_Columns" = "列";
-
-/* Rows number label in table size picker. */
-"Table_Size_Picker_Rows" = "行";
 
 /* Action title to add table with a selected size. */
 "Action_Add_Table" = "添加表";
@@ -449,67 +446,6 @@ Document
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "保存至…";
-
-/*--------------
- Version Browser
- --------------*/
-
-/* Version browser title for conflict resolution */
-"Version_Browser_Title_Conflict" = "版本冲突";
-
-/* Version browser title */
-"Version_Browser_Title" = "版本";
-
-/* Version browser title. */
-"Version_Browser_Current_Version" = "当前版本";
-
-/* Version browser subitem title in conflict, %@ = document name */
-"Version_Browser_Subitem_Title" = "%@的所有可用版本。";
-
-/* Version browser subitem message. */
-"Version_Browser_Subitem_Message" = "选择较早版本还原。选择当前版本和较早版本，分别创建单独文件。";
-
-/* Version browser subitem message in conflict */
-"Version_Browser_Subitem_Message_Conflict" = "修订不同步。选择要保留的文档。";
-
-/* Version browser subitem title, %@ = document name. */
-"Version_Browser_Subitem_Title_Conflict" = "%@版本冲突。";
-
-/* Version browser action in conflict when 1 version is selected */
-"Version_Browser_Conflict_Keep" = "保留";
-
-/* Version browser action title when two conflict versions exist and both we re marked to keep */
-"Version_Browser_Conflict_Keep_Both" = "同时保留";
-
-/* Version browser action title when two versions exist and both were chosen */
-"Version_Browser_Conflict_Keep_All" = "全部保留";
-
-/* Version browser action in conflict when more than one version is selected */
-"Version_Browser_Conflict_Keep_Number" = "保留%d";
-
-/* Version browser action when 1 version is selected */
-"Version_Browser_Revert" = "还原";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Revert_And_Save_Number" = "还原至最近版本，创建%d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Save_Number" = "创建%d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Title" = "无法阅读版本";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Message" = "iCloud错误：“%@”。";
-
-/* Unknown error message from iCloud. */
-"Version_Browser_Error_Unknown" = "未知错误";
-
-/* Network is not available while attemting to browse versions. */
-"Version_Browser_Error_Network_Unavailable" = "网络不可用。";
-
-/* Network failure while attemting to browse versions. */
-"Version_Browser_Error_Network_Failure" = "无法连接。";
 
 /*--------
  Files App
@@ -616,9 +552,10 @@ Document
 "Appearance_Light" = "浅色";
 "Appearance_Dark" = "深色​";
 
+"More_System_Settings" = "更多系统设置";
+
 /* Settings panes. */
 "Settings_Interface_Title" = "界面";
-"Settings_Keyboard_Title" = "键盘";
 "Settings_General_Title" = "通用";
 "Settings_Files_Title" = "文件";
 "Settings_Accounts_Title" = "帐户";
@@ -626,7 +563,11 @@ Document
 "Settings_Editor_Title" = "编辑器";
 "Settings_Templates_Title" = "模板";
 "Settings_Markdown_Title" = "Markdown";
-"Settings_URL_Scheme_Title" = "URL命令";
+"Settings_Shorcuts_Title" = "快捷指令";
+
+"Settings_Shortcuts_Action" = "下载现成的快捷指令";
+"Shortcuts_Not_Supported" = "您不能在此版本的%@中使用快捷方式。您的系统为%@ %@。快捷方式需要%@ 16.1或更高版本。";
+"Settings_Shortcuts_Description" = "快捷指令通过组合动作，即快捷指令的构建块，成为一系列步骤，也就是一个快捷指令，可以通过一次点击或询问Siri来启动，从而简化任务处理。";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "外观";
@@ -664,10 +605,7 @@ Document
 
 /* Library section in settings. */
 "Settings_Library_Appearance_Section_Title" = "外观";
-"Settings_Library_Show_Text_Excerpts" = "显示文字节选";
 "Settings_Library_Show_Extensions" = "显示文件扩展名";
-"Settings_Library_Show_Extensions" = "显示文件扩展名";
-"Settings_Library_Pin_Folders_To_Top" = "文件夹置顶";
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "排序方式";
@@ -688,49 +626,27 @@ Document
 "Settings_Editor_Text_Section_Title" = "文本";
 "Settings_Editor_Typography" = "版式";
 "Settings_Editor_Line_Length_Limit_Edit" = "每行长度上限";
-"Settings_Editor_Language" = "语言";
-"Settings_Editor_Emphasis" = "着重号";
+"Settings_Editor_Typeface" = "字体";
+"Label_Emphasis" = "着重号";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "聚焦模式";
 "Settings_Editor_Focus_Mode" = "聚焦模式";
 "Settings_Editor_Focus_Mode_Scope" = "范围";
 
-/* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "闪电菜单";
-"Settings_Keyboard_Lightning_Menu_Add_Actions" = "添加操作";
-"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "添加子菜单";
-"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "编辑子菜单";
-"Settings_Keyboard_Lightning_Menu_Remove_Action" = "删除操作";
-"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "删除子菜单";
-"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "选择操作";
-"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "操作";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "显示嵌入式";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "嵌入式子菜单操作显示在父菜单中，与其他操作分开。";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "点击并按住闪电菜单中的任何操作来打开这些设置。";
-
-"Settings_Command_Keyboard" = "命令键盘";
-"Settings_Command_Keyboard_Enable" = "在键盘栏中显示";
-"Settings_Command_Keyboard_Always_Show_As_Popover" = "始终显示为弹出框";
-"Settings_Command_Keyboard_Configure" = "配置";
-"Settings_Command_Keyboard_Enabled_Section_Footer" = "点击并按住命令键盘中的任何一个轻键，以打开配置模式。";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "命令键盘操作可在闪电菜单和快速搜索中使用，并在连接硬件键盘时用作键盘快捷键。";
-
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "文本";
+"Lightning_Menu_Group_Document" = "文档";
 "Lightning_Menu_Group_Actions" = "操作";
 "Lightning_Menu_Group_Menu" = "菜单";
 "Configure_Menu" = "配置菜单";
 
-/* Hardware keyboard section in settings. */
-"Settings_Editor_Hardware_Keyboard_Title" = "硬键盘";
-"Settings_Editor_Hardware_Keyboard_Footer" = "这只会在连接硬件键盘时影响键盘栏。";
-"Settings_Editor_Hardware_Keyboard_Show_Bar" = "显示键盘栏";
-
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "文本输入";
-"Settings_Editor_Text_Input_Section_Footer" = "拼写、智能引号和破折号可到 设置→常规→键盘 中启用。";
+"Settings_Editor_Text_Input_Section_Footer" = "%@可以在系统设置 → 常规 → 键盘中启用。";
+"Settings_Editor_Autocorrection" = "自动改正";
 "Settings_Editor_Check_Spelling" = "拼写检查";
+"Settings_Editor_Predictive" = "预测";
 "Settings_Editor_Smart_Quotes" = "智能引用";
 "Settings_Editor_Smart_Dashes" = "智能连接号";
 "Settings_Editor_Smart_Inset_Delete" = "智能复制/粘贴";
@@ -808,14 +724,11 @@ Document
  URL Scheme Settings
  -------------------*/
 
-/* URL scheme setting. */
-"Settings_URL_Sheme_Enable" = "启用URL命令";
-
-/* URL scheme settings auth token header. */
-"Settings_URL_Sheme_Auth_Token_Header" = "验证令牌";
-
-/* URL scheme settings auth token footer. */
-"Settings_URL_Sheme_Auth_Token_Footer" = "部分URL命令需要验证令牌。";
+"Settings_URL_Commands_Section_Title" = "URL命令";
+"Settings_URL_Commands_Section_Footer" = "URL 命令允许您从其他应用链接到 iA Writer 文件，并使用各种自动化工具执行操作。";
+"Settings_URL_Commands_Show_Documentation" = "显示文档";
+"Settings_URL_Commands_Enable" = "启用URL命令";
+"Settings_URL_Commands_Auth_Token_Header" = "验证令牌";
 
 /*---------
  URL Scheme
@@ -832,19 +745,3 @@ Document
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "是否重置验证令牌？此操作无法撤销。";
-
-/*-----
- Editor
- -----*/
-
-/* Find bar menu menu item. */
-"Find_Match_Style" = "匹配样式";
-
-/* Find bar menu menu item. */
-"Find_Match_Case" = "匹配文本大小写";
-
-/* Find bar action to replace selected result. */
-"Replace_Action" = "替换";
-
-/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
-"Replace_All_Action" = "全部";

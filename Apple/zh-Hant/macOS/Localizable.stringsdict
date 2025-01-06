@@ -42,8 +42,6 @@
 			<string>tu</string>
 			<key>other</key>
 			<string>試用 (尚餘 %tu 日)</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 		</dict>
 	</dict>
 	<key>Trial_Expiration_Hours</key>
@@ -58,8 +56,6 @@
 			<string>tu</string>
 			<key>other</key>
 			<string>試用 (尚餘 %tu 小時)</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 		</dict>
 	</dict>
 	<key>Trial_Extension_Days</key>

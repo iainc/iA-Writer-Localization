@@ -7,6 +7,9 @@
 "Library_Title" = "Library";
 
 /* Title for root library view. */
+"Organizer_Title" = "Organizer";
+
+/* Title for root library view. */
 "Library_Locations_Section_Title" = "Locations";
 
 /* Title for root library view. */
@@ -49,10 +52,8 @@
  Library Location
  ---------------*/
 
-"Library_Location_Introduction_Alert_Title" = "How to Add a Library Location";
-"Library_Location_Introduction_Alert_Message" = "\nOpen a folder that contains the folder that you’d like to use as a Library Location.\n\nTap Select, select the folder, then tap Open.";
-"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Don’t Show Again";
 "Library_Location_Rename_Alert_Title" = "Rename Library Location";
+"Library_Location_Name_Alert_Title" = "Enter Library Location Name";
 
 /*-----------
  Smart Folder
@@ -112,9 +113,6 @@
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Configure Keyboard";
-
-/* Button to create new folder. */
-"Button_New_Folder" = "New Folder";
 
 /* Button to change sorting order. */
 "Button_Sort_By" = "Sort By";
@@ -189,6 +187,12 @@
  Editor
  -----*/
 
+"Secure_Paste_Suggestion" = "Tired of confirming paste from other apps?";
+
+"Secure_Paste_Recovery_Suggestion" = "Change “Paste from Other Apps” to “Allow” in System Settings.";
+
+"Open_System_Settings" = "Open System Settings";
+
 /* Title for content block warning list. */
 "Content_Block_Warnings_Title" = "Content Blocks";
 
@@ -221,7 +225,7 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Transform" = "Transform…";
+"Menu_Transform" = "Transform";
 
 /* Menu item title for transforming text to upper case. */
 "Menu_Transform_To_Upper_Case" = "Upper Case";
@@ -279,6 +283,8 @@
 
 /* Action to duplicate. */
 "Menu_Duplicate" = "Duplicate";
+
+"Menu_Rename_Document" = "Rename Document";
 
 /* Action to rename. */
 "Menu_Rename" = "Rename";
@@ -361,9 +367,6 @@
 /* Action to open photo library. */
 "Action_Choose_Photo" = "Choose Photo…";
 
-/* Action to create new file. */
-"Action_New_File" = "New File";
-
 /* Title for alert to create new folder. */
 "New_File_Alert_Title" = "Enter File Name";
 
@@ -400,12 +403,6 @@
 /*---------
  Table Size
  ---------*/
-
-/* Columns number label in table size picker. */
-"Table_Size_Picker_Columns" = "columns";
-
-/* Rows number label in table size picker. */
-"Table_Size_Picker_Rows" = "rows";
 
 /* Action title to add table with a selected size. */
 "Action_Add_Table" = "Add Table";
@@ -449,67 +446,6 @@ Document
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "Save to…";
-
-/*--------------
- Version Browser
- --------------*/
-
-/* Version browser title for conflict resolution */
-"Version_Browser_Title_Conflict" = "Version Conflict";
-
-/* Version browser title */
-"Version_Browser_Title" = "Versions";
-
-/* Version browser title. */
-"Version_Browser_Current_Version" = "Current";
-
-/* Version browser subitem title in conflict, %@ = document name */
-"Version_Browser_Subitem_Title" = "All available versions of %@.";
-
-/* Version browser subitem message. */
-"Version_Browser_Subitem_Message" = "Choose an older version to revert. Choose current in addition to older versions to create them as separate files.";
-
-/* Version browser subitem message in conflict */
-"Version_Browser_Subitem_Message_Conflict" = "Modifications aren’t in sync. Choose which documents to keep.";
-
-/* Version browser subitem title, %@ = document name. */
-"Version_Browser_Subitem_Title_Conflict" = "Versions in conflict of %@.";
-
-/* Version browser action in conflict when 1 version is selected */
-"Version_Browser_Conflict_Keep" = "Keep";
-
-/* Version browser action title when two conflict versions exist and both we re marked to keep */
-"Version_Browser_Conflict_Keep_Both" = "Keep Both";
-
-/* Version browser action title when two versions exist and both were chosen */
-"Version_Browser_Conflict_Keep_All" = "Keep All";
-
-/* Version browser action in conflict when more than one version is selected */
-"Version_Browser_Conflict_Keep_Number" = "Keep %d";
-
-/* Version browser action when 1 version is selected */
-"Version_Browser_Revert" = "Revert";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Revert_And_Save_Number" = "Revert to Latest, Create %d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Save_Number" = "Create %d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Title" = "Cannot Read Versions";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Message" = "iCloud error: “%@”.";
-
-/* Unknown error message from iCloud. */
-"Version_Browser_Error_Unknown" = "Unknown error";
-
-/* Network is not available while attemting to browse versions. */
-"Version_Browser_Error_Network_Unavailable" = "Network is not available.";
-
-/* Network failure while attemting to browse versions. */
-"Version_Browser_Error_Network_Failure" = "Could not connect.";
 
 /*--------
  Files App
@@ -616,9 +552,10 @@ Document
 "Appearance_Light" = "Light";
 "Appearance_Dark" = "Dark";
 
+"More_System_Settings" = "More System Settings";
+
 /* Settings panes. */
 "Settings_Interface_Title" = "Interface";
-"Settings_Keyboard_Title" = "Keyboard";
 "Settings_General_Title" = "General";
 "Settings_Files_Title" = "Files";
 "Settings_Accounts_Title" = "Accounts";
@@ -626,7 +563,11 @@ Document
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Templates";
 "Settings_Markdown_Title" = "Markdown";
-"Settings_URL_Scheme_Title" = "URL Commands";
+"Settings_Shorcuts_Title" = "Shortcuts";
+
+"Settings_Shortcuts_Action" = "Get Ready-Made Shortcuts";
+"Shortcuts_Not_Supported" = "You can’t use shortcuts with this version of %@. You have %@ %@. Shortcuts require %@ 16.1 or later.";
+"Settings_Shortcuts_Description" = "Shortcuts make it easy to get tasks done by combining actions—the building blocks of a shortcut—into a series of steps—a shortcut—that can be launched with one tap, or by asking Siri.";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "Appearance";
@@ -664,10 +605,7 @@ Document
 
 /* Library section in settings. */
 "Settings_Library_Appearance_Section_Title" = "Appearance";
-"Settings_Library_Show_Text_Excerpts" = "Show Text Excerpts";
 "Settings_Library_Show_Extensions" = "Show File Extensions";
-"Settings_Library_Show_Extensions" = "Show File Extensions";
-"Settings_Library_Pin_Folders_To_Top" = "Pin Folders to Top";
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "Sort Order";
@@ -688,49 +626,27 @@ Document
 "Settings_Editor_Text_Section_Title" = "Text";
 "Settings_Editor_Typography" = "Typography";
 "Settings_Editor_Line_Length_Limit_Edit" = "Maximum Line Length";
-"Settings_Editor_Language" = "Language";
-"Settings_Editor_Emphasis" = "Emphasis";
+"Settings_Editor_Typeface" = "Typeface";
+"Label_Emphasis" = "Emphasis";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Focus Mode";
 "Settings_Editor_Focus_Mode" = "Focus Mode";
 "Settings_Editor_Focus_Mode_Scope" = "Scope";
 
-/* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "Lightning Menu";
-"Settings_Keyboard_Lightning_Menu_Add_Actions" = "Add Actions";
-"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Add Submenu";
-"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Edit Submenu";
-"Settings_Keyboard_Lightning_Menu_Remove_Action" = "Remove Action";
-"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Remove Submenu";
-"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Select Action";
-"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Actions";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Show Inline";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Inline submenu actions are shown in the parent menu, separated from other actions.";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Tap and hold any action in Lightning Menu to open these settings.";
-
-"Settings_Command_Keyboard" = "Command Keyboard";
-"Settings_Command_Keyboard_Enable" = "Show in Keyboard Bar";
-"Settings_Command_Keyboard_Always_Show_As_Popover" = "Always Show As Popover";
-"Settings_Command_Keyboard_Configure" = "Configure";
-"Settings_Command_Keyboard_Enabled_Section_Footer" = "Tap and hold any light key in Command Keyboard to open the configuration mode.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Command Keyboard actions are available in Lightning Menu, Quick Search, and as keyboard shortcuts when a hardware keyboard is connected.";
-
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Text";
+"Lightning_Menu_Group_Document" = "Document";
 "Lightning_Menu_Group_Actions" = "Actions";
 "Lightning_Menu_Group_Menu" = "Menu";
 "Configure_Menu" = "Configure Menu";
 
-/* Hardware keyboard section in settings. */
-"Settings_Editor_Hardware_Keyboard_Title" = "Hardware Keyboard";
-"Settings_Editor_Hardware_Keyboard_Footer" = "This affects the keyboard bar only when a hardware keyboard is connected.";
-"Settings_Editor_Hardware_Keyboard_Show_Bar" = "Show Keyboard Bar";
-
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Text Input";
-"Settings_Editor_Text_Input_Section_Footer" = "Spelling, Smart Quotes and Dashes can be enabled in Settings → General → Keyboard.";
+"Settings_Editor_Text_Input_Section_Footer" = "%@ can be enabled in System Settings → General → Keyboard.";
+"Settings_Editor_Autocorrection" = "Auto-Correction";
 "Settings_Editor_Check_Spelling" = "Check Spelling";
+"Settings_Editor_Predictive" = "Predictive";
 "Settings_Editor_Smart_Quotes" = "Smart Quotes";
 "Settings_Editor_Smart_Dashes" = "Smart Dashes";
 "Settings_Editor_Smart_Inset_Delete" = "Smart Copy/Paste";
@@ -808,14 +724,11 @@ Document
  URL Scheme Settings
  -------------------*/
 
-/* URL scheme setting. */
-"Settings_URL_Sheme_Enable" = "Enable URL Commands";
-
-/* URL scheme settings auth token header. */
-"Settings_URL_Sheme_Auth_Token_Header" = "Auth Token";
-
-/* URL scheme settings auth token footer. */
-"Settings_URL_Sheme_Auth_Token_Footer" = "Auth token is required for some URL commands.";
+"Settings_URL_Commands_Section_Title" = "URL Commands";
+"Settings_URL_Commands_Section_Footer" = "URL commands allow you to link to iA Writer files from other apps, and to perform actions with various automation tools.";
+"Settings_URL_Commands_Show_Documentation" = "Show Documentation";
+"Settings_URL_Commands_Enable" = "Enable URL Commands";
+"Settings_URL_Commands_Auth_Token_Header" = "Auth Token";
 
 /*---------
  URL Scheme
@@ -832,19 +745,3 @@ Document
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "Are you sure you want to reset the auth token? This action can’t be undone.";
-
-/*-----
- Editor
- -----*/
-
-/* Find bar menu menu item. */
-"Find_Match_Style" = "Match Style";
-
-/* Find bar menu menu item. */
-"Find_Match_Case" = "Match Text Case";
-
-/* Find bar action to replace selected result. */
-"Replace_Action" = "Replace";
-
-/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
-"Replace_All_Action" = "All";

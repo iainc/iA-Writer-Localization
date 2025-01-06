@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "¿Seguro que quieres restablecer el diseño del teclado? Se perderán todas tus modificaciones.";
 "Key_Picker_Action_Reset" = "Restablecer el diseño del teclado";
-"Key_Picker_Action_Cancel" = "Cancelar";
+
+"Lightning_Menu_Message_Reset" = "¿Seguro que quieres restablecer el menú Relámpago? Se perderán todos tus cambios.";
+"Lightning_Menu_Action_Reset" = "Restablecer menú Relámpago";
+
+"Edit_Menu_Message_Reset" = "¿Seguro que quieres restablecer el menú Editar? Se perderán todos tus cambios.";
+"Edit_Menu_Action_Reset" = "Restablecer menú Editar";
+
+"Double_Tap_Shift_Suggestion" = "Toca dos veces la tecla Shift para mostrar las acciones de estructura en la barra del teclado.";
 
 "Menu_Quick_Search" = "Búsqueda Rápida";
 "Menu_Find" = "Buscar y reemplazar";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "Buscar";
 "Find_Replace_Placeholder" = "Reemplazar";
+"Find_Match_Style" = "Coincidir estilo";
+"Find_Match_Case" = "Coincidir tamaño de texto";
+"Replace_Action" = "Sustituir";
+"Replace_All_Action" = "Todo";
 
 "Key_Description_Lightning" = "Menú de rayo";
 "Key_Description_Insert_Selected_Completion" = "Insertar término seleccionado";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "Tamaño";
 "Lightning_Size_Regular" = "Regular";
+"Lightning_Size_Medium" = "Medium";
 "Lightning_Size_Compact" = "Compacto";
+
+"Edit_Menu" = "Editar";
+"Settings_Edit_Menu" = "Editar menú";
+"Settings_Edit_Menu_Section_Footer" = "Utiliza la opción Editar para llevar a cabo acciones sobre el texto seleccionado. Las acciones que no son aplicables a la selección se ocultan automáticamente.";
+
+"Settings_Keyboard_Title" = "Teclado";
+"Settings_Lightning_Menu" = "Menu Flash";
+"Settings_Lightning_Action_Not_Found" = "No se han encontrado";
+"Settings_Lightning_Menu_Add_Actions" = "Añadir acciones";
+"Settings_Lightning_Menu_Add_Submenu" = "Añadir submenú";
+"Settings_Lightning_Menu_Edit_Submenu" = "Editar submenú";
+"Settings_Lightning_Menu_Remove_Action" = "Eliminar acción";
+"Settings_Lightning_Menu_Remove_Submenu" = "Eliminar submenú";
+"Settings_Lightning_Menu_Select_Action_Title" = "Seleccionar acción";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "Acciones";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "Apariencia";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "Mostrar en línea";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Las acciones del submenú en línea se muestran en el menú principal, separadas de otras acciones.";
+"Settings_Lightning_Menu_Section_Footer" = "Toca y mantén cualquier acción en el Menu Flash para abrir estos ajustes.";
+"Settings_Command_Keyboard" = "Teclado de comandos";
+"Settings_Command_Keyboard_Enable" = "Mostrar en la barra de teclado";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Mostrar siempre como emergente";
+"Settings_Command_Keyboard_Configure" = "Configurar";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Toca y mantén cualquier tecla de luz en el teclado de comandos para abrir el modo de configuración.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Las acciones del teclado de comandos están disponibles en el Menu Flash, en la Búsqueda Rápida y como accesos directos de teclado cuando se conecta un teclado.";
+"Settings_Hardware_Keyboard_Title" = "Teclado hardware";
+"Settings_Hardware_Keyboard_Footer" = "Esto afecta a la barra de teclado solo cuando se conecta un teclado.";
+"Settings_Hardware_Keyboard_Show_Bar" = "Mostrar la barra de teclado";

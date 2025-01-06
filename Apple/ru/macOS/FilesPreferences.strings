@@ -1,11 +1,11 @@
 
-/* Class = "NSTextFieldCell"; title = "Saving:"; ObjectID = "DAH-ta-FHC"; */
-"DAH-ta-FHC.title" = "Сохранение:";
+/* Class = "NSTextFieldCell"; title = "Open files:"; ObjectID = "DAH-ta-FHC"; */
+"DAH-ta-FHC.title" = "Открыть файлы:";
 
-/* Class = "NSTextFieldCell"; title = "Files are always automatically saved. \nIf selected, files will ask whether you want \nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
+/* Class = "NSTextFieldCell"; title = "Files are always automatically saved.\nIf selected, files will ask whether you want\nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
 "GLa-Mz-lpI.title" = "Файлы всегда сохраняются автоматически.\nЕсли включено, файлы будут спрашивать,\nхотите ли вы оставить или отменить изменения при закрытии.";
 
-/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
+/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon\nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "Предпочитаемая команда будет использована при нажатии ⌘N,\nили иконки в Dock когда ни один другой файл не открыт.\nАльтернативная команда будет использована при нажатии ⌥⌘N.";
 
 /* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */
@@ -14,10 +14,10 @@
 /* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
 "RP1-j6-hey.title" = "Предпочитаемая команда:";
 
-/* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
+/* Class = "NSTextFieldCell"; title = "New files will have this extension.\nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
 "UWl-8e-UTr.title" = "Новые файлы будут иметь это расширение.\nРазрешены только текстовые расширения.";
 
-/* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
+/* Class = "NSTextFieldCell"; title = "Files will be automatically\ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "Файлы будут автоматически\nсозданы в библиотеке.";
 
 /* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
@@ -26,8 +26,14 @@
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "Новый в библиотеке";
 
-/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
+/* Class = "NSButtonCell"; title = "Close when quitting"; ObjectID = "ghH-sF-bCo"; */
+"ghH-sF-bCo.title" = "Закрывать при выходе";
+
+/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them\nwhen closed."; ObjectID = "vCs-49-KMB"; */
 "vCs-49-KMB.title" = "При закрытии, файлы спросят хотите ли вы их сохранить.";
+
+/* Class = "NSTextFieldCell"; title = "When enabled, open files will not be restored\nwhen you re-open iA Writer."; ObjectID = "w6F-Ra-OYQ"; */
+"w6F-Ra-OYQ.title" = "Если включено, открытые файлы не будут восстанавливаться, когда вы заново открываете iA Writer.";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
 "whG-r6-ibK.title" = "Расширение по умолчанию:";

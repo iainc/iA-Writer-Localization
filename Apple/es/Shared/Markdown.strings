@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "Error desconocido";
+"Unknown_Error" = "Se ha producido un error desconocido.";
+"Unknown_Error_Recovery_Suggestion" = "Por favor, vuelve a probar o contacta con asistencia.";
+
+"Annotations_Key" = "Anotaciones";
+
+"Author_Human" = "Humana";
+"Author_Other" = "Otros";
+
+"Author_Unnamed" = "Sin nombre";
+"Author_Unspecified" = "Sin especificar";
+
+"Annotation_Unknown" = "Desconocido";
+"Annotation_Unknown_Description" = "Esta anotación no se puede mostrar en esta versión de %@.";
+
+"Annotation_Authorship" = "Autoría";
+"Annotation_Authorship_Description" = "Esta anotación tiene autoría.";

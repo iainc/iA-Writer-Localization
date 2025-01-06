@@ -11,29 +11,23 @@
 /* Class = "NSButtonCell"; title = "Text excerpts"; ObjectID = "9c8-RY-Bqq"; */
 "9c8-RY-Bqq.title" = "Estratti di testo";
 
-/* Class = "NSButtonCell"; title = "Hashtags"; ObjectID = "CjX-jS-fbZ"; */
+/* Class = "NSButtonCell"; title = "Wikilinks"; ObjectID = "CjX-jS-fbZ"; */
 "CjX-jS-fbZ.title" = "Hashtag";
 
-/* Class = "NSButtonCell"; title = "Newest on Top"; ObjectID = "KqX-Gc-m0e"; */
+/* Class = "NSButtonCell"; title = "Newest on Top"; ObjectID = "KqX-Gc-m0e"; Note = "SKIP LOCALIZATION"; */
 "KqX-Gc-m0e.title" = "Più recenti in alto";
 
 /* Class = "NSButtonCell"; title = "Pin folders to top"; ObjectID = "SOG-kM-c2S"; */
 "SOG-kM-c2S.title" = "Aggiungi cartelle in alto";
 
-/* Class = "NSButtonCell"; title = "Oldest on Top"; ObjectID = "Usl-VQ-WXd"; */
+/* Class = "NSButtonCell"; title = "Oldest on Top"; ObjectID = "Usl-VQ-WXd"; Note = "SKIP LOCALIZATION"; */
 "Usl-VQ-WXd.title" = "Più vecchi in alto";
 
 /* Class = "NSButtonCell"; title = "Sort bar"; ObjectID = "ggC-OU-ShT"; */
 "ggC-OU-ShT.title" = "Barra ordinamento";
 
-/* Class = "NSButtonCell"; title = "Show extensions"; ObjectID = "glA-Sr-Lyf"; */
-"glA-Sr-Lyf.title" = "Mostra estensioni";
-
 /* Class = "NSButtonCell"; title = "Filter bar"; ObjectID = "htJ-5i-qBe"; */
 "htJ-5i-qBe.title" = "Barra filtri";
-
-/* Class = "NSTextFieldCell"; title = "View options:"; ObjectID = "i4z-3b-PV5"; */
-"i4z-3b-PV5.title" = "Opzioni vista:";
 
 /* Class = "NSMenuItem"; title = "Extension"; ObjectID = "iJN-Ml-9Yx"; Note = "SKIP LOCALIZATION"; */
 "iJN-Ml-9Yx.title" = "Estensione";
@@ -49,3 +43,6 @@
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "oft-9R-Obz"; Note = "SKIP LOCALIZATION"; */
 "oft-9R-Obz.title" = "Nome";
+
+/* Class = "NSButtonCell"; title = "Hashtags"; ObjectID = "uf9-fm-UP6"; */
+"uf9-fm-UP6.title" = "Hashtag";

@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "你確定要重設鍵盤排列？所有自定修改都會消失。";
 "Key_Picker_Action_Reset" = "重設鍵盤排列";
-"Key_Picker_Action_Cancel" = "取消";
+
+"Lightning_Menu_Message_Reset" = "確定要重設 Lightning 選單嗎？所有變更都會遺失。";
+"Lightning_Menu_Action_Reset" = "重設 Lightning 選單";
+
+"Edit_Menu_Message_Reset" = "確定要重設「編輯」選單嗎？所有變更都會遺失。";
+"Edit_Menu_Action_Reset" = "重設「編輯」選單";
+
+"Double_Tap_Shift_Suggestion" = "按兩下 Shift 鍵以顯示鍵盤列中的結構動作。";
 
 "Menu_Quick_Search" = "快速搜尋";
 "Menu_Find" = "尋找及取代";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "尋找";
 "Find_Replace_Placeholder" = "取代";
+"Find_Match_Style" = "符合風格";
+"Find_Match_Case" = "符合文字大小寫";
+"Replace_Action" = "取代";
+"Replace_All_Action" = "全部";
 
 "Key_Description_Lightning" = "快速";
 "Key_Description_Insert_Selected_Completion" = "插入選取的已完成檔案";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "大小";
 "Lightning_Size_Regular" = "正常";
+"Lightning_Size_Medium" = "中";
 "Lightning_Size_Compact" = "緊湊";
+
+"Edit_Menu" = "編輯";
+"Settings_Edit_Menu" = "編輯選單";
+"Settings_Edit_Menu_Section_Footer" = "使用「編輯」選單針對選取的文字執行動作。不適用於選項的動作將自動隱藏。";
+
+"Settings_Keyboard_Title" = "鍵盤";
+"Settings_Lightning_Menu" = "快速選單";
+"Settings_Lightning_Action_Not_Found" = "找不到";
+"Settings_Lightning_Menu_Add_Actions" = "新增動作";
+"Settings_Lightning_Menu_Add_Submenu" = "新增子選單";
+"Settings_Lightning_Menu_Edit_Submenu" = "編輯子選單";
+"Settings_Lightning_Menu_Remove_Action" = "移除動作";
+"Settings_Lightning_Menu_Remove_Submenu" = "移除子選單";
+"Settings_Lightning_Menu_Select_Action_Title" = "選取動作";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "動作";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "外觀";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "顯示內嵌";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "內嵌子選單動作顯示於上層選單，與其他動作分離。";
+"Settings_Lightning_Menu_Section_Footer" = "點選並長按任何「快速選單」中的任何動作，以開啟這些設定。";
+"Settings_Command_Keyboard" = "命令鍵盤";
+"Settings_Command_Keyboard_Enable" = "於鍵盤列中顯示";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "一律顯示為彈出視窗";
+"Settings_Command_Keyboard_Configure" = "設定";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "點選並長按「命令鍵盤」中的任何燈光鍵，以開啟設定模式。";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "連接硬體鍵盤時，「快速選單」、「快速搜尋」和鍵盤捷徑皆可使用「命令鍵盤」動作。";
+"Settings_Hardware_Keyboard_Title" = "硬體鍵盤";
+"Settings_Hardware_Keyboard_Footer" = "唯有在連接硬體鍵盤時，才會影響鍵盤列。";
+"Settings_Hardware_Keyboard_Show_Bar" = "顯示鍵盤列";

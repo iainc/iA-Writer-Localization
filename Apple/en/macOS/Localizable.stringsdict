@@ -28,8 +28,6 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 			<key>one</key>
 			<string>Try (%tu Hour Remaining)</string>
 			<key>other</key>
@@ -62,8 +60,6 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 			<key>one</key>
 			<string>Try (%tu Day Remaining)</string>
 			<key>other</key>

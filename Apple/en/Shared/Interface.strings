@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Try_Again" = "Try Again";
+"Share" = "Share";
+"Close" = "Close";
+"Continue" = "Continue";
+"Enable" = "Enable";
+"Disable" = "Disable";
+"Reset" = "Reset";
+"Edit" = "Edit";
+"Done" = "Done";
+"Remove" = "Remove";
+"Delete" = "Delete";
+"Delete_Immediately" = "Delete Immediately";
+"More" = "More";
+"Hide" = "Hide";
+"Add" = "Add";
+"Name" = "Name";
+"Authorize" = "Authorize";
+"Options" = "Options";
+"Move_To_Trash" = "Move to Trash";
+"Copy" = "Copy";
+"Open" = "Open";
+"Save" = "Save";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "Print";
+"Export" = "Export";
+"Publish" = "Publish";
+"Back" = "Back";
+"Forward" = "Forward";
+"Text_Size" = "Text Size";
+"Make_Text_Bigger" = "Make Text Bigger";
+"Make_Text_Normal_Size" = "Make Text Normal Size";
+"Make_Text_Smaller" = "Make Text Smaller";
+
+"Default_Document_Name" = "Untitled";
+"Default_Folder_Name" = "Untitled Folder";
+"Default_Item_Name" = "Untitled";

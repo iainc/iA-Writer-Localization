@@ -111,10 +111,10 @@
  -----*/
 
 /* Menu item to show preview. */
-"Show_Source_List" = "显示管理栏";
+"Show_Organizer" = "显示管理栏";
 
 /* Menu item to show preview. */
-"Hide_Source_List" = "隐藏管理栏";
+"Hide_Organizer" = "隐藏管理栏";
 
 /* Menu item to show filter bar. */
 "Show_Search_Bar" = "显示筛选栏";
@@ -146,16 +146,6 @@
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "上一级文件夹";
-
-/* Menu to move to delete a folder when right-clicking in document library.
-   Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "刪除…";
-
-/* Deletion confirmation sheet message. */
-"Library_Delete_Confrimation_Message" = "是否确定删除“%@”？";
-
-/* Deletion confrimation infromative text for a local item. */
-"Library_Delete_Confrimation_Informative_Text" = "此操作无法撤销。";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "空文档";
@@ -261,6 +251,9 @@
 "Library_Root_Smart_Folders" = "智能文件夹";
 
 /* Organizer section title. */
+"Library_Root_Links" = "链接";
+
+/* Organizer section title. */
 "Library_Root_Hashtags" = "标签";
 
 /* Organizer section empty message. */
@@ -311,6 +304,9 @@
 
 /* Body text block element name. */
 "Block_Element_Blockquote" = "块引用";
+
+/* Body text block element name. */
+"Block_Element_Comment" = "注释";
 
 /* Body text block element name. */
 "Block_Element_Body_Text" = "主体";
@@ -377,6 +373,9 @@
 "Preferences_Pane_Title_Templates" = "模板";
 
 /* Markdown preferences pane title. */
+"Preferences_Pane_Title_Authors" = "作者";
+
+/* Markdown preferences pane title. */
 "Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
@@ -408,6 +407,8 @@
 "Markdown_Library_Paths_And_Links_Tab" = "资源库路径和链接";
 
 "Markdown_Processing_Tab" = "处理";
+
+"Shortcuts_Not_Supported" = "您不能在此版本的macOS %@中使用快捷方式。快捷方式需要macOS 13或更高版本。";
 
 /*-----------
  Quick Search

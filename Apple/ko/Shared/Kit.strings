@@ -13,9 +13,14 @@
 "Remove" = "계정";
 "Delete" = "삭제";
 "Delete_Immediately" = "즉시 삭제";
+"Delete_Confirmation_Message" = "“%@”을(를) 삭제하시겠습니까?";
+"Delete_Confirmation_Informative_Text" = "이 작업은 취소할 수 없습니다.";
 "More" = "더 보기";
 "Hide" = "숨기기";
 "Add" = "추가";
+"Ask_Again_Later" = "나중에 다시 묻기";
+"Do_Not_Show_Again" = "다시 표시 안 함";
+"Do_Not_Ask_Again" = "다시 묻지 않음";
 "Name" = "이름";
 "Add_Account" = "계정 추가";
 "Remove_Account" = "계정 삭제";
@@ -24,12 +29,20 @@
 "Open_Mail" = "Mail 열기";
 "Add_Pattern" = "패턴 추가";
 "Remove_Pattern" = "패턴 제거";
+"New_File" = "새 파일";
 "New_Smart_Folder" = "새 스마트 폴더";
+"New_Folder" = "새 폴더";
+"New_Folder_With_Selection" = "선택 항목으로 새 폴더";
+"New_Folder_With" = "“%@”으로 새 폴더";
 "Add_Location" = "위치에서 추가";
 "Move_To_Trash" = "휴지통으로 이동";
+"Move_To" = "%@(으)로 이동";
+"Cut_For_Undo" = "오려두기";
 "Copy" = "복사";
 "Copy_Library_Path" = "라이브러리 경로 복사";
 "Copy_URL_Command" = "Copy URL Command";
+"Expand" = "펼치기";
+"Collapse" = "접기";
 "Open" = "열기";
 "Save" = "저장";
 "Discard_Changes" = "Discard Changes";
@@ -58,6 +71,8 @@
 "Export" = "내보내기";
 "Publish" = "게시";
 "Show_Completions" = "자동 완성 표시";
+
+"Duplicate_Item_Suffix" = " copy";
 
 "Open_Content_Block" = "콘텐츠 블록 열기";
 "Open_Content_Block_Tooltip" = "⌘-클릭하여 콘텐츠 블록 열기";
@@ -108,6 +123,9 @@
 "Library_Destination_Relative" = "보통";
 "Library_Destination_Absolute" = "최적";
 
+"Show_Text_Excerpts" = "텍스트 발췌 표시";
+"Pin_Folders_To_Top" = "맨 위에 폴더 고정";
+
 "Menu_Focus" = "포커스";
 "Menu_Go" = "이동";
 
@@ -131,6 +149,7 @@
 
 "Suffix_Colon" = ":";
 "Suffix_Ellipsis" = "…";
+"List_Separator" = ", ";
 
 "News_Title" = "새로운 기능";
 
@@ -139,6 +158,7 @@
 "Unknown_Error_Recovery_Suggestion" = "다시 시도하거나 지원팀에 문의하세요.";
 
 "Default_Document_Name" = "제목 없음";
+"Default_Location_Name" = "제목 없음";
 "Default_Folder_Name" = "제목 없는 폴더";
 "Default_Image_Name" = "제목 없음";
 "Default_Smart_Folder_Name" = "제목 없음";
@@ -177,7 +197,118 @@
 
 "Template" = "템플릿";
 
+"Links" = "링크";
+"Backlinks" = "백링크";
+"Links_In" = "%@의 링크";
+"Backlinks_To" = "%@의 백링크";
+
+"Links_Linked" = "링크";
+"Backlinks_Linked" = "백링크";
+"Links_Unlinked" = "잠재적 링크";
+"Backlinks_Unlinked" = "잠재적 백링크";
+
+"Authors" = "원작자";
 "Author" = "작성자";
+"Author_Primary" = "기본";
+"Author_Secondary" = "보조";
+"Author_Name" = "이름";
+"Author_Identifier" = "식별자";
+
+"Author_AI" = "AI";
+"Author_ChatGPT" = "ChatGPT";
+
+"Author_Writing_Tools" = "글쓰기 도구";
+"Replace_From_Writing_Tools_For_Undo" = "글쓰기 도구에서 교체";
+
+"Add_Author" = "원작자 추가";
+"Remove_Author" = "원작자 제거";
+
+"Save_Author" = "원작자 저장";
+"Remove_Author_From_Saved" = "저장 내용에서 원작자 제거";
+"Save_Author_Sentence_Capitalization" = "원작자 저장";
+"Save_Author_Description" = "설정에서 저장된 원작자를 편집하거나 제거할 수 있습니다.";
+
+"Author_Kind" = "유형";
+"Author_Kind_Description" = "인간의 편집 내용은 밑줄이 있습니다. 다른 편집 내용은 흐리게 표시됩니다.";
+
+"Author_Primary_Name_Description" = "미리 보기, 내보내기 또는 인쇄 시 회원님의 이름이 원작자 정보 및 템플릿에서 사용됩니다.";
+"Author_Primary_Identifier_Description" = "선택 사항. 예: 이메일 또는 웹 사이트. 회원님의 식별자가 원작자 정보에 사용됩니다.";
+
+"Author_Secondary_Name_Description" = "필수 사항.";
+"Author_Secondary_Identifier_Description" = "선택 사항. 예: 이메일 또는 웹 사이트.";
+
+"Author_Secondary_Name_Description_With_Purpose" = "필수 사항. 이름이 원작자 정보에 사용됩니다.";
+"Author_Secondary_Identifier_Description_With_Purpose" = "선택 사항. 예: 이메일 또는 웹 사이트. 식별자가 원작자 정보에 사용됩니다.";
+
+"Placeholder_No_Authorship" = "원작자 정보 없음";
+"Authorship" = "원작자 정보";
+"Authorship_Prompt_Title" = "“%@”에서 원작자 정보를 활성화하시겠습니까?";
+"Authorship_Prompt" = "원작자 정보 주석은 파일의 끝 부분에 저장됩니다. iA Writer에서 편집 시 숨겨지고, 다른 앱에서 표시됩니다.";
+"Authorship_Description" = "'다음으로 표시', '다음으로 붙여넣기', '다음에서 편집 내용 붙여넣기' 메뉴를 사용하여 원작자 정보를 표시할 수 있습니다. 원작자 정보 주석은 파일의 끝 부분에 저장됩니다. iA Writer에서 편집 시 숨겨지고, 다른 앱에서 표시됩니다.";
+"Authorship_Paste" = "붙여넣은 텍스트에 원작자 정보 주석이 포함되어 있습니다. 원작자 정보를 추가하시겠습니까?";
+"Authorship_Paste_Conversation" = "붙여넣은 텍스트는 %@와의 대화인 것 같습니다. 원작자 정보를 자동으로 추가하시겠습니까?";
+"Paste_With_Authorship" = "원작자 정보와 함께 붙여넣기";
+"Paste_With_Authorship_For_Undo" = "원작자 정보와 함께 붙여넣기";
+"Paste_Without_Authorship" = "원작자 정보 없이 붙여넣기";
+
+"Authorship_Not_Available" = "원작자 정보는 Markdown 파일에서만 지원됩니다.";
+
+"File_Encoding_Error" = "“%@” 파일을 열지 못했습니다.";
+"File_Encoding_Error_Failure_Reason" = "콘텐츠의 텍스트 인코딩을 확인하지 못했습니다.";
+"File_Encoding_Error_Recovery_Suggestion" = "다른 앱을 사용하여 텍스트 인코딩을 변경할 수 있습니다.";
+
+"Edit_Authorship" = "원작자 정보 편집";
+"Enable_Authorship" = "원작자 정보 활성화";
+"Disable_Authorship" = "원작자 정보 비활성화";
+"Disable_Authorship_Confirmation" = "“%@”에서 원작자 정보를 비활성화하시겠습니까?";
+"Disable_Authorship_Confirmation_Description" = "모든 원작자 정보 주석이 제거됩니다.";
+
+"Misplaced_Authorship" = "잘못된 원작자 정보";
+"Misplaced_Authorship_Description" = "이 파일은 다른 앱에서 편집되었는데, 원작자 정보 주석이 올바로 업데이트되지 않았습니다. 원작자 정보의 일부 또는 전부가 잘못되었을 수 있습니다.";
+"Review_Authorship" = "원작자 정보 검토";
+"Discard_Authorship" = "원작자 정보 폐기";
+"Keep_Authorship" = "원작자 정보 유지";
+
+"Reorder_Authors" = "원작자 재정리";
+"Edit_Author" = "원작자 편집";
+"Delete_Author" = "원작자 삭제";
+"Replace_Author" = "원작자 대체";
+"Set_Author" = "원작자 설정";
+
+"Authors_Show" = "원작자 표시";
+"Authors_Hide" = "원작자 숨기기";
+
+"Paste_As_Author" = "%@(으)로 붙여넣기";
+"Paste_Edits_From_Author" = "%@에서 편집 내용 붙여넣기";
+"Mark_Selection_As_Author" = "%@(으)로 선택 항목 표시";
+"Mark_As_Author" = "%@(으)로 표시";
+
+"Paste_For_Undo" = "Paste";
+"Paste_As_Author_For_Undo" = "Paste as %@";
+"Paste_Edits_From_Author_For_Undo" = "Paste Edits from %@";
+"Mark_Selection_As_Author_For_Undo" = "Mark Selection as %@";
+"Mark_As_Author_For_Undo" = "Mark as %@";
+
+"New_Author" = "새 원작자";
+
+"Paste_As_New_Author" = "새 작성자로 붙여넣기";
+"Paste_Edits_From_New_Author" = "새 작성자의 편집 내용 붙여넣기";
+"Mark_Selection_As_New_Author" = "선택 항목을 새 작성자로 표시";
+"Mark_As_New_Author" = "새 작성자로 표시";
+
+"Paste_As" = "다음으로 붙여넣기";
+"Paste_Edits_From" = "다음에서 편집 내용 붙여넣기";
+"Mark_As" = "다음으로 표시";
+"Mark_Selection_As" = "다음으로 선택 항목 표시";
+
+"Paste" = "붙여넣기";
+"Paste_Edits" = "편집 내용 붙여넣기";
+"Mark" = "표시";
+"Mark_Selection" = "선택 항목 표시";
+
+"Author_Secondary_Unnamed_Error" = "이름 없는 원작자를 저장할 수 없습니다.";
+
+"Set_Up_Authorship" = "원작자 정보 설정";
 
 /*---------
 Text Check
@@ -199,7 +330,7 @@ Text Check
 "Style_Check_Target_Cliches" = "상투적인 표현";
 "Style_Check_Target_Redundancies" = "중복된 표현";
 "Style_Check_Target_Custom" = "사용자 지정";
-"Style_Check_Languages" = "영어, 프랑스어, 독일어를위한 내장 패턴.";
+"Style_Check_Languages" = "영어, 스페인어, 프랑스어, 독일어를위한 내장 패턴.";
 
 /*----------
  Focus Tools
@@ -292,14 +423,13 @@ Text Check
 "Web_Service_Error_WordPress_API_Not_Found" = "WordPress API를 찾을 수 없습니다.";
 "Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "WordPress 4.7 이상의 버전을 사용하고 있는지, 그리고 WordPress API 메타 태그가 있는지 확인해보세요.";
 
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress 앱 비밀번호 이용 불가";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress 앱 비밀번호를 이용할 수 없습니다.";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "WordPress 5.6 이상의 버전을 사용하고 있는지, 앱 비밀번호가 사이트에서 또는 사용자에 대해 비활성화되어 있지 않은지 확인하세요.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress 앱 비밀번호를 사용할 수 없음";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress 앱 비밀번호를 사용할 수 없습니다.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "앱 비밀번호가 사이트 및 사용자에 대해 활성화되어 있는지 확인하십시오. 일부 보안 플러그인은 기본적으로 앱 비밀번호를 비활성화합니다.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "나중에 다시 시도하세요.";
 
 "Medium_Failure_Reason_Unsupported_Content" = "일부 요소가 다르게 보일 수 있습니다: %@.";
-"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
 "Medium_Failure_Reason_Unsupported_Content_Tables" = "표";
 "Medium_Failure_Reason_Unsupported_Content_Footnotes" = "각주";
 "Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "중첩된 목록 항목";
@@ -399,6 +529,10 @@ Text Check
 "Library_Location_Desktop" = "데스크탑";
 "Library_Location_Documents" = "도큐멘트";
 
+"Navigation" = "네비게이션";
+"Navigation_Tree" = "트리";
+"Navigation_List" = "목록";
+
 /*----------------
  Library Locations
  ----------------*/
@@ -413,9 +547,9 @@ Text Check
 "Library_Location_Error_Not_Found_Failure_Reason" = "이미 제거되었거나 탈착식 드라이브에 위치하고 있는 것 같습니다.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "라이브러리 위치에 접근하려면 탈착식 드라이브를 연결하세요.";
 
-/*---------
+/*--------
  Wikilinks
- ---------*/
+ --------*/
 
 "Library_Destination_Error_Library_Location_Not_Found_Title" = "이름이 “%@”인 라이브러리 위치를 찾을 수 없습니다";
 "Library_Destination_Error_Library_Location_Not_Found" = "이름이 “%@”인 라이브러리 위치를 찾을 수 없습니다.";
@@ -424,6 +558,14 @@ Text Check
 "Library_Destination_Error_Destination_Points_Outside_Library_Title" = "라이브러리 외부에 있는 항목에 액세스할 수 없습니다";
 "Library_Destination_Error_Destination_Points_Outside_Library" = "라이브러리 외부에 있는 항목에 액세스할 수 없습니다.";
 "Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "라이브러리 경로가 올바른지 확인하세요.";
+
+/*-----------
+ Library Edit
+ -----------*/
+
+"Library_Edit_Error_File_Changed_Title" = "파일이 변경됨";
+"Library_Edit_Error_File_Changed" = "포함된 파일이 변경되었기 때문에 편집 내용을 적용할 수 없습니다.";
+"Library_Edit_Error_File_Changed_Recovery_Suggestion" = "다시 시도하세요.";
 
 /*--------
  Documents
@@ -473,7 +615,7 @@ Text Check
 
 "Library_Sort_By_Part_Joiner" = ", ";
 
-"Library_Sort_Order_Persistent" = "여기서 항상 이 옵션 사용";
+"Library_View_Options_Persistent" = "여기서 항상 이 옵션 사용";
 
 /*----------
  Focus Scope
@@ -526,10 +668,14 @@ Text Check
  Text Stats
  ---------*/
 
-"Stats_Reading_Time" = "%@ 읽기 시간";
+"Stats_Reading_Time_Title" = "%@ 읽기 시간";
+"Stats_Speaking_Time_Title" = "%@ 발언 시간";
+/* %1$@ is percentage, %2$@ is author name */
+"Stats_Author_Title" = "%1$@ %2$@";
 "Stats_Name_Words" = "단어";
 "Stats_Name_Sentences" = "문장";
 "Stats_Name_Reading_Time" = "읽기 시간";
+"Stats_Name_Speaking_Time" = "발언 시간";
 "Stats_Name_Tasks" = "작업";
 "Stats_Name_Characters" = "글자";
 "Stats_Name_Characters_Without_Spaces" = "글자 공백 제외";
@@ -572,3 +718,5 @@ Text Check
 "PDF_Scale_Fit_Page" = "페이지에 맞추기";
 "PDF_Scale_Fit_Width" = "너비에 맞추기";
 "PDF_Percent_Zoom" = "%zd %";
+
+"Help_Shortcuts" = "단축 명령";

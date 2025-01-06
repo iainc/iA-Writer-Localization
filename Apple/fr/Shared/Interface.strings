@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = " :";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "OK";
+"Cancel" = "Annuler";
+"Try_Again" = "Réessayer";
+"Share" = "Partager";
+"Close" = "Fermer";
+"Continue" = "Continuer";
+"Enable" = "Activer";
+"Disable" = "Désactiver";
+"Reset" = "Réinitialiser";
+"Edit" = "Modifier";
+"Done" = "Terminé";
+"Remove" = "Supprimer";
+"Delete" = "Supprimer";
+"Delete_Immediately" = "Supprimer immédiatement";
+"More" = "Plus";
+"Hide" = "Masquer";
+"Add" = "Ajouter";
+"Name" = "Nom";
+"Authorize" = "Autoriser";
+"Options" = "Options";
+"Move_To_Trash" = "Placer dans la corbeille";
+"Copy" = "Copier";
+"Open" = "Ouvrir";
+"Save" = "Enregistrer";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "Imprimer";
+"Export" = "Exporter";
+"Publish" = "Publier";
+"Back" = "Arrière";
+"Forward" = "Avant";
+"Text_Size" = "Taille du texte";
+"Make_Text_Bigger" = "Agrandir la taille du texte";
+"Make_Text_Normal_Size" = "Rendre une taille normale au texte";
+"Make_Text_Smaller" = "Réduire la taille du texte";
+
+"Default_Document_Name" = "Sans titre";
+"Default_Folder_Name" = "Dossier sans titre";
+"Default_Item_Name" = "Sans titre";

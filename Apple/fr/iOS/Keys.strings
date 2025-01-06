@@ -10,20 +10,22 @@
 "Structure" = "Structure";
 
 "Wikilink" = "Wikilien";
-"Headings" = "En-têtes 1 à 6";
+"Headings" = "En-têtes";
+"Headings1-6" = "En-têtes 1 à 6";
 "Heading1" = "En-tête 1";
 "Heading2" = "En-tête 2";
 "Heading3" = "En-tête 3";
 "Heading4" = "En-tête 4";
 "Heading5" = "En-tête 5";
 "Heading6" = "En-tête 6";
-"Lists" = "Toutes les listes";
+"Lists" = "Listes";
 "List" = "Liste";
 "OrderedList" = "Liste ordonnée";
 "TaskList" = "Liste des tâches";
 "OrderedTaskList" = "Liste des tâches ordonnées";
 "CodeBlock" = "Bloc de code";
 "BlockQuote" = "Blockquote";
+"Comment" = "Commentaire";
 "HorizontalRule" = "Ajouter une règle horizontale";
 "PageBreak" = "Ajouter un saut de page";
 "Strong" = "Gras";
@@ -87,6 +89,7 @@
 "Copy" = "Copier";
 "Paste" = "Copier";
 "Select" = "Sélectionner";
+"SelectAll" = "Sélectionner tout";
 "Undo" = "Annuler";
 "Redo" = "Refaire";
 "AddImage" = "Ajouter une image";
@@ -102,7 +105,7 @@
 "ScanText" = "Scanner du texte";
 "AddContentBlock" = "Ajouter un bloc de contenu";
 "AddDate" = "Ajouter une date";
-"ChooseDate" = "Choose Date";
+"ChooseDate" = "Choisir une date";
 "DismissKeyboard" = "Supprimer le clavier";
 "MarkTask" = "Marquer la tâche comme terminée";
 "Night" = "Activer/Désactiver le mode nuit";

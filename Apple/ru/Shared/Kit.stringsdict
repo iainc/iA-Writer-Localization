@@ -2,6 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Delete_Confirmation_Message_Multiple</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>Вы уверены, что хотите удалить %tu выбранных объекта?</string>
+			<key>many</key>
+			<string>Вы уверены, что хотите удалить %tu выбранных объектов?</string>
+			<key>one</key>
+			<string>Вы уверены, что хотите удалить выбранный объект?</string>
+			<key>other</key>
+			<string>Вы уверены, что хотите удалить %tu выбранных объекта?</string>
+		</dict>
+	</dict>
 	<key>Library_Path_Matches</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
@@ -62,7 +82,27 @@
 			<string>%tu символа</string>
 		</dict>
 	</dict>
-	<key>Stats_Sentences</key>
+	<key>Stats_Characters_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@chars@</string>
+		<key>chars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>few</key>
+			<string>%tu символа</string>
+			<key>many</key>
+			<string>%tu символов</string>
+			<key>one</key>
+			<string>%tu символ</string>
+			<key>other</key>
+			<string>%tu символа</string>
+		</dict>
+	</dict>
+	<key>Stats_Sentences_Title</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@sentences@</string>
@@ -82,7 +122,7 @@
 			<string>%tu предложения</string>
 		</dict>
 	</dict>
-	<key>Stats_Tasks</key>
+	<key>Stats_Tasks_Title</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@tasks_completed@ из %#@tasks_total@</string>
@@ -117,7 +157,7 @@
 			<string>%tu задачи</string>
 		</dict>
 	</dict>
-	<key>Stats_Without_Spaces</key>
+	<key>Stats_Without_Spaces_Title</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@chars@</string>
@@ -131,7 +171,7 @@
 			<string>%tu без пробелов</string>
 		</dict>
 	</dict>
-	<key>Stats_Words</key>
+	<key>Stats_Words_Title</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@words@</string>

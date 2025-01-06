@@ -1,0 +1,6 @@
+
+/* Columns number label in table size picker. */
+"Table_Size_Picker_Columns" = "Spalten";
+
+/* Rows number label in table size picker. */
+"Table_Size_Picker_Rows" = "Zeilen";

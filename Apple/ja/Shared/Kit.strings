@@ -13,9 +13,14 @@
 "Remove" = "削除";
 "Delete" = "削除";
 "Delete_Immediately" = "すぐに削除";
+"Delete_Confirmation_Message" = "“%@”を削除しますか？";
+"Delete_Confirmation_Informative_Text" = "このアクションはやり直しできません。";
 "More" = "その他";
 "Hide" = "隠す";
 "Add" = "追加";
+"Ask_Again_Later" = "後でまた確認";
+"Do_Not_Show_Again" = "今後表示しない";
+"Do_Not_Ask_Again" = "次回から確認しない";
 "Name" = "名前";
 "Add_Account" = "アカウント追加";
 "Remove_Account" = "アカウントを削除";
@@ -24,12 +29,20 @@
 "Open_Mail" = "メールを開く";
 "Add_Pattern" = "パターンを追加";
 "Remove_Pattern" = "パターンを削除";
+"New_File" = "新規ファイル";
 "New_Smart_Folder" = "スマートフォルダを作成";
+"New_Folder" = "新規フォルダ";
+"New_Folder_With_Selection" = "選択項目を含む新規フォルダ";
+"New_Folder_With" = "「%@」を含む新規フォルダ";
 "Add_Location" = "場所を追加";
 "Move_To_Trash" = "ゴミ箱に入れる";
+"Move_To" = "%@に入れる";
+"Cut_For_Undo" = "カット";
 "Copy" = "コピー";
 "Copy_Library_Path" = "ライブラリのパスをコピー";
 "Copy_URL_Command" = "URLコマンドをコピー";
+"Expand" = "展開";
+"Collapse" = "折りたたむ";
 "Open" = "開く";
 "Save" = "保存";
 "Discard_Changes" = "Discard Changes";
@@ -58,6 +71,8 @@
 "Export" = "書き出し";
 "Publish" = "公開";
 "Show_Completions" = "完了を表示";
+
+"Duplicate_Item_Suffix" = " copy";
 
 "Open_Content_Block" = "コンテンツブロックを開く";
 "Open_Content_Block_Tooltip" = "⌘-クリックしてコンテンツブロックを開く";
@@ -108,6 +123,9 @@
 "Library_Destination_Relative" = "相対的";
 "Library_Destination_Absolute" = "絶対";
 
+"Show_Text_Excerpts" = "本文の一部を表示";
+"Pin_Folders_To_Top" = "フォルダを常に上に表示";
+
 "Menu_Focus" = "フォーカス";
 "Menu_Go" = "移動";
 
@@ -131,6 +149,7 @@
 
 "Suffix_Colon" = "：";
 "Suffix_Ellipsis" = "…";
+"List_Separator" = "、";
 
 "News_Title" = "新しい機能紹介";
 
@@ -139,6 +158,7 @@
 "Unknown_Error_Recovery_Suggestion" = "もう一度試した後、サポートにご連絡ください。";
 
 "Default_Document_Name" = "名称未設定";
+"Default_Location_Name" = "名称未設定";
 "Default_Folder_Name" = "名称未設定フォルダ";
 "Default_Image_Name" = "名称未設定";
 "Default_Smart_Folder_Name" = "名称未設定";
@@ -177,7 +197,118 @@
 
 "Template" = "テンプレート";
 
+"Links" = "リンク";
+"Backlinks" = "バックリンク";
+"Links_In" = "%@のリンク";
+"Backlinks_To" = "%@にバックリンク";
+
+"Links_Linked" = "リンク";
+"Backlinks_Linked" = "バックリンク";
+"Links_Unlinked" = "リンク候補";
+"Backlinks_Unlinked" = "バックリンク候補";
+
+"Authors" = "作成者";
 "Author" = "作者";
+"Author_Primary" = "プライマリ";
+"Author_Secondary" = "セカンダリ";
+"Author_Name" = "名前";
+"Author_Identifier" = "識別子";
+
+"Author_AI" = "AI";
+"Author_ChatGPT" = "ChatGPT";
+
+"Author_Writing_Tools" = "作文ツール";
+"Replace_From_Writing_Tools_For_Undo" = "作文ツールから置換";
+
+"Add_Author" = "作成者を追加する";
+"Remove_Author" = "作成者を削除する";
+
+"Save_Author" = "作成者を保存する";
+"Remove_Author_From_Saved" = "保存済みから作成者を削除する";
+"Save_Author_Sentence_Capitalization" = "作成者を保存する";
+"Save_Author_Description" = "保存された作成者は、設定で編集または削除することができます。";
+
+"Author_Kind" = "種類";
+"Author_Kind_Description" = "人間が加えた編集には下線が引かれています。その他の編集は薄く表示されています。";
+
+"Author_Primary_Name_Description" = "あなたの名前が作成者名に使用され、テンプレートではプレビュー、エクスポート、印刷時に使用されます。";
+"Author_Primary_Identifier_Description" = "任意。メールアドレスやウェブサイトなど。識別子は作成者名に使用されます。";
+
+"Author_Secondary_Name_Description" = "必須。";
+"Author_Secondary_Identifier_Description" = "任意。メールアドレスやウェブサイトなど。";
+
+"Author_Secondary_Name_Description_With_Purpose" = "必須。名前は作成者名に使用されます。";
+"Author_Secondary_Identifier_Description_With_Purpose" = "任意。メールアドレスやウェブサイトなど。識別子は作成者名に使用されます。";
+
+"Placeholder_No_Authorship" = "作成者名なし";
+"Authorship" = "作成者名";
+"Authorship_Prompt_Title" = "「%@」で作成者名を有効にしますか？";
+"Authorship_Prompt" = "作成者名の注釈はファイルの最後に保存されます。iA Writerでの編集時には非表示になり、他のアプリでは表示されます。";
+"Authorship_Description" = "メニューの「別名でマーク」「別名で貼り付け」「別の場所から編集を貼り付け」を使用して、作成者名をマークすることができます。作成者名の注釈はファイルの最後に保存されます。iA Writerでの編集時には非表示になり、他のアプリでは表示されます。";
+"Authorship_Paste" = "貼り付けられたテキストには作成者名の注釈が含まれています。作成者名を追加しますか？";
+"Authorship_Paste_Conversation" = "貼り付けられたテキストは%@との会話のようです。自動的に作成者名を追加しますか？";
+"Paste_With_Authorship" = "作成者名をつけて貼り付ける";
+"Paste_With_Authorship_For_Undo" = "作成者名をつけて貼り付ける";
+"Paste_Without_Authorship" = "作成者名をつけずに貼り付ける";
+
+"Authorship_Not_Available" = "作成者名はマークダウンファイルでのみ対応しています。";
+
+"File_Encoding_Error" = "ファイル「%@」を開くことができませんでした。";
+"File_Encoding_Error_Failure_Reason" = "コンテンツのテキストエンコーディングを特定できませんでした。";
+"File_Encoding_Error_Recovery_Suggestion" = "他のアプリを使ってテキストエンコーディングを変更できるかもしれません。";
+
+"Edit_Authorship" = "作成者名を編集する";
+"Enable_Authorship" = "作成者名を有効にする";
+"Disable_Authorship" = "作成者名を無効にする";
+"Disable_Authorship_Confirmation" = "「%@」で作成者名を無効にしてもよろしいですか？";
+"Disable_Authorship_Confirmation_Description" = "作成者名の注釈はすべて削除されます。";
+
+"Misplaced_Authorship" = "誤って追加された作成者名";
+"Misplaced_Authorship_Description" = "このファイルは、他のアプリケーションによって編集され、作成者名の注釈が正しく更新されませんでした。作成者名の一部または全部が誤っている可能性があります。";
+"Review_Authorship" = "作成者名をレビューする";
+"Discard_Authorship" = "作成者名を破棄する";
+"Keep_Authorship" = "作成者名を維持する";
+
+"Reorder_Authors" = "作成者を並べ替える";
+"Edit_Author" = "作成者を編集する";
+"Delete_Author" = "作成者を削除する";
+"Replace_Author" = "作成者を置き換える";
+"Set_Author" = "作成者を設定する";
+
+"Authors_Show" = "作成者を表示する";
+"Authors_Hide" = "作成者を非表示にする";
+
+"Paste_As_Author" = "%@として貼り付ける";
+"Paste_Edits_From_Author" = "%@から編集を貼り付ける";
+"Mark_Selection_As_Author" = "%@として選択する";
+"Mark_As_Author" = "%@としてマークする";
+
+"Paste_For_Undo" = "貼り付ける";
+"Paste_As_Author_For_Undo" = "%@として貼り付ける";
+"Paste_Edits_From_Author_For_Undo" = "%@から編集を貼り付ける";
+"Mark_Selection_As_Author_For_Undo" = "%@として選択する";
+"Mark_As_Author_For_Undo" = "%@としてマークする";
+
+"New_Author" = "新規作成者";
+
+"Paste_As_New_Author" = "新規作成者として貼り付ける";
+"Paste_Edits_From_New_Author" = "新規作成者から編集を貼り付ける";
+"Mark_Selection_As_New_Author" = "新規作成者として選択する";
+"Mark_As_New_Author" = "新規作成者としてマークする";
+
+"Paste_As" = "別名で貼り付け";
+"Paste_Edits_From" = "別の場所から編集を貼り付け";
+"Mark_As" = "別名でマーク";
+"Mark_Selection_As" = "別名で選択";
+
+"Paste" = "貼り付け";
+"Paste_Edits" = "編集を貼り付ける";
+"Mark" = "マークする";
+"Mark_Selection" = "選択する";
+
+"Author_Secondary_Unnamed_Error" = "無名の作成者は保存できません。";
+
+"Set_Up_Authorship" = "作成者名を設定する";
 
 /*---------
 Text Check
@@ -199,7 +330,7 @@ Text Check
 "Style_Check_Target_Cliches" = "クリシェ";
 "Style_Check_Target_Redundancies" = "重複";
 "Style_Check_Target_Custom" = "カスタム";
-"Style_Check_Languages" = "英語、フランス語、ドイツ語のパターンを内蔵。";
+"Style_Check_Languages" = "英語、スペイン語、フランス語、ドイツ語のパターンを内蔵。";
 
 /*----------
  Focus Tools
@@ -292,14 +423,13 @@ Text Check
 "Web_Service_Error_WordPress_API_Not_Found" = "WordPress APIが見つかりませんでした。";
 "Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "WordPress 4.7以降を使用していることと、WordPress APIのメタタブが存在していることを確認してください。";
 
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPressアプリのパスワードが利用できません";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPressアプリのパスワードが利用できません。";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "WordPress 5.6以降を使用していることと、サイト上で、もしくはユーザーに対して、アプリのパスワードが無効になっていないことを確認してください。";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPressアプリパスワードが利用できません";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPressアプリパスワードは利用できません。";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "サイトとユーザーでアプリパスワードが有効になっていることを確認してください。一部のセキュリティプラグインはデフォルトでアプリパスワードを無効にします。";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "後でお試しください。";
 
 "Medium_Failure_Reason_Unsupported_Content" = "いくつかの要素が異なった表示になる恐れがあります： %@";
-"Medium_Failure_Reason_Unsupported_Content_Separator" = "、";
 "Medium_Failure_Reason_Unsupported_Content_Tables" = "テーブル";
 "Medium_Failure_Reason_Unsupported_Content_Footnotes" = "脚注";
 "Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "ネストされたリスト";
@@ -394,10 +524,14 @@ Text Check
 "Storage_Name_From_Other_Apps" = "ファイル";
 "Storage_Name_Unknown" = "不明";
 "Storage_Name_Local" = "ローカル";
-"Storage_Name_On_My_Device" = "On My %@";
+"Storage_Name_On_My_Device" = "この%@内";
 
 "Library_Location_Desktop" = "デスクトップ";
 "Library_Location_Documents" = "書類";
+
+"Navigation" = "ナビゲーション";
+"Navigation_Tree" = "ツリー";
+"Navigation_List" = "リスト";
 
 /*----------------
  Library Locations
@@ -413,9 +547,9 @@ Text Check
 "Library_Location_Error_Not_Found_Failure_Reason" = "外部ボリューム上にあるか削除された可能性があります。";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "ライブラリにアクセスするために、外部ボリュームを接続してください。";
 
-/*---------
+/*--------
  Wikilinks
- ---------*/
+ --------*/
 
 "Library_Destination_Error_Library_Location_Not_Found_Title" = "「%@」という名前のライブラリの場所が見つかりません";
 "Library_Destination_Error_Library_Location_Not_Found" = "「%@」という名前のライブラリの場所が見つかりません。";
@@ -424,6 +558,14 @@ Text Check
 "Library_Destination_Error_Destination_Points_Outside_Library_Title" = "ライブラリ外にあるアイテムにはアクセスできません";
 "Library_Destination_Error_Destination_Points_Outside_Library" = "ライブラリ外にあるアイテムにはアクセスできません。";
 "Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "ライブラリのパスが正しいことを確認してください。";
+
+/*-----------
+ Library Edit
+ -----------*/
+
+"Library_Edit_Error_File_Changed_Title" = "ファイルを変更しました";
+"Library_Edit_Error_File_Changed" = "含まれるファイルが変更されたため、編集を適用できません。";
+"Library_Edit_Error_File_Changed_Recovery_Suggestion" = "もう一度お試しください。";
 
 /*--------
  Documents
@@ -473,7 +615,7 @@ Text Check
 
 "Library_Sort_By_Part_Joiner" = "、";
 
-"Library_Sort_Order_Persistent" = "ここで常にこれらのオプションを使用";
+"Library_View_Options_Persistent" = "ここで常にこれらのオプションを使用";
 
 /*----------
  Focus Scope
@@ -526,10 +668,14 @@ Text Check
  Text Stats
  ---------*/
 
-"Stats_Reading_Time" = "%@ 読了時間";
+"Stats_Reading_Time_Title" = "%@ 読了時間";
+"Stats_Speaking_Time_Title" = "%@ 発言時間";
+/* %1$@ is percentage, %2$@ is author name */
+"Stats_Author_Title" = "%1$@ %2$@";
 "Stats_Name_Words" = "単語";
 "Stats_Name_Sentences" = "文";
 "Stats_Name_Reading_Time" = "読了時間";
+"Stats_Name_Speaking_Time" = "発言時間";
 "Stats_Name_Tasks" = "タスク";
 "Stats_Name_Characters" = "文字";
 "Stats_Name_Characters_Without_Spaces" = "文字スペースなし";
@@ -572,3 +718,5 @@ Text Check
 "PDF_Scale_Fit_Page" = "ページ全体";
 "PDF_Scale_Fit_Width" = "ページ幅";
 "PDF_Percent_Zoom" = "%zd %";
+
+"Help_Shortcuts" = "ショートカット";

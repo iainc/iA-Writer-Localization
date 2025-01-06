@@ -1,0 +1,130 @@
+
+"Text Result" = "文本结果";
+"Text" = "文本​​";
+
+"Library Path Result" = "资源库路径结果";
+
+"Library Path" = "资源库路径";
+
+"What is the Library Path of the file?" = "什么是文件的资源库路径？";
+"What is the Library Path of the folder?" = "什么是文件夹的资源库路径？";
+
+"Save Text" = "保存文本";
+"Saves text to the file at the specified Library Path." = "将文本保存到指定“资源库路径”下的文件。";
+"Save ${text} to file at ${libraryPath}" = "将${text}保存到${libraryPath}下的文件";
+
+"Save Edits From" = "保存编辑自";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "将文本保存到指定“资源库路径”下的文件。自动检测更改并将更改归属于所提供的作者。";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "将${text}以及名为${authorName}的${authorType}作者的编辑内容保存到${libraryPath}下的文件";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "将${text}以及${authorType}作者的编辑内容保存到${libraryPath}下的文件";
+
+"Add Text" = "添加文本​​";
+"Adds text to the file at the specified Library Path." = "将文本添加到指定“资源库路径”下的文件。";
+"Add ${text} to file at ${libraryPath}" = "将${text}附加到${libraryPath}下的文件";
+
+"Open" = "打开";
+"Opens the file at the specified Library Path." = "打开指定的“资源库路径”下的文件。";
+"Open file at ${libraryPath}" = "打开${libraryPath}下的文件";
+
+"Open New" = "打开新文件";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "使用作为输入传递的文本，打开指定的“资源库路径”下的新文件。如果省略“资源库路径”或指定文件夹，新文件将自动命名。";
+"Open new file with ${text} at ${libraryPath}" = "打开${libraryPath}下包含${text}的新文件";
+
+"Get Current File" = "获取当前文件";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "获取当前在iA Writer中打开的文件的资源库路径（如有）。";
+"Get current file" = "获取当前文件";
+
+"Get Link" = "获取链接";
+"Gets a link to open the file at the specified Library Path." = "获取链接以打开指定的“资源库路径”下的文件。";
+"Get link to open file at ${libraryPath}" = "获取链接以打开${libraryPath}下的文件";
+
+"Get Text" = "获取文本";
+"Gets text at the specified Library Path." = "获取指定的“资源库路径”下的文本。";
+"Get text at ${libraryPath}" = "获取${libraryPath}下的文本";
+
+"Get Text as HTML" = "获取HTML格式文本";
+"Gets text at the specified Library Path as HTML." = "获取指定的“资源库路径”下的HTML格式文本。";
+"Get text at ${libraryPath} as HTML" = "获取${libraryPath}下的HTML格式文本";
+
+"Get Text as Markdown" = "获取Markdown格式文本";
+"Gets text at the specified Library Path as Markdown." = "获取指定的“资源库路径”下的Markdown格式文本。";
+"Get text at ${libraryPath} as Markdown" = "获取${libraryPath}下的Markdown格式文本";
+
+"Author" = "作者";
+"Who is the author of the text?" = "文字的作者是谁？";
+
+"Unspecified" = "未指定";
+"Primary" = "主要";
+"Human" = "人工";
+"Other" = "其他​​";
+
+"Name" = "名字";
+"What is the name of the author?" = "作者叫什么名字？";
+
+"Identifier" = "标识符";
+"What would you like to use to identify this author? For example, an email, or a website." = "您想用什么来标识该作者？例如，电子邮件或网站。";
+
+"Replace if Exists" = "存在时替换";
+
+"Location" = "位置";
+"Where should the text be added?" = "文本应该添加在哪里？";
+"Beginning" = "开头";
+"End" = "结尾";
+
+"Insert Padding" = "插入填充";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "在iPad和iPhone上编辑";
+"Open New Window on Mac" = "在Mac上打开新窗口";
+
+"Edit" = "编辑";
+"Get" = "获取";
+"Organize" = "整理";
+
+"Delete" = "删除";
+"Deletes the item at the specified Library Path." = "删除指定的“资源库路径”下的项目。";
+"Delete item at ${libraryPath}" = "删除${libraryPath}下的项目";
+"Delete Immediately" = "立即删除";
+
+"Duplicate" = "复制";
+"Duplicates the item at the specified Library Path." = "复制指定的“资源库路径”下的项目。";
+"Duplicate item at ${libraryPath}" = "复制${libraryPath}下的项目";
+
+"Append Text to Name" = "将文本附加到名称";
+"Suffix Type" = "后缀类型";
+"Default" = "默认";
+"Custom" = "自定义";
+"Custom Suffix" = "自定义后缀";
+
+"Copy" = "复制";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "将指定的“资源库路径”下的项目复制到指定的“资源库路径”下的文件夹。";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "将${libraryPath}下的项目复制到${folderLibraryPath}下的文件夹";
+
+"Move" = "移动​​";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "将指定的“资源库路径”下的项目移动到指定的“资源库路径”下的文件夹。";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "将${libraryPath}下的项目移动到${folderLibraryPath}下的文件夹";
+
+"Rename" = "重命名​​";
+"Renames the item at the specified Library Path." = "重命名指定的“资源库路径”下的项目。";
+"Rename item at ${libraryPath} to ${name}" = "将${libraryPath}下的项目重命名为${name}";
+
+"Favorite Action" = "收藏的操作";
+"Favorite" = "收藏";
+"Unfavorite" = "取消收藏";
+"Favorites the item at the specified Library Path." = "收藏指定的“资源库路径”下的项目。";
+"${action} item at ${libraryPath}" = "${libraryPath}下的${action}项目";
+
+"Name" = "名字";
+
+"Show Quick Search" = "显示快速搜索";
+"Shows Quick Search with the provided query." = "显示包含所提供查询的快速搜索。";
+"Show Quick Search with ${query}" = "显示包含${query}的快速搜索。";
+
+"Get File Name from Text" = "从文本中获取文件名";
+"File Name" = "文件名";
+"Cleans up text to be used as a file name." = "清理将要用作文件名的文本。";
+"Get file name from ${text}" = "从${text}获取文件名";

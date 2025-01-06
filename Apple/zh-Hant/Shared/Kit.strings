@@ -13,9 +13,14 @@
 "Remove" = "移除";
 "Delete" = "刪除";
 "Delete_Immediately" = "立即刪除";
+"Delete_Confirmation_Message" = "您是否確定要刪除「%@」？";
+"Delete_Confirmation_Informative_Text" = "此動作不能被撤銷。";
 "More" = "更多";
 "Hide" = "隱藏";
 "Add" = "新增";
+"Ask_Again_Later" = "稍後再問";
+"Do_Not_Show_Again" = "不再顯示";
+"Do_Not_Ask_Again" = "不再詢問";
 "Name" = "名稱";
 "Add_Account" = "新增帳號";
 "Remove_Account" = "刪除帳號";
@@ -24,12 +29,20 @@
 "Open_Mail" = "開啟郵件";
 "Add_Pattern" = "新增樣式";
 "Remove_Pattern" = "移除樣式";
+"New_File" = "新增檔案";
 "New_Smart_Folder" = "新增智慧資料夾";
+"New_Folder" = "新建資料夾";
+"New_Folder_With_Selection" = "使用選取項目新建資料夾";
+"New_Folder_With" = "使用“%@”新建資料夾";
 "Add_Location" = "新增位置";
 "Move_To_Trash" = "丟到垃圾桶";
+"Move_To" = "丟到%@";
+"Cut_For_Undo" = "剪下";
 "Copy" = "複製";
 "Copy_Library_Path" = "複製文件庫路徑";
 "Copy_URL_Command" = "複製 URL 命令";
+"Expand" = "展開";
+"Collapse" = "摺疊";
 "Open" = "打開";
 "Save" = "儲存";
 "Discard_Changes" = "捨棄變更";
@@ -58,6 +71,8 @@
 "Export" = "匯出";
 "Publish" = "發布";
 "Show_Completions" = "顯示自動完成";
+
+"Duplicate_Item_Suffix" = " copy";
 
 "Open_Content_Block" = "開啟內容區塊";
 "Open_Content_Block_Tooltip" = "⌘-按一下開啟內容區塊";
@@ -108,6 +123,9 @@
 "Library_Destination_Relative" = "相關";
 "Library_Destination_Absolute" = "絕對";
 
+"Show_Text_Excerpts" = "顯示文字摘要";
+"Pin_Folders_To_Top" = "釘選置頂資料夾";
+
 "Menu_Focus" = "專注";
 "Menu_Go" = "前往";
 
@@ -131,6 +149,7 @@
 
 "Suffix_Colon" = "：";
 "Suffix_Ellipsis" = "⋯";
+"List_Separator" = "， ";
 
 "News_Title" = "新增功能";
 
@@ -139,6 +158,7 @@
 "Unknown_Error_Recovery_Suggestion" = "請再嘗試，之後聯絡支援。";
 
 "Default_Document_Name" = "未命名";
+"Default_Location_Name" = "未命名";
 "Default_Folder_Name" = "未命名資料夾";
 "Default_Image_Name" = "未命名";
 "Default_Smart_Folder_Name" = "未命名";
@@ -177,7 +197,118 @@
 
 "Template" = "範本";
 
+"Links" = "連結";
+"Backlinks" = "反向連結";
+"Links_In" = "%@ 的連結";
+"Backlinks_To" = "%@ 的反向連結";
+
+"Links_Linked" = "連結";
+"Backlinks_Linked" = "反向連結";
+"Links_Unlinked" = "潛在連結";
+"Backlinks_Unlinked" = "潛在反向連結";
+
+"Authors" = "作者";
 "Author" = "作者";
+"Author_Primary" = "主要";
+"Author_Secondary" = "次要";
+"Author_Name" = "名稱";
+"Author_Identifier" = "識別碼";
+
+"Author_AI" = "AI";
+"Author_ChatGPT" = "ChatGPT";
+
+"Author_Writing_Tools" = "書寫工具";
+"Replace_From_Writing_Tools_For_Undo" = "從書寫工具替換";
+
+"Add_Author" = "新增作者";
+"Remove_Author" = "移除作者";
+
+"Save_Author" = "儲存作者";
+"Remove_Author_From_Saved" = "將作者從「已儲存」移除";
+"Save_Author_Sentence_Capitalization" = "儲存作者";
+"Save_Author_Description" = "您可以在設定中編輯或移除儲存的作者。";
+
+"Author_Kind" = "種類";
+"Author_Kind_Description" = "人為編輯以底線標示，其他編輯則以灰字標示。";
+
+"Author_Primary_Name_Description" = "您的名稱將用於作者身分，以及在預覽、匯出或列印時的範本中使用。";
+"Author_Primary_Identifier_Description" = "選填，例如電子郵件或網站。您的識別碼將用於作者身分。";
+
+"Author_Secondary_Name_Description" = "必填。";
+"Author_Secondary_Identifier_Description" = "選填，例如電子郵件或網站。";
+
+"Author_Secondary_Name_Description_With_Purpose" = "必填。名稱將用於作者身分。";
+"Author_Secondary_Identifier_Description_With_Purpose" = "選填，例如電子郵件或網站。識別碼將用於作者身分。";
+
+"Placeholder_No_Authorship" = "無作者身分";
+"Authorship" = "作者身分";
+"Authorship_Prompt_Title" = "您要在「%@」啟用作者身分嗎？";
+"Authorship_Prompt" = "作者身分註釋將儲存於檔案尾端。在 iA Writer 中編輯時隱藏，在其他應用程式中則會顯示。";
+"Authorship_Description" = "您可以使用「以該作者身分標示」、「以該作者身分貼上」以及「貼上該作者的編輯」選單來標註作者身分。作者身分註釋將儲存於檔案尾端。在 iA Writer 中編輯時隱藏，在其他應用程式中則會顯示。";
+"Authorship_Paste" = "貼上的文字包含作者身分註釋。是否要新增作者身分？";
+"Authorship_Paste_Conversation" = "貼上的文字似乎是與 %@ 的對話。是否要自動新增作者身分？";
+"Paste_With_Authorship" = "貼上時包含作者身分";
+"Paste_With_Authorship_For_Undo" = "貼上時包含作者身分";
+"Paste_Without_Authorship" = "貼上時不包含作者身分";
+
+"Authorship_Not_Available" = "只有 Markdown 檔案支援作者身分。";
+
+"File_Encoding_Error" = "無法開啟「%@」檔案。";
+"File_Encoding_Error_Failure_Reason" = "無法確定內容的文字編碼。";
+"File_Encoding_Error_Recovery_Suggestion" = "您或許可使用其他應用程式變更文字編碼。";
+
+"Edit_Authorship" = "編輯作者身分";
+"Enable_Authorship" = "啟用作者身分";
+"Disable_Authorship" = "停用作者身分";
+"Disable_Authorship_Confirmation" = "確定要在「%@」停用作者身分嗎？";
+"Disable_Authorship_Confirmation_Description" = "所有作者身分註釋都會移除。";
+
+"Misplaced_Authorship" = "作者身分錯置";
+"Misplaced_Authorship_Description" = "此檔案由其他應用程式編輯，未正確更新作者身分註釋。部分或所有作者身分可能錯置。";
+"Review_Authorship" = "檢閱作者身分";
+"Discard_Authorship" = "捨棄作者身分";
+"Keep_Authorship" = "保留作者身分";
+
+"Reorder_Authors" = "重新調整作者順序";
+"Edit_Author" = "編輯作者";
+"Delete_Author" = "刪除作者";
+"Replace_Author" = "取代作者";
+"Set_Author" = "設定作者";
+
+"Authors_Show" = "顯示作者";
+"Authors_Hide" = "隱藏作者";
+
+"Paste_As_Author" = "以 %@ 作者身分貼上";
+"Paste_Edits_From_Author" = "貼上 %@ 的編輯";
+"Mark_Selection_As_Author" = "以 %@ 作者身分標示選項";
+"Mark_As_Author" = "以 %@ 作者身分標示";
+
+"Paste_For_Undo" = "貼上";
+"Paste_As_Author_For_Undo" = "貼上為 %@";
+"Paste_Edits_From_Author_For_Undo" = "貼上 %@ 的編輯";
+"Mark_Selection_As_Author_For_Undo" = "標記選擇為 %@";
+"Mark_As_Author_For_Undo" = "標記為 %@";
+
+"New_Author" = "新作者";
+
+"Paste_As_New_Author" = "以新作者作者身分貼上";
+"Paste_Edits_From_New_Author" = "貼上新作者的編輯";
+"Mark_Selection_As_New_Author" = "以新作者作者身分標示選項";
+"Mark_As_New_Author" = "以新作者作者身分標示";
+
+"Paste_As" = "以該作者身分貼上";
+"Paste_Edits_From" = "貼上該作者的編輯";
+"Mark_As" = "以該作者身分標示";
+"Mark_Selection_As" = "以該作者身分標示選項";
+
+"Paste" = "貼上";
+"Paste_Edits" = "貼上編輯";
+"Mark" = "標示";
+"Mark_Selection" = "標示選項";
+
+"Author_Secondary_Unnamed_Error" = "無法儲存未命名的作者。";
+
+"Set_Up_Authorship" = "設定作者身分";
 
 /*---------
 Text Check
@@ -199,7 +330,7 @@ Text Check
 "Style_Check_Target_Cliches" = "陳腔濫調";
 "Style_Check_Target_Redundancies" = "贅詞";
 "Style_Check_Target_Custom" = "自訂";
-"Style_Check_Languages" = "內建英語、法語、德語模式。";
+"Style_Check_Languages" = "內建英語、西班牙語、法語、德語模式。";
 
 /*----------
  Focus Tools
@@ -292,14 +423,13 @@ Text Check
 "Web_Service_Error_WordPress_API_Not_Found" = "無法找到 WordPress API。";
 "Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "請確認您正在使用 WordPress 4.7 或更新版本，且 WordPress API 的中繼標籤確實存在。";
 
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress 應用程式密碼無法使用";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress 應用程式密碼無法使用 。";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "請確認您正在使用 WordPress 5.6 或更新版本，且網站或使用者沒有停用應用程式密碼。";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress應用程式密碼不可用";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress應用程式密碼不可用。";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "確保該站點和您的用戶已啟用應用程式密碼。某些安全性外掛程式預設會停用應用程式密碼。";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "請稍後再試。";
 
 "Medium_Failure_Reason_Unsupported_Content" = "有些元素可能看起來不同：%@。";
-"Medium_Failure_Reason_Unsupported_Content_Separator" = "， ";
 "Medium_Failure_Reason_Unsupported_Content_Tables" = "表";
 "Medium_Failure_Reason_Unsupported_Content_Footnotes" = "註腳";
 "Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "內嵌列表項目";
@@ -399,6 +529,10 @@ Text Check
 "Library_Location_Desktop" = "桌面";
 "Library_Location_Documents" = "文件";
 
+"Navigation" = "導航";
+"Navigation_Tree" = "樹形";
+"Navigation_List" = "列表";
+
 /*----------------
  Library Locations
  ----------------*/
@@ -413,9 +547,9 @@ Text Check
 "Library_Location_Error_Not_Found_Failure_Reason" = "這可能因為已被移除，或曾位於可彈出編集。";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "連接可彈出的編集以存取文件庫位置。";
 
-/*---------
+/*--------
  Wikilinks
- ---------*/
+ --------*/
 
 "Library_Destination_Error_Library_Location_Not_Found_Title" = "找不到名為「%@」的文件庫位置";
 "Library_Destination_Error_Library_Location_Not_Found" = "找不到名為「%@」的文件庫位置。";
@@ -424,6 +558,14 @@ Text Check
 "Library_Destination_Error_Destination_Points_Outside_Library_Title" = "無法存取文件庫外的項目";
 "Library_Destination_Error_Destination_Points_Outside_Library" = "無法存取文件庫外的項目。";
 "Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "請確認文件庫路徑正確。";
+
+/*-----------
+ Library Edit
+ -----------*/
+
+"Library_Edit_Error_File_Changed_Title" = "檔案已變更";
+"Library_Edit_Error_File_Changed" = "由於包含的檔案已變更，無法套用編輯。";
+"Library_Edit_Error_File_Changed_Recovery_Suggestion" = "請再試一次。";
 
 /*--------
  Documents
@@ -473,7 +615,7 @@ Text Check
 
 "Library_Sort_By_Part_Joiner" = "，";
 
-"Library_Sort_Order_Persistent" = "一律使用此處的選項";
+"Library_View_Options_Persistent" = "一律使用此處的選項";
 
 /*----------
  Focus Scope
@@ -526,10 +668,14 @@ Text Check
  Text Stats
  ---------*/
 
-"Stats_Reading_Time" = "%@閱讀時間";
+"Stats_Reading_Time_Title" = "%@ 閱讀時間";
+"Stats_Speaking_Time_Title" = "%@ 發言時間";
+/* %1$@ is percentage, %2$@ is author name */
+"Stats_Author_Title" = "%1$@ %2$@";
 "Stats_Name_Words" = "個字";
 "Stats_Name_Sentences" = "句子";
 "Stats_Name_Reading_Time" = "閱讀時間";
+"Stats_Name_Speaking_Time" = "發言時間";
 "Stats_Name_Tasks" = "任務";
 "Stats_Name_Characters" = "個字元";
 "Stats_Name_Characters_Without_Spaces" = "個字元沒有空格";
@@ -572,3 +718,5 @@ Text Check
 "PDF_Scale_Fit_Page" = "符合頁面大小";
 "PDF_Scale_Fit_Width" = "符合寬度";
 "PDF_Percent_Zoom" = "%zd %";
+
+"Help_Shortcuts" = "快捷指令";

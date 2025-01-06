@@ -13,9 +13,14 @@
 "Remove" = "移除";
 "Delete" = "刪除";
 "Delete_Immediately" = "立即删除";
+"Delete_Confirmation_Message" = "是否确定删除“%@”？";
+"Delete_Confirmation_Informative_Text" = "此操作无法撤销。";
 "More" = "更多";
 "Hide" = "隐藏​​";
 "Add" = "添加";
+"Ask_Again_Later" = "稍后再问";
+"Do_Not_Show_Again" = "不再显示";
+"Do_Not_Ask_Again" = "不再询问";
 "Name" = "名称";
 "Add_Account" = "添加账号";
 "Remove_Account" = "删除帐户";
@@ -24,12 +29,20 @@
 "Open_Mail" = "打开邮件";
 "Add_Pattern" = "添加模式";
 "Remove_Pattern" = "删除模式";
+"New_File" = "新建文件";
 "New_Smart_Folder" = "新建智能文件夹";
+"New_Folder" = "新建文件夹";
+"New_Folder_With_Selection" = "使用选定项目新建文件夹";
+"New_Folder_With" = "使用“%@”新建文件夹";
 "Add_Location" = "添加位置";
 "Move_To_Trash" = "移到废纸篓";
+"Move_To" = "移到%@";
+"Cut_For_Undo" = "剪切";
 "Copy" = "复制";
 "Copy_Library_Path" = "复制资料库路径";
 "Copy_URL_Command" = "复制URL命令";
+"Expand" = "展开";
+"Collapse" = "折叠";
 "Open" = "打开";
 "Save" = "保存";
 "Discard_Changes" = "Discard Changes";
@@ -58,6 +71,8 @@
 "Export" = "导出";
 "Publish" = "发布";
 "Show_Completions" = "显示自动完成";
+
+"Duplicate_Item_Suffix" = " copy";
 
 "Open_Content_Block" = "打开内容块";
 "Open_Content_Block_Tooltip" = "⌘-点击以打开内容块";
@@ -108,6 +123,9 @@
 "Library_Destination_Relative" = "相对";
 "Library_Destination_Absolute" = "绝对";
 
+"Show_Text_Excerpts" = "显示文字节选";
+"Pin_Folders_To_Top" = "文件夹置顶";
+
 "Menu_Focus" = "焦点";
 "Menu_Go" = "前往";
 
@@ -131,6 +149,7 @@
 
 "Suffix_Colon" = "：";
 "Suffix_Ellipsis" = "…";
+"List_Separator" = "， ";
 
 "News_Title" = "新增内容";
 
@@ -139,6 +158,7 @@
 "Unknown_Error_Recovery_Suggestion" = "请重试，然后联系客服。";
 
 "Default_Document_Name" = "无标题";
+"Default_Location_Name" = "无标题";
 "Default_Folder_Name" = "无标题文件夹";
 "Default_Image_Name" = "无标题";
 "Default_Smart_Folder_Name" = "无标题";
@@ -177,7 +197,118 @@
 
 "Template" = "模板";
 
+"Links" = "链接";
+"Backlinks" = "外链";
+"Links_In" = "%@中的链接";
+"Backlinks_To" = "外链到%@";
+
+"Links_Linked" = "链接";
+"Backlinks_Linked" = "外链";
+"Links_Unlinked" = "潜在链接";
+"Backlinks_Unlinked" = "潜在外链";
+
+"Authors" = "作者";
 "Author" = "作者";
+"Author_Primary" = "主要";
+"Author_Secondary" = "次级";
+"Author_Name" = "名称";
+"Author_Identifier" = "标识符";
+
+"Author_AI" = "AI";
+"Author_ChatGPT" = "ChatGPT";
+
+"Author_Writing_Tools" = "写作工具";
+"Replace_From_Writing_Tools_For_Undo" = "从写作工具替换";
+
+"Add_Author" = "添加作者";
+"Remove_Author" = "删除作者";
+
+"Save_Author" = "保存作者";
+"Remove_Author_From_Saved" = "从保存中删除作者";
+"Save_Author_Sentence_Capitalization" = "保存作者";
+"Save_Author_Description" = "您可以在设置中编辑或删除保存的作者。";
+
+"Author_Kind" = "种类";
+"Author_Kind_Description" = "人工编辑带有下划线。其他编辑内容变暗。";
+
+"Author_Primary_Name_Description" = "您的名称将用于作者，并在预览、导出或打印时用于模板。";
+"Author_Primary_Identifier_Description" = "可选。例如电子邮件或网站。您的标识符将用于作者。";
+
+"Author_Secondary_Name_Description" = "必填。";
+"Author_Secondary_Identifier_Description" = "可选。例如电子邮件或网站。";
+
+"Author_Secondary_Name_Description_With_Purpose" = "必填。名称将用于作者。";
+"Author_Secondary_Identifier_Description_With_Purpose" = "可选。例如电子邮件或网站。标识符将用于作者。";
+
+"Placeholder_No_Authorship" = "无作者";
+"Authorship" = "作者";
+"Authorship_Prompt_Title" = "您想在“%@”中启用作者吗？";
+"Authorship_Prompt" = "作者注释将保存在文件末尾。在iA Writer中编辑时隐藏，在其他应用程序中可见。";
+"Authorship_Description" = "您可以使用“标记为”、“粘贴为”和“粘贴编辑自”菜单来标记作者。作者注释将保存在文件末尾。在iA Writer中编辑时隐藏，在其他应用程序中可见。";
+"Authorship_Paste" = "粘贴的文本包含作者注释。您想添加作者吗？";
+"Authorship_Paste_Conversation" = "粘贴的文本似乎是与%@的对话。您想自动添加作者吗？";
+"Paste_With_Authorship" = "粘贴时带作者";
+"Paste_With_Authorship_For_Undo" = "粘贴时带作者";
+"Paste_Without_Authorship" = "粘贴时不带作者";
+
+"Authorship_Not_Available" = "仅Markdown文件支持作者。";
+
+"File_Encoding_Error" = "无法打开文件“%@”。";
+"File_Encoding_Error_Failure_Reason" = "无法确定内容的文本编码。";
+"File_Encoding_Error_Recovery_Suggestion" = "您也许可以使用其他应用程序更改文本编码。";
+
+"Edit_Authorship" = "编辑作者";
+"Enable_Authorship" = "启用作者";
+"Disable_Authorship" = "禁用作者";
+"Disable_Authorship_Confirmation" = "您确定要禁用“%@”中的作者吗？";
+"Disable_Authorship_Confirmation_Description" = "所有作者注释都将被删除。";
+
+"Misplaced_Authorship" = "作者被放置到不正确位置";
+"Misplaced_Authorship_Description" = "该文件已被另一个应用程序编辑过，但该应用程序未正确更新作者注释。部分或全部作者可能被放置到不正确位置。";
+"Review_Authorship" = "审核作者";
+"Discard_Authorship" = "放弃作者";
+"Keep_Authorship" = "保留作者";
+
+"Reorder_Authors" = "对作者重新排序";
+"Edit_Author" = "编辑作者";
+"Delete_Author" = "删除作者";
+"Replace_Author" = "替换作者";
+"Set_Author" = "设置作者";
+
+"Authors_Show" = "显示作者";
+"Authors_Hide" = "隐藏作者";
+
+"Paste_As_Author" = "粘贴为%@";
+"Paste_Edits_From_Author" = "粘贴来自%@的编辑";
+"Mark_Selection_As_Author" = "将所选内容标记为%@";
+"Mark_As_Author" = "标记为％@";
+
+"Paste_For_Undo" = "粘贴";
+"Paste_As_Author_For_Undo" = "粘贴为 %@";
+"Paste_Edits_From_Author_For_Undo" = "粘贴 %@ 的编辑";
+"Mark_Selection_As_Author_For_Undo" = "标记选择为 %@";
+"Mark_As_Author_For_Undo" = "标记为 %@";
+
+"New_Author" = "新建作者";
+
+"Paste_As_New_Author" = "粘贴为新建作者";
+"Paste_Edits_From_New_Author" = "粘贴来自新建作者的编辑";
+"Mark_Selection_As_New_Author" = "将所选内容标记为新建作者";
+"Mark_As_New_Author" = "标记为新建作者";
+
+"Paste_As" = "粘贴为";
+"Paste_Edits_From" = "粘贴编辑自";
+"Mark_As" = "标记为";
+"Mark_Selection_As" = "将所选内容标记为";
+
+"Paste" = "粘贴";
+"Paste_Edits" = "粘贴编辑";
+"Mark" = "标记";
+"Mark_Selection" = "标记所选内容";
+
+"Author_Secondary_Unnamed_Error" = "无法保存未命名的作者。";
+
+"Set_Up_Authorship" = "设置作者";
 
 /*---------
 Text Check
@@ -199,7 +330,7 @@ Text Check
 "Style_Check_Target_Cliches" = "滥用字";
 "Style_Check_Target_Redundancies" = "冗词";
 "Style_Check_Target_Custom" = "自定义​​";
-"Style_Check_Languages" = "内置英语、法语、德语模式。";
+"Style_Check_Languages" = "内置英语、西班牙语、法语、德语模式。";
 
 /*----------
  Focus Tools
@@ -293,13 +424,12 @@ Text Check
 "Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "确保使用WordPress 4.7或更高版本，并确保WordPress API元标记是存在的。";
 
 "Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress应用密码不可用";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress应用程序密码不可用。";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "请确保您使用的是WordPress 5.6或更高版本，并且没有在网站上（或者为用户）禁用应用密码。";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress应用密码不可用。";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "确保该站点和您的用户已启用应用密码。一些安全插件默认禁用应用密码。";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "请稍后重试。";
 
 "Medium_Failure_Reason_Unsupported_Content" = "部分元素显示效果可能存在出入：%@。";
-"Medium_Failure_Reason_Unsupported_Content_Separator" = "， ";
 "Medium_Failure_Reason_Unsupported_Content_Tables" = "表格";
 "Medium_Failure_Reason_Unsupported_Content_Footnotes" = "脚注";
 "Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "混合列表项目";
@@ -399,6 +529,10 @@ Text Check
 "Library_Location_Desktop" = "桌面";
 "Library_Location_Documents" = "文稿";
 
+"Navigation" = "导航";
+"Navigation_Tree" = "树形";
+"Navigation_List" = "列表";
+
 /*----------------
  Library Locations
  ----------------*/
@@ -413,9 +547,9 @@ Text Check
 "Library_Location_Error_Not_Found_Failure_Reason" = "原因可能是已被删除，或者位于可弹出磁盘内。";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "请接入可弹出磁盘访问Library Location。";
 
-/*---------
+/*--------
  Wikilinks
- ---------*/
+ --------*/
 
 "Library_Destination_Error_Library_Location_Not_Found_Title" = "无法找到名为 “%@”的Library Location";
 "Library_Destination_Error_Library_Location_Not_Found" = "无法找到名为 “%@”的Library Location。";
@@ -424,6 +558,14 @@ Text Check
 "Library_Destination_Error_Destination_Points_Outside_Library_Title" = "无法访问Library以外的项目";
 "Library_Destination_Error_Destination_Points_Outside_Library" = "无法访问Library以外的项目。";
 "Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "请确保Library Path正确无误。";
+
+/*-----------
+ Library Edit
+ -----------*/
+
+"Library_Edit_Error_File_Changed_Title" = "文件已更改";
+"Library_Edit_Error_File_Changed" = "无法应用编辑，因为包含已更改的文件。";
+"Library_Edit_Error_File_Changed_Recovery_Suggestion" = "请重试。";
 
 /*--------
  Documents
@@ -473,7 +615,7 @@ Text Check
 
 "Library_Sort_By_Part_Joiner" = "，";
 
-"Library_Sort_Order_Persistent" = "始终在这里使用这些选项";
+"Library_View_Options_Persistent" = "始终在这里使用这些选项";
 
 /*----------
  Focus Scope
@@ -526,10 +668,14 @@ Text Check
  Text Stats
  ---------*/
 
-"Stats_Reading_Time" = "%@读取时间";
+"Stats_Reading_Time_Title" = "%@读取时间";
+"Stats_Speaking_Time_Title" = "%@发言时间";
+/* %1$@ is percentage, %2$@ is author name */
+"Stats_Author_Title" = "%1$@ %2$@";
 "Stats_Name_Words" = "词";
 "Stats_Name_Sentences" = "句";
 "Stats_Name_Reading_Time" = "读取时间";
+"Stats_Name_Speaking_Time" = "发言时间";
 "Stats_Name_Tasks" = "项任务";
 "Stats_Name_Characters" = "字符";
 "Stats_Name_Characters_Without_Spaces" = "字符不含空格";
@@ -572,3 +718,5 @@ Text Check
 "PDF_Scale_Fit_Page" = "适合页面";
 "PDF_Scale_Fit_Width" = "适合宽度";
 "PDF_Percent_Zoom" = "%zd %";
+
+"Help_Shortcuts" = "快捷指令";

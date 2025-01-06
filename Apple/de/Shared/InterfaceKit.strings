@@ -1,0 +1,63 @@
+
+/* Button to select all visible items. */
+"Button_Select_All" = "Alles auswählen";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "Auswahl aufheben";
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "Versionen-Konflikt";
+
+/* Version browser title */
+"Version_Browser_Title" = "Versionen";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "Aktuell";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "Alle verfügbaren Versionen von „%@“";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "Suchen Sie eine ältere Version zur Wiederherstellung aus. Wählen Sie die bestehende und eine ältere Version aus, um beide Versionen zu behalten.";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "Dokumentänderungen sind nicht auflösbar. Wählen Sie das Dokument aus, das Sie behalten möchten.";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "Versionen-Konflikt in „%@“";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "Behalte";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "Behalte beide";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "Behalte alle";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "Behalte %d";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "Wiederherstellen";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "Stelle letzte Version wieder her, erstelle %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "Erstelle %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "Versionen können nicht gelesen werden";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "iCloud-Fehler: „%@“.";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "Unbekannter Fehler";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "Netzwerk nicht erreichbar.";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "Verbindung konnte nicht hergestellt werden.";

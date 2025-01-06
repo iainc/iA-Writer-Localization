@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = "：";
+"Suffix_Ellipsis" = "⋯";
+
+"OK" = "好";
+"Cancel" = "取消";
+"Try_Again" = "重試";
+"Share" = "分享";
+"Close" = "關閉";
+"Continue" = "繼續";
+"Enable" = "啟用";
+"Disable" = "停用";
+"Reset" = "重設";
+"Edit" = "編輯";
+"Done" = "完成";
+"Remove" = "移除";
+"Delete" = "刪除";
+"Delete_Immediately" = "立即刪除";
+"More" = "更多";
+"Hide" = "隱藏";
+"Add" = "新增";
+"Name" = "名稱";
+"Authorize" = "授權";
+"Options" = "選項";
+"Move_To_Trash" = "丟到垃圾桶";
+"Copy" = "複製";
+"Open" = "打開";
+"Save" = "儲存";
+"Discard_Changes" = "捨棄變更";
+"Keep_Editing" = "繼續編輯";
+"Print" = "列印";
+"Export" = "匯出";
+"Publish" = "發布";
+"Back" = "返回";
+"Forward" = "向前";
+"Text_Size" = "文字大小";
+"Make_Text_Bigger" = "放大文字";
+"Make_Text_Normal_Size" = "顯示文字的原來大小";
+"Make_Text_Smaller" = "縮小文字";
+
+"Default_Document_Name" = "未命名";
+"Default_Folder_Name" = "未命名資料夾";
+"Default_Item_Name" = "未命名";

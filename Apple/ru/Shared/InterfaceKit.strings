@@ -1,0 +1,63 @@
+
+/* Button to select all visible items. */
+"Button_Select_All" = "Выбрать все";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "Отменить выбор";
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "Конфликт версий";
+
+/* Version browser title */
+"Version_Browser_Title" = "Версии";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "Текущий";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "Все доступные версии «%@»";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "Выберите более раннюю версию для восстановления. Выберите текущую версию в дополнение к более старым версиям, чтобы создать их в виде отдельных файлов.";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "Изменения не синхронизированы. Выберите, какие документы нужно сохранить.";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "Конфликт версий «%@»";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "Сохранить";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "Сохранить обе";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "Сохранить все";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "Сохранить %d";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "Восстановить";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "Восстановить последнюю, создать %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "Создать %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "Не удается считать версии";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "Ошибка iCloud: «%@»";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "Неизвестная ошибка";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "Сеть недоступна.";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "Не удалось подключиться.";

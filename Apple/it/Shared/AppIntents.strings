@@ -1,0 +1,130 @@
+
+"Text Result" = "Risultato testo";
+"Text" = "Testo";
+
+"Library Path Result" = "Risultato Percorso libreria";
+
+"Library Path" = "Percorso libreria";
+
+"What is the Library Path of the file?" = "Qual è il percorso della libreria del file?";
+"What is the Library Path of the folder?" = "Qual è il Percorso libreria della cartella?";
+
+"Save Text" = "Salva testo";
+"Saves text to the file at the specified Library Path." = "Salva il testo nel file nel Percorso libreria specificato.";
+"Save ${text} to file at ${libraryPath}" = "Salva ${text} nel file su ${libraryPath}";
+
+"Save Edits From" = "Salva modifiche da";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "Salva il testo nel file del Percorso libreria specificato. Rileva e attribuisce automaticamente le modifiche all’autore fornito.";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "Salva ${text} con modifiche da autore ${authorType} chiamato ${authorName} nel file su ${libraryPath}";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "Salva ${text} con modifiche da autore ${authorType} nel file su ${libraryPath}";
+
+"Add Text" = "Aggiungi testo";
+"Adds text to the file at the specified Library Path." = "Aggiunge testo al file nel Percorso libreria specificato.";
+"Add ${text} to file at ${libraryPath}" = "Aggiungi ${text} al file su ${libraryPath}";
+
+"Open" = "Apri";
+"Opens the file at the specified Library Path." = "Apre il file nel percorso della libreria specificato.";
+"Open file at ${libraryPath}" = "Apri il file su ${libraryPath}";
+
+"Open New" = "Apri nuovo";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "Apre un nuovo file nel Percorso libreria specificato utilizzando il testo passato come input. Il nuovo file verrà nominato automaticamente se il Percorso libreria viene omesso o se viene specificata una cartella.";
+"Open new file with ${text} at ${libraryPath}" = "Apri nuovo file con ${text} su ${libraryPath}";
+
+"Get Current File" = "Ottieni file attuale";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "Ottiene il Percorso libreria del file attualmente aperto in iA Writer, se presente.";
+"Get current file" = "Ottieni file attuale";
+
+"Get Link" = "Ottieni link";
+"Gets a link to open the file at the specified Library Path." = "Ottiene un collegamento per aprire il file nel Percorso libreria specificato.";
+"Get link to open file at ${libraryPath}" = "Ottieni un link per aprire file su ${libraryPath}";
+
+"Get Text" = "Ottieni testo";
+"Gets text at the specified Library Path." = "Ottiene testo presso il Percorso librerira specificato.";
+"Get text at ${libraryPath}" = "Ottieni testo su ${libraryPath}";
+
+"Get Text as HTML" = "Ottieni testo come HTML";
+"Gets text at the specified Library Path as HTML." = "Ottieni testo presso il Percorso libreria specificato come HTML.";
+"Get text at ${libraryPath} as HTML" = "Ottieni testo su ${libraryPath} come HTML";
+
+"Get Text as Markdown" = "Ottieni testo come Markdown";
+"Gets text at the specified Library Path as Markdown." = "Ottiene testo presso il Percorso libreria specificato come Markdown.";
+"Get text at ${libraryPath} as Markdown" = "Ottieni testo su ${libraryPath} come Markdown.";
+
+"Author" = "Autore";
+"Who is the author of the text?" = "Chi è l’autore del testo?";
+
+"Unspecified" = "Non specificato";
+"Primary" = "Primario";
+"Human" = "Umano";
+"Other" = "Altro";
+
+"Name" = "Nome";
+"What is the name of the author?" = "Qual è il nome dell’autore?";
+
+"Identifier" = "Identificatore";
+"What would you like to use to identify this author? For example, an email, or a website." = "Cosa vorresti usare per identificare questo autore? Ad esempio, un’e-mail o un sito web.";
+
+"Replace if Exists" = "Sostituisci se esiste";
+
+"Location" = "Posizione";
+"Where should the text be added?" = "Dove dev’essere aggiunto il testo?";
+"Beginning" = "Inizio";
+"End" = "Fine";
+
+"Insert Padding" = "Inserisci Padding";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "Modifica su iPad e iPhone";
+"Open New Window on Mac" = "Apri nuova finestra su Mac";
+
+"Edit" = "Modifica";
+"Get" = "Ottieni";
+"Organize" = "Organizza";
+
+"Delete" = "Cancella";
+"Deletes the item at the specified Library Path." = "Cancella l’oggetto nel Percorso Libreria specificato.";
+"Delete item at ${libraryPath}" = "Cancella oggetto su ${libraryPath}";
+"Delete Immediately" = "Cancella immediatamente";
+
+"Duplicate" = "Duplica";
+"Duplicates the item at the specified Library Path." = "Duplica l’oggetto nel Percorso libreria specificato.";
+"Duplicate item at ${libraryPath}" = "Duplica oggetto su ${libraryPath}";
+
+"Append Text to Name" = "Aggiungi testo al nome";
+"Suffix Type" = "Tipo di suffisso";
+"Default" = "Predefinito";
+"Custom" = "Personalizzato";
+"Custom Suffix" = "Suffisso personalizzato";
+
+"Copy" = "Copia";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "Copia l’oggetto dal Percorso libreria specificato alla cartella del Percorso libreria specificato.";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "Copia oggetto su ${libraryPath} alla cartella su ${folderLibraryPath}";
+
+"Move" = "Sposta";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "Sposta l’oggetto dal Percorso libreria specificato alla cartella del Percorso libreria specificato.";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "Sposta l’oggetto su ${libraryPath} alla cartella su ${folderLibraryPath}";
+
+"Rename" = "Rinomina";
+"Renames the item at the specified Library Path." = "Rinomina l’oggetto presso il Percorso libreria specificato.";
+"Rename item at ${libraryPath} to ${name}" = "Rinomina l’oggetto su ${libraryPath} come ${name}";
+
+"Favorite Action" = "Azione preferita";
+"Favorite" = "Preferito";
+"Unfavorite" = "Non preferito";
+"Favorites the item at the specified Library Path." = "Aggiungi l’oggetto presso il Percorso libreria specificato tra i preferiti.";
+"${action} item at ${libraryPath}" = "${action} oggetto su ${libraryPath}";
+
+"Name" = "Nome";
+
+"Show Quick Search" = "Mostra Ricerca rapida";
+"Shows Quick Search with the provided query." = "Mostra la Ricerca rapida con la domanda inserita.";
+"Show Quick Search with ${query}" = "Mostra la Ricerca rapida con  ${query}";
+
+"Get File Name from Text" = "Ottieni il Nome file dal testo";
+"File Name" = "Nome file";
+"Cleans up text to be used as a file name." = "Ripulisce il testo da usare come nome del file.";
+"Get file name from ${text}" = "Ottieni nome file da ${text}";

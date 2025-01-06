@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "Unknown Error";
+"Unknown_Error" = "Unknown error occured.";
+"Unknown_Error_Recovery_Suggestion" = "Please try again, then contact support.";
+
+"Annotations_Key" = "Annotations";
+
+"Author_Human" = "Human";
+"Author_Other" = "Other";
+
+"Author_Unnamed" = "Unnamed";
+"Author_Unspecified" = "Unspecified";
+
+"Annotation_Unknown" = "Unknown";
+"Annotation_Unknown_Description" = "This annotation cannot be shown by this version of %@.";
+
+"Annotation_Authorship" = "Authorship";
+"Annotation_Authorship_Description" = "This annotation contains authorship.";

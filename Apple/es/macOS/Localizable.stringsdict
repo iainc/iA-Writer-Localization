@@ -48,8 +48,6 @@
 			<string>%tu día</string>
 			<key>other</key>
 			<string>%tu días</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 		</dict>
 	</dict>
 	<key>Trial_Expiration_Hours</key>
@@ -66,8 +64,6 @@
 			<string>Prueba (%tu hora restante)</string>
 			<key>other</key>
 			<string>Prueba (%tu horas restantes)</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 		</dict>
 	</dict>
 	<key>Trial_Extension_Days</key>

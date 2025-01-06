@@ -10,20 +10,22 @@
 "Structure" = "结构";
 
 "Wikilink" = "维基链接";
-"Headings" = "标题1-6";
+"Headings" = "标题";
+"Headings1-6" = "标题1-6";
 "Heading1" = "标题1";
 "Heading2" = "标题2";
 "Heading3" = "标题3";
 "Heading4" = "标题4";
 "Heading5" = "标题5";
 "Heading6" = "标题6";
-"Lists" = "所有列表";
+"Lists" = "列表";
 "List" = "列表";
 "OrderedList" = "已排序列表";
 "TaskList" = "任务列表";
 "OrderedTaskList" = "已排序任务列表";
 "CodeBlock" = "代码块";
 "BlockQuote" = "块引用";
+"Comment" = "注释";
 "HorizontalRule" = "添加水平标尺";
 "PageBreak" = "添加分页符";
 "Strong" = "粗体";
@@ -87,6 +89,7 @@
 "Copy" = "复制";
 "Paste" = "粘贴";
 "Select" = "选择";
+"SelectAll" = "全选";
 "Undo" = "撤销";
 "Redo" = "重做";
 "AddImage" = "添加图像";
@@ -102,7 +105,7 @@
 "ScanText" = "扫描文本";
 "AddContentBlock" = "添加​​内容块";
 "AddDate" = "添加日期";
-"ChooseDate" = "Choose Date";
+"ChooseDate" = "选择日期";
 "DismissKeyboard" = "关闭键盘";
 "MarkTask" = "标记任务为已完成";
 "Night" = "切换夜间模式";

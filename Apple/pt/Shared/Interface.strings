@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "OK";
+"Cancel" = "Cancelar";
+"Try_Again" = "Tente novamente";
+"Share" = "Partilhar";
+"Close" = "Fechar";
+"Continue" = "Continuar";
+"Enable" = "Ativar";
+"Disable" = "Desativar";
+"Reset" = "Reinicializar";
+"Edit" = "Editar";
+"Done" = "Concluído";
+"Remove" = "Remover";
+"Delete" = "Eliminar";
+"Delete_Immediately" = "Apagar Imediatamente";
+"More" = "Mais";
+"Hide" = "Ocultar";
+"Add" = "Adicionar";
+"Name" = "Nome";
+"Authorize" = "Autorizar";
+"Options" = "Opções";
+"Move_To_Trash" = "Mover para o Lixo";
+"Copy" = "Copiar";
+"Open" = "Abrir";
+"Save" = "Guardar";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "Imprimir";
+"Export" = "Exportar";
+"Publish" = "Publicar";
+"Back" = "Retornar";
+"Forward" = "Avançar";
+"Text_Size" = "Tamanho do Texto";
+"Make_Text_Bigger" = "Aumentar texto";
+"Make_Text_Normal_Size" = "Texto em tamanho normal";
+"Make_Text_Smaller" = "Reduzir texto";
+
+"Default_Document_Name" = "Sem título";
+"Default_Folder_Name" = "Pasta sem título";
+"Default_Item_Name" = "Sem título";

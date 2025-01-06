@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = "：";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "确定";
+"Cancel" = "取消​​";
+"Try_Again" = "重试";
+"Share" = "分享";
+"Close" = "关闭";
+"Continue" = "继续";
+"Enable" = "启用";
+"Disable" = "禁用";
+"Reset" = "重置​​";
+"Edit" = "编辑";
+"Done" = "完成";
+"Remove" = "移除";
+"Delete" = "刪除";
+"Delete_Immediately" = "立即删除";
+"More" = "更多";
+"Hide" = "隐藏​​";
+"Add" = "添加";
+"Name" = "名称";
+"Authorize" = "授权";
+"Options" = "选项";
+"Move_To_Trash" = "移到废纸篓";
+"Copy" = "复制";
+"Open" = "打开";
+"Save" = "保存";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "打印";
+"Export" = "导出";
+"Publish" = "发布";
+"Back" = "返回​​";
+"Forward" = "前进";
+"Text_Size" = "文本大小";
+"Make_Text_Bigger" = "使文本变大";
+"Make_Text_Normal_Size" = "使文本为正常大小";
+"Make_Text_Smaller" = "使文本变小";
+
+"Default_Document_Name" = "无标题";
+"Default_Folder_Name" = "无标题文件夹";
+"Default_Item_Name" = "无标题";

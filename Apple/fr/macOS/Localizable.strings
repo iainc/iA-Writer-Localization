@@ -111,10 +111,10 @@
  -----*/
 
 /* Menu item to show preview. */
-"Show_Source_List" = "Afficher l’organisateur";
+"Show_Organizer" = "Afficher l’organisateur";
 
 /* Menu item to show preview. */
-"Hide_Source_List" = "Masquer l’organisateur";
+"Hide_Organizer" = "Masquer l’organisateur";
 
 /* Menu item to show filter bar. */
 "Show_Search_Bar" = "Afficher la barre de filtre";
@@ -146,16 +146,6 @@
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "Dossier contenant";
-
-/* Menu to move to delete a folder when right-clicking in document library.
-   Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Supprimer...";
-
-/* Deletion confirmation sheet message. */
-"Library_Delete_Confrimation_Message" = "Souhaitez-vous vraiment supprimer « %@ » ?";
-
-/* Deletion confrimation infromative text for a local item. */
-"Library_Delete_Confrimation_Informative_Text" = "Cette action est irréversible.";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "Document vide";
@@ -261,6 +251,9 @@
 "Library_Root_Smart_Folders" = "Dossiers intelligents";
 
 /* Organizer section title. */
+"Library_Root_Links" = "Liens";
+
+/* Organizer section title. */
 "Library_Root_Hashtags" = "Hashtags";
 
 /* Organizer section empty message. */
@@ -311,6 +304,9 @@
 
 /* Body text block element name. */
 "Block_Element_Blockquote" = "Bloc de citation";
+
+/* Body text block element name. */
+"Block_Element_Comment" = "Commentaire";
 
 /* Body text block element name. */
 "Block_Element_Body_Text" = "Corps";
@@ -377,6 +373,9 @@
 "Preferences_Pane_Title_Templates" = "Modèles";
 
 /* Markdown preferences pane title. */
+"Preferences_Pane_Title_Authors" = "Auteurs";
+
+/* Markdown preferences pane title. */
 "Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
@@ -408,6 +407,8 @@
 "Markdown_Library_Paths_And_Links_Tab" = "Chemins la bibliothèque et liens";
 
 "Markdown_Processing_Tab" = "Traitement";
+
+"Shortcuts_Not_Supported" = "Vous ne pouvez pas utiliser de raccourcis avec cette version de macOS. Vous avez macOS %@. Les raccourcis nécessitent macOS 13 ou ultérieur.";
 
 /*-----------
  Quick Search

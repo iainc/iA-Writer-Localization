@@ -1,0 +1,63 @@
+
+/* Button to select all visible items. */
+"Button_Select_All" = "全て選択";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "全て選択解除";
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "同期の競合";
+
+/* Version browser title */
+"Version_Browser_Title" = "バージョン";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "最新";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "%@ のすべてのバージョン";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "復元するバージョンを選択してください。古いバージョンを別ファイルで保存するには、最新のバージョンと合わせて選択してください。";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "変更内容が同期されていません。保持したいドキュメントを選んでください。";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "%@ の競合するバージョン";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "保持";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "どちらも保持";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "すべて保持";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "%d を保持";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "復元";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "最新のバージョンに復元して %d を作成";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "%d を作成";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "バージョンを読み込めません";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "iCloud エラー: “%@”。";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "不明なエラー";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "ネットワークに接続していません。";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "接続できません。";

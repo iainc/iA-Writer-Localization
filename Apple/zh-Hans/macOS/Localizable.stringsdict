@@ -46,8 +46,6 @@
 			<string>%tu天</string>
 			<key>other</key>
 			<string>%tu天</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 		</dict>
 	</dict>
 	<key>Trial_Expiration_Hours</key>
@@ -64,8 +62,6 @@
 			<string>%tu小时</string>
 			<key>other</key>
 			<string>%tu小时</string>
-			<key>zero</key>
-			<string>Buy Now</string>
 		</dict>
 	</dict>
 	<key>Trial_Extension_Days</key>

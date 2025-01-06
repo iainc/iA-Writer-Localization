@@ -10,20 +10,22 @@
 "Structure" = "構成";
 
 "Wikilink" = "ウィキリンク";
-"Headings" = "見出し 1–6";
+"Headings" = "見出し";
+"Headings1-6" = "見出し 1–6";
 "Heading1" = "見出し 1";
 "Heading2" = "見出し 2";
 "Heading3" = "見出し 3";
 "Heading4" = "見出し 4";
 "Heading5" = "見出し 5";
 "Heading6" = "見出し 6";
-"Lists" = "全てのリスト";
+"Lists" = "リスト";
 "List" = "リスト";
 "OrderedList" = "番号付きリスト";
 "TaskList" = "タスクリスト";
 "OrderedTaskList" = "番号付きタスクリスト";
 "CodeBlock" = "コードブロック";
 "BlockQuote" = "ブロック引用";
+"Comment" = "コメント";
 "HorizontalRule" = "水平線を追加";
 "PageBreak" = "ページ区切りを追加";
 "Strong" = "太字";
@@ -87,6 +89,7 @@
 "Copy" = "コピー";
 "Paste" = "貼り付け";
 "Select" = "選択";
+"SelectAll" = "すべて選択";
 "Undo" = "元に戻す";
 "Redo" = "やり直し";
 "AddImage" = "画像を追加";
@@ -102,7 +105,7 @@
 "ScanText" = "テキストをスキャン";
 "AddContentBlock" = "コンテンツブロックを追加";
 "AddDate" = "日付を追加";
-"ChooseDate" = "Choose Date";
+"ChooseDate" = "日付を選択する";
 "DismissKeyboard" = "キーボードを隠す";
 "MarkTask" = "完了としてマーク";
 "Night" = "ナイトモード";

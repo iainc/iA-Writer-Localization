@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "OK";
+"Cancel" = "Отменить";
+"Try_Again" = "Повторить попытку";
+"Share" = "Поделиться";
+"Close" = "Закрыть";
+"Continue" = "Продолжить";
+"Enable" = "Включить";
+"Disable" = "Выключить";
+"Reset" = "Сбросить";
+"Edit" = "Редактировать";
+"Done" = "Готово";
+"Remove" = "Удалить";
+"Delete" = "Удалить";
+"Delete_Immediately" = "Удалить немедленно";
+"More" = "Ещё";
+"Hide" = "Скрыть";
+"Add" = "Добавить";
+"Name" = "Имя";
+"Authorize" = "Авторизовать";
+"Options" = "Параметры";
+"Move_To_Trash" = "Переместить в Корзину";
+"Copy" = "Копировать";
+"Open" = "Открыть";
+"Save" = "Сохранить";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "Напечатать";
+"Export" = "Экспортировать";
+"Publish" = "Опубликовать";
+"Back" = "Назад";
+"Forward" = "Вперед";
+"Text_Size" = "Размер текста";
+"Make_Text_Bigger" = "Увеличить текст";
+"Make_Text_Normal_Size" = "Обычный размер текста";
+"Make_Text_Smaller" = "Уменьшить текст";
+
+"Default_Document_Name" = "Без названия";
+"Default_Folder_Name" = "Папка без названия";
+"Default_Item_Name" = "Без названия";

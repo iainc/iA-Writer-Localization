@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "本当にキーボードレイアウトをリセットしますか？全ての変更は消去されます。";
 "Key_Picker_Action_Reset" = "キーボードレイアウトをリセット";
-"Key_Picker_Action_Cancel" = "キャンセル";
+
+"Lightning_Menu_Message_Reset" = "ライトニングメニューをリセットしてもよろしいですか？変更した内容はすべて失われます。";
+"Lightning_Menu_Action_Reset" = "ライトニングメニューをリセット";
+
+"Edit_Menu_Message_Reset" = "編集メニューをリセットしてもよろしいですか？変更した内容はすべて失われます。";
+"Edit_Menu_Action_Reset" = "編集メニューをリセット";
+
+"Double_Tap_Shift_Suggestion" = "キーボードバーに構造アクションを表示するには、Shiftをダブルタップします。";
 
 "Menu_Quick_Search" = "クイック検索";
 "Menu_Find" = "検索＆置換";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "検索";
 "Find_Replace_Placeholder" = "置換";
+"Find_Match_Style" = "一致するスタイル";
+"Find_Match_Case" = "一致するテキストの大文字小文字";
+"Replace_Action" = "置換";
+"Replace_All_Action" = "すべて";
 
 "Key_Description_Lightning" = "クイック";
 "Key_Description_Insert_Selected_Completion" = "選択された完了部分を挿入";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "サイズ";
 "Lightning_Size_Regular" = "レギュラー";
+"Lightning_Size_Medium" = "ミディアム";
 "Lightning_Size_Compact" = "コンパクト";
+
+"Edit_Menu" = "編集";
+"Settings_Edit_Menu" = "編集メニュー";
+"Settings_Edit_Menu_Section_Footer" = "編集 メニューを使用して、選択したテキストに対してアクションを実行します。選択範囲に適用されないアクションは自動的に非表示になります。";
+
+"Settings_Keyboard_Title" = "キーボード";
+"Settings_Lightning_Menu" = "ライトニングメニュー";
+"Settings_Lightning_Action_Not_Found" = "見つかりません";
+"Settings_Lightning_Menu_Add_Actions" = "操作を追加";
+"Settings_Lightning_Menu_Add_Submenu" = "サブメニューを追加";
+"Settings_Lightning_Menu_Edit_Submenu" = "サブメニューを編集";
+"Settings_Lightning_Menu_Remove_Action" = "操作を削除";
+"Settings_Lightning_Menu_Remove_Submenu" = "サブメニューを削除";
+"Settings_Lightning_Menu_Select_Action_Title" = "操作を選択";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "操作";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "アピアランス";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "インラインで表示";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "インラインサブメニューのアクションは、他のアクションとは別に親メニューに表示されます。";
+"Settings_Lightning_Menu_Section_Footer" = "ライトニングメニューでいずれかの操作をタップし長押しして、これらの設定を開きます。";
+"Settings_Command_Keyboard" = "コマンドキーボード";
+"Settings_Command_Keyboard_Enable" = "キーボードバーで表示";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "常にポップオーバーで表示";
+"Settings_Command_Keyboard_Configure" = "設定";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "コマンドキーボードでいずれかのライトキーをタップし長押しして、設定モードを開きます。";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "コマンドキーボードの操作はライトニングメニューとクイック検索で利用できます。また、ハードウェアキーボードが接続されている場合、キーボードのショートカットとして使用できます。";
+"Settings_Hardware_Keyboard_Title" = "ハードウェアキーボード";
+"Settings_Hardware_Keyboard_Footer" = "ハードウェアキーボードが接続されている場合のみ、この操作はキーボードバーに影響します。";
+"Settings_Hardware_Keyboard_Show_Bar" = "キーボードバーを表示";

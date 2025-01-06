@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = "：";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "OK";
+"Cancel" = "キャンセル";
+"Try_Again" = "もう一度試す";
+"Share" = "共有";
+"Close" = "閉じる";
+"Continue" = "続ける";
+"Enable" = "有効にする";
+"Disable" = "無効にする";
+"Reset" = "リセット";
+"Edit" = "編集";
+"Done" = "完了";
+"Remove" = "削除";
+"Delete" = "削除";
+"Delete_Immediately" = "すぐに削除";
+"More" = "その他";
+"Hide" = "隠す";
+"Add" = "追加";
+"Name" = "名前";
+"Authorize" = "許可";
+"Options" = "オプション";
+"Move_To_Trash" = "ゴミ箱に入れる";
+"Copy" = "コピー";
+"Open" = "開く";
+"Save" = "保存";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "印刷";
+"Export" = "書き出し";
+"Publish" = "公開";
+"Back" = "戻る";
+"Forward" = "進む";
+"Text_Size" = "テキストサイズ";
+"Make_Text_Bigger" = "文字を拡大";
+"Make_Text_Normal_Size" = "文字を標準のサイズにする";
+"Make_Text_Smaller" = "文字を縮小";
+
+"Default_Document_Name" = "名称未設定";
+"Default_Folder_Name" = "名称未設定フォルダ";
+"Default_Item_Name" = "名称未設定";

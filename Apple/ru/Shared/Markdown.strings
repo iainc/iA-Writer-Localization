@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "Неизвестная ошибка";
+"Unknown_Error" = "Произошла неизвестная ошибка.";
+"Unknown_Error_Recovery_Suggestion" = "Повторите попытку, затем обратитесь в поддержку.";
+
+"Annotations_Key" = "Заметки";
+
+"Author_Human" = "Человек";
+"Author_Other" = "Другой";
+
+"Author_Unnamed" = "Без имени";
+"Author_Unspecified" = "Не указано";
+
+"Annotation_Unknown" = "Неизвестная заметка";
+"Annotation_Unknown_Description" = "Эту заметку невозможно показать в этой версии %@.";
+
+"Annotation_Authorship" = "Авторство";
+"Annotation_Authorship_Description" = "Эта заметка содержит авторство.";

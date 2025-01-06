@@ -111,10 +111,10 @@
  -----*/
 
 /* Menu item to show preview. */
-"Show_Source_List" = "Показать организатор";
+"Show_Organizer" = "Показать организатор";
 
 /* Menu item to show preview. */
-"Hide_Source_List" = "Скрыть организатор";
+"Hide_Organizer" = "Скрыть организатор";
 
 /* Menu item to show filter bar. */
 "Show_Search_Bar" = "Показать панель фильтров";
@@ -146,16 +146,6 @@
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "На уровень выше";
-
-/* Menu to move to delete a folder when right-clicking in document library.
-   Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Удалить…";
-
-/* Deletion confirmation sheet message. */
-"Library_Delete_Confrimation_Message" = "Вы уверены, что хотите удалить «%@»?";
-
-/* Deletion confrimation infromative text for a local item. */
-"Library_Delete_Confrimation_Informative_Text" = "Это действие не может быть отменено.";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "Пустой документ";
@@ -261,6 +251,9 @@
 "Library_Root_Smart_Folders" = "Смарт-папки";
 
 /* Organizer section title. */
+"Library_Root_Links" = "Ссылки";
+
+/* Organizer section title. */
 "Library_Root_Hashtags" = "Хэштеги";
 
 /* Organizer section empty message. */
@@ -313,6 +306,9 @@
 "Block_Element_Blockquote" = "Цитата";
 
 /* Body text block element name. */
+"Block_Element_Comment" = "Комментарий";
+
+/* Body text block element name. */
 "Block_Element_Body_Text" = "Текст";
 
 /* Bold inline element name. */
@@ -362,7 +358,7 @@
 "Preferences_Pane_Title_General" = "Основные";
 
 /* Sharing preferences pane title. */
-"Preferences_Pane_Title_Accounts" = "Учетные записи";
+"Preferences_Pane_Title_Accounts" = "Аккаунты";
 
 /* Files preferences pane title. */
 "Preferences_Pane_Title_Files" = "Файлы";
@@ -375,6 +371,9 @@
 
 /* Templates preferences pane title. */
 "Preferences_Pane_Title_Templates" = "Шаблоны";
+
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Authors" = "Авторы";
 
 /* Markdown preferences pane title. */
 "Preferences_Pane_Title_Markdown" = "Markdown";
@@ -408,6 +407,8 @@
 "Markdown_Library_Paths_And_Links_Tab" = "Пути библиотеки и ссылки";
 
 "Markdown_Processing_Tab" = "Обработка";
+
+"Shortcuts_Not_Supported" = "Вы не можете использовать быстрые команды с этой версией macOS. У вас macOS %@. Для использования быстрых команд требуется macOS 13 или более поздняя версия.";
 
 /*-----------
  Quick Search

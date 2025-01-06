@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "Aceptar";
+"Cancel" = "Cancelar";
+"Try_Again" = "Pruebe otra vez";
+"Share" = "Compartir";
+"Close" = "Cerrar";
+"Continue" = "Continuar";
+"Enable" = "Habilitar";
+"Disable" = "Deshabilitar";
+"Reset" = "Reiniciar";
+"Edit" = "Editar";
+"Done" = "Hecho";
+"Remove" = "Eliminar";
+"Delete" = "Borrar";
+"Delete_Immediately" = "Borrar inmediatamente";
+"More" = "Más";
+"Hide" = "Ocultar";
+"Add" = "Añadir";
+"Name" = "Nombre";
+"Authorize" = "Autorizar";
+"Options" = "Opciones";
+"Move_To_Trash" = "Trasladar a la papelera";
+"Copy" = "Copiar";
+"Open" = "Abrir";
+"Save" = "Guardar";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "Imprimir";
+"Export" = "Exportar";
+"Publish" = "Publicar";
+"Back" = "Volver";
+"Forward" = "Avanzar";
+"Text_Size" = "Tamaño del texto";
+"Make_Text_Bigger" = "Aumentar tamaño del texto";
+"Make_Text_Normal_Size" = "Usar tamaño normal de texto";
+"Make_Text_Smaller" = "Reducir tamaño del texto";
+
+"Default_Document_Name" = "Sin título";
+"Default_Folder_Name" = "Carpeta sin título";
+"Default_Item_Name" = "Sin título";

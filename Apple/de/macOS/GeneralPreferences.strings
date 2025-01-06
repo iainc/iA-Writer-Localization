@@ -1,15 +1,21 @@
 
+/* Class = "NSButtonCell"; title = "Get Ready-Made Shortcuts"; ObjectID = "08k-Ex-px6"; */
+"08k-Ex-px6.title" = "Fertige Kurzbefehle herunterladen";
+
 /* Class = "NSTextFieldCell"; title = "File extensions:"; ObjectID = "0IN-f9-orW"; */
 "0IN-f9-orW.title" = "Dateierweiterungen:";
 
 /* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
 "7Ng-I8-X9P.title" = "Mit Systemerscheinungsbild abgleichen";
 
+/* Class = "NSTextFieldCell"; title = "URL commands allow you link to iA Writer files from other apps, and to perform actions with various automation tools."; ObjectID = "7eH-Lk-TJK"; */
+"7eH-Lk-TJK.title" = "URL-Befehle ermöglichen es Ihnen, Links zu iA Writer-Dateien aus anderen Apps zu erstellen und Aktionen mit verschiedenen Automatisierungstools durchzuführen.";
+
 /* Class = "NSButtonCell"; title = "Show file extensions"; ObjectID = "8NU-YT-G88"; */
 "8NU-YT-G88.title" = "Dateierweiterungen anzeigen";
 
-/* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
-"8RM-fb-kKC.title" = "Automatisierung:";
+/* Class = "NSTextFieldCell"; title = "Shortcuts:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "Kurzbefehle:";
 
 /* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
 "8Ra-gX-fPi.title" = "Dunkel";
@@ -41,11 +47,14 @@
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
 "U8m-wr-wFI.title" = "Hell";
 
-/* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
-"UpS-Li-DCu.title" = "Verwalten …";
+/* Class = "NSButtonCell"; title = "Manage"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "Verwalten";
 
 /* Class = "NSTextFieldCell"; title = "Title bar:"; ObjectID = "Ws8-XL-Ktr"; */
 "Ws8-XL-Ktr.title" = "Titelleiste:";
+
+/* Class = "NSTextFieldCell"; title = "Shortcuts make it easy to get tasks done by combining actions—the building blocks of a shortcut—into a series of steps—a shortcut—that can be launched with one click, or by asking Siri. "; ObjectID = "a5J-pD-uLL"; */
+"a5J-pD-uLL.title" = "Kurzbefehle erleichtern das Erledigen von Aufgaben, indem sie Aktionen — die Bausteine eines Kurzbefehls — in eine Reihe von Schritten — einen Kurzbefehl — kombinieren, der mit einem Tippen oder durch einen Siri-Befehl gestartet werden kann.";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
 "c8E-lj-f6I.title" = "Ausblenden";
@@ -63,7 +72,7 @@
 "j0k-Io-Sa4.title" = "Anzeigen";
 
 /* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
-"pJV-vk-Inh.title" = "Wischbewegung für Bedien-Elemente";
+"pJV-vk-Inh.title" = "Wischbewegung für Bedienelemente";
 
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
 "vB9-wl-rUL.title" = "Hell";

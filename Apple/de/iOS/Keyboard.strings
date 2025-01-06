@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "Sind Sie sicher, dass Sie das Tastatur-Anordnung zurücksetzen möchten? Ihre bisherigen Anpassungen werden vollständig aufgehoben.";
 "Key_Picker_Action_Reset" = "Tastatur-Anordnung zurücksetzen";
-"Key_Picker_Action_Cancel" = "Abbrechen";
+
+"Lightning_Menu_Message_Reset" = "Möchten Sie das Blitz-Menü wirklich zurücksetzen? Ihre Änderungen gehen dadurch verloren.";
+"Lightning_Menu_Action_Reset" = "Blitz-Menü zurücksetzen";
+
+"Edit_Menu_Message_Reset" = "Möchten Sie das Bearbeitungsmenü wirklich zurücksetzen? Ihre Änderungen gehen dadurch verloren.";
+"Edit_Menu_Action_Reset" = "Bearbeitungsmenü zurücksetzen";
+
+"Double_Tap_Shift_Suggestion" = "Tippen Sie zweimal auf die Umschalttaste, um Strukturaktionen in der Tastaturleiste anzuzeigen.";
 
 "Menu_Quick_Search" = "Schnellsuche";
 "Menu_Find" = "Suchen und ersetzen";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "Finden";
 "Find_Replace_Placeholder" = "Ersetzen";
+"Find_Match_Style" = "Stil berücksichtigen";
+"Find_Match_Case" = "Groß-/Kleinschreibung berücksichtigen";
+"Replace_Action" = "Ersetzen";
+"Replace_All_Action" = "Alle";
 
 "Key_Description_Lightning" = "Blitz";
 "Key_Description_Insert_Selected_Completion" = "Ausgewählte Fertigstellung einfügen";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "Größe";
 "Lightning_Size_Regular" = "Normal";
+"Lightning_Size_Medium" = "Mittel";
 "Lightning_Size_Compact" = "Kompakt";
+
+"Edit_Menu" = "Bearbeiten";
+"Settings_Edit_Menu" = "Bearbeitungsmenü";
+"Settings_Edit_Menu_Section_Footer" = "Verwenden Sie das Bearbeitungsmenü, um Aktionen für den ausgewählten Text auszuführen. Aktionen, die nicht auf die Auswahl anwendbar sind, werden automatisch ausgeblendet.";
+
+"Settings_Keyboard_Title" = "Tastatur";
+"Settings_Lightning_Menu" = "Blitz-Menü";
+"Settings_Lightning_Action_Not_Found" = "Nicht gefunden";
+"Settings_Lightning_Menu_Add_Actions" = "Aktionen hinzufügen";
+"Settings_Lightning_Menu_Add_Submenu" = "Untermenü hinzufügen";
+"Settings_Lightning_Menu_Edit_Submenu" = "Untermenü bearbeiten";
+"Settings_Lightning_Menu_Remove_Action" = "Aktion entfernen";
+"Settings_Lightning_Menu_Remove_Submenu" = "Untermenü entfernen";
+"Settings_Lightning_Menu_Select_Action_Title" = "Aktion wählen";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "Aktionen";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "Anzeigen";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "Inline anzeigen";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Inline-Untermenüaktionen werden im übergeordneten Menü getrennt von anderen Aktionen angezeigt.";
+"Settings_Lightning_Menu_Section_Footer" = "Tippen und halten Sie eine beliebige Aktion im Blitz-Menü, um diese Einstellungen zu öffnen.";
+"Settings_Command_Keyboard" = "Befehlstastatur";
+"Settings_Command_Keyboard_Enable" = "In Tastaturleiste anzeigen";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Immer als Popover anzeigen";
+"Settings_Command_Keyboard_Configure" = "Konfigurieren";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Tippen und halten Sie eine beliebige helle Taste auf der Befehlstastatur, um den Konfigurationsmodus zu öffnen.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Befehlstastatur-Aktionen sind im Blitz-Menü, in der Schnellsuche und als Tastenkombination verfügbar, wenn eine Hardware-Tastatur angeschlossen ist.";
+"Settings_Hardware_Keyboard_Title" = "Hardware-Tastatur";
+"Settings_Hardware_Keyboard_Footer" = "Dies hat nur Auswirkungen auf die Tastaturleiste, wenn ein Hardware-Keyboard angeschlossen ist.";
+"Settings_Hardware_Keyboard_Show_Bar" = "Tastaturleiste anzeigen";

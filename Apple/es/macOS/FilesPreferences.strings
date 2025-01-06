@@ -1,11 +1,11 @@
 
-/* Class = "NSTextFieldCell"; title = "Saving:"; ObjectID = "DAH-ta-FHC"; */
-"DAH-ta-FHC.title" = "Guardando:";
+/* Class = "NSTextFieldCell"; title = "Open files:"; ObjectID = "DAH-ta-FHC"; */
+"DAH-ta-FHC.title" = "Abrir archivos:";
 
-/* Class = "NSTextFieldCell"; title = "Files are always automatically saved. \nIf selected, files will ask whether you want \nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
+/* Class = "NSTextFieldCell"; title = "Files are always automatically saved.\nIf selected, files will ask whether you want\nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
 "GLa-Mz-lpI.title" = "Los archivos se guardan siempre automáticamente.\nSi se selecciona esta opción, se te preguntará si quieres\nguardar o revertir los cambios al cerrar el archivo.";
 
-/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
+/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon\nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "Se usará la acción preferida al pulsar ⌘N o hacer clic en el icono del Dock cuando no haya otros documentos abiertos. Se usará una acción alternativa cuando pulses ⌥⌘N.";
 
 /* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */
@@ -14,10 +14,10 @@
 /* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
 "RP1-j6-hey.title" = "Acción preferida:";
 
-/* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
+/* Class = "NSTextFieldCell"; title = "New files will have this extension.\nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
 "UWl-8e-UTr.title" = "Los nuevos documentos tendrán esta extensión. Solo se permiten extensiones de texto sin formato.";
 
-/* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
+/* Class = "NSTextFieldCell"; title = "Files will be automatically\ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "Nuevos se crearán automáticamente\nen la biblioteca.";
 
 /* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
@@ -26,8 +26,14 @@
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "Nuevo en la biblioteca";
 
-/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
+/* Class = "NSButtonCell"; title = "Close when quitting"; ObjectID = "ghH-sF-bCo"; */
+"ghH-sF-bCo.title" = "Cerrar al salir";
+
+/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them\nwhen closed."; ObjectID = "vCs-49-KMB"; */
 "vCs-49-KMB.title" = "Se te preguntará si quieres guardar los documentos\nal cerrarlos.";
+
+/* Class = "NSTextFieldCell"; title = "When enabled, open files will not be restored\nwhen you re-open iA Writer."; ObjectID = "w6F-Ra-OYQ"; */
+"w6F-Ra-OYQ.title" = "Si está activada, los archivos abiertos no se restaurarán\ncuando vuelvas a abrir iA Writer.";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
 "whG-r6-ibK.title" = "Extensión predeterminada:";

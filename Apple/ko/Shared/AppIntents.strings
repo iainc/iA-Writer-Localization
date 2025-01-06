@@ -1,0 +1,130 @@
+
+"Text Result" = "텍스트 결과";
+"Text" = "텍스트";
+
+"Library Path Result" = "라이브러리 경로 결과";
+
+"Library Path" = "라이브러리 경로";
+
+"What is the Library Path of the file?" = "파일의 라이브러리 경로는 무엇인가요?";
+"What is the Library Path of the folder?" = "폴더의 라이브러리 경로는 무엇인가요?";
+
+"Save Text" = "텍스트 저장";
+"Saves text to the file at the specified Library Path." = "지정된 라이브러리 경로에 있는 파일에 텍스트를 저장합니다.";
+"Save ${text} to file at ${libraryPath}" = "${libraryPath}에 있는 파일에 ${text} 저장";
+
+"Save Edits From" = "다음으로부터의 편집 내용 저장";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "지정된 라이브러리 경로에 있는 파일에 텍스트를 저장합니다. 변경 사항을 자동으로 감지하고 제공된 원작자에게 귀속시킵니다.";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "이름이 ${authorName}인 ${authorType} 원작자의 편집 내용과 함께 ${libraryPath}에 있는 파일에 ${text} 저장";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "${authorType} 원작자의 편집 내용과 함께 ${libraryPath}에 있는 파일에 ${text} 저장";
+
+"Add Text" = "텍스트 추가";
+"Adds text to the file at the specified Library Path." = "지정된 라이브러리 경로에 있는 파일에 텍스트를 추가합니다.";
+"Add ${text} to file at ${libraryPath}" = "${libraryPath}에 있는 파일에 ${text} 추가";
+
+"Open" = "열기";
+"Opens the file at the specified Library Path." = "지정된 라이브러리 경로에 있는 파일을 엽니다.";
+"Open file at ${libraryPath}" = "${libraryPath}에 있는 파일 열기";
+
+"Open New" = "새로 열기";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "입력값으로 전달된 텍스트를 사용하여 지정된 라이브러리 경로에서 새로운 파일을 엽니다. 라이브러리 경로가 생략되거나 폴더가 지정된 경우, 새로운 파일의 이름이 자동으로 지정됩니다.";
+"Open new file with ${text} at ${libraryPath}" = "${text}을(를) 사용하여 ${libraryPath}에서 새로운 파일 열기";
+
+"Get Current File" = "현재 파일 받기";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "존재하는 경우, 현재 iA Writer에 열려 있는 파일의 라이브러리 경로를 가져옵니다.";
+"Get current file" = "현재 파일 받기";
+
+"Get Link" = "링크 가져오기";
+"Gets a link to open the file at the specified Library Path." = "지정된 라이브러리 경로에서 파일을 열기 위한 링크를 가져옵니다.";
+"Get link to open file at ${libraryPath}" = "${libraryPath}에서 파일을 열기 위한 링크 가져오기";
+
+"Get Text" = "텍스트 가져오기";
+"Gets text at the specified Library Path." = "지정된 라이브러리 경로에 있는 텍스트를 가져옵니다.";
+"Get text at ${libraryPath}" = "${libraryPath}에 있는 텍스트 가져오기";
+
+"Get Text as HTML" = "HTML로 텍스트 가져오기";
+"Gets text at the specified Library Path as HTML." = "지정된 라이브러리 경로에 있는 텍스트를 HTML로 가져옵니다.";
+"Get text at ${libraryPath} as HTML" = "${libraryPath}에 있는 텍스트를 HTML로 가져오기";
+
+"Get Text as Markdown" = "마크다운으로 텍스트 가져오기";
+"Gets text at the specified Library Path as Markdown." = "지정된 라이브러리 경로에 있는 텍스트를 마크다운으로 가져옵니다.";
+"Get text at ${libraryPath} as Markdown" = "${libraryPath}에 있는 텍스트를 마크다운으로 가져오기";
+
+"Author" = "원작자";
+"Who is the author of the text?" = "텍스트의 원작자는 누구인가요?";
+
+"Unspecified" = "지정 안 됨";
+"Primary" = "기본";
+"Human" = "인간";
+"Other" = "기타";
+
+"Name" = "이름";
+"What is the name of the author?" = "원작자의 이름은 무엇인가요?";
+
+"Identifier" = "식별자";
+"What would you like to use to identify this author? For example, an email, or a website." = "이 원작자를 식별하는 데 무엇을 사용하시겠습니까? 예: 이메일 또는 웹 사이트.";
+
+"Replace if Exists" = "존재하는 경우, 대체";
+
+"Location" = "위치";
+"Where should the text be added?" = "텍스트를 어디에 추가하나요?";
+"Beginning" = "시작 부분";
+"End" = "끝 부분";
+
+"Insert Padding" = "패딩 삽입";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "iPad 및 iPhone에서 편집";
+"Open New Window on Mac" = "Mac에서 새 창 열기";
+
+"Edit" = "편집";
+"Get" = "가져오기";
+"Organize" = "정리";
+
+"Delete" = "삭제";
+"Deletes the item at the specified Library Path." = "지정된 라이브러리 경로에 있는 항목을 삭제합니다.";
+"Delete item at ${libraryPath}" = "${libraryPath}에 있는 항목 삭제";
+"Delete Immediately" = "즉시 삭제";
+
+"Duplicate" = "복제";
+"Duplicates the item at the specified Library Path." = "지정된 라이브러리 경로에 있는 항목을 복제합니다.";
+"Duplicate item at ${libraryPath}" = "${libraryPath}에 있는 항목 복제";
+
+"Append Text to Name" = "이름에 텍스트 첨부";
+"Suffix Type" = "접미사 유형";
+"Default" = "기본";
+"Custom" = "사용자 지정";
+"Custom Suffix" = "사용자 지정 접미사";
+
+"Copy" = "복사";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "지정된 라이브러리 경로에 있는 항목을 지정된 라이브러리 경로에 있는 폴더에 복사합니다.";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "${libraryPath}에 있는 항목을 ${folderLibraryPath}에 있는 폴더에 복사";
+
+"Move" = "이동";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "지정된 라이브러리 경로에 있는 항목을 지정된 라이브러리 경로에 있는 폴더로 이동합니다.";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "${libraryPath}에 있는 항목을 ${folderLibraryPath}에 있는 폴더로 이동";
+
+"Rename" = "이름 변경";
+"Renames the item at the specified Library Path." = "지정된 라이브러리 경로에 있는 항목의 이름을 변경합니다.";
+"Rename item at ${libraryPath} to ${name}" = "${libraryPath}에 있는 항목의 이름을 ${name}(으)로 변경";
+
+"Favorite Action" = "즐겨찾기 작업";
+"Favorite" = "즐겨찾기에 추가";
+"Unfavorite" = "즐겨찾기에서 제거";
+"Favorites the item at the specified Library Path." = "지정된 라이브러리 경로에 있는 항목을 즐겨찾기에 추가합니다.";
+"${action} item at ${libraryPath}" = "${libraryPath}에 있는 항목 ${action}";
+
+"Name" = "이름";
+
+"Show Quick Search" = "빠른 검색 표시";
+"Shows Quick Search with the provided query." = "제공된 쿼리를 사용하여 빠른 검색을 표시합니다.";
+"Show Quick Search with ${query}" = "${query}을(를) 사용하여 빠른 검색 표시";
+
+"Get File Name from Text" = "텍스트에서 파일 이름 가져오기";
+"File Name" = "파일 이름";
+"Cleans up text to be used as a file name." = "파일 이름으로 사용될 텍스트를 정리합니다.";
+"Get file name from ${text}" = "${text}에서 파일 이름 가져오기";

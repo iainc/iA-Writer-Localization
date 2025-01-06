@@ -1,15 +1,21 @@
 
+/* Class = "NSButtonCell"; title = "Get Ready-Made Shortcuts"; ObjectID = "08k-Ex-px6"; */
+"08k-Ex-px6.title" = "下載現成的快捷指令";
+
 /* Class = "NSTextFieldCell"; title = "File extensions:"; ObjectID = "0IN-f9-orW"; */
 "0IN-f9-orW.title" = "副檔名：";
 
 /* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
 "7Ng-I8-X9P.title" = "符合系統外觀";
 
+/* Class = "NSTextFieldCell"; title = "URL commands allow you link to iA Writer files from other apps, and to perform actions with various automation tools."; ObjectID = "7eH-Lk-TJK"; */
+"7eH-Lk-TJK.title" = "URL 命令允許您從其他應用連結到 iA Writer 檔案，並使用各種自動化工具執行操作。";
+
 /* Class = "NSButtonCell"; title = "Show file extensions"; ObjectID = "8NU-YT-G88"; */
 "8NU-YT-G88.title" = "顯示副檔名";
 
-/* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
-"8RM-fb-kKC.title" = "自動化：";
+/* Class = "NSTextFieldCell"; title = "Shortcuts:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "快捷指令：";
 
 /* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
 "8Ra-gX-fPi.title" = "深色";
@@ -41,11 +47,14 @@
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
 "U8m-wr-wFI.title" = "淺色";
 
-/* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
-"UpS-Li-DCu.title" = "管理…";
+/* Class = "NSButtonCell"; title = "Manage"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "管理";
 
 /* Class = "NSTextFieldCell"; title = "Title bar:"; ObjectID = "Ws8-XL-Ktr"; */
 "Ws8-XL-Ktr.title" = "標題欄：";
+
+/* Class = "NSTextFieldCell"; title = "Shortcuts make it easy to get tasks done by combining actions—the building blocks of a shortcut—into a series of steps—a shortcut—that can be launched with one click, or by asking Siri. "; ObjectID = "a5J-pD-uLL"; */
+"a5J-pD-uLL.title" = "快捷指令透過組合動作，即快捷指令的構建塊，形成一系列步驟，也就是一個快捷指令，可以通過一次點擊或詢問Siri來啟動，從而簡化任務處理。";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
 "c8E-lj-f6I.title" = "隱藏";

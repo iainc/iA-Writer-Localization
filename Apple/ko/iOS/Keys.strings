@@ -10,20 +10,22 @@
 "Structure" = "구조";
 
 "Wikilink" = "위키링크";
-"Headings" = "제목 1–6";
+"Headings" = "머리글";
+"Headings1-6" = "제목 1–6";
 "Heading1" = "제목 1";
 "Heading2" = "제목 2";
 "Heading3" = "제목 3";
 "Heading4" = "제목 4";
 "Heading5" = "제목 5";
 "Heading6" = "제목 6";
-"Lists" = "모든 목록";
+"Lists" = "목록";
 "List" = "목록";
 "OrderedList" = "순서가 지정된 목록";
 "TaskList" = "작업 목록";
 "OrderedTaskList" = "순서가 지정된 작업 목록";
 "CodeBlock" = "코드 블록";
 "BlockQuote" = "블록 따옴표";
+"Comment" = "주석";
 "HorizontalRule" = "가로줄 추가";
 "PageBreak" = "페이지 구분선 추가";
 "Strong" = "볼드체";
@@ -87,6 +89,7 @@
 "Copy" = "복사";
 "Paste" = "붙여넣기";
 "Select" = "선택";
+"SelectAll" = "모두 선택";
 "Undo" = "실행 취소";
 "Redo" = "다시 실행";
 "AddImage" = "이미지 추가";
@@ -102,7 +105,7 @@
 "ScanText" = "텍스트 스캔";
 "AddContentBlock" = "콘텐츠 블록 추가";
 "AddDate" = "날짜 추가";
-"ChooseDate" = "Choose Date";
+"ChooseDate" = "날짜 선택";
 "DismissKeyboard" = "키보드 해제";
 "MarkTask" = "작업을 완료로 표시";
 "Night" = "야간 모드 전환";

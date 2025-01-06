@@ -10,20 +10,22 @@
 "Structure" = "Structure";
 
 "Wikilink" = "Wikilink";
-"Headings" = "Heading 1–6";
+"Headings" = "Headings";
+"Headings1-6" = "Heading 1–6";
 "Heading1" = "Heading 1";
 "Heading2" = "Heading 2";
 "Heading3" = "Heading 3";
 "Heading4" = "Heading 4";
 "Heading5" = "Heading 5";
 "Heading6" = "Heading 6";
-"Lists" = "All Lists";
+"Lists" = "Lists";
 "List" = "List";
 "OrderedList" = "Ordered List";
 "TaskList" = "Task List";
 "OrderedTaskList" = "Ordered Task List";
 "CodeBlock" = "Code Block";
 "BlockQuote" = "Blockquote";
+"Comment" = "Comment";
 "HorizontalRule" = "Add Horizontal Rule";
 "PageBreak" = "Add Page Break";
 "Strong" = "Bold";
@@ -87,6 +89,7 @@
 "Copy" = "Copy";
 "Paste" = "Paste";
 "Select" = "Select";
+"SelectAll" = "Select All";
 "Undo" = "Undo";
 "Redo" = "Redo";
 "AddImage" = "Add Image";
@@ -120,7 +123,7 @@
 "ExportPDF" = "Export to PDF";
 "ExportWord" = "Export to Microsoft Word";
 "ExportHTML" = "Export to HTML";
-"Edit" = "Editing Commands";
+"Edit" = "Edit Actions";
 "Markdown" = "Markdown";
 "Spaces" = "Spaces";
 "Space" = "Space";

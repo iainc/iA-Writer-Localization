@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "不明なエラー";
+"Unknown_Error" = "不明なエラーが発生しました。";
+"Unknown_Error_Recovery_Suggestion" = "もう一度試した後、サポートにご連絡ください。";
+
+"Annotations_Key" = "注釈";
+
+"Author_Human" = "人間";
+"Author_Other" = "その他";
+
+"Author_Unnamed" = "無名";
+"Author_Unspecified" = "不特定";
+
+"Annotation_Unknown" = "不明";
+"Annotation_Unknown_Description" = "この注釈は、このバージョンの%@では表示できません。";
+
+"Annotation_Authorship" = "作成者名";
+"Annotation_Authorship_Description" = "この注釈には作成者名が含まれています。";

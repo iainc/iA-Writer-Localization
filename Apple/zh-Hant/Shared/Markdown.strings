@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "未知的錯誤";
+"Unknown_Error" = "發生未知錯誤";
+"Unknown_Error_Recovery_Suggestion" = "請再嘗試，之後聯絡支援。";
+
+"Annotations_Key" = "註釋";
+
+"Author_Human" = "人為";
+"Author_Other" = "其他";
+
+"Author_Unnamed" = "未命名";
+"Author_Unspecified" = "未指定";
+
+"Annotation_Unknown" = "未知";
+"Annotation_Unknown_Description" = "此版本的 %@ 無法顯示此註釋。";
+
+"Annotation_Authorship" = "作者身分";
+"Annotation_Authorship_Description" = "此註釋包含作者身分。";

@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "Erreur inconnue";
+"Unknown_Error" = "Une erreur inconnue s’est produite.";
+"Unknown_Error_Recovery_Suggestion" = "Veuillez réessayer, puis contacter l’assistance.";
+
+"Annotations_Key" = "Annotations";
+
+"Author_Human" = "Humain";
+"Author_Other" = "Autre";
+
+"Author_Unnamed" = "Anonyme";
+"Author_Unspecified" = "Non spécifié";
+
+"Annotation_Unknown" = "Inconnu";
+"Annotation_Unknown_Description" = "Cette annotation ne peut être affichée par cette version de %@.";
+
+"Annotation_Authorship" = "Droit d’auteur";
+"Annotation_Authorship_Description" = "Cette annotation contient un droit d’auteur.";
