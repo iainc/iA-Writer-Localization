@@ -48,8 +48,6 @@
 			<string>Testversion (%tu Tag kostenlos)</string>
 			<key>other</key>
 			<string>Testversion (%tu Tage kostenlos)</string>
-			<key>zero</key>
-			<string>Jetzt kaufen</string>
 		</dict>
 	</dict>
 	<key>Trial_Expiration_Hours</key>
@@ -66,8 +64,6 @@
 			<string>Testversion (%tu Stunde kostenlos)</string>
 			<key>other</key>
 			<string>Testversion (%tu Stunden kostenlos)</string>
-			<key>zero</key>
-			<string>Jetzt kaufen</string>
 		</dict>
 	</dict>
 	<key>Trial_Extension_Days</key>

@@ -10,20 +10,22 @@
 "Structure" = "Struttura";
 
 "Wikilink" = "Wikilink";
-"Headings" = "Intestazione 1-6";
+"Headings" = "Intestazioni";
+"Headings1-6" = "Intestazione 1-6";
 "Heading1" = "Intestazione 1";
 "Heading2" = "Intestazione 2";
 "Heading3" = "Intestazione 3";
 "Heading4" = "Intestazione 4";
 "Heading5" = "Intestazione 5";
 "Heading6" = "Intestazione 6";
-"Lists" = "Tutti gli elenchi";
+"Lists" = "Elenchi";
 "List" = "Elenco";
 "OrderedList" = "Elenco ordinato";
 "TaskList" = "Elenco attività";
 "OrderedTaskList" = "Elenco attività ordinato";
 "CodeBlock" = "Blocco codice";
 "BlockQuote" = "Blockquote";
+"Comment" = "Commento";
 "HorizontalRule" = "Aggiungi regola orizzontale";
 "PageBreak" = "Aggiungi interruzione di pagina";
 "Strong" = "Neretto";
@@ -87,6 +89,7 @@
 "Copy" = "Copia";
 "Paste" = "Incolla";
 "Select" = "Seleziona";
+"SelectAll" = "Seleziona tutti";
 "Undo" = "Annulla";
 "Redo" = "Ripeti";
 "AddImage" = "Aggiungi immagine";
@@ -102,7 +105,7 @@
 "ScanText" = "Scansiona testo";
 "AddContentBlock" = "Aggiungi blocco di contenuti";
 "AddDate" = "Aggiungi data";
-"ChooseDate" = "Choose Date";
+"ChooseDate" = "Scegli data";
 "DismissKeyboard" = "Elimina tastiera";
 "MarkTask" = "Segna attività come completata";
 "Night" = "Passa a modalità notturna";

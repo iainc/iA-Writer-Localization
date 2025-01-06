@@ -59,7 +59,7 @@
 "Template_Installed_Title" = "Installed “%@” Template";
 
 /* Notification info text after a template is successfully installed via Finder or Dock icon. */
-"Template_Installed_Description" = "You can access templates in Preview and View > Templates. You can uninstall templates in Preferences.";
+"Template_Installed_Description" = "You can access templates in Preview and View > Templates. You can uninstall templates in Settings.";
 
 /*------------
  Release Notes
@@ -111,10 +111,10 @@
  -----*/
 
 /* Menu item to show preview. */
-"Show_Source_List" = "Show Organizer";
+"Show_Organizer" = "Show Organizer";
 
 /* Menu item to show preview. */
-"Hide_Source_List" = "Hide Organizer";
+"Hide_Organizer" = "Hide Organizer";
 
 /* Menu item to show filter bar. */
 "Show_Search_Bar" = "Show Filter Bar";
@@ -146,16 +146,6 @@
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "Enclosing Folder";
-
-/* Menu to move to delete a folder when right-clicking in document library.
-   Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "Delete…";
-
-/* Deletion confirmation sheet message. */
-"Library_Delete_Confrimation_Message" = "Are you sure you want to delete “%@”?";
-
-/* Deletion confrimation infromative text for a local item. */
-"Library_Delete_Confrimation_Informative_Text" = "This action can’t be undone.";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "Empty Document";
@@ -261,6 +251,9 @@
 "Library_Root_Smart_Folders" = "Smart Folders";
 
 /* Organizer section title. */
+"Library_Root_Links" = "Links";
+
+/* Organizer section title. */
 "Library_Root_Hashtags" = "Hashtags";
 
 /* Organizer section empty message. */
@@ -311,6 +304,9 @@
 
 /* Body text block element name. */
 "Block_Element_Blockquote" = "Blockquote";
+
+/* Body text block element name. */
+"Block_Element_Comment" = "Comment";
 
 /* Body text block element name. */
 "Block_Element_Body_Text" = "Body";
@@ -377,6 +373,9 @@
 "Preferences_Pane_Title_Templates" = "Templates";
 
 /* Markdown preferences pane title. */
+"Preferences_Pane_Title_Authors" = "Authors";
+
+/* Markdown preferences pane title. */
 "Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
@@ -389,7 +388,7 @@
 "URL_Scheme_First_Use_Message" = "Would you like to enable iA Writer URL commands?";
 
 /* URL scheme first use alert informative text. */
-"URL_Scheme_First_Use_Informative_Text" = "You can change this later in Preferences.";
+"URL_Scheme_First_Use_Informative_Text" = "You can change this later in Settings.";
 
 /* Markdown processing lazy paragraphs. */
 "Markdown_Lazy_Paragraphs" = "Single return starts a new paragraph";
@@ -408,6 +407,8 @@
 "Markdown_Library_Paths_And_Links_Tab" = "Library Paths & Links";
 
 "Markdown_Processing_Tab" = "Processing";
+
+"Shortcuts_Not_Supported" = "You can’t use shortcuts with this version of macOS. You have macOS %@. Shortcuts require macOS 13 or later.";
 
 /*-----------
  Quick Search

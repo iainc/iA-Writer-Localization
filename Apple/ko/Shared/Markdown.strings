@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "알 수 없는 오류";
+"Unknown_Error" = "알 수 없는 오류가 발생했습니다.";
+"Unknown_Error_Recovery_Suggestion" = "다시 시도하거나 지원팀에 문의하세요.";
+
+"Annotations_Key" = "주석";
+
+"Author_Human" = "인간";
+"Author_Other" = "기타";
+
+"Author_Unnamed" = "이름 없음";
+"Author_Unspecified" = "지정 안 됨";
+
+"Annotation_Unknown" = "알 수 없음";
+"Annotation_Unknown_Description" = "이 주석은 이 %@ 버전에서 표시할 수 없습니다.";
+
+"Annotation_Authorship" = "원작자 정보";
+"Annotation_Authorship_Description" = "이 주석에 원작자 정보가 포함되어 있습니다.";

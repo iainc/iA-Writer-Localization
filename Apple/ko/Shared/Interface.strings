@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "확인";
+"Cancel" = "취소";
+"Try_Again" = "다시 시도";
+"Share" = "공유";
+"Close" = "닫기";
+"Continue" = "계속";
+"Enable" = "활성화";
+"Disable" = "비활성화";
+"Reset" = "재설정";
+"Edit" = "편집";
+"Done" = "완료";
+"Remove" = "계정";
+"Delete" = "삭제";
+"Delete_Immediately" = "즉시 삭제";
+"More" = "더 보기";
+"Hide" = "숨기기";
+"Add" = "추가";
+"Name" = "이름";
+"Authorize" = "인증";
+"Options" = "옵션";
+"Move_To_Trash" = "휴지통으로 이동";
+"Copy" = "복사";
+"Open" = "열기";
+"Save" = "저장";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "인쇄";
+"Export" = "내보내기";
+"Publish" = "게시";
+"Back" = "뒤로";
+"Forward" = "앞으로";
+"Text_Size" = "텍스트 크기";
+"Make_Text_Bigger" = "텍스트 크게";
+"Make_Text_Normal_Size" = "텍스트 보통 크기로";
+"Make_Text_Smaller" = "텍스트 작게";
+
+"Default_Document_Name" = "제목 없음";
+"Default_Folder_Name" = "제목 없는 폴더";
+"Default_Item_Name" = "제목 없음";

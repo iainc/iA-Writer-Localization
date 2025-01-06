@@ -7,6 +7,9 @@
 "Library_Title" = "ライブラリ";
 
 /* Title for root library view. */
+"Organizer_Title" = "オーガナイザー";
+
+/* Title for root library view. */
 "Library_Locations_Section_Title" = "保存場所";
 
 /* Title for root library view. */
@@ -49,10 +52,8 @@
  Library Location
  ---------------*/
 
-"Library_Location_Introduction_Alert_Title" = "ライブラリの場所を追加する方法";
-"Library_Location_Introduction_Alert_Message" = "\nライブラリの場所として使用するフォルダを含むフォルダを開きます。\n\n[選択]をタップしてフォルダを選択し、[開く]をタップします。";
-"Library_Location_Introduction_Hide_Forever_Alert_Title" = "今後表示しない";
 "Library_Location_Rename_Alert_Title" = "ライブラリの場所の名前を変更する";
+"Library_Location_Name_Alert_Title" = "ライブラリの場所の名前を入力する";
 
 /*-----------
  Smart Folder
@@ -112,9 +113,6 @@
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "キーボードをカスタマイズ";
-
-/* Button to create new folder. */
-"Button_New_Folder" = "新規フォルダ";
 
 /* Button to change sorting order. */
 "Button_Sort_By" = "並べ替え";
@@ -189,6 +187,12 @@
  Editor
  -----*/
 
+"Secure_Paste_Suggestion" = "他のアプリからの貼り付け確認にうんざりしていませんか？";
+
+"Secure_Paste_Recovery_Suggestion" = "システム設定の「他のアプリから貼り付ける」を「許可」に変更します。";
+
+"Open_System_Settings" = "システム設定を開く";
+
 /* Title for content block warning list. */
 "Content_Block_Warnings_Title" = "コンテンツブロック";
 
@@ -221,7 +225,7 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Transform" = "変換…";
+"Menu_Transform" = "変換";
 
 /* Menu item title for transforming text to upper case. */
 "Menu_Transform_To_Upper_Case" = "大文字にする";
@@ -279,6 +283,8 @@
 
 /* Action to duplicate. */
 "Menu_Duplicate" = "複製";
+
+"Menu_Rename_Document" = "文書の名称を変更する";
 
 /* Action to rename. */
 "Menu_Rename" = "名前を変更";
@@ -361,9 +367,6 @@
 /* Action to open photo library. */
 "Action_Choose_Photo" = "写真を選択…";
 
-/* Action to create new file. */
-"Action_New_File" = "新規ファイル";
-
 /* Title for alert to create new folder. */
 "New_File_Alert_Title" = "ファイル名を入力";
 
@@ -400,12 +403,6 @@
 /*---------
  Table Size
  ---------*/
-
-/* Columns number label in table size picker. */
-"Table_Size_Picker_Columns" = "列";
-
-/* Rows number label in table size picker. */
-"Table_Size_Picker_Rows" = "行";
 
 /* Action title to add table with a selected size. */
 "Action_Add_Table" = "テーブルを追加";
@@ -449,67 +446,6 @@ Document
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "別に保存…";
-
-/*--------------
- Version Browser
- --------------*/
-
-/* Version browser title for conflict resolution */
-"Version_Browser_Title_Conflict" = "同期の競合";
-
-/* Version browser title */
-"Version_Browser_Title" = "バージョン";
-
-/* Version browser title. */
-"Version_Browser_Current_Version" = "最新";
-
-/* Version browser subitem title in conflict, %@ = document name */
-"Version_Browser_Subitem_Title" = "%@ のすべてのバージョン";
-
-/* Version browser subitem message. */
-"Version_Browser_Subitem_Message" = "復元するバージョンを選択してください。古いバージョンを別ファイルで保存するには、最新のバージョンと合わせて選択してください。";
-
-/* Version browser subitem message in conflict */
-"Version_Browser_Subitem_Message_Conflict" = "変更内容が同期されていません。保持したいドキュメントを選んでください。";
-
-/* Version browser subitem title, %@ = document name. */
-"Version_Browser_Subitem_Title_Conflict" = "%@ の競合するバージョン";
-
-/* Version browser action in conflict when 1 version is selected */
-"Version_Browser_Conflict_Keep" = "保持";
-
-/* Version browser action title when two conflict versions exist and both we re marked to keep */
-"Version_Browser_Conflict_Keep_Both" = "どちらも保持";
-
-/* Version browser action title when two versions exist and both were chosen */
-"Version_Browser_Conflict_Keep_All" = "すべて保持";
-
-/* Version browser action in conflict when more than one version is selected */
-"Version_Browser_Conflict_Keep_Number" = "%d を保持";
-
-/* Version browser action when 1 version is selected */
-"Version_Browser_Revert" = "復元";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Revert_And_Save_Number" = "最新のバージョンに復元して %d を作成";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Save_Number" = "%d を作成";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Title" = "バージョンを読み込めません";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Message" = "iCloud エラー: “%@”。";
-
-/* Unknown error message from iCloud. */
-"Version_Browser_Error_Unknown" = "不明なエラー";
-
-/* Network is not available while attemting to browse versions. */
-"Version_Browser_Error_Network_Unavailable" = "ネットワークに接続していません。";
-
-/* Network failure while attemting to browse versions. */
-"Version_Browser_Error_Network_Failure" = "接続できません。";
 
 /*--------
  Files App
@@ -616,9 +552,10 @@ Document
 "Appearance_Light" = "ライト";
 "Appearance_Dark" = "ダーク";
 
+"More_System_Settings" = "その他システム設定";
+
 /* Settings panes. */
 "Settings_Interface_Title" = "インターフェース";
-"Settings_Keyboard_Title" = "キーボード";
 "Settings_General_Title" = "一般";
 "Settings_Files_Title" = "ファイル";
 "Settings_Accounts_Title" = "アカウント";
@@ -626,7 +563,11 @@ Document
 "Settings_Editor_Title" = "エディタ";
 "Settings_Templates_Title" = "テンプレート";
 "Settings_Markdown_Title" = "Markdown";
-"Settings_URL_Scheme_Title" = "URLコマンド";
+"Settings_Shorcuts_Title" = "ショートカット";
+
+"Settings_Shortcuts_Action" = "ショートカットをダウンロード";
+"Shortcuts_Not_Supported" = "このバージョンの%@ではショートカットを使用できません。%@ %@が必要です。ショートカットには%@ 16.1以降が必要です。";
+"Settings_Shortcuts_Description" = "ショートカットは、アクション（ショートカットの構成要素）を一連のステップに組み合わせて、タップ一つまたはSiriに頼むことで起動できるようにすることで、タスクを簡単に完了させることができます。";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "アピアランス";
@@ -664,10 +605,7 @@ Document
 
 /* Library section in settings. */
 "Settings_Library_Appearance_Section_Title" = "アピアランス";
-"Settings_Library_Show_Text_Excerpts" = "本文の一部を表示";
 "Settings_Library_Show_Extensions" = "拡張子を表示";
-"Settings_Library_Show_Extensions" = "拡張子を表示";
-"Settings_Library_Pin_Folders_To_Top" = "フォルダを常に上に表示";
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "並べ替え";
@@ -688,49 +626,27 @@ Document
 "Settings_Editor_Text_Section_Title" = "文章";
 "Settings_Editor_Typography" = "タイポグラフィ";
 "Settings_Editor_Line_Length_Limit_Edit" = "1行の最大長";
-"Settings_Editor_Language" = "言語";
-"Settings_Editor_Emphasis" = "圏点";
+"Settings_Editor_Typeface" = "書体";
+"Label_Emphasis" = "圏点";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "フォーカスモード";
 "Settings_Editor_Focus_Mode" = "フォーカスモード";
 "Settings_Editor_Focus_Mode_Scope" = "範囲";
 
-/* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "ライトニングメニュー";
-"Settings_Keyboard_Lightning_Menu_Add_Actions" = "操作を追加";
-"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "サブメニューを追加";
-"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "サブメニューを編集";
-"Settings_Keyboard_Lightning_Menu_Remove_Action" = "操作を削除";
-"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "サブメニューを削除";
-"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "操作を選択";
-"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "操作";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "インラインで表示";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "インラインサブメニューのアクションは、他のアクションとは別に親メニューに表示されます。";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "ライトニングメニューでいずれかの操作をタップし長押しして、これらの設定を開きます。";
-
-"Settings_Command_Keyboard" = "コマンドキーボード";
-"Settings_Command_Keyboard_Enable" = "キーボードバーで表示";
-"Settings_Command_Keyboard_Always_Show_As_Popover" = "常にポップオーバーで表示";
-"Settings_Command_Keyboard_Configure" = "設定";
-"Settings_Command_Keyboard_Enabled_Section_Footer" = "コマンドキーボードでいずれかのライトキーをタップし長押しして、設定モードを開きます。";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "コマンドキーボードの操作はライトニングメニューとクイック検索で利用できます。また、ハードウェアキーボードが接続されている場合、キーボードのショートカットとして使用できます。";
-
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "テキスト";
+"Lightning_Menu_Group_Document" = "文書";
 "Lightning_Menu_Group_Actions" = "操作";
 "Lightning_Menu_Group_Menu" = "メニュー";
 "Configure_Menu" = "メニューの設定";
 
-/* Hardware keyboard section in settings. */
-"Settings_Editor_Hardware_Keyboard_Title" = "ハードウェアキーボード";
-"Settings_Editor_Hardware_Keyboard_Footer" = "ハードウェアキーボードが接続されている場合のみ、この操作はキーボードバーに影響します。";
-"Settings_Editor_Hardware_Keyboard_Show_Bar" = "キーボードバーを表示";
-
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "テキスト入力";
-"Settings_Editor_Text_Input_Section_Footer" = "スペルチェック、スマートクオート、スマートダッシュは、設定 → 一般 → キーボードから設定できます。";
+"Settings_Editor_Text_Input_Section_Footer" = "%@は、システム設定 → 一般 → キーボードで有効にできます。";
+"Settings_Editor_Autocorrection" = "自動修正";
 "Settings_Editor_Check_Spelling" = "スペルチェック";
+"Settings_Editor_Predictive" = "予測";
 "Settings_Editor_Smart_Quotes" = "スマートクオート";
 "Settings_Editor_Smart_Dashes" = "スマートダッシュ";
 "Settings_Editor_Smart_Inset_Delete" = "スマートコピー/ペースト";
@@ -808,14 +724,11 @@ Document
  URL Scheme Settings
  -------------------*/
 
-/* URL scheme setting. */
-"Settings_URL_Sheme_Enable" = "URLコマンドを有効にする";
-
-/* URL scheme settings auth token header. */
-"Settings_URL_Sheme_Auth_Token_Header" = "認証トークン";
-
-/* URL scheme settings auth token footer. */
-"Settings_URL_Sheme_Auth_Token_Footer" = "一部のURLコマンドでは認証トークンが必要です。";
+"Settings_URL_Commands_Section_Title" = "URLコマンド";
+"Settings_URL_Commands_Section_Footer" = "URLコマンドを使用すると、他のアプリからiA Writerファイルへリンクを作成したり、さまざまな自動化ツールでアクションを実行したりすることができます。";
+"Settings_URL_Commands_Show_Documentation" = "ドキュメントを表示";
+"Settings_URL_Commands_Enable" = "URLコマンドを有効にする";
+"Settings_URL_Commands_Auth_Token_Header" = "認証トークン";
 
 /*---------
  URL Scheme
@@ -832,19 +745,3 @@ Document
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "認証トークンをリセットしてもよろしいですか? この操作は元に戻すことができません。";
-
-/*-----
- Editor
- -----*/
-
-/* Find bar menu menu item. */
-"Find_Match_Style" = "一致するスタイル";
-
-/* Find bar menu menu item. */
-"Find_Match_Case" = "一致するテキストの大文字小文字";
-
-/* Find bar action to replace selected result. */
-"Replace_Action" = "置換";
-
-/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
-"Replace_All_Action" = "すべて";

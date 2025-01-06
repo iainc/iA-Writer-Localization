@@ -1,0 +1,130 @@
+
+"Text Result" = "Résultat de texte";
+"Text" = "Texte";
+
+"Library Path Result" = "Résultat du chemin d’accès à la bibliothèque";
+
+"Library Path" = "Chemin d’accès à la bibliothèque";
+
+"What is the Library Path of the file?" = "Qu’est-ce que le chemin d’accès à la bibliothèque du fichier ?";
+"What is the Library Path of the folder?" = "Quel est le chemin d’accès à la bibliothèque du dossier ?";
+
+"Save Text" = "Enregistrer le texte";
+"Saves text to the file at the specified Library Path." = "Enregistre le texte dans le fichier au chemin d’accès à la bibliothèque spécifié.";
+"Save ${text} to file at ${libraryPath}" = "Enregistre ${text} dans le fichier à ${libraryPath}.";
+
+"Save Edits From" = "Enregistrer les modifications depuis";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "Enregistre le texte dans le fichier au chemin d’accès à la bibliothèque spécifié. Détecte et attribue automatiquement les modifications à l’auteur indiqué.";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "Enregistre ${text} avec des modifications de l’auteur ${authorType} nommé ${authorName} dans le fichier à ${libraryPath}";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "Enregistre ${text} avec des modifications de l’auteur ${authorType} dans le fichier à ${libraryPath}";
+
+"Add Text" = "Ajouter du texte";
+"Adds text to the file at the specified Library Path." = "Ajoute du texte au fichier au chemin d’accès à la bibliothèque spécifié.";
+"Add ${text} to file at ${libraryPath}" = "Ajoute ${text} au fichier à ${libraryPath}.";
+
+"Open" = "Ouvrir";
+"Opens the file at the specified Library Path." = "Ouvre le fichier dans le chemin d’accès spécifié à la bibliothèque";
+"Open file at ${libraryPath}" = "Ouvrir le fichier dans ${libraryPath}";
+
+"Open New" = "Ouvrir nouveau";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "Ouvre un nouveau fichier dans le chemin d’accès à la bibliothèque spécifié en utilisant le texte transmis en entrée. Le nouveau fichier sera nommé automatiquement si le chemin d’accès à la bibliothèque est omis ou spécifie un dossier.";
+"Open new file with ${text} at ${libraryPath}" = "Ouvrir un nouveau fichier avec ${text} à ${libraryPath}";
+
+"Get Current File" = "Obtenir le fichier actuel";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "Obtient le chemin d’accès à la bibliothèque du fichier actuellement ouvert dans iA Writer, le cas échéant.";
+"Get current file" = "Obtenir le fichier actuel";
+
+"Get Link" = "Obtenir le lien";
+"Gets a link to open the file at the specified Library Path." = "Obtient un lien pour ouvrir le fichier au chemin d’accès à la bibliothèque spécifié.";
+"Get link to open file at ${libraryPath}" = "Obtenir le lien pour ouvrir le fichier à ${libraryPath}";
+
+"Get Text" = "Obtenir le texte";
+"Gets text at the specified Library Path." = "Obtient le texte depuis le chemin d’accès à la bibliothèque spécifié.";
+"Get text at ${libraryPath}" = "Obtenir le texte depuis ${libraryPath}";
+
+"Get Text as HTML" = "Obtenir le texte en HTML";
+"Gets text at the specified Library Path as HTML." = "Obtient le texte depuis le chemin d’accès spécifié à la bibliothèque en HTML.";
+"Get text at ${libraryPath} as HTML" = "Obtenir le texte depuis ${libraryPath} en HTML.";
+
+"Get Text as Markdown" = "Obtenir le texte en Markdown";
+"Gets text at the specified Library Path as Markdown." = "Obtient le texte depuis le chemin d’accès à la bibliothèque spécifié en Markdown.";
+"Get text at ${libraryPath} as Markdown" = "Obtenir le texte depuis ${libraryPath} en Markdown";
+
+"Author" = "Auteur";
+"Who is the author of the text?" = "Qui est l’auteur du texte ?";
+
+"Unspecified" = "Non spécifié";
+"Primary" = "Principal";
+"Human" = "Humain";
+"Other" = "Autre";
+
+"Name" = "Nom";
+"What is the name of the author?" = "Quel est le nom de l’auteur ?";
+
+"Identifier" = "Identifiant";
+"What would you like to use to identify this author? For example, an email, or a website." = "Que souhaitez-vous utiliser pour identifier cet auteur ? Par exemple, une adresse e-mail ou un site Internet.";
+
+"Replace if Exists" = "Remplacer si existant";
+
+"Location" = "Emplacement";
+"Where should the text be added?" = "Où le texte doit-il être ajouté ?";
+"Beginning" = "Début";
+"End" = "Fin";
+
+"Insert Padding" = "Insérer un espacement";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "Modifier sur iPad et iPhone";
+"Open New Window on Mac" = "Ouvrir une nouvelle fenêtre sur Mac";
+
+"Edit" = "Modifier";
+"Get" = "Obtenir";
+"Organize" = "Organiser";
+
+"Delete" = "Supprimer";
+"Deletes the item at the specified Library Path." = "Supprime le fichier au chemin d’accès à la bibliothèque spécifié.";
+"Delete item at ${libraryPath}" = "Supprimer l’élément à ${libraryPath}";
+"Delete Immediately" = "Supprimer immédiatement";
+
+"Duplicate" = "Dupliquer";
+"Duplicates the item at the specified Library Path." = "Duplique le fichier au chemin d’accès à la bibliothèque spécifié.";
+"Duplicate item at ${libraryPath}" = "Dupliquer l’élément à ${libraryPath}";
+
+"Append Text to Name" = "Joindre le texte au nom";
+"Suffix Type" = "Type de suffixe";
+"Default" = "Par défaut";
+"Custom" = "Personnalisé";
+"Custom Suffix" = "Suffixe personnalisé";
+
+"Copy" = "Copier";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "Copie l’élément au chemin d’accès à la bibliothèque spécifié dans le dossier au chemin d’accès à la bibliothèque spécifié.";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "Copier l’élément à ${libraryPath} dans le dossier à ${folderLibraryPath}";
+
+"Move" = "Déplacer";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "Déplace l’élément au chemin d’accès à la bibliothèque spécifié dans le dossier au chemin d’accès à la bibliothèque spécifié.";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "Déplacer l’élément à ${libraryPath} dans le dossier à ${folderLibraryPath}";
+
+"Rename" = "Renommer";
+"Renames the item at the specified Library Path." = "Renomme l’élément au chemin d’accès à la bibliothèque spécifié.";
+"Rename item at ${libraryPath} to ${name}" = "Renommer l’élément à ${libraryPath} en ${name}";
+
+"Favorite Action" = "Action favorite";
+"Favorite" = "Placer en favori";
+"Unfavorite" = "Retirer des favoris";
+"Favorites the item at the specified Library Path." = "Place en favori l’élément au chemin d’accès à la bibliothèque spécifié.";
+"${action} item at ${libraryPath}" = "${action} l’élément à ${libraryPath}";
+
+"Name" = "Nom";
+
+"Show Quick Search" = "Afficher la recherche rapide";
+"Shows Quick Search with the provided query." = "Affiche la recherche rapide avec la demande saisie";
+"Show Quick Search with ${query}" = "Afficher la recherche rapide avec ${query}";
+
+"Get File Name from Text" = "Obtenir le nom du fichier depuis le texte";
+"File Name" = "Nom de fichier";
+"Cleans up text to be used as a file name." = "Nettoie le texte à utiliser comme nom de fichier";
+"Get file name from ${text}" = "Obtenir le nom de fichier de ${text}";

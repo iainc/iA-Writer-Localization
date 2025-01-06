@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "Unbekannter Fehler";
+"Unknown_Error" = "Ein unbekannter Fehler ist aufgetreten.";
+"Unknown_Error_Recovery_Suggestion" = "Versuchen Sie es erneut. Falls das nicht hilft, treten Sie bitte mit dem Support in Verbindung.";
+
+"Annotations_Key" = "Anmerkungen";
+
+"Author_Human" = "Mensch";
+"Author_Other" = "Sonstige";
+
+"Author_Unnamed" = "Ohne Name";
+"Author_Unspecified" = "Keine Angabe";
+
+"Annotation_Unknown" = "Unbekannt";
+"Annotation_Unknown_Description" = "Diese Anmerkung kann mit dieser Version von %@ nicht angezeigt werden.";
+
+"Annotation_Authorship" = "Urheberschaft";
+"Annotation_Authorship_Description" = "Diese Anmerkung enthält eine Angabe zur Urheberschaft.";

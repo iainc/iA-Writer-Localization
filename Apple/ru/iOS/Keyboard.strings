@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "Вы уверены, что хотите сбросить раскладку клавиатуры? Все ваши изменения будут потеряны.";
 "Key_Picker_Action_Reset" = "Сбросить раскладку клавиатуры";
-"Key_Picker_Action_Cancel" = "Отмена";
+
+"Lightning_Menu_Message_Reset" = "Действительно сбросить меню-молнию? Все ваши изменения будут утрачены.";
+"Lightning_Menu_Action_Reset" = "Сбросить меню-молнию";
+
+"Edit_Menu_Message_Reset" = "Действительно сбросить меню правка? Все ваши изменения будут утрачены.";
+"Edit_Menu_Action_Reset" = "Сбросить меню правка";
+
+"Double_Tap_Shift_Suggestion" = "Дважды коснитесь Shift, чтобы отобразить действия со структурой в панели клавиатуры.";
 
 "Menu_Quick_Search" = "Быстрый поиск";
 "Menu_Find" = "Найти и заменить";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "Найти";
 "Find_Replace_Placeholder" = "Заменить";
+"Find_Match_Style" = "Тип поиска";
+"Find_Match_Case" = "Учитывать регистр";
+"Replace_Action" = "Заменить";
+"Replace_All_Action" = "Все";
 
 "Key_Description_Lightning" = "Молния";
 "Key_Description_Insert_Selected_Completion" = "Завершение вставки выбранного";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "Размер";
 "Lightning_Size_Regular" = "Обычный";
+"Lightning_Size_Medium" = "Средний";
 "Lightning_Size_Compact" = "Компактный";
+
+"Edit_Menu" = "Правка";
+"Settings_Edit_Menu" = "Меню правка";
+"Settings_Edit_Menu_Section_Footer" = "Используйте меню правка для действий с выбранным текстом. Действия не относящиеся к выбранному тексту автоматически скрываются.";
+
+"Settings_Keyboard_Title" = "Клавитура";
+"Settings_Lightning_Menu" = "Меню-молния";
+"Settings_Lightning_Action_Not_Found" = "Не найдено";
+"Settings_Lightning_Menu_Add_Actions" = "Добавить действия";
+"Settings_Lightning_Menu_Add_Submenu" = "Добавить подменю";
+"Settings_Lightning_Menu_Edit_Submenu" = "Редактировать подменю";
+"Settings_Lightning_Menu_Remove_Action" = "Удалить действие";
+"Settings_Lightning_Menu_Remove_Submenu" = "Удалить подменю";
+"Settings_Lightning_Menu_Select_Action_Title" = "Выбрать действие";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "Действия";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "Вид";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "Показывать в линию";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Действия в подменю отображаются в родительском меню отдельно от других действий.";
+"Settings_Lightning_Menu_Section_Footer" = "Зажмите любое действие в меню-молнии, чтобы открыть эти настройки";
+"Settings_Command_Keyboard" = "Командная клавиатура";
+"Settings_Command_Keyboard_Enable" = "Показывать на панели клавиатуры";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Всегда показывать как всплывающее окно";
+"Settings_Command_Keyboard_Configure" = "Настроить";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Нажмите и удерживайте любую светлую клавишу в командной клавиатуре, чтобы открыть режим настройки конфигурации.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Действия командной клавиатуры доступны в меню-молнии, в быстром поиске, и с помощью сочетаний клавиш, когда подключена внешняя клавиатура.";
+"Settings_Hardware_Keyboard_Title" = "Внешняя клавиатура";
+"Settings_Hardware_Keyboard_Footer" = "Это влияет на панель клавиатуры только при подключенной внешней клавиатуре.";
+"Settings_Hardware_Keyboard_Show_Bar" = "Показывать панель клавиатуры";

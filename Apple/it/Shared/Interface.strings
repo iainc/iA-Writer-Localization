@@ -1,0 +1,43 @@
+
+"Suffix_Colon" = ":";
+"Suffix_Ellipsis" = "…";
+
+"OK" = "OK";
+"Cancel" = "Annulla";
+"Try_Again" = "Riprova";
+"Share" = "Condividi";
+"Close" = "Chiudi";
+"Continue" = "Continua";
+"Enable" = "Abilita";
+"Disable" = "Disabilita";
+"Reset" = "Ripristina";
+"Edit" = "Modifica";
+"Done" = "Fatto";
+"Remove" = "Elimina";
+"Delete" = "Elimina";
+"Delete_Immediately" = "Elimina adesso";
+"More" = "Altro";
+"Hide" = "Nascondi";
+"Add" = "Aggiungi";
+"Name" = "Nome";
+"Authorize" = "Autorizza";
+"Options" = "Opzioni";
+"Move_To_Trash" = "Sposta nel Cestino";
+"Copy" = "Copia";
+"Open" = "Apri";
+"Save" = "Salva";
+"Discard_Changes" = "Discard Changes";
+"Keep_Editing" = "Keep Editing";
+"Print" = "Stampa";
+"Export" = "Esporta";
+"Publish" = "Pubblica";
+"Back" = "Indietro";
+"Forward" = "Avanti";
+"Text_Size" = "Dimensioni testo";
+"Make_Text_Bigger" = "Ingrandisci dimensione testo";
+"Make_Text_Normal_Size" = "Dimensione testo normale";
+"Make_Text_Smaller" = "Riduci dimensione testo";
+
+"Default_Document_Name" = "Senza titolo";
+"Default_Folder_Name" = "Cartella senza titolo";
+"Default_Item_Name" = "Senza titolo";

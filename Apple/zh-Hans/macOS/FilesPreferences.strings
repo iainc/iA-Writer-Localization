@@ -1,11 +1,11 @@
 
-/* Class = "NSTextFieldCell"; title = "Saving:"; ObjectID = "DAH-ta-FHC"; */
-"DAH-ta-FHC.title" = "正在保存：";
+/* Class = "NSTextFieldCell"; title = "Open files:"; ObjectID = "DAH-ta-FHC"; */
+"DAH-ta-FHC.title" = "打开文件：";
 
-/* Class = "NSTextFieldCell"; title = "Files are always automatically saved. \nIf selected, files will ask whether you want \nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
+/* Class = "NSTextFieldCell"; title = "Files are always automatically saved.\nIf selected, files will ask whether you want\nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
 "GLa-Mz-lpI.title" = "始终自动保存文件。 \n如果选择，文件将在关闭时询问您是否要保留或还原更改。";
 
-/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
+/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon\nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "没有其他文件处于打开状态时，将在按下⌘N或点击Dock图标时使用首选动作。\n替代动作将在按下⌥⌘N时使用。";
 
 /* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */
@@ -14,10 +14,10 @@
 /* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
 "RP1-j6-hey.title" = "首选动作：";
 
-/* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
+/* Class = "NSTextFieldCell"; title = "New files will have this extension.\nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
 "UWl-8e-UTr.title" = "新文件所使用的扩展名。\n只允许纯文本类型的扩展名。";
 
-/* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
+/* Class = "NSTextFieldCell"; title = "Files will be automatically\ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "文件将会自动\n在资料库中创建。";
 
 /* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
@@ -26,8 +26,14 @@
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "在资料库中新建";
 
-/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
+/* Class = "NSButtonCell"; title = "Close when quitting"; ObjectID = "ghH-sF-bCo"; */
+"ghH-sF-bCo.title" = "退出时关闭";
+
+/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them\nwhen closed."; ObjectID = "vCs-49-KMB"; */
 "vCs-49-KMB.title" = "将会询问是否\n在关闭时保存文件。";
+
+/* Class = "NSTextFieldCell"; title = "When enabled, open files will not be restored\nwhen you re-open iA Writer."; ObjectID = "w6F-Ra-OYQ"; */
+"w6F-Ra-OYQ.title" = "启用后，打开的文件将不会还原\n当您重新打开iAWriter时。";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
 "whG-r6-ibK.title" = "默认扩展名：";

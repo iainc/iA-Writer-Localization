@@ -13,9 +13,14 @@
 "Remove" = "Remove";
 "Delete" = "Delete";
 "Delete_Immediately" = "Delete Immediately";
+"Delete_Confirmation_Message" = "Are you sure you want to delete “%@”?";
+"Delete_Confirmation_Informative_Text" = "This action can’t be undone.";
 "More" = "More";
 "Hide" = "Hide";
 "Add" = "Add";
+"Ask_Again_Later" = "Ask Again Later";
+"Do_Not_Show_Again" = "Don’t Show Again";
+"Do_Not_Ask_Again" = "Don’t Ask Again";
 "Name" = "Name";
 "Add_Account" = "Add Account";
 "Remove_Account" = "Remove Account";
@@ -24,12 +29,20 @@
 "Open_Mail" = "Open Mail";
 "Add_Pattern" = "Add Pattern";
 "Remove_Pattern" = "Remove Pattern";
+"New_File" = "New File"; 
 "New_Smart_Folder" = "New Smart Folder";
+"New_Folder" = "New Folder";
+"New_Folder_With_Selection" = "New Folder With Selection";
+"New_Folder_With" = "New Folder With “%@”";
 "Add_Location" = "Add Location";
 "Move_To_Trash" = "Move to Trash";
+"Move_To" = "Move to %@";
+"Cut_For_Undo" = "Cut";
 "Copy" = "Copy";
 "Copy_Library_Path" = "Copy Library Path";
 "Copy_URL_Command" = "Copy URL Command";
+"Expand" = "Expand";
+"Collapse" = "Collapse";
 "Open" = "Open";
 "Save" = "Save";
 "Discard_Changes" = "Discard Changes";
@@ -58,6 +71,8 @@
 "Export" = "Export";
 "Publish" = "Publish";
 "Show_Completions" = "Show Completions";
+
+"Duplicate_Item_Suffix" = " copy";
 
 "Open_Content_Block" = "Open Content Block";
 "Open_Content_Block_Tooltip" = "⌘-click to open content block";
@@ -108,6 +123,9 @@
 "Library_Destination_Relative" = "Relative";
 "Library_Destination_Absolute" = "Absolute";
 
+"Show_Text_Excerpts" = "Show Text Excerpts";
+"Pin_Folders_To_Top" = "Pin Folders to Top";
+
 "Menu_Focus" = "Focus";
 "Menu_Go" = "Go";
 
@@ -131,6 +149,7 @@
 
 "Suffix_Colon" = ":";
 "Suffix_Ellipsis" = "…";
+"List_Separator" = ", ";
 
 "News_Title" = "What’s New";
 
@@ -139,6 +158,7 @@
 "Unknown_Error_Recovery_Suggestion" = "Please try again, then contact support.";
 
 "Default_Document_Name" = "Untitled";
+"Default_Location_Name" = "Untitled";
 "Default_Folder_Name" = "Untitled Folder";
 "Default_Image_Name" = "Untitled";
 "Default_Smart_Folder_Name" = "Untitled";
@@ -177,7 +197,118 @@
 
 "Template" = "Template";
 
+"Links" = "Links";
+"Backlinks" = "Backlinks";
+"Links_In" = "Links in %@";
+"Backlinks_To" = "Backlinks to %@";
+
+"Links_Linked" = "Links";
+"Backlinks_Linked" = "Backlinks";
+"Links_Unlinked" = "Potential Links";
+"Backlinks_Unlinked" = "Potential Backlinks";
+
+"Authors" = "Authors";
 "Author" = "Author";
+"Author_Primary" = "Primary";
+"Author_Secondary" = "Secondary";
+"Author_Name" = "Name";
+"Author_Identifier" = "Identifier";
+
+"Author_AI" = "AI";
+"Author_ChatGPT" = "ChatGPT";
+
+"Author_Writing_Tools" = "Writing Tools";
+"Replace_From_Writing_Tools_For_Undo" = "Replace from Writing Tools";
+
+"Add_Author" = "Add Author";
+"Remove_Author" = "Remove Author";
+
+"Save_Author" = "Save Author";
+"Remove_Author_From_Saved" = "Remove Author From Saved";
+"Save_Author_Sentence_Capitalization" = "Save author";
+"Save_Author_Description" = "You can edit or remove saved authors in settings.";
+
+"Author_Kind" = "Kind";
+"Author_Kind_Description" = "Human edits are underlined. Other edits are dimmed.";
+
+"Author_Primary_Name_Description" = "Your name will be used for authorship, and by templates when previewing, exporting or printing.";
+"Author_Primary_Identifier_Description" = "Optional. For example, an email or a website. Your identifier will be used for authorship.";
+
+"Author_Secondary_Name_Description" = "Required.";
+"Author_Secondary_Identifier_Description" = "Optional. For example, an email or a website.";
+
+"Author_Secondary_Name_Description_With_Purpose" = "Required. Name will be used for authorship.";
+"Author_Secondary_Identifier_Description_With_Purpose" = "Optional. For example, an email or a website. Identifier will be used for authorship.";
+
+"Placeholder_No_Authorship" = "No Authorship";
+"Authorship" = "Authorship";
+"Authorship_Prompt_Title" = "Would you like to enable authorship in “%@”?";
+"Authorship_Prompt" = "Authorship annotations will be saved at the end of the file. Hidden when editing in iA Writer, and visible in other apps.";
+"Authorship_Description" = "You can mark authorship using the Mark As, Paste As, and Paste Edits From menus. Authorship annotations will be saved at the end of the file. Hidden when editing in iA Writer, and visible in other apps.";
+"Authorship_Paste" = "Pasted text contains authorship annotations. Would you like to add authorship?";
+"Authorship_Paste_Conversation" = "Pasted text appears to be a conversation with %@. Would you like to automatically add authorship?";
+"Paste_With_Authorship" = "Paste With Authorship";
+"Paste_With_Authorship_For_Undo" = "Paste With Authorship";
+"Paste_Without_Authorship" = "Paste Without Authorship";
+
+"Authorship_Not_Available" = "Authorship is supported only in Markdown files.";
+
+"File_Encoding_Error" = "The file “%@” could not be opened.";
+"File_Encoding_Error_Failure_Reason" = "The text encoding of the contents could not be determined.";
+"File_Encoding_Error_Recovery_Suggestion" = "You may be able to change the text encoding using another app.";
+
+"Edit_Authorship" = "Edit Authorship";
+"Enable_Authorship" = "Enable Authorship";
+"Disable_Authorship" = "Disable Authorship";
+"Disable_Authorship_Confirmation" = "Are you sure you want to disable authorship in “%@”?";
+"Disable_Authorship_Confirmation_Description" = "All authorship annotations will be removed.";
+
+"Misplaced_Authorship" = "Misplaced Authorship";
+"Misplaced_Authorship_Description" = "This file was edited by another app that did not correctly update authorship annotations. Some or all authorship may be misplaced.";
+"Review_Authorship" = "Review Authorship";
+"Discard_Authorship" = "Discard Authorship";
+"Keep_Authorship" = "Keep Authorship";
+
+"Reorder_Authors" = "Reorder Authors";
+"Edit_Author" = "Edit Author";
+"Delete_Author" = "Delete Author";
+"Replace_Author" = "Replace Author";
+"Set_Author" = "Set Author";
+
+"Authors_Show" = "Show Authors";
+"Authors_Hide" = "Hide Authors";
+
+"Paste_As_Author" = "Paste as %@";
+"Paste_Edits_From_Author" = "Paste Edits from %@";
+"Mark_Selection_As_Author" = "Mark Selection as %@";
+"Mark_As_Author" = "Mark as %@";
+
+"Paste_For_Undo" = "Paste";
+"Paste_As_Author_For_Undo" = "Paste as %@";
+"Paste_Edits_From_Author_For_Undo" = "Paste Edits from %@";
+"Mark_Selection_As_Author_For_Undo" = "Mark Selection as %@";
+"Mark_As_Author_For_Undo" = "Mark as %@";
+
+"New_Author" = "New Author";
+
+"Paste_As_New_Author" = "Paste as New Author";
+"Paste_Edits_From_New_Author" = "Paste Edits from New Author";
+"Mark_Selection_As_New_Author" = "Mark Selection as New Author";
+"Mark_As_New_Author" = "Mark as New Author";
+
+"Paste_As" = "Paste As";
+"Paste_Edits_From" = "Paste Edits From";
+"Mark_As" = "Mark As";
+"Mark_Selection_As" = "Mark Selection As";
+
+"Paste" = "Paste";
+"Paste_Edits" = "Paste Edits";
+"Mark" = "Mark";
+"Mark_Selection" = "Mark Selection";
+
+"Author_Secondary_Unnamed_Error" = "Cannot save unnamed author.";
+
+"Set_Up_Authorship" = "Set Up Authorship";
 
 /*---------
 Text Check
@@ -199,7 +330,7 @@ Text Check
 "Style_Check_Target_Cliches" = "Clichés";
 "Style_Check_Target_Redundancies" = "Redundancies";
 "Style_Check_Target_Custom" = "Custom";
-"Style_Check_Languages" = "Built-in patterns for English, French, German.";
+"Style_Check_Languages" = "Built-in patterns for English, French, German, Spanish.";
 
 /*----------
  Focus Tools
@@ -294,12 +425,11 @@ Text Check
 
 "Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "WordPress App Passwords Not Available";
 "Web_Service_Error_WordPress_App_Passwords_Not_Found" = "WordPress app passwords are not available.";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Make sure you’re using WordPress 5.6 or newer, and that the app passwords are not disabled on the site or for your user.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Make sure that app passwords are enabled on the site and for your user. Some security plugins disable app passwords by default.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "Please try again later.";
 
 "Medium_Failure_Reason_Unsupported_Content" = "Some elements may look different: %@.";
-"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
 "Medium_Failure_Reason_Unsupported_Content_Tables" = "tables";
 "Medium_Failure_Reason_Unsupported_Content_Footnotes" = "footnotes";
 "Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "nested list items";
@@ -399,6 +529,10 @@ Text Check
 "Library_Location_Desktop" = "Desktop";
 "Library_Location_Documents" = "Documents";
 
+"Navigation" = "Navigation";
+"Navigation_Tree" = "Tree";
+"Navigation_List" = "List";
+
 /*----------------
  Library Locations
  ----------------*/
@@ -413,9 +547,9 @@ Text Check
 "Library_Location_Error_Not_Found_Failure_Reason" = "It may have been removed, or was located on an external drive.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Please try re-adding the Library Location if it wasn’t removed or located on an external drive.";
 
-/*---------
+/*--------
  Wikilinks
- ---------*/
+ --------*/
 
 "Library_Destination_Error_Library_Location_Not_Found_Title" = "Cannot Find the Library Location Named “%@”";
 "Library_Destination_Error_Library_Location_Not_Found" = "Cannot find the Library Location named “%@”.";
@@ -424,6 +558,14 @@ Text Check
 "Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Cannot Access Items Outside Library";
 "Library_Destination_Error_Destination_Points_Outside_Library" = "Cannot access items outside Library.";
 "Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Please make sure that the Library Path is correct.";
+
+/*-----------
+ Library Edit
+ -----------*/
+
+"Library_Edit_Error_File_Changed_Title" = "File Changed";
+"Library_Edit_Error_File_Changed" = "Can’t apply edit because containing file changed.";
+"Library_Edit_Error_File_Changed_Recovery_Suggestion" = "Please try again.";
 
 /*--------
  Documents
@@ -473,7 +615,7 @@ Text Check
 
 "Library_Sort_By_Part_Joiner" = ", ";
 
-"Library_Sort_Order_Persistent" = "Always Use These Options Here";
+"Library_View_Options_Persistent" = "Always Use These Options Here";
 
 /*----------
  Focus Scope
@@ -526,10 +668,14 @@ Text Check
  Text Stats
  ---------*/
 
-"Stats_Reading_Time" = "%@ Reading Time";
+"Stats_Reading_Time_Title" = "%@ Reading Time";
+"Stats_Speaking_Time_Title" = "%@ Speaking Time";
+/* %1$@ is percentage, %2$@ is author name */
+"Stats_Author_Title" = "%1$@ %2$@";
 "Stats_Name_Words" = "Words";
 "Stats_Name_Sentences" = "Sentences";
 "Stats_Name_Reading_Time" = "Reading Time";
+"Stats_Name_Speaking_Time" = "Speaking Time";
 "Stats_Name_Tasks" = "Tasks";
 "Stats_Name_Characters" = "Characters";
 "Stats_Name_Characters_Without_Spaces" = "Characters Without Spaces";
@@ -572,3 +718,5 @@ Text Check
 "PDF_Scale_Fit_Page" = "Fit Page";
 "PDF_Scale_Fit_Width" = "Fit Width";
 "PDF_Percent_Zoom" = "%zd %";
+
+"Help_Shortcuts" = "Shortcuts";

@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "Are you sure you would like to reset the keyboard layout? All your modifications will be lost.";
 "Key_Picker_Action_Reset" = "Reset Keyboard Layout";
-"Key_Picker_Action_Cancel" = "Cancel";
+
+"Lightning_Menu_Message_Reset" = "Are you sure you would like to reset the Lightning menu? All your modifications will be lost.";
+"Lightning_Menu_Action_Reset" = "Reset Lightning Menu";
+
+"Edit_Menu_Message_Reset" = "Are you sure you would like to reset the Edit menu? All your modifications will be lost.";
+"Edit_Menu_Action_Reset" = "Reset Edit Menu";
+
+"Double_Tap_Shift_Suggestion" = "Double tap Shift to show structure actions in the keyboard bar.";
 
 "Menu_Quick_Search" = "Quick Search";
 "Menu_Find" = "Find and Replace";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "Find";
 "Find_Replace_Placeholder" = "Replace";
+"Find_Match_Style" = "Match Style";
+"Find_Match_Case" = "Match Text Case";
+"Replace_Action" = "Replace";
+"Replace_All_Action" = "All";
 
 "Key_Description_Lightning" = "Lightning";
 "Key_Description_Insert_Selected_Completion" = "Insert Selected Completion";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "Size";
 "Lightning_Size_Regular" = "Regular";
+"Lightning_Size_Medium" = "Medium";
 "Lightning_Size_Compact" = "Compact";
+
+"Edit_Menu" = "Edit";
+"Settings_Edit_Menu" = "Edit Menu";
+"Settings_Edit_Menu_Section_Footer" = "Use Edit menu to perform actions on selected text. Actions that don’t apply to selection are automatically hidden.";
+
+"Settings_Keyboard_Title" = "Keyboard";
+"Settings_Lightning_Menu" = "Lightning Menu";
+"Settings_Lightning_Action_Not_Found" = "Not Found";
+"Settings_Lightning_Menu_Add_Actions" = "Add Actions";
+"Settings_Lightning_Menu_Add_Submenu" = "Add Submenu";
+"Settings_Lightning_Menu_Edit_Submenu" = "Edit Submenu";
+"Settings_Lightning_Menu_Remove_Action" = "Remove Action";
+"Settings_Lightning_Menu_Remove_Submenu" = "Remove Submenu";
+"Settings_Lightning_Menu_Select_Action_Title" = "Select Action";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "Actions";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "Appearance";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "Show Inline";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Inline submenu actions are shown in the parent menu, separated from other actions.";
+"Settings_Lightning_Menu_Section_Footer" = "Tap and hold any action in Lightning menu to open these settings.";
+"Settings_Command_Keyboard" = "Command Keyboard";
+"Settings_Command_Keyboard_Enable" = "Show in Keyboard Bar";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Always Show As Popover";
+"Settings_Command_Keyboard_Configure" = "Configure";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Tap and hold any light key in Command Keyboard to open the configuration mode.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Command Keyboard actions are available in Lightning Menu, Quick Search, and as keyboard shortcuts when a hardware keyboard is connected.";
+"Settings_Hardware_Keyboard_Title" = "Hardware Keyboard";
+"Settings_Hardware_Keyboard_Footer" = "This affects the keyboard bar only when a hardware keyboard is connected.";
+"Settings_Hardware_Keyboard_Show_Bar" = "Show Keyboard Bar";

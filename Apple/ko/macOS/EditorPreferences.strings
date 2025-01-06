@@ -8,11 +8,14 @@
 /* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "6pk-3q-M1t"; */
 "6pk-3q-M1t.title" = "Japanese";
 
-/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "83E-Gu-Ase"; */
-"83E-Gu-Ase.title" = "언어:";
+/* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "83E-Gu-Ase"; */
+"83E-Gu-Ase.title" = "입력 체계:";
 
 /* Class = "NSButtonCell"; title = "Clichés"; ObjectID = "8YN-0k-52S"; */
 "8YN-0k-52S.title" = "Clichés";
+
+/* Class = "NSButtonCell"; title = "Other"; ObjectID = "8ae-6M-tuc"; */
+"8ae-6M-tuc.title" = "Other";
 
 /* Class = "NSMenuItem"; title = "System — Default"; ObjectID = "9Ad-h2-Ffu"; */
 "9Ad-h2-Ffu.title" = "System — Default";
@@ -32,17 +35,29 @@
 /* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "GBD-zA-wZV"; */
 "GBD-zA-wZV.title" = "Enable Last Used";
 
-/* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "IkY-dB-hew"; */
-"IkY-dB-hew.title" = "입력 체계:";
+/* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "HPa-u0-ent"; */
+"HPa-u0-ent.title" = "Enable Last Used";
+
+/* Class = "NSTextFieldCell"; title = "Typeface:"; ObjectID = "IkY-dB-hew"; */
+"IkY-dB-hew.title" = "글자체:";
 
 /* Class = "NSButtonCell"; title = "Strikethrough"; ObjectID = "Imx-aM-oC4"; */
 "Imx-aM-oC4.title" = "Strikethrough";
+
+/* Class = "NSButtonCell"; title = "Human"; ObjectID = "J2r-rd-f1E"; */
+"J2r-rd-f1E.title" = "Human";
+
+/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "JOS-gJ-oIg"; */
+"JOS-gJ-oIg.title" = "텍스트 크기:";
 
 /* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
 "JpA-gV-jQe.title" = "텍스트 바꾸기";
 
 /* Class = "NSButtonCell"; title = "Correct spelling"; ObjectID = "KWp-yU-5hs"; */
 "KWp-yU-5hs.title" = "맞춤법 수정";
+
+/* Class = "NSTextFieldCell"; title = "Default"; ObjectID = "KeT-3s-NPV"; */
+"KeT-3s-NPV.title" = "기본";
 
 /* Class = "NSMenuItem"; title = "Quattro"; ObjectID = "LjQ-8o-hLY"; */
 "LjQ-8o-hLY.title" = "Quattro";
@@ -58,6 +73,12 @@
 
 /* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
 "ODb-aW-xzV.title" = "72";
+
+/* Class = "NSTextFieldCell"; title = "Human edits are underlined. Other edits are dimmed."; ObjectID = "R1m-6D-dC7"; */
+"R1m-6D-dC7.title" = "Human edits are underlined. Other edits are dimmed.";
+
+/* Class = "NSButtonCell"; title = "Show inline predictive text"; ObjectID = "Rfi-gk-v3F"; */
+"Rfi-gk-v3F.title" = "인라인 자동 완성 텍스트 표시";
 
 /* Class = "NSButtonCell"; title = "Indentation…"; ObjectID = "RgV-pT-lVu"; */
 "RgV-pT-lVu.title" = "들여쓰기 적용 중...";
@@ -104,8 +125,17 @@
 /* Class = "NSMenuItem"; title = "80"; ObjectID = "edq-9b-UeK"; */
 "edq-9b-UeK.title" = "80";
 
+/* Class = "NSTextFieldCell"; title = "Completions:"; ObjectID = "epq-qD-zeH"; */
+"epq-qD-zeH.title" = "Completions:";
+
 /* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "gDR-81-YkH"; Note = "SKIP LOCALIZATION"; */
 "gDR-81-YkH.title" = "Paragraph";
+
+/* Class = "NSTextFieldCell"; title = "Authors:"; ObjectID = "gMT-hN-EMD"; */
+"gMT-hN-EMD.title" = "Authors:";
+
+/* Class = "NSButtonCell"; title = "Insert and type-over matching brackets"; ObjectID = "hBj-4e-1jJ"; */
+"hBj-4e-1jJ.title" = "Insert and type-over matching brackets";
 
 /* Class = "NSButtonCell"; title = "Custom Patterns…"; ObjectID = "hSp-Lu-7pZ"; */
 "hSp-Lu-7pZ.title" = "Edit…";
@@ -134,6 +164,9 @@
 /* Class = "NSButtonCell"; title = "Quotes"; ObjectID = "q1M-nl-ibX"; */
 "q1M-nl-ibX.title" = "따옴표";
 
+/* Class = "NSButtonCell"; title = "Wrap selection in typed brackets"; ObjectID = "skG-tW-MRq"; */
+"skG-tW-MRq.title" = "Wrap selection in typed brackets";
+
 /* Class = "NSMenuItem"; title = "Korean"; ObjectID = "tHM-H4-etW"; */
 "tHM-H4-etW.title" = "Korean";
 
@@ -155,7 +188,7 @@
 /* Class = "NSTextFieldCell"; title = "A"; ObjectID = "wgb-xJ-AmL"; */
 "wgb-xJ-AmL.title" = "A";
 
-/* Class = "NSTextFieldCell"; title = "characters per line"; ObjectID = "xtj-Jw-ENi"; */
+/* Class = "NSTextFieldCell"; title = "characters"; ObjectID = "xtj-Jw-ENi"; */
 "xtj-Jw-ENi.title" = "문자 (줄당)";
 
 /* Class = "NSButtonCell"; title = "Fillers"; ObjectID = "yhw-gf-1Ns"; */

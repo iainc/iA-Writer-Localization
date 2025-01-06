@@ -1,0 +1,130 @@
+
+"Text Result" = "Textergebnis";
+"Text" = "Text";
+
+"Library Path Result" = "Speicherort-Ergebnis";
+
+"Library Path" = "Speicherort";
+
+"What is the Library Path of the file?" = "Wie lautet der Speicherort für die Datei?";
+"What is the Library Path of the folder?" = "Wie lautet der Speicherort des Ordners?";
+
+"Save Text" = "Text speichern";
+"Saves text to the file at the specified Library Path." = "Speichert Text in der Datei am angegebenen Speicherort.";
+"Save ${text} to file at ${libraryPath}" = "${text} in Datei unter ${libraryPath} speichern";
+
+"Save Edits From" = "Änderungen speichern von";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "Speichert Text in der Datei am angegebenen Speicherort. Erkennt Änderungen automatisch und ordnet sie dem angegebenen Verfasser zu.";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "${text} mit Änderungen vom ${authorType}-Verfasser namens ${authorName} in Datei unter ${libraryPath} speichern";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "${text} mit Änderungen vom ${authorType}-Verfasser in Datei unter ${libraryPath} speichern";
+
+"Add Text" = "Text hinzufügen";
+"Adds text to the file at the specified Library Path." = "Fügt Text zu der Datei am angegebenen Speicherort hinzu.";
+"Add ${text} to file at ${libraryPath}" = "${text} zur Datei unter ${libraryPath} hinzufügen";
+
+"Open" = "Öffnen";
+"Opens the file at the specified Library Path." = "Öffnet die Datei am angegebenen Speicherort.";
+"Open file at ${libraryPath}" = "Datei unter ${libraryPath} öffnen";
+
+"Open New" = "Neu öffnen";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "Öffnet eine neue Datei am angegebenen Speicherort unter Verwendung des angegebenen Texts. Die neue Datei wird automatisch benannt, wenn der Speicherort weggelassen wird oder ein Ordner angegeben wird.";
+"Open new file with ${text} at ${libraryPath}" = "Neue Datei mit ${text} unter ${libraryPath} öffnen";
+
+"Get Current File" = "Aktuelle Datei abrufen";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "Ruft den Speicherort der Datei ab, die derzeit in iA Writer geöffnet ist. (Sofern vorhanden.)";
+"Get current file" = "Aktuelle Datei abrufen";
+
+"Get Link" = "Link abrufen";
+"Gets a link to open the file at the specified Library Path." = "Ruft einen Link zum Öffnen der Datei am angegebenen Speicherort ab.";
+"Get link to open file at ${libraryPath}" = "Link zum Öffnen der Datei unter ${libraryPath} abrufen";
+
+"Get Text" = "Text abrufen";
+"Gets text at the specified Library Path." = "Ruft Text am angegebenen Speicherort ab.";
+"Get text at ${libraryPath}" = "Text unter ${libraryPath} abrufen";
+
+"Get Text as HTML" = "Text als HTML abrufen";
+"Gets text at the specified Library Path as HTML." = "Ruft Text am angegebenen Speicherort als HTML ab.";
+"Get text at ${libraryPath} as HTML" = "Text unter ${libraryPath} als HTML abrufen";
+
+"Get Text as Markdown" = "Text als Markdown abrufen";
+"Gets text at the specified Library Path as Markdown." = "Ruft Text am angegebenen Speicherort als Markdown ab.";
+"Get text at ${libraryPath} as Markdown" = "Text unter ${libraryPath} als Markdown abrufen";
+
+"Author" = "Verfasser";
+"Who is the author of the text?" = "Wer ist der Verfasser des Texts?";
+
+"Unspecified" = "Keine Angabe";
+"Primary" = "Hauptverfasser";
+"Human" = "Mensch";
+"Other" = "Sonstige";
+
+"Name" = "Name";
+"What is the name of the author?" = "Wie heißt der Verfasser?";
+
+"Identifier" = "Identifikator";
+"What would you like to use to identify this author? For example, an email, or a website." = "Wie möchten Sie diesen Verfasser identifizieren? (Bsp.: E-Mail-Adresse oder Website)";
+
+"Replace if Exists" = "Ersetzen (sofern vorhanden)";
+
+"Location" = "Ort";
+"Where should the text be added?" = "Wo soll der Text eingefügt werden?";
+"Beginning" = "Anfang";
+"End" = "Ende";
+
+"Insert Padding" = "Abstand einfügen";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "Auf iPad und iPhone bearbeiten";
+"Open New Window on Mac" = "Neues Fenster auf Mac öffnen";
+
+"Edit" = "Bearbeiten";
+"Get" = "Abrufen";
+"Organize" = "Organisieren";
+
+"Delete" = "Löschen";
+"Deletes the item at the specified Library Path." = "Löscht das Element am angegebenen Speicherort.";
+"Delete item at ${libraryPath}" = "Element unter ${libraryPath} löschen";
+"Delete Immediately" = "Sofort löschen";
+
+"Duplicate" = "Kopieren";
+"Duplicates the item at the specified Library Path." = "Dupliziert das Element am angegebenen Speicherort.";
+"Duplicate item at ${libraryPath}" = "Element unter ${libraryPath} kopieren";
+
+"Append Text to Name" = "Text an Namen anhängen";
+"Suffix Type" = "Suffixtyp";
+"Default" = "Standard";
+"Custom" = "Benutzerdefiniert";
+"Custom Suffix" = "Benutzerdefiniertes Suffix";
+
+"Copy" = "Kopieren";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "Kopiert das Element am angegebenen Speicherort in den Ordner am angegebenen Speicherort.";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "Element unter ${libraryPath} in Ordner unter ${folderLibraryPath} kopieren";
+
+"Move" = "Verschieben";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "Verschiebt das Element vom angegebenen Speicherort in den Ordner am angegebenen Speicherort.";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "Element unter ${libraryPath} in Ordner unter  ${folderLibraryPath} verschieben";
+
+"Rename" = "Umbenennen";
+"Renames the item at the specified Library Path." = "Benennt das Element am angegebenen Speicherort um.";
+"Rename item at ${libraryPath} to ${name}" = "Element unter ${libraryPath} in ${name} umbenennen";
+
+"Favorite Action" = "Favoriten-Aktion";
+"Favorite" = "Als Favorit hinzufügen";
+"Unfavorite" = "Als Favorit entfernen";
+"Favorites the item at the specified Library Path." = "Fügt das Element am angegebenen Speicherort als Favorit hinzu.";
+"${action} item at ${libraryPath}" = "Element unter ${libraryPath} ${action}";
+
+"Name" = "Name";
+
+"Show Quick Search" = "Schnellsuche anzeigen";
+"Shows Quick Search with the provided query." = "Zeigt die Schnellsuche mit der angegebenen Suchanfrage an.";
+"Show Quick Search with ${query}" = "Schnellsuche mit ${query} anzeigen";
+
+"Get File Name from Text" = "Dateiname aus Text abrufen";
+"File Name" = "Dateiname";
+"Cleans up text to be used as a file name." = "Bereinigt Text, der als Dateiname verwendet werden soll.";
+"Get file name from ${text}" = "Dateiname von ${text} abrufen";

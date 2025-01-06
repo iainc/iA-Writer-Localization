@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "Errore sconosciuto";
+"Unknown_Error" = "Si è verificato un errore sconosciuto.";
+"Unknown_Error_Recovery_Suggestion" = "Riprova, poi contatta l’assistenza.";
+
+"Annotations_Key" = "Annotazioni";
+
+"Author_Human" = "Umano";
+"Author_Other" = "Altro";
+
+"Author_Unnamed" = "Senza nome";
+"Author_Unspecified" = "Non specificato";
+
+"Annotation_Unknown" = "Sconosciuto";
+"Annotation_Unknown_Description" = "Questa annotazione non può essere visualizzata da questa versione di %@.";
+
+"Annotation_Authorship" = "Autore";
+"Annotation_Authorship_Description" = "Questa annotazione contiene l'autore.";

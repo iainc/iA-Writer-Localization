@@ -1,0 +1,130 @@
+
+"Text Result" = "テキスト結果";
+"Text" = "テキスト";
+
+"Library Path Result" = "ライブラリパスの結果";
+
+"Library Path" = "ライブラリパス";
+
+"What is the Library Path of the file?" = "ファイルのライブラリパスは何ですか？";
+"What is the Library Path of the folder?" = "フォルダのライブラリパスは何ですか？";
+
+"Save Text" = "テキストを保存";
+"Saves text to the file at the specified Library Path." = "指定されたライブラリパスのファイルにテキストを保存します。";
+"Save ${text} to file at ${libraryPath}" = "${libraryPath}でファイルに${text}を保存";
+
+"Save Edits From" = "別の場所から編集を保存";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "指定されたライブラリパスのファイルにテキストを保存します。提供された作成者への変更を自動的に検出し、属性を付けます。";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "作成者名${authorName}という${authorType}の作成者が編集した${text}を${libraryPath}のファイルに保存";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "${authorType}の作成者が編集した${text}を${libraryPath}のファイルに保存";
+
+"Add Text" = "テキストを追加";
+"Adds text to the file at the specified Library Path." = "指定されたライブラリパスでファイルにテキストを追加します。";
+"Add ${text} to file at ${libraryPath}" = "${libraryPath}でファイルに${text}を追加";
+
+"Open" = "開く";
+"Opens the file at the specified Library Path." = "指定されたライブラリパスでファイルを開きます。";
+"Open file at ${libraryPath}" = "${libraryPath}でファイルを開く";
+
+"Open New" = "新たに開く";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "入力としてパスしたテキストを使って、指定されたライブラリパスで新規ファイルを開きます。ライブラリパスが省略されているか、フォルダが指定されている場合、自動的に新しいファイル名が付けられます。";
+"Open new file with ${text} at ${libraryPath}" = "${libraryPath}で${text}のある新規ファイルを開く";
+
+"Get Current File" = "現在のファイルを入手";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "iA Writerで今開かれているファイルがあれば、そのライブラリパスを取得します。";
+"Get current file" = "現在のファイルを取得";
+
+"Get Link" = "リンクを取得";
+"Gets a link to open the file at the specified Library Path." = "指定されたライブラリパスでファイルを開くリンクを取得します。";
+"Get link to open file at ${libraryPath}" = "${libraryPath}でファイルを開くリンクを取得";
+
+"Get Text" = "テキストを取得";
+"Gets text at the specified Library Path." = "指定されたライブラリパスでテキストを取得します。";
+"Get text at ${libraryPath}" = "${libraryPath}でテキストを取得";
+
+"Get Text as HTML" = "HTMLとしてテキストを取得";
+"Gets text at the specified Library Path as HTML." = "指定されたライブラリパスでテキストをHTMLとして取得します。";
+"Get text at ${libraryPath} as HTML" = "${libraryPath}でテキストをHTMLとして取得";
+
+"Get Text as Markdown" = "テキストをMarkdownとして取得";
+"Gets text at the specified Library Path as Markdown." = "指定されたライブラリパスでテキストをMarkdownとして取得します。";
+"Get text at ${libraryPath} as Markdown" = "${libraryPath}でテキストをMarkdownとして取得";
+
+"Author" = "作成者";
+"Who is the author of the text?" = "テキストの作成者は誰ですか？";
+
+"Unspecified" = "不特定";
+"Primary" = "プライマリ";
+"Human" = "人間";
+"Other" = "その他";
+
+"Name" = "名前";
+"What is the name of the author?" = "作成者の名前は何ですか？";
+
+"Identifier" = "識別子";
+"What would you like to use to identify this author? For example, an email, or a website." = "この作成者を特定するために何を使いますか？例えば、電子メールやウェブサイトなど。";
+
+"Replace if Exists" = "存在する場合は置き換える";
+
+"Location" = "位置";
+"Where should the text be added?" = "テキストはどこに追加しますか？";
+"Beginning" = "初め";
+"End" = "終わり";
+
+"Insert Padding" = "パディングを挿入";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "iPadとiPhoneで編集";
+"Open New Window on Mac" = "Macで新規ウィンドウを開く";
+
+"Edit" = "編集";
+"Get" = "取得";
+"Organize" = "整理";
+
+"Delete" = "削除";
+"Deletes the item at the specified Library Path." = "指定されたライブラリパスでアイテムを削除します。";
+"Delete item at ${libraryPath}" = "${libraryPath}でアイテムを削除";
+"Delete Immediately" = "直ちに削除";
+
+"Duplicate" = "複製";
+"Duplicates the item at the specified Library Path." = "指定されたライブラリパスでアイテムを複製します。";
+"Duplicate item at ${libraryPath}" = "${libraryPath}でアイテムを複製";
+
+"Append Text to Name" = "名称にテキストを追加";
+"Suffix Type" = "接尾語のタイプ";
+"Default" = "デフォルト";
+"Custom" = "カスタム";
+"Custom Suffix" = "カスタム接尾語";
+
+"Copy" = "コピー";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "指定されたライブラリパスのアイテムを指定されたライブラリパスのフォルダにコピーします。";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "${libraryPath}のアイテムを${folderLibraryPath}のフォルダにコピー";
+
+"Move" = "移動";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "指定されたライブラリパスのアイテムを指定されたライブラリパスのフォルダに移動します。";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "${libraryPath}のアイテムを${folderLibraryPath}のフォルダに移動";
+
+"Rename" = "名称変更";
+"Renames the item at the specified Library Path." = "指定されたライブラリパスのアイテムの名称を変更します。";
+"Rename item at ${libraryPath} to ${name}" = "${libraryPath}のアイテムを${name}に変更";
+
+"Favorite Action" = "お気に入りのアクション";
+"Favorite" = "お気に入りに登録";
+"Unfavorite" = "お気に入りを解除";
+"Favorites the item at the specified Library Path." = "指定されたライブラリパスのアイテムをお気に入りに登録します。";
+"${action} item at ${libraryPath}" = "${libraryPath}のアイテムを${action}";
+
+"Name" = "名前";
+
+"Show Quick Search" = "クイック検索を表示";
+"Shows Quick Search with the provided query." = "指定されたクエリでクイック検索を開きます。";
+"Show Quick Search with ${query}" = "${query}でクイック検索を表示";
+
+"Get File Name from Text" = "テキストからファイル名を取得";
+"File Name" = "ファイル名";
+"Cleans up text to be used as a file name." = "ファイル名として使用するテキストを整理します。";
+"Get file name from ${text}" = "${text}からファイル名を取得";

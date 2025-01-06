@@ -1,0 +1,130 @@
+
+"Text Result" = "Text Result";
+"Text" = "Text";
+
+"Library Path Result" = "Library Path Result";
+
+"Library Path" = "Library Path";
+
+"What is the Library Path of the file?" = "What is the Library Path of the file?";
+"What is the Library Path of the folder?" = "What is the Library Path of the folder?";
+
+"Save Text" = "Save Text";
+"Saves text to the file at the specified Library Path." = "Saves text to the file at the specified Library Path.";
+"Save ${text} to file at ${libraryPath}" = "Save ${text} to file at ${libraryPath}";
+
+"Save Edits From" = "Save Edits From";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author.";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "Save ${text} with edits from ${authorType} author to file at ${libraryPath}";
+
+"Add Text" = "Add Text";
+"Adds text to the file at the specified Library Path." = "Adds text to the file at the specified Library Path.";
+"Add ${text} to file at ${libraryPath}" = "Add ${text} to file at ${libraryPath}";
+
+"Open" = "Open";
+"Opens the file at the specified Library Path." = "Opens the file at the specified Library Path.";
+"Open file at ${libraryPath}" = "Open file at ${libraryPath}";
+
+"Open New" = "Open New";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder.";
+"Open new file with ${text} at ${libraryPath}" = "Open new file with ${text} at ${libraryPath}";
+
+"Get Current File" = "Get Current File";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "Gets the Library Path of the file that is currently open in iA Writer, if any.";
+"Get current file" = "Get current file";
+
+"Get Link" = "Get Link";
+"Gets a link to open the file at the specified Library Path." = "Gets a link to open the file at the specified Library Path.";
+"Get link to open file at ${libraryPath}" = "Get link to open file at ${libraryPath}";
+
+"Get Text" = "Get Text";
+"Gets text at the specified Library Path." = "Gets text at the specified Library Path.";
+"Get text at ${libraryPath}" = "Get text at ${libraryPath}";
+
+"Get Text as HTML" = "Get Text as HTML";
+"Gets text at the specified Library Path as HTML." = "Gets text at the specified Library Path as HTML.";
+"Get text at ${libraryPath} as HTML" = "Get text at ${libraryPath} as HTML";
+
+"Get Text as Markdown" = "Get Text as Markdown";
+"Gets text at the specified Library Path as Markdown." = "Gets text at the specified Library Path as Markdown.";
+"Get text at ${libraryPath} as Markdown" = "Get text at ${libraryPath} as Markdown";
+
+"Author" = "Author";
+"Who is the author of the text?" = "Who is the author of the text?";
+
+"Unspecified" = "Unspecified";
+"Primary" = "Primary";
+"Human" = "Human";
+"Other" = "Other";
+
+"Name" = "Name";
+"What is the name of the author?" = "What is the name of the author?";
+
+"Identifier" = "Identifier";
+"What would you like to use to identify this author? For example, an email, or a website." = "What would you like to use to identify this author? For example, an email, or a website.";
+
+"Replace if Exists" = "Replace if Exists";
+
+"Location" = "Location";
+"Where should the text be added?" = "Where should the text be added?";
+"Beginning" = "Beginning";
+"End" = "End";
+
+"Insert Padding" = "Insert Padding";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "Edit on iPad and iPhone";
+"Open New Window on Mac" = "Open New Window on Mac";
+
+"Edit" = "Edit";
+"Get" = "Get";
+"Organize" = "Organize";
+
+"Delete" = "Delete";
+"Deletes the item at the specified Library Path." = "Deletes the item at the specified Library Path.";
+"Delete item at ${libraryPath}" = "Delete item at ${libraryPath}";
+"Delete Immediately" = "Delete Immediately";
+
+"Duplicate" = "Duplicate";
+"Duplicates the item at the specified Library Path." = "Duplicates the item at the specified Library Path.";
+"Duplicate item at ${libraryPath}" = "Duplicate item at ${libraryPath}";
+
+"Append Text to Name" = "Append Text to Name";
+"Suffix Type" = "Suffix Type";
+"Default" = "Default";
+"Custom" = "Custom";
+"Custom Suffix" = "Custom Suffix";
+
+"Copy" = "Copy";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "Copies the item at the specified Library Path to the folder at the specified Library Path.";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "Copy item at ${libraryPath} to folder at ${folderLibraryPath}";
+
+"Move" = "Move";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "Moves the item at the specified Library Path to the folder at the specified Library Path.";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "Move item at ${libraryPath} to folder at ${folderLibraryPath}";
+
+"Rename" = "Rename";
+"Renames the item at the specified Library Path." = "Renames the item at the specified Library Path.";
+"Rename item at ${libraryPath} to ${name}" = "Rename item at ${libraryPath} to ${name}";
+
+"Favorite Action" = "Favorite Action";
+"Favorite" = "Favorite";
+"Unfavorite" = "Unfavorite";
+"Favorites the item at the specified Library Path." = "Favorites the item at the specified Library Path.";
+"${action} item at ${libraryPath}" = "${action} item at ${libraryPath}";
+
+"Name" = "Name";
+
+"Show Quick Search" = "Show Quick Search";
+"Shows Quick Search with the provided query." = "Shows Quick Search with the provided query.";
+"Show Quick Search with ${query}" = "Show Quick Search with ${query}";
+
+"Get File Name from Text" = "Get File Name from Text";
+"File Name" = "File Name";
+"Cleans up text to be used as a file name." = "Cleans up text to be used as a file name.";
+"Get file name from ${text}" = "Get file name from ${text}";

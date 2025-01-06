@@ -13,9 +13,14 @@
 "Remove" = "Remover";
 "Delete" = "Eliminar";
 "Delete_Immediately" = "Apagar Imediatamente";
+"Delete_Confirmation_Message" = "Tem a certeza de que pretende apagar “%@”?";
+"Delete_Confirmation_Informative_Text" = "Esta ação não pode ser revertida.";
 "More" = "Mais";
 "Hide" = "Ocultar";
 "Add" = "Adicionar";
+"Ask_Again_Later" = "Perguntar Mais Tarde";
+"Do_Not_Show_Again" = "Não Exibir Novamente";
+"Do_Not_Ask_Again" = "Não voltar a perguntar";
 "Name" = "Nome";
 "Add_Account" = "Adicionar Conta";
 "Remove_Account" = "Remover Conta";
@@ -24,12 +29,20 @@
 "Open_Mail" = "Abrir Correio";
 "Add_Pattern" = "Adicionar padrão";
 "Remove_Pattern" = "Remover padrão";
+"New_File" = "Novo Ficheiro";
 "New_Smart_Folder" = "Nova Pasta Inteligente";
+"New_Folder" = "Nova Pasta";
+"New_Folder_With_Selection" = "Nova Pasta com Seleção";
+"New_Folder_With" = "Nova Pasta com “%@”";
 "Add_Location" = "Adicionar Localizações";
 "Move_To_Trash" = "Mover para o Lixo";
+"Move_To" = "Mover para %@";
+"Cut_For_Undo" = "Cortar";
 "Copy" = "Copiar";
 "Copy_Library_Path" = "Copiar Caminho da Biblioteca";
 "Copy_URL_Command" = "Copiar comando URL";
+"Expand" = "Expandir";
+"Collapse" = "Recolher";
 "Open" = "Abrir";
 "Save" = "Guardar";
 "Discard_Changes" = "Discard Changes";
@@ -58,6 +71,8 @@
 "Export" = "Exportar";
 "Publish" = "Publicar";
 "Show_Completions" = "Mostrar Preenchimentos Automáticos";
+
+"Duplicate_Item_Suffix" = " copy";
 
 "Open_Content_Block" = "Abrir bloco de conteúdos";
 "Open_Content_Block_Tooltip" = "⌘-clique para abrir bloco de conteúdos";
@@ -108,6 +123,9 @@
 "Library_Destination_Relative" = "Relativo";
 "Library_Destination_Absolute" = "Absoluto";
 
+"Show_Text_Excerpts" = "Mostrar Excertos de Texto";
+"Pin_Folders_To_Top" = "Fixar Pastas no Topo";
+
 "Menu_Focus" = "Enfoque";
 "Menu_Go" = "Ir";
 
@@ -131,6 +149,7 @@
 
 "Suffix_Colon" = ":";
 "Suffix_Ellipsis" = "…";
+"List_Separator" = ", ";
 
 "News_Title" = "Novidades";
 
@@ -139,6 +158,7 @@
 "Unknown_Error_Recovery_Suggestion" = "Por favor, tente novamente e contacte o suporte.";
 
 "Default_Document_Name" = "Sem título";
+"Default_Location_Name" = "Sem título";
 "Default_Folder_Name" = "Pasta sem título";
 "Default_Image_Name" = "Sem título";
 "Default_Smart_Folder_Name" = "Sem título";
@@ -177,7 +197,118 @@
 
 "Template" = "Modelo";
 
+"Links" = "Ligações";
+"Backlinks" = "Backlinks";
+"Links_In" = "Ligações em %@";
+"Backlinks_To" = "Backlinks para %@";
+
+"Links_Linked" = "Ligações";
+"Backlinks_Linked" = "Backlinks";
+"Links_Unlinked" = "Ligações Potenciais";
+"Backlinks_Unlinked" = "Backlinks Potenciais";
+
+"Authors" = "Autores";
 "Author" = "Autor";
+"Author_Primary" = "Primário";
+"Author_Secondary" = "Secundário";
+"Author_Name" = "Nome";
+"Author_Identifier" = "Identificador";
+
+"Author_AI" = "IA";
+"Author_ChatGPT" = "ChatGPT";
+
+"Author_Writing_Tools" = "Ferramentas de Escrita";
+"Replace_From_Writing_Tools_For_Undo" = "Substituir das Ferramentas de Escrita";
+
+"Add_Author" = "Adicionar Autor";
+"Remove_Author" = "Remover Autor";
+
+"Save_Author" = "Guardar Autor";
+"Remove_Author_From_Saved" = "Remover Autor De Guardados";
+"Save_Author_Sentence_Capitalization" = "Guardar autor";
+"Save_Author_Description" = "Pode editar ou remover autores guardados nas definições.";
+
+"Author_Kind" = "Tipo";
+"Author_Kind_Description" = "As edições humanos estão sublinhadas. As outras edições estão obscurecidas.";
+
+"Author_Primary_Name_Description" = "O seu nome será utilizado para autoria, e por modelos quando em previsualização, exportação ou impressão.";
+"Author_Primary_Identifier_Description" = "Opcional. Por exemplo, um email ou página de internet. O seu identificador será utilizado para autoria.";
+
+"Author_Secondary_Name_Description" = "Requerido.";
+"Author_Secondary_Identifier_Description" = "Opcional. Por exemplo, um email ou página de internet.";
+
+"Author_Secondary_Name_Description_With_Purpose" = "Requerido. O nome será utilizado para autoria.";
+"Author_Secondary_Identifier_Description_With_Purpose" = "Opcional. Por exemplo, um email ou página de internet. O identificador será utilizador para autoria.";
+
+"Placeholder_No_Authorship" = "Sem Autoria";
+"Authorship" = "Autoria";
+"Authorship_Prompt_Title" = "Gostaria de ativar autoria em “%@”?";
+"Authorship_Prompt" = "As anotações de autoria serão guardadas no final do ficheiro. Escondidas quando em edição no iA Writer e visíveis noutras aplicações.";
+"Authorship_Description" = "Pode marcar a autoria utilizando os menus Marcar Como, Colar Como e Colar Edições A Partir De. As anotações de autoria serão guardadas no final do ficheiro. Escondidas quando em edição no iA Write e visíveis noutras aplicações.";
+"Authorship_Paste" = "O texto colado contém anotações de autoria. Gostaria de adicionar autoria?";
+"Authorship_Paste_Conversation" = "O texto colado parece ser um conversa com o %@. Gostaria de adicionar automaticamente a autoria?";
+"Paste_With_Authorship" = "Colar Com Autoria";
+"Paste_With_Authorship_For_Undo" = "colar com autoria";
+"Paste_Without_Authorship" = "Colar Sem Autoria";
+
+"Authorship_Not_Available" = "A autoria é suportada apenas nos ficheiros de Marcação.";
+
+"File_Encoding_Error" = "O ficheiro “%@” não pode ser aberto.";
+"File_Encoding_Error_Failure_Reason" = "A codificação do texto dos conteúdos não pôde ser determinada.";
+"File_Encoding_Error_Recovery_Suggestion" = "Poderá alterar a codificação do texto utilizando outra aplicação.";
+
+"Edit_Authorship" = "Editar Autoria";
+"Enable_Authorship" = "Ativar Autoria";
+"Disable_Authorship" = "Desativar Autoria";
+"Disable_Authorship_Confirmation" = "Tem a certeza de que quer desativar a autoria em “%@”?";
+"Disable_Authorship_Confirmation_Description" = "Todas as anotações de autoria serão removidas.";
+
+"Misplaced_Authorship" = "Autoria Mal Colocada";
+"Misplaced_Authorship_Description" = "Este ficheiro foi editado por outras aplicação que não atualizou corretamente as anotações de autoria. Alguma ou toda a autoria foi colocada no sítio errado.";
+"Review_Authorship" = "Rever Autoria";
+"Discard_Authorship" = "Descartar Autoria";
+"Keep_Authorship" = "Manter Autoria";
+
+"Reorder_Authors" = "Reordenar Autores";
+"Edit_Author" = "Editar Autor";
+"Delete_Author" = "Eliminar Autor";
+"Replace_Author" = "Substituir Autor";
+"Set_Author" = "Definir Autor";
+
+"Authors_Show" = "Exibir Autores";
+"Authors_Hide" = "Esconder Autores";
+
+"Paste_As_Author" = "Colar como %@";
+"Paste_Edits_From_Author" = "Colar Edições a partir de %@";
+"Mark_Selection_As_Author" = "Marcar Seleção como %@";
+"Mark_As_Author" = "Marcar como %@";
+
+"Paste_For_Undo" = "Colar";
+"Paste_As_Author_For_Undo" = "Colar como %@";
+"Paste_Edits_From_Author_For_Undo" = "Colar Edições a partir de %@";
+"Mark_Selection_As_Author_For_Undo" = "Marcar Seleção como %@";
+"Mark_As_Author_For_Undo" = "Marcar como %@";
+
+"New_Author" = "Novo Autor";
+
+"Paste_As_New_Author" = "Colar como Novo Autor";
+"Paste_Edits_From_New_Author" = "Colar Edições a partir de Novo Autor";
+"Mark_Selection_As_New_Author" = "Marcar Seleção como Novo Autor";
+"Mark_As_New_Author" = "Marcar como Novo Autor";
+
+"Paste_As" = "Colar Como";
+"Paste_Edits_From" = "Colar Edições A Partir De";
+"Mark_As" = "Marcar Como";
+"Mark_Selection_As" = "Marcar Seleção Como";
+
+"Paste" = "Colar";
+"Paste_Edits" = "Colar Edições";
+"Mark" = "Marcar";
+"Mark_Selection" = "Marcar Seleção";
+
+"Author_Secondary_Unnamed_Error" = "Não é possível guardar autor sem nome.";
+
+"Set_Up_Authorship" = "Configurar Autoria";
 
 /*---------
 Text Check
@@ -199,7 +330,7 @@ Text Check
 "Style_Check_Target_Cliches" = "Clichés";
 "Style_Check_Target_Redundancies" = "Redundâncias";
 "Style_Check_Target_Custom" = "Personalizado";
-"Style_Check_Languages" = "Padrões incorporados para inglês, francês, alemão.";
+"Style_Check_Languages" = "Padrões incorporados para inglês, espanhol, francês, alemão.";
 
 /*----------
  Focus Tools
@@ -292,14 +423,13 @@ Text Check
 "Web_Service_Error_WordPress_API_Not_Found" = "Não foi possível encontrar a API WordPress.";
 "Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "Certifique-se de que está a usar o WordPress 4.7 ou mais recente, e que o meta identificador da API WordPress está presente.";
 
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "Palavras-passe da app wordpress não disponíveis.";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "As palavras-passe da app WordPress não estão disponíveis.";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Certifique-se de que está a usar o WordPress 5.6 ou mais recente, e que as palavras-passe da app não foram desativadas no sítio ou para o seu utilizador.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "Senhas de aplicativos WordPress não disponíveis";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "As senhas de aplicativos do WordPress não estão disponíveis.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Certifique-se de que as senhas de aplicativos estejam habilitadas no site e para o seu usuário. Alguns plugins de segurança desativam as senhas de aplicativos por padrão.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "Por favor, tente novamente mais tarde.";
 
 "Medium_Failure_Reason_Unsupported_Content" = "Determinados elementos podem ter um aspeto diferente: %@.";
-"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
 "Medium_Failure_Reason_Unsupported_Content_Tables" = "tabelas";
 "Medium_Failure_Reason_Unsupported_Content_Footnotes" = "notas de rodapé";
 "Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "itens de lista agrupados";
@@ -399,6 +529,10 @@ Text Check
 "Library_Location_Desktop" = "Secretária";
 "Library_Location_Documents" = "Documentos";
 
+"Navigation" = "Navegação";
+"Navigation_Tree" = "Árvore";
+"Navigation_List" = "Lista";
+
 /*----------------
  Library Locations
  ----------------*/
@@ -413,17 +547,25 @@ Text Check
 "Library_Location_Error_Not_Found_Failure_Reason" = "Poderá ter sido removida, ou localizar-se numa unidade ejetável.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Ligue a unidade ejetável para aceder à Localização de Biblioteca";
 
-/*---------
+/*--------
  Wikilinks
- ---------*/
+ --------*/
 
-"Library_Destination_Error_Library_Location_Not_Found_Title" = "Não foi possível encontrar a Localização de Biblioteca com o nome \"%@\"";
-"Library_Destination_Error_Library_Location_Not_Found" = "Não foi possível encontrar a Localização de Biblioteca com o nome \"%@\".";
-"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Certifique-se de que existe uma Localização de Biblioteca com o nome \"%@\"";
+"Library_Destination_Error_Library_Location_Not_Found_Title" = "Não foi possível encontrar a Localização de Biblioteca com o nome “%@”";
+"Library_Destination_Error_Library_Location_Not_Found" = "Não foi possível encontrar a Localização de Biblioteca com o nome “%@”.";
+"Library_Destination_Error_Library_Location_Not_Found_Recovery_Suggestion" = "Certifique-se de que existe uma Localização de Biblioteca com o nome “%@”";
 
 "Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Não é possível aceder a itens exteriores à biblioteca";
 "Library_Destination_Error_Destination_Points_Outside_Library" = "Não é possível aceder a itens exteriores à biblioteca.";
 "Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Certifique-se de que o Caminho para a Biblioteca está correto.";
+
+/*-----------
+ Library Edit
+ -----------*/
+
+"Library_Edit_Error_File_Changed_Title" = "Ficheiro Alterado";
+"Library_Edit_Error_File_Changed" = "Não é possível aplicar a edição porque o ficheiro que a contém foi alterado.";
+"Library_Edit_Error_File_Changed_Recovery_Suggestion" = "Por favor tente novamente.";
 
 /*--------
  Documents
@@ -473,7 +615,7 @@ Text Check
 
 "Library_Sort_By_Part_Joiner" = ", ";
 
-"Library_Sort_Order_Persistent" = "Use sempre estas opções aqui";
+"Library_View_Options_Persistent" = "Use sempre estas opções aqui";
 
 /*----------
  Focus Scope
@@ -495,8 +637,8 @@ Text Check
  Content Blocks
  -------------*/
 
-"Content_Block_Error_No_Such_File" = "O ficheiro \"%@\" não existe.";
-"Content_Block_Error_No_Such_File_Title" = "O ficheiro \"%@\" não existe.";
+"Content_Block_Error_No_Such_File" = "O ficheiro “%@” não existe.";
+"Content_Block_Error_No_Such_File_Title" = "O ficheiro “%@” não existe.";
 "Content_Block_Error_No_Such_File_Recovery_Suggestion" = "Certifique-se de que o nome do ficheiro está correto.";
 "Content_Block_Error_No_Such_File_Markdown_Or_HTML_Path_Recovery_Suggestion" = "Se estiver a referir a um ficheiro local, certifique-se de que o nome está correto. Se esiver a referir um recurso web, adicione https://.";
 
@@ -526,10 +668,14 @@ Text Check
  Text Stats
  ---------*/
 
-"Stats_Reading_Time" = "%@ Tempo de Leitura";
+"Stats_Reading_Time_Title" = "%@ Tempo de Leitura";
+"Stats_Speaking_Time_Title" = "%@ Tempo de fala";
+/* %1$@ is percentage, %2$@ is author name */
+"Stats_Author_Title" = "%1$@ %2$@";
 "Stats_Name_Words" = "Palavras";
 "Stats_Name_Sentences" = "Frases";
 "Stats_Name_Reading_Time" = "Tempo de Leitura";
+"Stats_Name_Speaking_Time" = "Tempo de fala";
 "Stats_Name_Tasks" = "Tarefas";
 "Stats_Name_Characters" = "Caracteres";
 "Stats_Name_Characters_Without_Spaces" = "Caracteres Sem Espaços";
@@ -572,3 +718,5 @@ Text Check
 "PDF_Scale_Fit_Page" = "Ajustar à página";
 "PDF_Scale_Fit_Width" = "Ajustar à largura";
 "PDF_Percent_Zoom" = "%zd %";
+
+"Help_Shortcuts" = "Atalhos";

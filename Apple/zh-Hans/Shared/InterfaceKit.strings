@@ -1,0 +1,63 @@
+
+/* Button to select all visible items. */
+"Button_Select_All" = "全选";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "全不选";
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "版本冲突";
+
+/* Version browser title */
+"Version_Browser_Title" = "版本";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "当前版本";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "“%@”的所有可用版本。";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "选择较早版本还原。选择当前版本和较早版本，分别创建单独文件。";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "修订不同步。选择要保留的文档。";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "“%@”版本冲突。";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "保留";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "同时保留";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "全部保留";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "保留%d";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "还原";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "还原至最近版本，创建%d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "创建%d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "无法阅读版本";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "iCloud错误：“%@”";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "未知错误";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "网络不可用。";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "无法连接。";

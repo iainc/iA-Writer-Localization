@@ -7,6 +7,9 @@
 "Library_Title" = "Библиотека";
 
 /* Title for root library view. */
+"Organizer_Title" = "Организатор";
+
+/* Title for root library view. */
 "Library_Locations_Section_Title" = "Местоположения";
 
 /* Title for root library view. */
@@ -49,10 +52,8 @@
  Library Location
  ---------------*/
 
-"Library_Location_Introduction_Alert_Title" = "Как добавить местоположение";
-"Library_Location_Introduction_Alert_Message" = "\nОткройте папку содержащую папку, которая будет местоположением.\n\nНажмите Выбрать, выберите папку, нажмите Открыть.";
-"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Больше не показывать";
 "Library_Location_Rename_Alert_Title" = "Переименовать местоположение";
+"Library_Location_Name_Alert_Title" = "Введите название местоположения";
 
 /*-----------
  Smart Folder
@@ -112,9 +113,6 @@
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Настроить клавиатуру";
-
-/* Button to create new folder. */
-"Button_New_Folder" = "Новая папка";
 
 /* Button to change sorting order. */
 "Button_Sort_By" = "Сортировать по";
@@ -189,6 +187,12 @@
  Editor
  -----*/
 
+"Secure_Paste_Suggestion" = "Надоело подтверждать вставки из других приложений?";
+
+"Secure_Paste_Recovery_Suggestion" = "Измените значение параметра \"Вставлять из других приложений\" на \"Разрешить\" в настройках системы.";
+
+"Open_System_Settings" = "Открыть настройки системы";
+
 /* Title for content block warning list. */
 "Content_Block_Warnings_Title" = "Блоки контента";
 
@@ -221,7 +225,7 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Transform" = "Преобразования…";
+"Menu_Transform" = "Преобразования";
 
 /* Menu item title for transforming text to upper case. */
 "Menu_Transform_To_Upper_Case" = "Верхний регистр";
@@ -279,6 +283,8 @@
 
 /* Action to duplicate. */
 "Menu_Duplicate" = "Дублировать";
+
+"Menu_Rename_Document" = "Переименовать документ";
 
 /* Action to rename. */
 "Menu_Rename" = "Переименовать";
@@ -361,9 +367,6 @@
 /* Action to open photo library. */
 "Action_Choose_Photo" = "Выбрать фото…";
 
-/* Action to create new file. */
-"Action_New_File" = "Новый файл";
-
 /* Title for alert to create new folder. */
 "New_File_Alert_Title" = "Введите имя файла";
 
@@ -400,12 +403,6 @@
 /*---------
  Table Size
  ---------*/
-
-/* Columns number label in table size picker. */
-"Table_Size_Picker_Columns" = "Столбцы";
-
-/* Rows number label in table size picker. */
-"Table_Size_Picker_Rows" = "Строки";
 
 /* Action title to add table with a selected size. */
 "Action_Add_Table" = "Добавить таблицу";
@@ -449,67 +446,6 @@ Document
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "Сохранить в…";
-
-/*--------------
- Version Browser
- --------------*/
-
-/* Version browser title for conflict resolution */
-"Version_Browser_Title_Conflict" = "Конфликт версий";
-
-/* Version browser title */
-"Version_Browser_Title" = "Версии";
-
-/* Version browser title. */
-"Version_Browser_Current_Version" = "Текущий";
-
-/* Version browser subitem title in conflict, %@ = document name */
-"Version_Browser_Subitem_Title" = "Все доступные версии %@.";
-
-/* Version browser subitem message. */
-"Version_Browser_Subitem_Message" = "Выберите более раннюю версию для восстановления. Выберите текущую версию в дополнение к более старым версиям, чтобы создать их в виде отдельных файлов.";
-
-/* Version browser subitem message in conflict */
-"Version_Browser_Subitem_Message_Conflict" = "Изменения не синхронизированы. Выберите, какие документы нужно сохранить.";
-
-/* Version browser subitem title, %@ = document name. */
-"Version_Browser_Subitem_Title_Conflict" = "Конфликт версий %@.";
-
-/* Version browser action in conflict when 1 version is selected */
-"Version_Browser_Conflict_Keep" = "Сохранить";
-
-/* Version browser action title when two conflict versions exist and both we re marked to keep */
-"Version_Browser_Conflict_Keep_Both" = "Сохранить обе";
-
-/* Version browser action title when two versions exist and both were chosen */
-"Version_Browser_Conflict_Keep_All" = "Сохранить все";
-
-/* Version browser action in conflict when more than one version is selected */
-"Version_Browser_Conflict_Keep_Number" = "Сохранить %d";
-
-/* Version browser action when 1 version is selected */
-"Version_Browser_Revert" = "Восстановить";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Revert_And_Save_Number" = "Восстановить последнюю, создать %d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Save_Number" = "Создать %d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Title" = "Не удается считать версии";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Message" = "Ошибка iCloud: «%@».";
-
-/* Unknown error message from iCloud. */
-"Version_Browser_Error_Unknown" = "Неизвестная ошибка";
-
-/* Network is not available while attemting to browse versions. */
-"Version_Browser_Error_Network_Unavailable" = "Сеть недоступна.";
-
-/* Network failure while attemting to browse versions. */
-"Version_Browser_Error_Network_Failure" = "Не удалось подключиться.";
 
 /*--------
  Files App
@@ -616,17 +552,22 @@ Document
 "Appearance_Light" = "Светлая";
 "Appearance_Dark" = "Тёмная";
 
+"More_System_Settings" = "Больше настроек системы";
+
 /* Settings panes. */
 "Settings_Interface_Title" = "Интерфейс";
-"Settings_Keyboard_Title" = "Клавитура";
 "Settings_General_Title" = "Общие";
 "Settings_Files_Title" = "Файлы";
-"Settings_Accounts_Title" = "Учетные записи";
+"Settings_Accounts_Title" = "Аккаунты";
 "Settings_Library_Title" = "Библиотека";
 "Settings_Editor_Title" = "Редактор";
 "Settings_Templates_Title" = "Шаблоны";
 "Settings_Markdown_Title" = "Markdown";
-"Settings_URL_Scheme_Title" = "URL-команды";
+"Settings_Shorcuts_Title" = "Быстрые команды";
+
+"Settings_Shortcuts_Action" = "Загрузить быстрые команды";
+"Shortcuts_Not_Supported" = "Вы не можете использовать быстрые команды с этой версией %@. У вас %@ %@. Для использования быстрых команд требуется %@ 16.1 или более поздняя версия.";
+"Settings_Shortcuts_Description" = "Быстрые команды позволяют легко выполнять задачи, объединяя действия — строительные блоки команды — в серию шагов — быструю команду, которую можно запустить одним касанием или с помощью Siri.";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "Вид";
@@ -664,10 +605,7 @@ Document
 
 /* Library section in settings. */
 "Settings_Library_Appearance_Section_Title" = "Вид";
-"Settings_Library_Show_Text_Excerpts" = "Отрывки из текста";
 "Settings_Library_Show_Extensions" = "Расширения файлов";
-"Settings_Library_Show_Extensions" = "Расширения файлов";
-"Settings_Library_Pin_Folders_To_Top" = "Папки сверху";
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "Порядок сортировки";
@@ -688,49 +626,27 @@ Document
 "Settings_Editor_Text_Section_Title" = "Текст";
 "Settings_Editor_Typography" = "Типографика";
 "Settings_Editor_Line_Length_Limit_Edit" = "Длина строки";
-"Settings_Editor_Language" = "Языковая среда";
-"Settings_Editor_Emphasis" = "Акцент";
+"Settings_Editor_Typeface" = "Гарнитура";
+"Label_Emphasis" = "Акцент";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Режим фокуса";
 "Settings_Editor_Focus_Mode" = "Режим фокуса";
 "Settings_Editor_Focus_Mode_Scope" = "Тип";
 
-/* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "Меню-молния";
-"Settings_Keyboard_Lightning_Menu_Add_Actions" = "Добавить действия";
-"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Добавить подменю";
-"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Редактировать подменю";
-"Settings_Keyboard_Lightning_Menu_Remove_Action" = "Удалить действие";
-"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Удалить подменю";
-"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Выбрать действие";
-"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Действия";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Показывать в линию";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Действия в подменю отображаются в родительском меню отдельно от других действий.";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Зажмите любое действие в меню-молнии, чтобы открыть эти настройки";
-
-"Settings_Command_Keyboard" = "Командная клавиатура";
-"Settings_Command_Keyboard_Enable" = "Показывать на панели клавиатуры";
-"Settings_Command_Keyboard_Always_Show_As_Popover" = "Всегда показывать как всплывающее окно";
-"Settings_Command_Keyboard_Configure" = "Настроить";
-"Settings_Command_Keyboard_Enabled_Section_Footer" = "Нажмите и удерживайте любую светлую клавишу в командной клавиатуре, чтобы открыть режим настройки конфигурации.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Действия командной клавиатуры доступны в меню-молнии, в быстром поиске, и с помощью сочетаний клавиш, когда подключена внешняя клавиатура.";
-
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Текст";
+"Lightning_Menu_Group_Document" = "Документ";
 "Lightning_Menu_Group_Actions" = "Действия";
 "Lightning_Menu_Group_Menu" = "Меню";
 "Configure_Menu" = "Настроить меню";
 
-/* Hardware keyboard section in settings. */
-"Settings_Editor_Hardware_Keyboard_Title" = "Внешняя клавиатура";
-"Settings_Editor_Hardware_Keyboard_Footer" = "Это влияет на панель клавиатуры только при подключенной внешней клавиатуре.";
-"Settings_Editor_Hardware_Keyboard_Show_Bar" = "Показывать панель клавиатуры";
-
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Ввод текста";
-"Settings_Editor_Text_Input_Section_Footer" = "Проверку правописания и смарт-пунктуацию можно включить в программе Настройки → Основные → Клавиатура.";
+"Settings_Editor_Text_Input_Section_Footer" = "%@ можно включить в настройках системы → Общие → Клавиатура.";
+"Settings_Editor_Autocorrection" = "Автокоррекция";
 "Settings_Editor_Check_Spelling" = "Проверять правописание";
+"Settings_Editor_Predictive" = "Предиктивный";
 "Settings_Editor_Smart_Quotes" = "Смарт-кавычки";
 "Settings_Editor_Smart_Dashes" = "Смарт-тире";
 "Settings_Editor_Smart_Inset_Delete" = "Смарт-скопировать/вставить";
@@ -808,14 +724,11 @@ Document
  URL Scheme Settings
  -------------------*/
 
-/* URL scheme setting. */
-"Settings_URL_Sheme_Enable" = "Включить URL-команды";
-
-/* URL scheme settings auth token header. */
-"Settings_URL_Sheme_Auth_Token_Header" = "Токен авторизации";
-
-/* URL scheme settings auth token footer. */
-"Settings_URL_Sheme_Auth_Token_Footer" = "Токен авторизации требуется для некоторых команд URL.";
+"Settings_URL_Commands_Section_Title" = "URL-команды";
+"Settings_URL_Commands_Section_Footer" = "URL-команды позволяют создавать ссылки на файлы iA Writer из других приложений, а также выполнять действия с различными инструментами автоматизации.";
+"Settings_URL_Commands_Show_Documentation" = "Показать документацию";
+"Settings_URL_Commands_Enable" = "Включить URL-команды";
+"Settings_URL_Commands_Auth_Token_Header" = "Токен авторизации";
 
 /*---------
  URL Scheme
@@ -832,19 +745,3 @@ Document
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "Вы действительно хотите сбросить токен авторизации? Это действие нельзя отменить.";
-
-/*-----
- Editor
- -----*/
-
-/* Find bar menu menu item. */
-"Find_Match_Style" = "Тип поиска";
-
-/* Find bar menu menu item. */
-"Find_Match_Case" = "Учитывать регистр";
-
-/* Find bar action to replace selected result. */
-"Replace_Action" = "Заменить";
-
-/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
-"Replace_All_Action" = "Все";

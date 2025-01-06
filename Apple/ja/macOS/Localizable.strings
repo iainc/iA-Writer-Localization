@@ -111,10 +111,10 @@
  -----*/
 
 /* Menu item to show preview. */
-"Show_Source_List" = "オーガナイザを表示";
+"Show_Organizer" = "オーガナイザを表示";
 
 /* Menu item to show preview. */
-"Hide_Source_List" = "オーガナイザを非表示";
+"Hide_Organizer" = "オーガナイザを非表示";
 
 /* Menu item to show filter bar. */
 "Show_Search_Bar" = "フィルターバーを表示";
@@ -146,16 +146,6 @@
 
 /* Go menu item title to go to enclosing folder. */
 "Library_Go_Enclosing_Folder" = "内包しているフォルダ";
-
-/* Menu to move to delete a folder when right-clicking in document library.
-   Title for action when swiping table view. */
-"Library_Delete_Action_Title" = "削除…";
-
-/* Deletion confirmation sheet message. */
-"Library_Delete_Confrimation_Message" = "“%@”を削除しますか？";
-
-/* Deletion confrimation infromative text for a local item. */
-"Library_Delete_Confrimation_Informative_Text" = "このアクションはやり直しできません。";
 
 /* Snippet for empty documents. */
 "Library_Snippet_Empty" = "コンテンツなし";
@@ -261,6 +251,9 @@
 "Library_Root_Smart_Folders" = "スマートフォルダ";
 
 /* Organizer section title. */
+"Library_Root_Links" = "リンク";
+
+/* Organizer section title. */
 "Library_Root_Hashtags" = "ハッシュタグ";
 
 /* Organizer section empty message. */
@@ -311,6 +304,9 @@
 
 /* Body text block element name. */
 "Block_Element_Blockquote" = "ブロック引用";
+
+/* Body text block element name. */
+"Block_Element_Comment" = "コメント";
 
 /* Body text block element name. */
 "Block_Element_Body_Text" = "本文";
@@ -377,6 +373,9 @@
 "Preferences_Pane_Title_Templates" = "テンプレート";
 
 /* Markdown preferences pane title. */
+"Preferences_Pane_Title_Authors" = "作成者";
+
+/* Markdown preferences pane title. */
 "Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
@@ -408,6 +407,8 @@
 "Markdown_Library_Paths_And_Links_Tab" = "ライブラリのパスとリンク";
 
 "Markdown_Processing_Tab" = "処理";
+
+"Shortcuts_Not_Supported" = "このバージョンのmacOSではショートカットを使用できません。macOS %@が必要です。ショートカットにはmacOS 13以降が必要です。";
 
 /*-----------
  Quick Search

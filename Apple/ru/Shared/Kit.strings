@@ -13,9 +13,14 @@
 "Remove" = "Удалить";
 "Delete" = "Удалить";
 "Delete_Immediately" = "Удалить немедленно";
+"Delete_Confirmation_Message" = "Вы уверены, что хотите удалить «%@»?";
+"Delete_Confirmation_Informative_Text" = "Это действие не может быть отменено.";
 "More" = "Ещё";
 "Hide" = "Скрыть";
 "Add" = "Добавить";
+"Ask_Again_Later" = "Спросить еще позже";
+"Do_Not_Show_Again" = "Больше не показывать";
+"Do_Not_Ask_Again" = "Больше не спрашивать";
 "Name" = "Имя";
 "Add_Account" = "Добавить учетную запись";
 "Remove_Account" = "Удалить учетную запись";
@@ -24,12 +29,20 @@
 "Open_Mail" = "Открыть Почту";
 "Add_Pattern" = "Добавить шаблон";
 "Remove_Pattern" = "Удалить шаблон";
+"New_File" = "Новый файл";
 "New_Smart_Folder" = "Новая смарт-папка";
+"New_Folder" = "Новая папка";
+"New_Folder_With_Selection" = "Новая папка с выбранным";
+"New_Folder_With" = "Новая папка с «%@»";
 "Add_Location" = "Добавить местоположение";
 "Move_To_Trash" = "Переместить в Корзину";
+"Move_To" = "Переместить в %@";
+"Cut_For_Undo" = "вырезание";
 "Copy" = "Копировать";
 "Copy_Library_Path" = "Скопировать путь в библиотеке";
 "Copy_URL_Command" = "Скопировать URL-команду";
+"Expand" = "Развернуть";
+"Collapse" = "Свернуть";
 "Open" = "Открыть";
 "Save" = "Сохранить";
 "Discard_Changes" = "Discard Changes";
@@ -58,6 +71,8 @@
 "Export" = "Экспортировать";
 "Publish" = "Опубликовать";
 "Show_Completions" = "Показать автодополнения";
+
+"Duplicate_Item_Suffix" = " copy";
 
 "Open_Content_Block" = "Открыть блок контента";
 "Open_Content_Block_Tooltip" = "⌘-нажатие мыши: открыть блок контента";
@@ -108,6 +123,9 @@
 "Library_Destination_Relative" = "Относительные";
 "Library_Destination_Absolute" = "Абсолютные";
 
+"Show_Text_Excerpts" = "Отрывки из текста";
+"Pin_Folders_To_Top" = "Папки сверху";
+
 "Menu_Focus" = "Фокус";
 "Menu_Go" = "Переход";
 
@@ -131,6 +149,7 @@
 
 "Suffix_Colon" = ":";
 "Suffix_Ellipsis" = "…";
+"List_Separator" = ", ";
 
 "News_Title" = "Обновления";
 
@@ -139,6 +158,7 @@
 "Unknown_Error_Recovery_Suggestion" = "Повторите попытку, затем обратитесь в поддержку.";
 
 "Default_Document_Name" = "Без названия";
+"Default_Location_Name" = "Без названия";
 "Default_Folder_Name" = "Папка без названия";
 "Default_Image_Name" = "Без названия";
 "Default_Smart_Folder_Name" = "Без названия";
@@ -177,7 +197,118 @@
 
 "Template" = "Шаблон";
 
+"Links" = "Ссылки";
+"Backlinks" = "Обратные ссылки";
+"Links_In" = "Ссылки в %@";
+"Backlinks_To" = "Обратные ссылки на %@";
+
+"Links_Linked" = "Ссылки";
+"Backlinks_Linked" = "Обратные ссылки";
+"Links_Unlinked" = "Потенциальные ссылки";
+"Backlinks_Unlinked" = "Потенциальные обратные ссылки";
+
+"Authors" = "Авторы";
 "Author" = "Автор";
+"Author_Primary" = "Основной";
+"Author_Secondary" = "Дополнительный";
+"Author_Name" = "Имя";
+"Author_Identifier" = "ID";
+
+"Author_AI" = "ИИ";
+"Author_ChatGPT" = "ChatGPT";
+
+"Author_Writing_Tools" = "Инструменты для письма";
+"Replace_From_Writing_Tools_For_Undo" = "замену из инструментов для письма";
+
+"Add_Author" = "Добавить автора";
+"Remove_Author" = "Удалить автора";
+
+"Save_Author" = "Сохранить автора";
+"Remove_Author_From_Saved" = "Удалить автора из сохраненных";
+"Save_Author_Sentence_Capitalization" = "Сохранить автора";
+"Save_Author_Description" = "Править или удалять сохраненных авторов можно в настройках.";
+
+"Author_Kind" = "Тип";
+"Author_Kind_Description" = "Человеческие правки подчеркнуты. Другие правки приглушены.";
+
+"Author_Primary_Name_Description" = "Ваше имя будет использоваться для авторства, а также в шаблонах при просмотре, экспорте или печати.";
+"Author_Primary_Identifier_Description" = "Необязательно. Например, эл. почта или веб-сайт. Ваш ID будет использоваться для данных об авторе.";
+
+"Author_Secondary_Name_Description" = "Обязательно.";
+"Author_Secondary_Identifier_Description" = "Необязательно. Например, эл. почта или веб-сайт.";
+
+"Author_Secondary_Name_Description_With_Purpose" = "Обязательно. Имя будет использоваться для авторства.";
+"Author_Secondary_Identifier_Description_With_Purpose" = "Необязательно.  Например, эл. почта или веб-сайт. ID будет использоваться для авторства.";
+
+"Placeholder_No_Authorship" = "Нет авторства";
+"Authorship" = "Авторство";
+"Authorship_Prompt_Title" = "Хотите включить авторство в «%@»?";
+"Authorship_Prompt" = "Примечания об авторстве будут сохранены в конце файла. Они скрыты при редактировании в iA Writer и видны в других приложениях.";
+"Authorship_Description" = "Вы можете помечать авторство с помощью меню Пометить как, Вставить как и Вставить правки из. Примечания об авторстве будут сохранены в конце файла. Они скрыты при редактировании в iA Writer и видны в других приложениях.";
+"Authorship_Paste" = "Вставленный текст содержит примечания об авторстве. Хотите добавить автортсво?";
+"Authorship_Paste_Conversation" = "Похоже, вставленный текст содержит беседу с %@. Хотите автоматически добавить авторство?";
+"Paste_With_Authorship" = "Вставить с авторством";
+"Paste_With_Authorship_For_Undo" = "вставку с авторством";
+"Paste_Without_Authorship" = "Вставить без авторства";
+
+"Authorship_Not_Available" = "Авторство поддерживается только в Markdown-файлах.";
+
+"File_Encoding_Error" = "Не удалось открыть файл «%@».";
+"File_Encoding_Error_Failure_Reason" = "Не удалось определить кодировку содержимого файла.";
+"File_Encoding_Error_Recovery_Suggestion" = "Возможно, вы сможете изменить кодировку текста с помощью другого приложения.";
+
+"Edit_Authorship" = "Редактировать авторство";
+"Enable_Authorship" = "Включить авторство";
+"Disable_Authorship" = "Отключить авторстуво";
+"Disable_Authorship_Confirmation" = "Действительно отключить авторство в «%@»?";
+"Disable_Authorship_Confirmation_Description" = "Все примечания об авторстве будут удалены.";
+
+"Misplaced_Authorship" = "Смещённое авторство";
+"Misplaced_Authorship_Description" = "Файл редактировался в приложении, которое не обновило примечания об авторстве. Часть или все авторство может быть смещено.";
+"Review_Authorship" = "Проверить авторство";
+"Discard_Authorship" = "Сбросить авторство";
+"Keep_Authorship" = "Оставить авторство";
+
+"Reorder_Authors" = "Изменить порядок авторов";
+"Edit_Author" = "Править автора";
+"Delete_Author" = "Удалить автора";
+"Replace_Author" = "Заменить автора";
+"Set_Author" = "Задать автора";
+
+"Authors_Show" = "Показать авторов";
+"Authors_Hide" = "Скрыть авторов";
+
+"Paste_As_Author" = "Вставить как %@";
+"Paste_Edits_From_Author" = "Вставить правки от %@";
+"Mark_Selection_As_Author" = "Пометить выделение как %@";
+"Mark_As_Author" = "Пометить как %@";
+
+"Paste_For_Undo" = "вставку";
+"Paste_As_Author_For_Undo" = "вставку как %@";
+"Paste_Edits_From_Author_For_Undo" = "вставку правок от %@";
+"Mark_Selection_As_Author_For_Undo" = "пометку выделения как %@";
+"Mark_As_Author_For_Undo" = "пометку как %@";
+
+"New_Author" = "Новый автор";
+
+"Paste_As_New_Author" = "Вставить как новый автор";
+"Paste_Edits_From_New_Author" = "Вставить правки от нового автора";
+"Mark_Selection_As_New_Author" = "Пометить выбранное как новый автор";
+"Mark_As_New_Author" = "Пометить как новый автор";
+
+"Paste_As" = "Вставить как";
+"Paste_Edits_From" = "Вставить правки от";
+"Mark_As" = "Пометить как";
+"Mark_Selection_As" = "Пометить выбранное как";
+
+"Paste" = "Вставить";
+"Paste_Edits" = "Вставить правки";
+"Mark" = "Пометить";
+"Mark_Selection" = "Пометить выбранное";
+
+"Author_Secondary_Unnamed_Error" = "Невозможно сохранить автора без имени.";
+
+"Set_Up_Authorship" = "Настроить авторство";
 
 /*---------
 Text Check
@@ -199,7 +330,7 @@ Text Check
 "Style_Check_Target_Cliches" = "Клише";
 "Style_Check_Target_Redundancies" = "Многословие";
 "Style_Check_Target_Custom" = "Свое";
-"Style_Check_Languages" = "Встроенные шаблоны для английского, французского, немецкого языков.";
+"Style_Check_Languages" = "Встроенные шаблоны для английского, испанского, французского и немецкого языков.";
 
 /*----------
  Focus Tools
@@ -292,14 +423,13 @@ Text Check
 "Web_Service_Error_WordPress_API_Not_Found" = "Не удалось найти WordPress API.";
 "Web_Service_Error_WordPress_API_Not_Found_Recovery_Suggestion" = "Убедитесь, что вы используете WordPress 4.7 или новее, и что мета тег WordPress API присутствует на странице.";
 
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "Нет паролей для приложения от WordPress";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "Пароли для приложения от WordPress недоступны.";
-"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Убедитесь, что вы используете версию WordPress 5.6 или новее, а пароли для приложения не отключены на сайте или для вашего пользователя.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Title" = "Пароли приложений WordPress недоступны";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found" = "Пароли приложений WordPress недоступны.";
+"Web_Service_Error_WordPress_App_Passwords_Not_Found_Recovery_Suggestion" = "Убедитесь, что пароли приложений включены на сайте и для вашего пользователя. Некоторые плагины безопасности по умолчанию отключают пароли приложений.";
 
 "Web_Service_Recovery_Suggestion_Try_Later" = "Пожалуйста, попробуйте позже.";
 
 "Medium_Failure_Reason_Unsupported_Content" = "Некоторые элементы могут выглядеть иначе: %@.";
-"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
 "Medium_Failure_Reason_Unsupported_Content_Tables" = "таблицы";
 "Medium_Failure_Reason_Unsupported_Content_Footnotes" = "сноски";
 "Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "списки больше чем с одним уровнем";
@@ -399,6 +529,10 @@ Text Check
 "Library_Location_Desktop" = "Рабочий стол";
 "Library_Location_Documents" = "Документы";
 
+"Navigation" = "Навигация";
+"Navigation_Tree" = "Дерево";
+"Navigation_List" = "Список";
+
 /*----------------
  Library Locations
  ----------------*/
@@ -413,9 +547,9 @@ Text Check
 "Library_Location_Error_Not_Found_Failure_Reason" = "Возможно, оно было удалено или расположено на извлекаемом устройстве.";
 "Library_Location_Error_Not_Found_Recovery_Suggestion" = "Подключите извлекаемое устройство, чтобы получить доступ к местоположению библиотеки.";
 
-/*---------
+/*--------
  Wikilinks
- ---------*/
+ --------*/
 
 "Library_Destination_Error_Library_Location_Not_Found_Title" = "Не удается найти местоположение библиотеки с именем «%@»";
 "Library_Destination_Error_Library_Location_Not_Found" = "Не удается найти местоположение библиотеки с именем «%@».";
@@ -424,6 +558,14 @@ Text Check
 "Library_Destination_Error_Destination_Points_Outside_Library_Title" = "Невозможно получить доступ к элементам за пределами библиотеки";
 "Library_Destination_Error_Destination_Points_Outside_Library" = "Невозможно получить доступ к элементам за пределами библиотеки.";
 "Library_Destination_Error_Destination_Points_Outside_Library_Recovery_Suggestion" = "Убедитесь, что путь к библиотеке задан правильно.";
+
+/*-----------
+ Library Edit
+ -----------*/
+
+"Library_Edit_Error_File_Changed_Title" = "Файл изменен";
+"Library_Edit_Error_File_Changed" = "Невозможно применить правки, поскольку содержащий их файл изменен.";
+"Library_Edit_Error_File_Changed_Recovery_Suggestion" = "Повторите попытку.";
 
 /*--------
  Documents
@@ -473,7 +615,7 @@ Text Check
 
 "Library_Sort_By_Part_Joiner" = ", ";
 
-"Library_Sort_Order_Persistent" = "Всегда использовать эти параметры здесь";
+"Library_View_Options_Persistent" = "Всегда использовать эти параметры здесь";
 
 /*----------
  Focus Scope
@@ -507,8 +649,8 @@ Text Check
 
 "Content_Block_Error_Unknown_Extension" = "«%@» имеет неподдерживаемое расширение.";
 "Content_Block_Error_Unknown_Extension_Title" = "«%@» имеет неподдерживаемое расширение.";
-"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Блоки контента должны быть текстовыми файлами или изображениями.";
-"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilink embeds must be Markdown files or images.";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Блоки контента должны быть Markdown-файлами или изображениями.";
+"Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Вики-блоки контента должны быть Markdown-файлами или изображениями.";
 
 "Content_Block_Error_Recursive_Reference" = "«%@» содержит рекурсивную ссылку.";
 "Content_Block_Error_Recursive_Reference_Title" = "«%@» содержит рекурсивную ссылку";
@@ -526,10 +668,14 @@ Text Check
  Text Stats
  ---------*/
 
-"Stats_Reading_Time" = "%@ время чтения";
+"Stats_Reading_Time_Title" = "%@ время чтения";
+"Stats_Speaking_Time_Title" = "%@ время произношения";
+/* %1$@ is percentage, %2$@ is author name */
+"Stats_Author_Title" = "%1$@ %2$@";
 "Stats_Name_Words" = "Слова";
 "Stats_Name_Sentences" = "Предложения";
 "Stats_Name_Reading_Time" = "Время чтения";
+"Stats_Name_Speaking_Time" = "Время произношения";
 "Stats_Name_Tasks" = "Задачи";
 "Stats_Name_Characters" = "Символы";
 "Stats_Name_Characters_Without_Spaces" = "Символы без пробелов";
@@ -572,3 +718,5 @@ Text Check
 "PDF_Scale_Fit_Page" = "Страница целиком";
 "PDF_Scale_Fit_Width" = "По ширине страницы";
 "PDF_Percent_Zoom" = "%zd %";
+
+"Help_Shortcuts" = "Быстрые команды";

@@ -7,6 +7,9 @@
 "Library_Title" = "Libreria";
 
 /* Title for root library view. */
+"Organizer_Title" = "Organizer";
+
+/* Title for root library view. */
 "Library_Locations_Section_Title" = "Posizioni";
 
 /* Title for root library view. */
@@ -49,10 +52,8 @@
  Library Location
  ---------------*/
 
-"Library_Location_Introduction_Alert_Title" = "Come aggiungere una posizione nella Libreria";
-"Library_Location_Introduction_Alert_Message" = "\nApri una cartella che contiene la cartella che desideri usare come Posizione della libreria.\n\nTocca Seleziona, seleziona la cartella e tocca Apri.";
-"Library_Location_Introduction_Hide_Forever_Alert_Title" = "Non mostrare più";
 "Library_Location_Rename_Alert_Title" = "Rinomina posizione della libreria";
+"Library_Location_Name_Alert_Title" = "Inserisci il nome della posizione della libreria";
 
 /*-----------
  Smart Folder
@@ -112,9 +113,6 @@
 
 /* Action to configure keyboard. */
 "Action_Configure_Keyboard" = "Configura tastiera";
-
-/* Button to create new folder. */
-"Button_New_Folder" = "Nuova cartella";
 
 /* Button to change sorting order. */
 "Button_Sort_By" = "Organizza per";
@@ -189,6 +187,12 @@
  Editor
  -----*/
 
+"Secure_Paste_Suggestion" = "Non vorresti più confermare ogni volta che incolli da altre app?";
+
+"Secure_Paste_Recovery_Suggestion" = "Cambia «Incolla da altre app» in «Consenti» nelle Impostazioni di sistema.";
+
+"Open_System_Settings" = "Apri le Impostazioni di sistema";
+
 /* Title for content block warning list. */
 "Content_Block_Warnings_Title" = "Blocchi di contenuti";
 
@@ -221,7 +225,7 @@
  ---------*/
 
 /* Menu item title for text transformations. */
-"Menu_Transform" = "Trasforma...";
+"Menu_Transform" = "Trasforma";
 
 /* Menu item title for transforming text to upper case. */
 "Menu_Transform_To_Upper_Case" = "Maiuscole";
@@ -279,6 +283,8 @@
 
 /* Action to duplicate. */
 "Menu_Duplicate" = "Duplica";
+
+"Menu_Rename_Document" = "Rinomina il documento";
 
 /* Action to rename. */
 "Menu_Rename" = "Rinomina";
@@ -361,9 +367,6 @@
 /* Action to open photo library. */
 "Action_Choose_Photo" = "Scegli foto...";
 
-/* Action to create new file. */
-"Action_New_File" = "Nuovo file";
-
 /* Title for alert to create new folder. */
 "New_File_Alert_Title" = "Inserisci nome file";
 
@@ -395,17 +398,11 @@
 "Rename_Failure_Title" = "Impossibile rinominare";
 
 /* Rename failure title. */
-"Rename_Failure_Permissions" = "I file di altre app possono essere rinominati solo nell'app File.";
+"Rename_Failure_Permissions" = "I file di altre app possono essere rinominati solo nell’app File.";
 
 /*---------
  Table Size
  ---------*/
-
-/* Columns number label in table size picker. */
-"Table_Size_Picker_Columns" = "colonne";
-
-/* Rows number label in table size picker. */
-"Table_Size_Picker_Rows" = "file";
 
 /* Action title to add table with a selected size. */
 "Action_Add_Table" = "Aggiungi tabella";
@@ -449,67 +446,6 @@ Document
 
 /* Share sheet 'Save to…" activity option */
 "Save_To_Export_Label" = "Salva su...";
-
-/*--------------
- Version Browser
- --------------*/
-
-/* Version browser title for conflict resolution */
-"Version_Browser_Title_Conflict" = "Conflitto versione";
-
-/* Version browser title */
-"Version_Browser_Title" = "Versioni";
-
-/* Version browser title. */
-"Version_Browser_Current_Version" = "Attuale";
-
-/* Version browser subitem title in conflict, %@ = document name */
-"Version_Browser_Subitem_Title" = "Tutte le versioni disponibili di %@.";
-
-/* Version browser subitem message. */
-"Version_Browser_Subitem_Message" = "Scegli una versione meno recente da ripristinare. Scegli la versione attuale insieme a versioni meno recenti per crearle come file separati.";
-
-/* Version browser subitem message in conflict */
-"Version_Browser_Subitem_Message_Conflict" = "Le modifiche non sono sincronizzate. Scegli quali documenti conservare.";
-
-/* Version browser subitem title, %@ = document name. */
-"Version_Browser_Subitem_Title_Conflict" = "Versioni in conflitto di %@.";
-
-/* Version browser action in conflict when 1 version is selected */
-"Version_Browser_Conflict_Keep" = "Mantieni";
-
-/* Version browser action title when two conflict versions exist and both we re marked to keep */
-"Version_Browser_Conflict_Keep_Both" = "Mantieni entrambe";
-
-/* Version browser action title when two versions exist and both were chosen */
-"Version_Browser_Conflict_Keep_All" = "Mantieni tutte";
-
-/* Version browser action in conflict when more than one version is selected */
-"Version_Browser_Conflict_Keep_Number" = "Mantieni %d";
-
-/* Version browser action when 1 version is selected */
-"Version_Browser_Revert" = "Ripristina";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Revert_And_Save_Number" = "Ripristina ad ultima, Crea %d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Save_Number" = "Crea %d";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Title" = "Impossibile leggere le versioni";
-
-/* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Message" = "Errore iCloud: “%@”.";
-
-/* Unknown error message from iCloud. */
-"Version_Browser_Error_Unknown" = "Errore sconosciuto";
-
-/* Network is not available while attemting to browse versions. */
-"Version_Browser_Error_Network_Unavailable" = "Rete non disponibile.";
-
-/* Network failure while attemting to browse versions. */
-"Version_Browser_Error_Network_Failure" = "Connessione non possibile.";
 
 /*--------
  Files App
@@ -616,9 +552,10 @@ Document
 "Appearance_Light" = "Chiaro";
 "Appearance_Dark" = "Scuro";
 
+"More_System_Settings" = "Altre impostazioni di sistema";
+
 /* Settings panes. */
 "Settings_Interface_Title" = "Interfaccia";
-"Settings_Keyboard_Title" = "Tastiera";
 "Settings_General_Title" = "Generale";
 "Settings_Files_Title" = "File";
 "Settings_Accounts_Title" = "Account";
@@ -626,7 +563,11 @@ Document
 "Settings_Editor_Title" = "Editor";
 "Settings_Templates_Title" = "Modelli";
 "Settings_Markdown_Title" = "Markdown";
-"Settings_URL_Scheme_Title" = "Comandi URL";
+"Settings_Shorcuts_Title" = "Comandi rapidi";
+
+"Settings_Shortcuts_Action" = "Scarica comandi rapidi";
+"Shortcuts_Not_Supported" = "Non puoi utilizzare i comandi rapidi con questa versione di %@. Hai %@ %@. I comandi rapidi richiedono %@ 16.1 o successivo.";
+"Settings_Shortcuts_Description" = "I comandi rapidi semplificano l’esecuzione di compiti combinando azioni — i blocchi costruttivi di un comando rapido — in una sequenza di passaggi, formando così un comando rapido, che può essere avviato con un tocco o chiedendo a Siri.";
 
 /* Appearance section in settings. */
 "Settings_Appearance_Section_Title" = "Aspetto";
@@ -635,7 +576,7 @@ Document
 "Settings_Accounts_Section_Title" = "Condividendo account";
 
 "Settings_Accounts_Add" = "Aggiungi account…";
-"Settings_Accounts_Remove" = "Rimuovi l'account";
+"Settings_Accounts_Remove" = "Rimuovi l’account";
 "Settings_Accounts_Configure" = "Configura account";
 
 /*-----------------
@@ -664,10 +605,7 @@ Document
 
 /* Library section in settings. */
 "Settings_Library_Appearance_Section_Title" = "Aspetto";
-"Settings_Library_Show_Text_Excerpts" = "Mostra estratti di testo";
 "Settings_Library_Show_Extensions" = "Mostra estensioni di file";
-"Settings_Library_Show_Extensions" = "Mostra estensioni di file";
-"Settings_Library_Pin_Folders_To_Top" = "Blocca le cartelle in alto";
 
 /* Sort by section in settings. */
 "Settings_Library_Sort_By_Section_Title" = "Criterio ordinamento";
@@ -688,49 +626,27 @@ Document
 "Settings_Editor_Text_Section_Title" = "Testo";
 "Settings_Editor_Typography" = "Tipografia";
 "Settings_Editor_Line_Length_Limit_Edit" = "Lunghezza massima di linea";
-"Settings_Editor_Language" = "Lingua";
-"Settings_Editor_Emphasis" = "Emphasis";
+"Settings_Editor_Typeface" = "Carattere";
+"Label_Emphasis" = "Emphasis";
 
 /* Focus mode section in settings. */
 "Settings_Editor_Focus_Mode_Section_Title" = "Modalità focus";
 "Settings_Editor_Focus_Mode" = "Modalità focus";
 "Settings_Editor_Focus_Mode_Scope" = "Mirino";
 
-/* Keyboard section in settings. */
-"Settings_Keyboard_Lightning_Menu" = "Menù Flash";
-"Settings_Keyboard_Lightning_Menu_Add_Actions" = "Aggiungi azioni";
-"Settings_Keyboard_Lightning_Menu_Add_Submenu" = "Aggiungi Sottomenu";
-"Settings_Keyboard_Lightning_Menu_Edit_Submenu" = "Modifica Sottomenu";
-"Settings_Keyboard_Lightning_Menu_Remove_Action" = "Rimuovi azione";
-"Settings_Keyboard_Lightning_Menu_Remove_Submenu" = "Rimuovi sottomenu";
-"Settings_Keyboard_Lightning_Menu_Select_Action_Title" = "Seleziona azione";
-"Settings_Keyboard_Lightning_Menu_Submenu_Actions_Title" = "Azioni";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline" = "Mostra inline";
-"Settings_Keyboard_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Le azioni del sottomenu inline sono mostrate nel menu principale, separate dalle altre azioni.";
-"Settings_Keyboard_Lightning_Menu_Section_Footer" = "Tocca e tieni premuta qualsiasi azione nel Menù Flash per aprire queste impostazioni.";
-
-"Settings_Command_Keyboard" = "Tastiera di comando";
-"Settings_Command_Keyboard_Enable" = "Mostra sulla barra della tastiera";
-"Settings_Command_Keyboard_Always_Show_As_Popover" = "Mostra sempre come popover";
-"Settings_Command_Keyboard_Configure" = "Configura";
-"Settings_Command_Keyboard_Enabled_Section_Footer" = "Tocca e tieni premuta qualsiasi tasto rapido nella tastiera di comando per aprire la modalità di configurazione.";
-"Settings_Command_Keyboard_Disabled_Section_Footer" = "Le azioni della Tastiera di comando sono disponibili sul Menù Flash, sulla Ricerca Rapida e come comandi rapidi quando è collegata una tastiera hardware";
-
 /* Lightning menu strings. */
 "Lightning_Menu_Group_Text" = "Testo";
+"Lightning_Menu_Group_Document" = "Documento";
 "Lightning_Menu_Group_Actions" = "Azioni";
 "Lightning_Menu_Group_Menu" = "Menu";
 "Configure_Menu" = "Configura menu";
 
-/* Hardware keyboard section in settings. */
-"Settings_Editor_Hardware_Keyboard_Title" = "Tastiera hardware";
-"Settings_Editor_Hardware_Keyboard_Footer" = "Ciò influisce sulla barra della tastiera solo quando è collegata una tastiera hardware.";
-"Settings_Editor_Hardware_Keyboard_Show_Bar" = "Mostra Barra della tastiera";
-
 /* Smart substitutions section in settings. */
 "Settings_Editor_Text_Input_Section_Title" = "Input di testo";
-"Settings_Editor_Text_Input_Section_Footer" = "È possibile attivare spelling, virgolette intelligenti e trattini su Impostazioni → Generali → Tastiera.";
+"Settings_Editor_Text_Input_Section_Footer" = "%@ può essere attivata in Impostazioni di sistema → Generali → Tastiera.";
+"Settings_Editor_Autocorrection" = "Autocorrezione";
 "Settings_Editor_Check_Spelling" = "Controlla spelling";
+"Settings_Editor_Predictive" = "Pronostica";
 "Settings_Editor_Smart_Quotes" = "Virgolette intelligenti";
 "Settings_Editor_Smart_Dashes" = "Trattini intelligenti";
 "Settings_Editor_Smart_Inset_Delete" = "Copia / Incolla intelligente";
@@ -808,14 +724,11 @@ Document
  URL Scheme Settings
  -------------------*/
 
-/* URL scheme setting. */
-"Settings_URL_Sheme_Enable" = "Abilita comandi URL";
-
-/* URL scheme settings auth token header. */
-"Settings_URL_Sheme_Auth_Token_Header" = "Token autor.";
-
-/* URL scheme settings auth token footer. */
-"Settings_URL_Sheme_Auth_Token_Footer" = "Per alcuni comandi URL, è necessario il token d’autorizzazione.";
+"Settings_URL_Commands_Section_Title" = "Comandi URL";
+"Settings_URL_Commands_Section_Footer" = "I comandi URL ti consentono di collegare ai file di iA Writer da altre app e di eseguire azioni con vari strumenti di automazione.";
+"Settings_URL_Commands_Show_Documentation" = "Mostra documentazione";
+"Settings_URL_Commands_Enable" = "Abilita comandi URL";
+"Settings_URL_Commands_Auth_Token_Header" = "Token autor.";
 
 /*---------
  URL Scheme
@@ -832,19 +745,3 @@ Document
 
 /* URL reset alert title. */
 "URL_Scheme_Reset_Alert_Message" = "Vuoi davvero ripristinare il token d’autorizzazione? Questa azione è irreversibile.";
-
-/*-----
- Editor
- -----*/
-
-/* Find bar menu menu item. */
-"Find_Match_Style" = "Abbina stile";
-
-/* Find bar menu menu item. */
-"Find_Match_Case" = "Abbina testo maiuscolo";
-
-/* Find bar action to replace selected result. */
-"Replace_Action" = "Sostituisci";
-
-/* Find bar action to replace all results. The button is placed after the Replace button (that replaces selected result: [Replace | All]. */
-"Replace_All_Action" = "Tutto";

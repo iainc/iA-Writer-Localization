@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "是否确定重置键盘布局？所有更改都将丢失。";
 "Key_Picker_Action_Reset" = "重置键盘布局";
-"Key_Picker_Action_Cancel" = "取消​​";
+
+"Lightning_Menu_Message_Reset" = "您确定要重置闪电菜单吗？您的所有修改都将丢失。";
+"Lightning_Menu_Action_Reset" = "重置闪电菜单";
+
+"Edit_Menu_Message_Reset" = "您确定要重置编辑菜单吗？您的所有修改都将丢失。";
+"Edit_Menu_Action_Reset" = "重置编辑菜单";
+
+"Double_Tap_Shift_Suggestion" = "双击Shift可以在键盘栏中显示结构操作。";
 
 "Menu_Quick_Search" = "快速搜索";
 "Menu_Find" = "查找和替换";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "查找";
 "Find_Replace_Placeholder" = "替换";
+"Find_Match_Style" = "匹配样式";
+"Find_Match_Case" = "匹配文本大小写";
+"Replace_Action" = "替换";
+"Replace_All_Action" = "全部";
 
 "Key_Description_Lightning" = "闪电";
 "Key_Description_Insert_Selected_Completion" = "插入选定的完成情况";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "大小";
 "Lightning_Size_Regular" = "常规";
+"Lightning_Size_Medium" = "中";
 "Lightning_Size_Compact" = "紧凑";
+
+"Edit_Menu" = "编辑";
+"Settings_Edit_Menu" = "编辑菜单";
+"Settings_Edit_Menu_Section_Footer" = "使用“编辑”菜单可以对选定的文本执行操作。不适用于所选内容的操作将会自动隐藏。";
+
+"Settings_Keyboard_Title" = "键盘";
+"Settings_Lightning_Menu" = "闪电菜单";
+"Settings_Lightning_Action_Not_Found" = "未找到";
+"Settings_Lightning_Menu_Add_Actions" = "添加操作";
+"Settings_Lightning_Menu_Add_Submenu" = "添加子菜单";
+"Settings_Lightning_Menu_Edit_Submenu" = "编辑子菜单";
+"Settings_Lightning_Menu_Remove_Action" = "删除操作";
+"Settings_Lightning_Menu_Remove_Submenu" = "删除子菜单";
+"Settings_Lightning_Menu_Select_Action_Title" = "选择操作";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "操作";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "外观";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "显示嵌入式";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "嵌入式子菜单操作显示在父菜单中，与其他操作分开。";
+"Settings_Lightning_Menu_Section_Footer" = "点击并按住闪电菜单中的任何操作来打开这些设置。";
+"Settings_Command_Keyboard" = "命令键盘";
+"Settings_Command_Keyboard_Enable" = "在键盘栏中显示";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "始终显示为弹出框";
+"Settings_Command_Keyboard_Configure" = "配置";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "点击并按住命令键盘中的任何一个轻键，以打开配置模式。";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "命令键盘操作可在闪电菜单和快速搜索中使用，并在连接硬件键盘时用作键盘快捷键。";
+"Settings_Hardware_Keyboard_Title" = "硬键盘";
+"Settings_Hardware_Keyboard_Footer" = "这只会在连接硬件键盘时影响键盘栏。";
+"Settings_Hardware_Keyboard_Show_Bar" = "显示键盘栏";

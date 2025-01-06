@@ -10,20 +10,22 @@
 "Structure" = "結構";
 
 "Wikilink" = "維基連結";
-"Headings" = "標題 1–6";
+"Headings" = "標題";
+"Headings1-6" = "標題 1–6";
 "Heading1" = "標題 1";
 "Heading2" = "標題 2";
 "Heading3" = "標題 3";
 "Heading4" = "標題 4";
 "Heading5" = "標題 5";
 "Heading6" = "標題 6";
-"Lists" = "所有列表";
+"Lists" = "列表";
 "List" = "列表";
 "OrderedList" = "已排序列表";
 "TaskList" = "任務列表";
 "OrderedTaskList" = "已排序任務列表";
 "CodeBlock" = "程式碼區塊";
 "BlockQuote" = "引用區塊";
+"Comment" = "註解";
 "HorizontalRule" = "分隔線";
 "PageBreak" = "頁面分隔線";
 "Strong" = "粗體";
@@ -87,6 +89,7 @@
 "Copy" = "複製";
 "Paste" = "貼上";
 "Select" = "選擇";
+"SelectAll" = "全選";
 "Undo" = "復原";
 "Redo" = "取消復原";
 "AddImage" = "加入圖片";

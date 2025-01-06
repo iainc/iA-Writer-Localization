@@ -5,7 +5,14 @@
 
 "Key_Picker_Message_Reset" = "Souhaitez-vous vraiment réinitialiser la configuration du clavier ? Toutes vos modifications seront perdues.";
 "Key_Picker_Action_Reset" = "Réinitialiser la configuration du clavier";
-"Key_Picker_Action_Cancel" = "Annuler";
+
+"Lightning_Menu_Message_Reset" = "Souhaitez-vous vraiment réinitialiser le menu Lightning ? Toutes vos modifications seront perdues.";
+"Lightning_Menu_Action_Reset" = "Réinitialiser le menu Lightning";
+
+"Edit_Menu_Message_Reset" = "Souhaitez-vous vraiment réinitialiser le menu Édition ? Toutes vos modifications seront perdues.";
+"Edit_Menu_Action_Reset" = "Réinitialiser le menu Édition";
+
+"Double_Tap_Shift_Suggestion" = "Double-cliquez sur Maj pour afficher les actions de structure dans la barre du clavier.";
 
 "Menu_Quick_Search" = "Recherche rapide";
 "Menu_Find" = "Rechercher et remplacer";
@@ -14,6 +21,10 @@
 
 "Find_Placeholder" = "Trouver";
 "Find_Replace_Placeholder" = "Remplacer";
+"Find_Match_Style" = "Associer le style";
+"Find_Match_Case" = "Associer la casse du texte";
+"Replace_Action" = "Remplacer";
+"Replace_All_Action" = "Tous";
 
 "Key_Description_Lightning" = "Éclair";
 "Key_Description_Insert_Selected_Completion" = "Insérer le résultat sélectionné";
@@ -60,7 +71,7 @@
 "Key_Description_Return" = "Retour";
 "Key_Description_Delete_Forward" = "Supprimer";
 "Key_Description_Delete_Backward" = "Retour arrière";
-"Key_Description_Delete_Paragraph" = "Supprimer le praragraphe";
+"Key_Description_Delete_Paragraph" = "Supprimer le paragraphe";
 "Key_Description_Dismiss_Keyboard" = "Masquer le clavier";
 "Key_Description_Backtab" = "Désindenter";
 "Key_Description_Tab" = "Indenter";
@@ -74,4 +85,33 @@
 
 "Lightning_Size" = "Taille";
 "Lightning_Size_Regular" = "Régulière";
+"Lightning_Size_Medium" = "Medium";
 "Lightning_Size_Compact" = "Compacte";
+
+"Edit_Menu" = "Modifier";
+"Settings_Edit_Menu" = "Menu Édition";
+"Settings_Edit_Menu_Section_Footer" = "Utilisez le menu Édition pour effectuer des actions sur le texte sélectionné. Les actions qui ne s’appliquent pas à la sélection sont automatiquement masquées.";
+
+"Settings_Keyboard_Title" = "Clavier";
+"Settings_Lightning_Menu" = "Menu Éclair";
+"Settings_Lightning_Action_Not_Found" = "Introuvable";
+"Settings_Lightning_Menu_Add_Actions" = "Ajouter des actions";
+"Settings_Lightning_Menu_Add_Submenu" = "Ajouter un sous-menu";
+"Settings_Lightning_Menu_Edit_Submenu" = "Modifier le sous-menu";
+"Settings_Lightning_Menu_Remove_Action" = "Supprimer l’action";
+"Settings_Lightning_Menu_Remove_Submenu" = "Supprimer le sous-menu";
+"Settings_Lightning_Menu_Select_Action_Title" = "Sélectionner l’action";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "Actions";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "Apparence";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "Afficher l’inlining";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "Les actions du sous-menu inline sont affichées dans le menu parent, séparées des autres actions.";
+"Settings_Lightning_Menu_Section_Footer" = "Touchez et maintenez n’importe quelle action dans le Menu Éclair pour ouvrir ces paramètres.";
+"Settings_Command_Keyboard" = "Clavier de commande";
+"Settings_Command_Keyboard_Enable" = "Afficher sur la barre de clavier";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Toujours afficher en tant que Popover";
+"Settings_Command_Keyboard_Configure" = "Configurer";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Touchez et maintenez n’importe quelle touche illuminée sur le clavier de commande pour ouvrir le mode configuration.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "Les actions du clavier de commande sont disponibles dans le Menu Éclair, la Recherche rapide et en tant que raccourcis clavier lorsqu’un clavier périphérique est connecté.";
+"Settings_Hardware_Keyboard_Title" = "Clavier matériel";
+"Settings_Hardware_Keyboard_Footer" = "Cette action n’affecte la barre de clavier que lorsqu’un clavier périphérique est connecté.";
+"Settings_Hardware_Keyboard_Show_Bar" = "Afficher la barre clavier";

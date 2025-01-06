@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "未知错误";
+"Unknown_Error" = "发生未知错误。";
+"Unknown_Error_Recovery_Suggestion" = "请重试，然后联系客服。";
+
+"Annotations_Key" = "注释";
+
+"Author_Human" = "人工";
+"Author_Other" = "其他";
+
+"Author_Unnamed" = "未命名";
+"Author_Unspecified" = "未指定";
+
+"Annotation_Unknown" = "未知";
+"Annotation_Unknown_Description" = "这一版本的%@无法显示此注释。";
+
+"Annotation_Authorship" = "作者";
+"Annotation_Authorship_Description" = "此注释包含作者。";

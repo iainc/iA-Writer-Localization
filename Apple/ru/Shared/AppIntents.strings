@@ -1,0 +1,130 @@
+
+"Text Result" = "Текстовый результат";
+"Text" = "Текст";
+
+"Library Path Result" = "Результат с путём в библиотеке";
+
+"Library Path" = "Путь в библиотеке";
+
+"What is the Library Path of the file?" = "Где расположен файл?";
+"What is the Library Path of the folder?" = "Где расположена папка?";
+
+"Save Text" = "Сохранить текст";
+"Saves text to the file at the specified Library Path." = "Сохраняет текст в файл по указанному пути в библиотеке.";
+"Save ${text} to file at ${libraryPath}" = "Сохранить ${text} в файл в ${libraryPath}";
+
+"Save Edits From" = "Сохранить правки от";
+"Saves text to the file at the specified Library Path. Automatically detects and attributes changes to the provided author." = "Сохраняет текст в файл по указанному пути в библиотеке. Автоматически обнаруживает изменения и сопоставляет их указанному автору.";
+
+"Save ${text} with edits from ${authorType} author named ${authorName} to file at ${libraryPath}" = "Сохранить ${text} с правками от автора типа ${authorType} с именем ${authorName} в файл в ${libraryPath}";
+"Save ${text} with edits from ${authorType} author to file at ${libraryPath}" = "Сохранить ${text} с правками от автора тип ${authorType} в файл в ${libraryPath}";
+
+"Add Text" = "Добавить текст";
+"Adds text to the file at the specified Library Path." = "Добавляет текст в файл по указанному пути в библиотеке";
+"Add ${text} to file at ${libraryPath}" = "Добавить ${text} в вайл в ${libraryPath}";
+
+"Open" = "Открыть";
+"Opens the file at the specified Library Path." = "Открывает файл по указанному пути в библиотеке";
+"Open file at ${libraryPath}" = "Открыть файл в ${libraryPath}";
+
+"Open New" = "Открыть новый";
+"Opens a new file at the specified Library Path using the text passed as input. The new file will be named automatically if the Library Path is omitted or specifies a folder." = "Открывает новый файл по указанному пути в библиотеке с использованием текста, переданного в качестве входных данных. Новый файл получит автоматическое имя, если путь в библиотеке пропущен или указывает на папку.";
+"Open new file with ${text} at ${libraryPath}" = "Открыть новый файл с ${text} в ${libraryPath}";
+
+"Get Current File" = "Получить текущий файл";
+"Gets the Library Path of the file that is currently open in iA Writer, if any." = "Получает путь в библиотеке для файла, который в настоящее время открыт в iA Writer (если таковой есть).";
+"Get current file" = "Получить текущий файл";
+
+"Get Link" = "Получить ссылку";
+"Gets a link to open the file at the specified Library Path." = "Получает ссылку для открытия файла по указанному пути в библиотеке.";
+"Get link to open file at ${libraryPath}" = "Получить ссылку для открытия в ${libraryPath}";
+
+"Get Text" = "Получить текст";
+"Gets text at the specified Library Path." = "Получает текст по указанному пути в библиотеке.";
+"Get text at ${libraryPath}" = "Получить текст в ${libraryPath}";
+
+"Get Text as HTML" = "Получить текст как HTML";
+"Gets text at the specified Library Path as HTML." = "Получает текст по указанному пути в библиотеке в формате HTML.";
+"Get text at ${libraryPath} as HTML" = "Получить текст в ${libraryPath} как HTML";
+
+"Get Text as Markdown" = "Получить текст как Markdown";
+"Gets text at the specified Library Path as Markdown." = "Получает текст по указанному пути в библиотеке как Markdown.";
+"Get text at ${libraryPath} as Markdown" = "Получить текст в ${libraryPath} как Markdown";
+
+"Author" = "Автор";
+"Who is the author of the text?" = "Кто автор текста?";
+
+"Unspecified" = "Не указано";
+"Primary" = "Основной";
+"Human" = "Челоыек";
+"Other" = "Другое";
+
+"Name" = "Имя";
+"What is the name of the author?" = "Что такое имя автора?";
+
+"Identifier" = "Идентификатор";
+"What would you like to use to identify this author? For example, an email, or a website." = "Какие данные вы хотели бы использовать для идентификации этого автора? Например, адрес эл. почты или веб-сайт.";
+
+"Replace if Exists" = "Заменить, если существует";
+
+"Location" = "Местоположение";
+"Where should the text be added?" = "Где следует добавить текст?";
+"Beginning" = "В начале";
+"End" = "В конце";
+
+"Insert Padding" = "Вставить отбивку";
+"None" = "None";
+"Sentence" = "Sentence";
+"Line" = "Line";
+"Paragraph" = "Paragraph";
+
+"Edit on iPad and iPhone" = "Редактировать на iPad и iPhone";
+"Open New Window on Mac" = "Открыть новое окно на Mac";
+
+"Edit" = "Правка";
+"Get" = "Получить";
+"Organize" = "Упорядочить";
+
+"Delete" = "Удалить";
+"Deletes the item at the specified Library Path." = "Удаляет элемент по указанному пути в библиотеке.";
+"Delete item at ${libraryPath}" = "Удалить элемент в ${libraryPath}";
+"Delete Immediately" = "Удалить сейчас";
+
+"Duplicate" = "Дублировать";
+"Duplicates the item at the specified Library Path." = "Дублирует элемент по указанному пути в библиотеке.";
+"Duplicate item at ${libraryPath}" = "Дублировать элемент в ${libraryPath}";
+
+"Append Text to Name" = "Добавить текст к имени";
+"Suffix Type" = "Тип суффикса";
+"Default" = "По умолчанию";
+"Custom" = "Пользовательский";
+"Custom Suffix" = "Пользовательский суффикс";
+
+"Copy" = "Копировать";
+"Copies the item at the specified Library Path to the folder at the specified Library Path." = "Копирует элемент по указанному пути в библиотеке в папку по указанному пути в библиотеке.";
+"Copy item at ${libraryPath} to folder at ${folderLibraryPath}" = "Копировать элемент в ${libraryPath} в папку в ${folderLibraryPath}";
+
+"Move" = "Переместить";
+"Moves the item at the specified Library Path to the folder at the specified Library Path." = "Перемещает элемент по указанному пути в библиотеке в папку по указанному пути в библиотеке.";
+"Move item at ${libraryPath} to folder at ${folderLibraryPath}" = "Переместить элемент в ${libraryPath} в папку в ${folderLibraryPath}";
+
+"Rename" = "Переименовать";
+"Renames the item at the specified Library Path." = "Переименовывает элемент по указанному пути в библиотеке";
+"Rename item at ${libraryPath} to ${name}" = "Переименовать элемент в ${libraryPath} в ${name}";
+
+"Favorite Action" = "Действие с избранным";
+"Favorite" = "Добавить в избранное";
+"Unfavorite" = "Удалить из избранного";
+"Favorites the item at the specified Library Path." = "Добавляет в избранное элемент по указанному пути в библиотеке.";
+"${action} item at ${libraryPath}" = "${action} элемент в ${libraryPath}";
+
+"Name" = "Имя";
+
+"Show Quick Search" = "Показать быстрый поиск";
+"Shows Quick Search with the provided query." = "Показывает панель быстрого поиска с указанным поисковым запросом.";
+"Show Quick Search with ${query}" = "Показать быстрый поиск с ${query}";
+
+"Get File Name from Text" = "Получить имя файла из текста";
+"File Name" = "Имя файла";
+"Cleans up text to be used as a file name." = "Очищает текст для использования в качестве имени файла.";
+"Get file name from ${text}" = "Получить имя файла из ${text}";

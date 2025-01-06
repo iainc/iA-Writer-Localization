@@ -1,11 +1,11 @@
 
-/* Class = "NSTextFieldCell"; title = "Saving:"; ObjectID = "DAH-ta-FHC"; */
-"DAH-ta-FHC.title" = "저장:";
+/* Class = "NSTextFieldCell"; title = "Open files:"; ObjectID = "DAH-ta-FHC"; */
+"DAH-ta-FHC.title" = "파일 열기:";
 
-/* Class = "NSTextFieldCell"; title = "Files are always automatically saved. \nIf selected, files will ask whether you want \nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
+/* Class = "NSTextFieldCell"; title = "Files are always automatically saved.\nIf selected, files will ask whether you want\nto keep or revert changes when closed."; ObjectID = "GLa-Mz-lpI"; */
 "GLa-Mz-lpI.title" = "파일은 항상 자동으로 저장됩니다. \n이 옵션이 선택되면, 닫을 때 변경 사항을 \n유지할지 아니면 되돌릴지 물어봅니다.";
 
-/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon \nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
+/* Class = "NSTextFieldCell"; title = "Preferred action will be used when you press ⌘N or click Dock icon\nwhen no other files are open. Alternate action will be used when you press ⌥⌘N."; ObjectID = "HPl-l1-HP7"; */
 "HPl-l1-HP7.title" = "다른 파일이 열려 있지 않을 때 ⌘N을 누르거나 도크 아이콘을 클릭하면 \n우선 작업이 사용됩니다. ⌥⌘N을 누르면 대체 작업이 사용됩니다.";
 
 /* Class = "NSButtonCell"; title = "New"; ObjectID = "Hli-Y7-4TC"; */
@@ -14,10 +14,10 @@
 /* Class = "NSTextFieldCell"; title = "Preferred action:"; ObjectID = "RP1-j6-hey"; */
 "RP1-j6-hey.title" = "우선 작업:";
 
-/* Class = "NSTextFieldCell"; title = "New files will have this extension. \nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
+/* Class = "NSTextFieldCell"; title = "New files will have this extension.\nOnly plain text extensions are allowed."; ObjectID = "UWl-8e-UTr"; */
 "UWl-8e-UTr.title" = "새 파일은 이 확장명을 갖습니다.\n일반 텍스트 확장명만 허용됩니다.";
 
-/* Class = "NSTextFieldCell"; title = "Files will be automatically \ncreated in Library."; ObjectID = "XcW-DB-W12"; */
+/* Class = "NSTextFieldCell"; title = "Files will be automatically\ncreated in Library."; ObjectID = "XcW-DB-W12"; */
 "XcW-DB-W12.title" = "파일은 자동으로 \n라이브러리에 생성됩니다.";
 
 /* Class = "NSButtonCell"; title = "Ask to keep changes when closed"; ObjectID = "dT3-nQ-wep"; */
@@ -26,8 +26,14 @@
 /* Class = "NSButtonCell"; title = "New in Library"; ObjectID = "faP-Wx-ytF"; */
 "faP-Wx-ytF.title" = "라이브러리에 새로 만들기";
 
-/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them \nwhen closed."; ObjectID = "vCs-49-KMB"; */
+/* Class = "NSButtonCell"; title = "Close when quitting"; ObjectID = "ghH-sF-bCo"; */
+"ghH-sF-bCo.title" = "종료 시 닫기";
+
+/* Class = "NSTextFieldCell"; title = "Files will ask whether you want to save them\nwhen closed."; ObjectID = "vCs-49-KMB"; */
 "vCs-49-KMB.title" = "파일을 닫을 때 저장할지 여부를 확인합니다.";
+
+/* Class = "NSTextFieldCell"; title = "When enabled, open files will not be restored\nwhen you re-open iA Writer."; ObjectID = "w6F-Ra-OYQ"; */
+"w6F-Ra-OYQ.title" = "이 옵션이 활성화된 경우, 열린 파일은\niA Writer를 다시 열 때 복원되지 않습니다.";
 
 /* Class = "NSTextFieldCell"; title = "Default extension:"; ObjectID = "whG-r6-ibK"; */
 "whG-r6-ibK.title" = "기본 확장명:";

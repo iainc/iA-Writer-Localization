@@ -1,0 +1,63 @@
+
+/* Button to select all visible items. */
+"Button_Select_All" = "Seleziona tutto";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "Deseleziona Tutto";
+
+/* Version browser title for conflict resolution */
+"Version_Browser_Title_Conflict" = "Conflitto versione";
+
+/* Version browser title */
+"Version_Browser_Title" = "Versioni";
+
+/* Version browser title. */
+"Version_Browser_Current_Version" = "Attuale";
+
+/* Version browser subitem title in conflict, %@ = document name */
+"Version_Browser_Subitem_Title" = "Tutte le versioni disponibili di %@.";
+
+/* Version browser subitem message. */
+"Version_Browser_Subitem_Message" = "Scegli una versione meno recente da ripristinare. Scegli la versione attuale insieme a versioni meno recenti per crearle come file separati.";
+
+/* Version browser subitem message in conflict */
+"Version_Browser_Subitem_Message_Conflict" = "Le modifiche non sono sincronizzate. Scegli quali documenti conservare.";
+
+/* Version browser subitem title, %@ = document name. */
+"Version_Browser_Subitem_Title_Conflict" = "Versioni in conflitto di %@.";
+
+/* Version browser action in conflict when 1 version is selected */
+"Version_Browser_Conflict_Keep" = "Mantieni";
+
+/* Version browser action title when two conflict versions exist and both we re marked to keep */
+"Version_Browser_Conflict_Keep_Both" = "Mantieni entrambe";
+
+/* Version browser action title when two versions exist and both were chosen */
+"Version_Browser_Conflict_Keep_All" = "Mantieni tutte";
+
+/* Version browser action in conflict when more than one version is selected */
+"Version_Browser_Conflict_Keep_Number" = "Mantieni %d";
+
+/* Version browser action when 1 version is selected */
+"Version_Browser_Revert" = "Ripristina";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Revert_And_Save_Number" = "Ripristina ad ultima, Crea %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Save_Number" = "Crea %d";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Title" = "Impossibile leggere le versioni";
+
+/* Version browser action title when two versions exist and both were marked to keep */
+"Version_Browser_Error_Message" = "Errore iCloud: «%@».";
+
+/* Unknown error message from iCloud. */
+"Version_Browser_Error_Unknown" = "Errore sconosciuto";
+
+/* Network is not available while attemting to browse versions. */
+"Version_Browser_Error_Network_Unavailable" = "Rete non disponibile.";
+
+/* Network failure while attemting to browse versions. */
+"Version_Browser_Error_Network_Failure" = "Connessione non possibile.";

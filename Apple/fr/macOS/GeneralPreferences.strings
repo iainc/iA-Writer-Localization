@@ -1,15 +1,21 @@
 
+/* Class = "NSButtonCell"; title = "Get Ready-Made Shortcuts"; ObjectID = "08k-Ex-px6"; */
+"08k-Ex-px6.title" = "Télécharger des Raccourcis";
+
 /* Class = "NSTextFieldCell"; title = "File extensions:"; ObjectID = "0IN-f9-orW"; */
 "0IN-f9-orW.title" = "Extension de fichier :";
 
 /* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
 "7Ng-I8-X9P.title" = "Assortir à l’apparence du système";
 
+/* Class = "NSTextFieldCell"; title = "URL commands allow you link to iA Writer files from other apps, and to perform actions with various automation tools."; ObjectID = "7eH-Lk-TJK"; */
+"7eH-Lk-TJK.title" = "Les commandes URL vous permettent de lier des fichiers iA Writer depuis d'autres applications, et d'effectuer des actions avec divers outils d'automatisation.";
+
 /* Class = "NSButtonCell"; title = "Show file extensions"; ObjectID = "8NU-YT-G88"; */
 "8NU-YT-G88.title" = "Afficher les extensions de fichier";
 
-/* Class = "NSTextFieldCell"; title = "Automation:"; ObjectID = "8RM-fb-kKC"; */
-"8RM-fb-kKC.title" = "Automatisation :";
+/* Class = "NSTextFieldCell"; title = "Shortcuts:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "Raccourcis :";
 
 /* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
 "8Ra-gX-fPi.title" = "Sombre";
@@ -41,11 +47,14 @@
 /* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
 "U8m-wr-wFI.title" = "Clair";
 
-/* Class = "NSButtonCell"; title = "Manage…"; ObjectID = "UpS-Li-DCu"; */
-"UpS-Li-DCu.title" = "Gérer...";
+/* Class = "NSButtonCell"; title = "Manage"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "Gérer";
 
 /* Class = "NSTextFieldCell"; title = "Title bar:"; ObjectID = "Ws8-XL-Ktr"; */
 "Ws8-XL-Ktr.title" = "Barre de titre :";
+
+/* Class = "NSTextFieldCell"; title = "Shortcuts make it easy to get tasks done by combining actions—the building blocks of a shortcut—into a series of steps—a shortcut—that can be launched with one click, or by asking Siri. "; ObjectID = "a5J-pD-uLL"; */
+"a5J-pD-uLL.title" = "Les Raccourcis facilitent l’accomplissement des tâches en combinant des actions — les blocs de construction d’un raccourci — en une série d’étapes, formant ainsi un raccourci, qui peut être lancé d’une simple pression ou en demandant à Siri.";
 
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
 "c8E-lj-f6I.title" = "Masquer";

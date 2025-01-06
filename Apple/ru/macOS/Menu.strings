@@ -305,6 +305,9 @@
 /* Class = "NSMenuItem"; title = "Search Relevance"; ObjectID = "Ac8-2T-zWZ"; Note = "SKIP LOCALIZATION"; */
 "Ac8-2T-zWZ.title" = "Search Rank";
 
+/* Class = "NSMenuItem"; title = "Show Authors"; ObjectID = "Ac9-X8-4Vr"; Note = "SKIP LOCALIZATION"; */
+"Ac9-X8-4Vr.title" = "Show Authors";
+
 /* Class = "NSMenuItem"; title = "Split"; ObjectID = "B6m-l2-hLe"; */
 "B6m-l2-hLe.title" = "Пополам";
 
@@ -313,6 +316,9 @@
 
 /* Class = "NSMenuItem"; title = "Code"; ObjectID = "BGk-i5-EV3"; */
 "BGk-i5-EV3.title" = "Код";
+
+/* Class = "NSMenu"; title = "Paste As"; ObjectID = "Bc3-We-TJL"; */
+"Bc3-We-TJL.title" = "Paste As";
 
 /* Class = "NSMenuItem"; title = "Show Filter Bar"; ObjectID = "CDK-JV-i5Y"; Note = "SKIP LOCALIZATION"; */
 "CDK-JV-i5Y.title" = "Показать панель фильтров";
@@ -515,9 +521,6 @@
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Z4R-Ya-gNJ"; Note = "SKIP LOCALIZATION"; */
 "Z4R-Ya-gNJ.title" = "Date Modified";
 
-/* Class = "NSMenuItem"; title = "Contact Us on Twitter"; ObjectID = "ZCr-JT-kwd"; */
-"ZCr-JT-kwd.title" = "Свяжитесь с нами в Twitter";
-
 /* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "ZGc-XD-4b3"; */
 "ZGc-XD-4b3.title" = "Новый в библиотеке";
 
@@ -536,6 +539,9 @@
 /* Class = "NSMenuItem"; title = "Clichés"; ObjectID = "auv-Oc-Vb1"; Note = "SKIP LOCALIZATION"; */
 "auv-Oc-Vb1.title" = "Clichés";
 
+/* Class = "NSMenuItem"; title = "Human"; ObjectID = "awr-u3-bvm"; Note = "SKIP LOCALIZATION"; */
+"awr-u3-bvm.title" = "Human";
+
 /* Class = "NSMenuItem"; title = "Share"; ObjectID = "bpx-WM-ffY"; */
 "bpx-WM-ffY.title" = "Поделиться";
 
@@ -547,6 +553,9 @@
 
 /* Class = "NSMenuItem"; title = "Show Syntax"; ObjectID = "dZV-Rh-ryD"; Note = "SKIP LOCALIZATION"; */
 "dZV-Rh-ryD.title" = "Enable Syntax Highlight";
+
+/* Class = "NSMenu"; title = "Paste Edits From"; ObjectID = "dgF-CI-f5a"; */
+"dgF-CI-f5a.title" = "Paste Edits From";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "eRI-jE-EpF"; */
 "eRI-jE-EpF.title" = "Новый";
@@ -575,6 +584,12 @@
 /* Class = "NSMenuItem"; title = "Body"; ObjectID = "iRF-TA-hvW"; */
 "iRF-TA-hvW.title" = "Текст";
 
+/* Class = "NSMenuItem"; title = "Authors"; ObjectID = "iTE-D4-7TZ"; */
+"iTE-D4-7TZ.title" = "Authors";
+
+/* Class = "NSMenu"; title = "Authors"; ObjectID = "iZL-sy-uai"; */
+"iZL-sy-uai.title" = "Authors";
+
 /* Class = "NSMenuItem"; title = "Lists"; ObjectID = "ib5-IO-tce"; */
 "ib5-IO-tce.title" = "Списки";
 
@@ -592,6 +607,9 @@
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "kp2-jF-m3q"; Note = "SKIP LOCALIZATION"; */
 "kp2-jF-m3q.title" = "Date Modified";
+
+/* Class = "NSMenuItem"; title = "Mark As"; ObjectID = "lpF-kC-91K"; */
+"lpF-kC-91K.title" = "Mark As";
 
 /* Class = "NSMenuItem"; title = "Code Block"; ObjectID = "mel-Kb-3dV"; */
 "mel-Kb-3dV.title" = "Блок кода";
@@ -623,8 +641,14 @@
 /* Class = "NSMenuItem"; title = "Structure"; ObjectID = "qdR-wu-hiC"; */
 "qdR-wu-hiC.title" = "Структура";
 
+/* Class = "NSMenuItem"; title = "Other"; ObjectID = "rKR-j4-WcI"; Note = "SKIP LOCALIZATION"; */
+"rKR-j4-WcI.title" = "Other";
+
 /* Class = "NSMenuItem"; title = "Enable Style Sheck"; ObjectID = "rLo-rU-5pJ"; Note = "SKIP LOCALIZATION"; */
 "rLo-rU-5pJ.title" = "Enable Style Sheck";
+
+/* Class = "NSMenuItem"; title = "Paste Edits From"; ObjectID = "rdG-3f-DGY"; */
+"rdG-3f-DGY.title" = "Paste Edits From";
 
 /* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "tAr-9g-Fab"; */
 "tAr-9g-Fab.title" = "Настройка страницы…";
@@ -664,3 +688,9 @@
 
 /* Class = "NSMenuItem"; title = "Outdent"; ObjectID = "zO2-18-ibZ"; */
 "zO2-18-ibZ.title" = "Уменьшить отступ";
+
+/* Class = "NSMenuItem"; title = "Paste As"; ObjectID = "zmd-3f-C0R"; */
+"zmd-3f-C0R.title" = "Paste As";
+
+/* Class = "NSMenu"; title = "Mark As"; ObjectID = "zu2-T4-ivL"; */
+"zu2-T4-ivL.title" = "Mark As";

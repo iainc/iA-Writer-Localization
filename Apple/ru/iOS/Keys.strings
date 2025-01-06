@@ -10,20 +10,22 @@
 "Structure" = "Структура";
 
 "Wikilink" = "Вики-ссылка";
-"Headings" = "Заголовок 1-6";
+"Headings" = "Заголовки";
+"Headings1-6" = "Заголовок 1-6";
 "Heading1" = "Заголовок 1";
 "Heading2" = "Заголовок 2";
 "Heading3" = "Заголовок 3";
 "Heading4" = "Заголовок 4";
 "Heading5" = "Заголовок 5";
 "Heading6" = "Заголовок 6";
-"Lists" = "Все списки";
+"Lists" = "Cписки";
 "List" = "Список";
 "OrderedList" = "Упорядоченный список";
 "TaskList" = "Список задач";
 "OrderedTaskList" = "Упорядоченный список задач";
 "CodeBlock" = "Блок кода";
 "BlockQuote" = "Цитата";
+"Comment" = "Комментарий";
 "HorizontalRule" = "Горизонтальная линейка";
 "PageBreak" = "Разрыв страницы";
 "Strong" = "Жирный";
@@ -87,6 +89,7 @@
 "Copy" = "Скопировать";
 "Paste" = "Вставить";
 "Select" = "Выбрать";
+"SelectAll" = "Выбрать все";
 "Undo" = "Отменить";
 "Redo" = "Повторить";
 "AddImage" = "Добавить изображение";
@@ -102,7 +105,7 @@
 "ScanText" = "Сканировать текст";
 "AddContentBlock" = "Добавить блок контента";
 "AddDate" = "Добавить дату";
-"ChooseDate" = "Choose Date";
+"ChooseDate" = "Выбрать дату";
 "DismissKeyboard" = "Скрыть клавиатуру";
 "MarkTask" = "Пометить задачу как выполненную";
 "Night" = "Ночной режим";
