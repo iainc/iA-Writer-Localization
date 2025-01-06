@@ -1,0 +1,18 @@
+
+"Button_Back" = "Go Back";
+"Button_Forward" = "Go Forward";
+"Button_Compose" = "Novo ficheiro";
+"Button_Library" = "Library";
+"Button_Preview" = "Pré-visualizar";
+"Button_Search" = "Procurar";
+"Button_Appearance" = "Ver Opções";
+"Button_Preview_Appearance" = "Preview Options";
+"Button_Editor_Appearance" = "Editor Options";
+"Button_Action" = "Ações sobre ficheiros";
+"Button_Move_Selected" = "Mover Seleção";
+"Button_Delete_Selected" = "Eliminar Seleção";
+"Button_Rename_Selected" = "Renomear Seleção";
+"Button_Add_Folder" = "Acrescentar Pasta";
+"Button_Duplicate" = "Duplicar";
+"Button_Settings" = "Definições";
+"Button_Help" = "Ajuda";

@@ -1,0 +1,198 @@
+
+/* Class = "NSTextFieldCell"; title = "Style check:"; ObjectID = "4qf-5k-bc5"; */
+"4qf-5k-bc5.title" = "Style checking:";
+
+/* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
+"6L5-CK-rbm.title" = "Ortografia e gramática:";
+
+/* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "6pk-3q-M1t"; */
+"6pk-3q-M1t.title" = "Japanese";
+
+/* Class = "NSTextFieldCell"; title = "Typography:"; ObjectID = "83E-Gu-Ase"; */
+"83E-Gu-Ase.title" = "Tipografia:";
+
+/* Class = "NSButtonCell"; title = "Clichés"; ObjectID = "8YN-0k-52S"; */
+"8YN-0k-52S.title" = "Clichés";
+
+/* Class = "NSButtonCell"; title = "Other"; ObjectID = "8ae-6M-tuc"; */
+"8ae-6M-tuc.title" = "Other";
+
+/* Class = "NSMenuItem"; title = "System — Default"; ObjectID = "9Ad-h2-Ffu"; */
+"9Ad-h2-Ffu.title" = "System — Default";
+
+/* Class = "NSMenuItem"; title = "Traditional Chinese"; ObjectID = "9LR-eY-nQC"; */
+"9LR-eY-nQC.title" = "Traditional Chinese";
+
+/* Class = "NSMenuItem"; title = "Simplified Chinese"; ObjectID = "C1b-T8-UKG"; */
+"C1b-T8-UKG.title" = "Simplified Chinese";
+
+/* Class = "NSTextFieldCell"; title = "Syntax:"; ObjectID = "DL6-wL-dFh"; */
+"DL6-wL-dFh.title" = "Sintaxe:";
+
+/* Class = "NSTextFieldCell"; title = "A"; ObjectID = "F4u-Y8-AKd"; */
+"F4u-Y8-AKd.title" = "A";
+
+/* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "GBD-zA-wZV"; */
+"GBD-zA-wZV.title" = "Enable Last Used";
+
+/* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "HPa-u0-ent"; */
+"HPa-u0-ent.title" = "Enable Last Used";
+
+/* Class = "NSTextFieldCell"; title = "Typeface:"; ObjectID = "IkY-dB-hew"; */
+"IkY-dB-hew.title" = "Tipo de letra:";
+
+/* Class = "NSButtonCell"; title = "Strikethrough"; ObjectID = "Imx-aM-oC4"; */
+"Imx-aM-oC4.title" = "Strikethrough";
+
+/* Class = "NSButtonCell"; title = "Human"; ObjectID = "J2r-rd-f1E"; */
+"J2r-rd-f1E.title" = "Human";
+
+/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "JOS-gJ-oIg"; */
+"JOS-gJ-oIg.title" = "Tamanho do texto:";
+
+/* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
+"JpA-gV-jQe.title" = "Substituição de texto";
+
+/* Class = "NSButtonCell"; title = "Correct spelling"; ObjectID = "KWp-yU-5hs"; */
+"KWp-yU-5hs.title" = "Corrigir ortografia";
+
+/* Class = "NSTextFieldCell"; title = "Default"; ObjectID = "KeT-3s-NPV"; */
+"KeT-3s-NPV.title" = "Predefinido";
+
+/* Class = "NSMenuItem"; title = "Quattro"; ObjectID = "LjQ-8o-hLY"; */
+"LjQ-8o-hLY.title" = "Quattro";
+
+/* Class = "NSTextFieldCell"; title = "Line length limit:"; ObjectID = "M03-ZX-hvE"; */
+"M03-ZX-hvE.title" = "Comprimento máximo de linha:";
+
+/* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
+"Muo-8w-HeG.title" = "Âmbito do enfoque:";
+
+/* Class = "NSTextFieldCell"; title = "Built-in patterns for English, French, German."; ObjectID = "NJh-qd-ap3"; */
+"NJh-qd-ap3.title" = "Built-in patterns for English, French, German.";
+
+/* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
+"ODb-aW-xzV.title" = "72";
+
+/* Class = "NSTextFieldCell"; title = "Human edits are underlined. Other edits are dimmed."; ObjectID = "R1m-6D-dC7"; */
+"R1m-6D-dC7.title" = "Human edits are underlined. Other edits are dimmed.";
+
+/* Class = "NSButtonCell"; title = "Show inline predictive text"; ObjectID = "Rfi-gk-v3F"; */
+"Rfi-gk-v3F.title" = "Exibir texto preditivo em linha";
+
+/* Class = "NSButtonCell"; title = "Indentation…"; ObjectID = "RgV-pT-lVu"; */
+"RgV-pT-lVu.title" = "Indentação...";
+
+/* Class = "NSMenuItem"; title = "64"; ObjectID = "S60-FG-qNb"; */
+"S60-FG-qNb.title" = "64";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "SX8-w8-P8A"; */
+"SX8-w8-P8A.title" = "Default";
+
+/* Class = "NSTextFieldCell"; title = "Completed tasks:"; ObjectID = "Tx6-0W-msN"; */
+"Tx6-0W-msN.title" = "Tarefas:";
+
+/* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
+"Wed-ZH-mmU.title" = "Máquina de escrever";
+
+/* Class = "NSTextFieldCell"; title = "Advanced:"; ObjectID = "ZVG-gk-6xW"; */
+"ZVG-gk-6xW.title" = "Avançadas:";
+
+/* Class = "NSMenuItem"; title = "Monospaced"; ObjectID = "Zfe-pD-b7Z"; */
+"Zfe-pD-b7Z.title" = "Espaçamento duplo";
+
+/* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "aae-lC-eDI"; */
+"aae-lC-eDI.title" = "Duospaced";
+
+/* Class = "NSTextFieldCell"; title = "Highlight color:"; ObjectID = "bpW-0u-u88"; */
+"bpW-0u-u88.title" = "Cor de destaque:";
+
+/* Class = "NSButtonCell"; title = "Custom"; ObjectID = "d8E-l0-S4B"; */
+"d8E-l0-S4B.title" = "Custom";
+
+/* Class = "NSButtonCell"; title = "Fade"; ObjectID = "dPl-Rq-CpB"; */
+"dPl-Rq-CpB.title" = "Fade";
+
+/* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
+"dqc-LX-3Cd.title" = "Substituição inteligente:";
+
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "e89-pc-oPV"; */
+"e89-pc-oPV.title" = "Italic";
+
+/* Class = "NSMenuItem"; title = "Sentence"; ObjectID = "eVp-ub-H3k"; Note = "SKIP LOCALIZATION"; */
+"eVp-ub-H3k.title" = "Frase";
+
+/* Class = "NSMenuItem"; title = "80"; ObjectID = "edq-9b-UeK"; */
+"edq-9b-UeK.title" = "80";
+
+/* Class = "NSTextFieldCell"; title = "Completions:"; ObjectID = "epq-qD-zeH"; */
+"epq-qD-zeH.title" = "Completions:";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "gDR-81-YkH"; Note = "SKIP LOCALIZATION"; */
+"gDR-81-YkH.title" = "Parágrafo";
+
+/* Class = "NSTextFieldCell"; title = "Authors:"; ObjectID = "gMT-hN-EMD"; */
+"gMT-hN-EMD.title" = "Authors:";
+
+/* Class = "NSButtonCell"; title = "Insert and type-over matching brackets"; ObjectID = "hBj-4e-1jJ"; */
+"hBj-4e-1jJ.title" = "Insert and type-over matching brackets";
+
+/* Class = "NSButtonCell"; title = "Custom Patterns…"; ObjectID = "hSp-Lu-7pZ"; */
+"hSp-Lu-7pZ.title" = "Edit…";
+
+/* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */
+"hdF-Eo-fOe.title" = "Tracejado";
+
+/* Class = "NSButtonCell"; title = "Conjunctions"; ObjectID = "jnn-zF-baY"; */
+"jnn-zF-baY.title" = "Conjunctions";
+
+/* Class = "NSButtonCell"; title = "Copy/paste"; ObjectID = "mHr-Yd-9Gp"; */
+"mHr-Yd-9Gp.title" = "Copiar/colar";
+
+/* Class = "NSButtonCell"; title = "Adverbs"; ObjectID = "mTE-Da-Ai8"; */
+"mTE-Da-Ai8.title" = "Adverbs";
+
+/* Class = "NSButtonCell"; title = "Check grammar with spelling"; ObjectID = "nlh-Zj-3rv"; */
+"nlh-Zj-3rv.title" = "Verificar gramática com ortografia";
+
+/* Class = "NSButtonCell"; title = "Check spelling while typing"; ObjectID = "o55-nN-2Rp"; */
+"o55-nN-2Rp.title" = "Verificar ortografia durante a digitação";
+
+/* Class = "NSButtonCell"; title = "Enable Last Used"; ObjectID = "q1A-U0-UTn"; */
+"q1A-U0-UTn.title" = "Enable Last Used";
+
+/* Class = "NSButtonCell"; title = "Quotes"; ObjectID = "q1M-nl-ibX"; */
+"q1M-nl-ibX.title" = "Citações";
+
+/* Class = "NSButtonCell"; title = "Wrap selection in typed brackets"; ObjectID = "skG-tW-MRq"; */
+"skG-tW-MRq.title" = "Wrap selection in typed brackets";
+
+/* Class = "NSMenuItem"; title = "Korean"; ObjectID = "tHM-H4-etW"; */
+"tHM-H4-etW.title" = "Korean";
+
+/* Class = "NSButtonCell"; title = "Nouns"; ObjectID = "tJf-FO-eFT"; */
+"tJf-FO-eFT.title" = "Nouns";
+
+/* Class = "NSMenuItem"; title = "Emphasis Mark"; ObjectID = "tLO-KH-mgO"; */
+"tLO-KH-mgO.title" = "Emphasis Mark";
+
+/* Class = "NSButtonCell"; title = "Adjectives"; ObjectID = "u3t-jX-i9Z"; */
+"u3t-jX-i9Z.title" = "Adjectives";
+
+/* Class = "NSButtonCell"; title = "Verbs"; ObjectID = "u5B-6y-Y8m"; */
+"u5B-6y-Y8m.title" = "Verbs";
+
+/* Class = "NSButtonCell"; title = "Redundancies"; ObjectID = "vPu-2U-PzL"; */
+"vPu-2U-PzL.title" = "Redundancies";
+
+/* Class = "NSTextFieldCell"; title = "A"; ObjectID = "wgb-xJ-AmL"; */
+"wgb-xJ-AmL.title" = "A";
+
+/* Class = "NSTextFieldCell"; title = "characters"; ObjectID = "xtj-Jw-ENi"; */
+"xtj-Jw-ENi.title" = "caracteres por linha";
+
+/* Class = "NSButtonCell"; title = "Fillers"; ObjectID = "yhw-gf-1Ns"; */
+"yhw-gf-1Ns.title" = "Fillers";
+
+/* Class = "NSTextFieldCell"; title = "Emphasis:"; ObjectID = "yqQ-oe-okL"; */
+"yqQ-oe-okL.title" = "Ênfase:";

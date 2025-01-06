@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Delete_Confirmation_Message_Multiple</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>Tem a certeza de que pretende eliminar o item selecionado?</string>
+			<key>other</key>
+			<string>Tem a certeza de que pretende eliminar os itens selecionados?</string>
+		</dict>
+	</dict>
+	<key>Library_Path_Matches</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Caminho da biblioteca (%#@correspondências@)</string>
+		<key>matches</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu correspondência</string>
+			<key>other</key>
+			<string>%tu correspondências</string>
+		</dict>
+	</dict>
+	<key>Search_Results</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Pesquisar (%#@resultados@)</string>
+		<key>results</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu resultado</string>
+			<key>other</key>
+			<string>%tu resultados</string>
+		</dict>
+	</dict>
+	<key>Stats_Characters</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@chars@</string>
+		<key>chars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu caractere</string>
+			<key>other</key>
+			<string>%tu caracteres</string>
+		</dict>
+	</dict>
+	<key>Stats_Characters_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@chars@</string>
+		<key>chars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu Caractere</string>
+			<key>other</key>
+			<string>%tu Caracteres</string>
+		</dict>
+	</dict>
+	<key>Stats_Sentences_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@sentences@</string>
+		<key>sentences</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu Frase</string>
+			<key>other</key>
+			<string>%tu Frases</string>
+		</dict>
+	</dict>
+	<key>Stats_Tasks_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@tasks_completed@ de %#@tasks_total@</string>
+		<key>tasks_completed</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>other</key>
+			<string>%tu</string>
+		</dict>
+		<key>tasks_total</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu Tarefa</string>
+			<key>other</key>
+			<string>%tu Tarefas</string>
+		</dict>
+	</dict>
+	<key>Stats_Without_Spaces_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@chars@</string>
+		<key>chars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>other</key>
+			<string>%tu Sem Espaços</string>
+		</dict>
+	</dict>
+	<key>Stats_Words_Title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@words@</string>
+		<key>words</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>%tu Palavra</string>
+			<key>other</key>
+			<string>%tu Palavras</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

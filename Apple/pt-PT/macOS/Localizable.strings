@@ -1,0 +1,441 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable dark appearance. */
+"Menu_Enable_Dark_Appearance" = "Usar Aspeto Escurecido";
+
+/* Menu title to enable light appearance. */
+"Menu_Enable_Light_Appearance" = "Usar Aspeto Iluminado";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "Novo na Biblioteca";
+
+/* New. Menu item title for creating new documents in Library in current window. */
+"New_Document_In_Library_In_Window_Menu" = "Novo na Biblioteca na Janela";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "Novo";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "Novo Separador na Biblioteca";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "Novo Separador";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "Predefinição";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "Estatísticas";
+
+"Menu_Share" = "Partilhar";
+"Menu_Publish" = "Publicar";
+"Menu_Export" = "Exportar";
+"Menu_Export_With_Ellipsis" = "Exportar …";
+"Menu_Print" = "Imprimir";
+"Menu_Print_Formatted" = "Imprimir…";
+"Menu_Print_Plain_Text" = "Imprimir Texto Simples…";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "Comprar Agora";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "Bem-vindo ao iA Writer.\nEsta versão de teste permite-lhe desfrutar gratuitamente de todas as funcionalidades.";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "A versão de avaliação expirou. Esperamos que tenha gostado de usar o iA Writer.";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "Instalado o Modelo “%@”";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "Pode aceder a modelos na Pré-visualização e em Visualizar > Modelos. Pode desinstalar os modelos nas Preferências.";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "iA Writer atualizado para a Versão %@";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "Clique para ver as notas da versão.";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "Exportar";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "Exportar";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "Exportar Como:";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "Exportar Para:";
+
+/* Checkmark title in print options. */
+"Print_Header" = "Cabeçalho de impressão";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "Rodapé de impressão";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "Partilhar";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "Onde gostaria de criar o rascunho?";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "A conta WordPress acede a mais de um site.";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to show preview. */
+"Show_Organizer" = "Mostrar Organizador";
+
+/* Menu item to show preview. */
+"Hide_Organizer" = "Ocultar Organizador";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "Mostrar Barra de Filtros";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "Ocultar Barra de Filtros";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "Mostrar Barra de Ordenação";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "Ocultar Barra de Ordenação";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "Exportar";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Layout_Split" = "Dividida";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Layout_Full" = "Completa";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "Não existem conteúdos para Pré-visualizar";
+
+/*------
+ Library
+ ------*/
+
+/* Go menu item title to go to enclosing folder. */
+"Library_Go_Enclosing_Folder" = "Pasta de Conteúdos";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "Documento vazio";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "A atualizar…";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "Novo Ficheiro";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "Nova Pasta";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "Nova Pasta na Seleção";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "Abrir numa Nova Janela";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "Abrir num Novo Separador";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "Abrir com %@";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "Renomear";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "Obter Informações";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "Ordenar por";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "Adicionar aos Favoritos";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "Remover dos Favoritos";
+
+/* Menu to delete smart folder. */
+"Library_Action_Rename_Location" = "Renomear nas Localizações";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "Remover das Localizações";
+
+/* Menu to delete smart folder. */
+"Library_Action_Edit_Smart_Folder" = "Editar...";
+
+/* Menu to duplicate smart folder. */
+"Library_Action_Duplicate" = "Duplicar";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "Mostrar no Finder";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "Mostrar na Biblioteca";
+
+/* Library filter field placeholder. */
+"Library_Filter_Field_Placeholder" = "Filtro";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "A carregar documentos... Se tiver uma biblioteca grande, isto poderá demorar alguns minutos.";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "Mover";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "Mover para “%@”";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "Copiar para “%@”";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "Está a editar um documento fora da Biblioteca do iA Writer. Pode continuar a edição, ou mover o documento para a Biblioteca.";
+
+/* Search title. */
+"Library_Search_Title" = "Resultados da Pesquisa";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "Modificado";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "Criado";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "Nome";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "Extensão";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "Tamanho";
+
+/* Organizer section title. */
+"Library_Root_Locations" = "Localizações";
+
+/* Organizer section title. */
+"Library_Root_Favorites" = "Favoritos";
+
+/* Organizer section title. */
+"Library_Root_Smart_Folders" = "Pastas Inteligentes";
+
+/* Organizer section title. */
+"Library_Root_Links" = "Ligações";
+
+/* Organizer section title. */
+"Library_Root_Hashtags" = "Hashtags";
+
+/* Organizer section empty message. */
+"Library_Root_Favorites_Empty_Message" = "Arraste pastas e ficheiros aqui para um acesso rápido";
+
+/* Organizer section empty message. */
+"Library_Root_Smart_Folders_Empty_Message" = "Definir regras personalizadas para reunir ficheiros";
+
+/* Organizer section empty message. */
+"Library_Root_Hashtags_Empty_Message" = "Escrever #tags em ficheiros de grupo";
+
+/*-----
+ Editor
+ -----*/
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "Transformar em Título";
+
+/* List block element name. */
+"Block_Element_List" = "Lista";
+
+/* Task list block element name. */
+"Block_Element_Task" = "Tarefa";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "Lista Ordenada";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "Tarefa Ordenada";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "Cabeçalho 1";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "Cabeçalho 2";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "Cabeçalho 3";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "Cabeçalho 4";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "Cabeçalho 5";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "Cabeçalho 6";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "Blockquote";
+
+/* Body text block element name. */
+"Block_Element_Comment" = "Comentário";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "Corpo";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "Negrito";
+
+/* Bold inline element name. */
+"Inline_Element_Code" = "Código";
+
+/* Bold inline element name. */
+"Inline_Element_Highlight" = "Destacar";
+
+/* Wikilink inline element name. */
+"Inline_Element_Wikilink" = "Wikiligação";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "Riscado";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "Texto do corpo";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "Nota de rodapé";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "Ligação";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "Tabela";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "Ajuste a dimensão da tabela. A primeira linha conterá o cabeçalho da tabela.";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "colunas";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "linhas";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "Índice";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "Geral";
+
+/* Sharing preferences pane title. */
+"Preferences_Pane_Title_Accounts" = "Contas";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "Ficheiros";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "Biblioteca";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "Editor";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "Modelos";
+
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Authors" = "Autores";
+
+/* Markdown preferences pane title. */
+"Preferences_Pane_Title_Markdown" = "Markdown";
+
+/* Deletion confirmation sheet message. */
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Tem a certeza de que pretende reinicializar o código de autorização?";
+
+/* Deletion confrimation infromative text for a local item. */
+"URL_Scheme_Auth_Token_Reset_Informative_Text" = "Esta ação não pode ser revertida.";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Message" = "Pretende ativar os comandos URL do ia Writer?";
+
+/* URL scheme first use alert informative text. */
+"URL_Scheme_First_Use_Informative_Text" = "Pode alterar esta opção posteriormente nas Preferências.";
+
+/* Markdown processing lazy paragraphs. */
+"Markdown_Lazy_Paragraphs" = "A mudança de linha inicia um parágrafo novo";
+
+"Markdown_Lazy_Paragraphs_Description" = "By default, Markdown requires two returns (an empty line)\nbetween paragraphs. When enabled, a single return will start a new paragraph.";
+
+"Markdown_Lazy_Paragraphs_Warning" = "Provided for compatibility with older versions of iA Writer. Not supported by other Markdown processors.";
+
+/* Markdown processing smart punctuation. */
+"Markdown_Smart_Punctuation" = "Aplicar pontuação inteligente";
+
+"Markdown_Smart_Punctuation_Description" = "Convert straight quotes and plain dashes into\nsmart counterparts for all formatted output.";
+
+"Markdown_Metadata_Tab" = "Metadados";
+
+"Markdown_Library_Paths_And_Links_Tab" = "Caminhos da biblioteca e links";
+
+"Markdown_Processing_Tab" = "Processing";
+
+"Shortcuts_Not_Supported" = "Você não pode usar atalhos com esta versão do macOS. Você tem macOS %@. Atalhos requerem macOS 13 ou posterior.";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "Pesquisa Rápida";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "Não foi possível processar todos os conteúdos.";
+
+/* Generic error alert title. */
+"Generic_Error_Alert_Message" = "Não foi possível concluir a operação.";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "Cabeçalhos";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "Listas";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "Elementos Incorporados";

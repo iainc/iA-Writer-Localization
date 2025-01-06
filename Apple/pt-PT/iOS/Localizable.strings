@@ -1,0 +1,747 @@
+
+/*-----------
+ Library Root
+ -----------*/
+
+/* Title for root library view. */
+"Library_Title" = "Biblioteca";
+
+/* Title for root library view. */
+"Organizer_Title" = "Organizador";
+
+/* Title for root library view. */
+"Library_Locations_Section_Title" = "Localizações";
+
+/* Title for root library view. */
+"Library_Favorites_Section_Title" = "Favoritos";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Menu_Favorite" = "Acrescentar Favorito...";
+
+/* Title for root library view. */
+"Library_Smart_Folders_Section_Title" = "Pastas Inteligentes";
+
+/* Title for root library view. */
+"Library_Hashtags_Section_Title" = "Hashtags";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Action_Edit_Smart_Folder" = "Editar";
+
+/* Title for action to add a new smart folder in library root view. */
+"Library_Title_Add_Favorite" = "Acrescentar Favorito";
+
+/* Title for help action to open twitter page for iA Writer. */
+"Help_Action_Open_Twitter" = "iA Writer no Twitter";
+
+/* Title for help action to open release notes and other updates. */
+"Help_Action_News" = "Novidades";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Feedback_And_Support" = "Apoio e Comentário";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Newsletter" = "Subscreva o Boletim";
+
+/* Title for support and feedback action on Twitter. */
+"Help_Action_Review" = "Recomendar o iA Writer";
+
+/* Title for action to open main help page. */
+"Help_Action_Main" = "Ajuda do iA Writer";
+
+/*---------------
+ Library Location
+ ---------------*/
+
+"Library_Location_Rename_Alert_Title" = "Mudar o nome da Localização de Biblioteca";
+"Library_Location_Name_Alert_Title" = "Insira o nome da Localização de Biblioteca";
+
+/*-----------
+ Smart Folder
+ -----------*/
+
+"Smart_Folder_Rename_Alert_Title" = "Mudar o nome da Pasta Inteligente";
+
+/*------
+ Backups
+ ------*/
+
+/* Title for all backups. */
+"Backups_Title" = "Cópias de segurança";
+
+/* Message under title when browsing backups. */
+"Backup_Submitem_Message" = "As cópias de segurança dos ficheiros são guardadas neste %@. Quando um ficheiro é renomeado, as anteriores cópias de segurança ficam com o seu nome original.";
+
+/* Button title to restore a backup. */
+"Backups_Restore_Button_Title" = "Recuperar";
+
+/* Title for backup restoration destination picker. */
+"Backups_Restore_Picker_Title" = "Recuperar Ficheiro";
+
+/* Prompt at the top of backup restoration destination picker. */
+"Backups_Restore_Picker_Prompt" = "Selecionar destino para o ficheiro recuperado";
+
+/* Placeholder shown when there are no backups. */
+"Backups_Placeholder" = "Não existem Cópias de segurança";
+
+/* Title for swipe action to browse backups. */
+"Table_View_Action_Browse_Backups" = "Consultar Cópias de segurança";
+
+/* Button description to browse all backups. */
+"Backups_Button_Title" = "Consultar Cópias de segurança";
+
+/* Title for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the name of the folder that will include backups. */
+"Backup_Prompt_Title" = "Ativar cópias de segurança para “%@”?";
+
+/* Message for alert which confirms whether the user wants to back up edited files from removable storage. %@ is the current device kind (iPhone, iPad). */
+"Backup_Prompt_Message" = "Durante a edição, são feitas cópias de segurança dos ficheiros neste %@. Recomendamos que ative as cópias de segurança, a não ser que utilize este dispositivo externo para ficheiros privados num %@ partilhado.";
+
+/*------
+ Library
+ ------*/
+
+/* Button to select all visible items. */
+"Button_Select_All" = "Selecionar Todos";
+
+/* Button to deselect all visible items. */
+"Button_Deselect_All" = "Desselecionar Todos";
+
+/* Action to switch to night mode. */
+"Action_Dark_Mode" = "Usar Aspeto Escurecido";
+
+/* Action to switch to night mode. */
+"Action_Light_Mode" = "Usar Aspeto Iluminado";
+
+/* Action to configure keyboard. */
+"Action_Configure_Keyboard" = "Configurar Teclado";
+
+/* Button to change sorting order. */
+"Button_Sort_By" = "Ordenar por";
+
+/* Generic to confirm selection in action sheet picker. */
+"Action_Set_Selected" = "Definir Seleção";
+
+/* New folder destination folder picker title. */
+"New_Folder_Location_Title" = "Nova Pasta";
+
+/* New folder destination folder picker prompt. */
+"New_Folder_Location_Prompt" = "Selecionar destino para nova pasta...";
+
+/* File import destination folder picker title. */
+"File_Import_Title" = "Importar";
+
+/* New folder destination folder picker prompt. */
+"File_Import_Prompt" = "Selecionar destino para importação.";
+
+/* New file destination folder picker title. */
+"New_File_Location_Title" = "Novo Ficheiro";
+
+/* New file destination folder picker prompt. */
+"New_File_Location_Prompt" = "Selecionar destino para o ficheiro recuperado";
+
+/* Action to configure smart folder. */
+"Action_Edit_Smart_Folder" = "Editar Pasta Inteligente";
+
+/* Action to configure library. */
+"Action_Configure_Library" = "Configurar Biblioteca";
+
+/* Action to delete smart folder. */
+"Action_Delete_Smart_Folder" = "Eliminar Pasta Inteligente";
+
+/* Excerpt for empty documents. */
+"Library_Excerpt_Empty" = "Sem Conteúdo";
+
+/* Excerpt for unindexed documents. */
+"Library_Excerpt_Updating" = "A atualizar...";
+
+/* Library empty message in folders. */
+"Library_Empty_Folder" = "Não existem ficheiros";
+
+/* Library empty message in folders. */
+"Library_Empty_External_Files" = "Não existem ficheiros de outras aplicações";
+
+/* Library empty message in extenal files location. */
+"Library_Empty_External_Files_Message" = "Toque no botão “+“ para acrescentar ficheiros.";
+
+/* Library empty message in extenal files location, if Dropbox or Google Drive are not installed. */
+"Library_Empty_External_Files_Message_Install" = "Para aceder ao Dropbox, ao Google Drive, e a outras aplicações na nuvem, transfira-as da App Store, e a seguir toque no botão “+“ para acrescentar ficheiros.";
+
+/* Library empty message in smart folders. */
+"Library_Empty_Smart_Folder" = "Não existem ficheiros que correspondam às regras";
+
+/* Library empty message in hashtags. */
+"Library_Empty_Hashtag" = "Não existem ficheiros com Hashtag";
+
+/* Title for action to open external files picker. */
+"Library_External_Files_Open" = "Abrir...";
+
+/* Title for move to folder destination picker title. */
+"Move_Title" = "Mover";
+
+/* Title for to begin editing a document. */
+"Begin_Editing" = "Begin Editing";
+
+/* Title for to end editing a document. */
+"End_Editing" = "End Editing";
+
+/*-----
+ Editor
+ -----*/
+
+"Secure_Paste_Suggestion" = "Cansado de confirmar a colagem a partir de outras aplicações?";
+
+"Secure_Paste_Recovery_Suggestion" = "Altere “Colar a partir de Outras Aplicações” para “Permitir” nas Definições do Sistema.";
+
+"Open_System_Settings" = "Abrir Definições do Sistema";
+
+/* Title for content block warning list. */
+"Content_Block_Warnings_Title" = "Blocos de Conteúdo";
+
+/* Prompt for content block warning list. */
+"Content_Block_Warnings_Prompt" = "Não foi possível processar alguns conteúdos.";
+
+/* Action to continue content block processing despite warnings. */
+"Content_Block_Warnings_Continue" = "Continuar";
+
+/* Title for content block picker. */
+"Content_Block_Picker_Title" = "Acrescentar Bloco de Conteúdo";
+
+/* Action sheet action to show stats. */
+"Action_Show_Stats" = "Mostrar Estatísticas";
+
+/* Action sheet action to hide stats. */
+"Action_Hide_Stats" = "Ocultar Estatísticas";
+
+/* Action sheet action to show find bar. */
+"Action_Show_Find_And_Replace" = "Mostrar Procurar e Substituir";
+
+/* Action sheet action to hide find bar. */
+"Action_Hide_Find_And_Replace" = "Ocultar Procurar e Substituir";
+
+/* Action sheet action. */
+"Action_Configure_Editor" = "Configurar Editor";
+
+/*---------
+ Menu Items
+ ---------*/
+
+/* Menu item title for text transformations. */
+"Menu_Transform" = "Transformar";
+
+/* Menu item title for transforming text to upper case. */
+"Menu_Transform_To_Upper_Case" = "Maiúsculas";
+
+/* Menu item title for transforming text to lower case. */
+"Menu_Transform_To_Lower_Case" = "Minúsculas";
+
+/* Menu item title for captilizing first letter of every word. */
+"Menu_Transform_To_Capitalized" = "Maiúsculas Iniciais";
+
+/* Menu item title for transforming text to title case. */
+"Menu_Transform_To_Title_Case" = "Título";
+
+/* Action title for transforming text to upper case. */
+"Make_Upper_Case_Action" = "Transformar em Maiúsculas";
+
+/* Action title for transforming text to lower case. */
+"Make_Lower_Case_Action" = "Transformar em Minúsculas";
+
+/* Action title for captilizing first letter of every word. */
+"Capitalize_Action" = "Transformar em maiúsculas";
+
+/* Action title for transforming text to title case. */
+"Make_Title_Case_Action" = "Transformar em Título";
+
+/* Action to add folder to favorites. */
+"Menu_Favorite" = "Acrescentar aos Favoritos";
+
+/* Action to add folder to favorites. */
+"Menu_Unfavorite" = "Remover dos Favoritos";
+
+/* Action to add folder to favorites. */
+"Menu_Remove_Location" = "Remover das Localizações";
+
+/* Action to add folder to favorites. */
+"Menu_Rename_Location" = "Renomear nas Localizações";
+
+/* Action to browse file versions. */
+"Menu_Browse_Versions" = "Consultar Versões";
+
+/* Action to browse file backups. */
+"Menu_Browse_Backups" = "Consultar Cópias de segurança";
+
+/* Action to show a file in Files app. */
+"Menu_Show_In_Files" = "Mostrar no Ficheiros";
+
+/* Action to show a file in Library. */
+"Menu_Show_In_Library" = "Mostrar na Biblioteca";
+
+/* Action to open a file in new window. */
+"Menu_Open_In_New_Window" = "Abrir numa Nova Janela";
+
+/* Action to move files or folders. */
+"Menu_Move" = "Mover";
+
+/* Action to duplicate. */
+"Menu_Duplicate" = "Duplicar";
+
+"Menu_Rename_Document" = "Renomear Documento";
+
+/* Action to rename. */
+"Menu_Rename" = "Renomear";
+
+/* Action to open file or folder info. */
+"Menu_Get_Info" = "informações";
+
+/*------------
+ Folder Picker
+ ------------*/
+
+/* Section title for recent folder section. */
+"Library_Picker_Recent_Section_Title" = "Recentes";
+
+/* Section title for all folders section. */
+"Library_Picker_All_Section_Title" = "Todos";
+
+/*------------------
+ Smart Folder Editor
+ ------------------*/
+
+/* Smart folder editor title while editing an existing smart folder. */
+"Smart_Folder_Editor_Edit_Title" = "Editar Pasta Inteligente";
+
+/* Smart folder editor title while creating a new smart folder. */
+"Smart_Folder_Editor_New_Title" = "Nova Pasta Inteligente";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Rules_Section_Title" = "Regras";
+
+/* Smart folder action to add a new rule. */
+"Smart_Folder_Editor_New_Rule_Action" = "Nova Regra...";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Section_Title" = "Limite";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Editor_Limit_Action" = "Limitar a %@ itens";
+
+/* Smart folder section on matching type. */
+"Smart_Folder_Match_Section_Title" = "Mostrar Itens Coincidentes";
+"Smart_Folder_Match_All" = "Todas as regras seguintes";
+"Smart_Folder_Match_Any" = "Qualquer uma das regras seguintes";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Section_Title" = "Sequência de Ordenação";
+
+/* Smart folder editor section title. */
+"Smart_Folder_Sort_By_Custom" = "Sequência de Ordenação Personalizada";
+
+/*----------
+ Rule Editor
+ ----------*/
+
+/* Placeholder for text variables in predicates. */
+"Predicate_Placeholder_Text" = "Texto";
+
+/* Predicate format for text values: Extension is `“txt”`. */
+"Predicate_Quoted_Value" = "«%@»";
+
+/* Button title for editing dates. */
+"Predicate_Date_Action" = "Data";
+
+/* Button title for confirming date selection. */
+"Action_Set_Date" = "Selecionar Data";
+
+/* Rule editor title while adding a new rule. */
+"Rule_Editor_New_Title" = "Nova Regra";
+
+/* Rule editor title while editing an existin rule. */
+"Rule_Editor_Edit_Title" = "Editar Regra";
+
+/*--
+ Add
+ --*/
+
+/* Action to open camera. */
+"Action_Take_Photo" = "Tirar Foto...";
+
+/* Action to open photo library. */
+"Action_Choose_Photo" = "Escolher Foto...";
+
+/* Title for alert to create new folder. */
+"New_File_Alert_Title" = "Introduzir Nome do Ficheiro";
+
+/* Action to create new folder. */
+"Action_Create_File" = "Criar Ficheiro";
+
+/* Title for alert to create new folder. */
+"New_Folder_Alert_Title" = "Introduzir Nome da Pasta";
+
+/* Action to create new folder. */
+"Action_Create_Folder" = "Criar Pasta";
+
+/* Title for alert to enter photo name. */
+"Photo_Name_Alert_Title" = "Introduzir Nome da Foto";
+
+/* Action to add a photo. */
+"Action_Add_Photo" = "Acrescentar Foto";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Find" = "Encontrar";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Placeholder_Replace" = "Substituir";
+
+/* Action title to confirm renaming to renaming items. */
+"Rename_Confirmation" = "Renomear";
+
+/* Rename failure title. */
+"Rename_Failure_Title" = "Não é possível renomear";
+
+/* Rename failure title. */
+"Rename_Failure_Permissions" = "Os ficheiros de outras aplicações só podem ser renomeados na aplicação Ficheiros.";
+
+/*---------
+ Table Size
+ ---------*/
+
+/* Action title to add table with a selected size. */
+"Action_Add_Table" = "Acrescentar Tabela";
+
+/* Action title to add selected date. */
+"Action_Add_Date" = "Acrescentar Data";
+
+/*---
+ Info 
+ ---*/
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "Modificado";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "Criado";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "Nome";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "Extensão";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "Tamanho";
+
+/*-----
+Document
+-----*/
+
+"Document_Already_Open_Content_Placeholder_Title" = "Não é possível mostrar o ficheiro";
+"Document_Already_Open_Content_Placeholder_Message" = "O ficheiro está aberto noutra janela.";
+"Document_Already_Open_Content_Placeholder_Button" = "Abrir nesta janela";
+
+/*-----
+ Export
+ -----*/
+
+/* Share sheet `open file in app` activity option */
+"Share_Sheet_Open_In_Activity_Title" = "Abrir no...";
+
+/* Share sheet 'Save to…" activity option */
+"Save_To_Export_Label" = "Gravar no...";
+
+/*--------
+ Files App
+ --------*/
+
+"Files_App_Service_Provider_Error_Localized_Description_Title" = "O Serviço da Nuvem para Ficheiros da Aplicação Não Processou o Pedido";
+"Files_App_Service_Provider_Error_Localized_Description" = "O serviço da nuvem para ficheiros da aplicação não processou o pedido.";
+"Files_App_Service_Provider_Error_Recovery_Suggestion" = "Se o erro continuar, por favor solicite apoio ao fornecedor do seu serviço de nuvem.";
+
+"Files_App_Library_Location_Not_Supported_Error_Title" = "Não é possível adicionar uma Localização de Biblioteca selecionada";
+"Files_App_Library_Location_Not_Supported_Error" = "Não é possível adicionar uma Localização de Biblioteca selecionada";
+"Files_App_Library_Location_Not_Supported_Error_Failure_Reason" = "O serviço da nuvem para a aplicação de ficheiros não suporta esta funcionalidade.";
+"Files_App_Library_Location_Not_Supported_Error_Recovery_Suggestion" = "Contacte o seu provedor de serviços da nuvem para apoio.";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder for Quick Search field. */
+"Quick_Search_Placeholder" = "Procura Rápida";
+
+/* Quick Search recent files section title. */
+"Quick_Search_Recent_Files_Section_Title" = "Ficheiros Recentes";
+
+/* Quick Search files section title. */
+"Quick_Search_Files_Section_Title" = "Ficheiros";
+
+/* Quick Search recent actions section title. */
+"Quick_Search_Recent_Actions_Section_Title" = "Ações Recentes";
+
+/* Quick Search actions search section title. */
+"Quick_Search_Actions_Section_Title" = "Ações";
+
+/*--------------------------
+ Key Commands & Quick Search
+ --------------------------*/
+
+/* Quick Search key command titles. */
+"Discoverability_Quick_Search" = "Procura Rápida";
+
+/* New file key command titles. */
+"Discoverability_New" = "Novo";
+"Discoverability_New_Document" = "Novo Documento";
+"Discoverability_New_Window" = "Nova Janela";
+
+/* Appearance command titles. */
+"Discoverability_Dark_Mode" = "Aspeto Escurecido";
+"Discoverability_Light_Mode" = "Aspeto Iluminado";
+/* Old name used for search matching. */
+"Discoverability_Night_Mode" = "Modo Noturno";
+
+/* Editor action key command titles. */
+"Discoverability_Open" = "Abrir...";
+"Discoverability_Move_Text_Up" = "Mover Linha para Cima";
+"Discoverability_Move_Text_Down" = "Mover Linha para Baixo";
+"Discoverability_Configure_Keyboard" = "Configurar Teclado";
+"Discoverability_Use_Selection_For_Find" = "Usar Seleção para Procurar";
+"Discoverability_Find_Next" = "Encontrar Seguinte";
+"Discoverability_Find_Previous" = "Encontrar Anterior";
+"Discoverability_Find_And_Replace" = "Procurar e Substituir";
+"Discoverability_Show_Settings" = "Mostrar Definições";
+"Discoverability_Show_Help" = "Mostrar Ajuda";
+
+/*------
+ Preview
+ ------*/
+
+/* Title shown in preview. */
+"Preview_Title" = "Pré-visualizar";
+
+/* Empty preview placeholder. */
+"Preview_Content_Placeholder" = "Sem Conteúdos para Pré-visualizar";
+
+/* Action to change template. */
+"Preview_Template_Action" = "Trocar para Seleção";
+
+/* Action to change template. */
+"Action_Configure_Templates" = "Configurar Modelos";
+
+/*---------------
+ Template Install
+ ---------------*/
+
+/* Alert message after a template is successfully installed. */
+"Template_Installed_Title" = "Instalado Modelo “%@”";
+
+/* Alert info text after a template is successfully installed. */
+"Template_Installed_Description" = "Pode aceder aos modelos em Pré-visualizar. Pode desinstalar modelos nas Definições.";
+
+/*-------
+ Settings
+ -------*/
+
+/* Button to open settings. */
+"Settings_Title" = "Definições";
+
+
+/* Appearance settings. */
+"Settings_Appearance" = "Aspeto";
+"Settings_App_Icon" = "ìcone de aplicação";
+
+/* Appearance names. */
+"Appearance_System" = "Sistema";
+"Appearance_Light" = "Iluminado";
+"Appearance_Dark" = "Escurecido";
+
+"More_System_Settings" = "Mais Definições do Sistema";
+
+/* Settings panes. */
+"Settings_Interface_Title" = "Interface";
+"Settings_General_Title" = "Geral";
+"Settings_Files_Title" = "Ficheiros";
+"Settings_Accounts_Title" = "Contas";
+"Settings_Library_Title" = "Biblioteca";
+"Settings_Editor_Title" = "Editor";
+"Settings_Templates_Title" = "Modelos";
+"Settings_Markdown_Title" = "Markdown";
+"Settings_Shorcuts_Title" = "Atalhos";
+
+"Settings_Shortcuts_Action" = "Baixar Atalhos Prontos";
+"Shortcuts_Not_Supported" = "Você não pode usar atalhos com esta versão do %@. Você tem %@ %@. Atalhos requerem %@ 16.1 ou posterior.";
+"Settings_Shortcuts_Description" = "Os Atalhos facilitam a execução de tarefas combinando ações — os blocos de construção de um atalho — em uma sequência de passos, formando assim um atalho, que pode ser acionado com um toque ou por meio de um pedido à Siri.";
+
+/* Appearance section in settings. */
+"Settings_Appearance_Section_Title" = "Aparência";
+
+/* Sharing accounts section in settings. */
+"Settings_Accounts_Section_Title" = "Partilhar Contas";
+
+"Settings_Accounts_Add" = "Adicionar Conta...";
+"Settings_Accounts_Remove" = "Remover Conta";
+"Settings_Accounts_Configure" = "Configurar Conta";
+
+/*-----------------
+ Interface Settings
+ -----------------*/
+
+"Setttings_Interface_File_Extensions" = "Extensões de Ficheiros";
+
+"Settings_Interface_Scroll_Sync" = "Percorrer em Sincronia";
+"Settings_Interface_Editor_Preview_Section_Header" = "Editor e Pré-visualização";
+
+"Settings_Interface_Toolbars" = "Barras de ferramentas";
+"Settings_Interface_Toolbars_Show_Hide" = "Mostrar / Ocultar";
+"Settings_Interface_Toolbars_Always_Show" = "Mostrar Sempre";
+
+/*-------------
+ Files Settings
+ -------------*/
+
+"Default_File_Extension_Section_Title" = "Predefinição de Extensão de Ficheiro";
+"Default_File_Extension_Section_Footer" = "Os novos ficheiros serão criados com esta extensão. Só são permitidas extensões de texto simples.";
+
+/*--------------
+ Library Settings
+ --------------*/
+
+/* Library section in settings. */
+"Settings_Library_Appearance_Section_Title" = "Aparência";
+"Settings_Library_Show_Extensions" = "Mostrar Extensões de Ficheiros";
+
+/* Sort by section in settings. */
+"Settings_Library_Sort_By_Section_Title" = "Sequência de Ordenação";
+
+/*--------------
+ Editor Settings
+ --------------*/
+
+/* Syntax control section in settings. */
+"Settings_Editor_Syntax_Control_Section_Title" = "Destaque de Sintaxe";
+
+/* Editor section in settings. */
+"Settings_Editor_Appearance_Section_Title" = "Aparência";
+"Settings_Editor_Highlight_Color" = "Cor de Destaque";
+"Settings_Editor_Show_Stats" = "Mostrar Estatísticas";
+
+/* Typography section in settings. */
+"Settings_Editor_Text_Section_Title" = "Texto";
+"Settings_Editor_Typography" = "Tipografia";
+"Settings_Editor_Line_Length_Limit_Edit" = "Comprimento Máximo de Linha";
+"Settings_Editor_Typeface" = "Tipo de Letra";
+"Label_Emphasis" = "Ênfase";
+
+/* Focus mode section in settings. */
+"Settings_Editor_Focus_Mode_Section_Title" = "Modo Concentração";
+"Settings_Editor_Focus_Mode" = "Modo Concentração";
+"Settings_Editor_Focus_Mode_Scope" = "Âmbito";
+
+/* Lightning menu strings. */
+"Lightning_Menu_Group_Text" = "Texto";
+"Lightning_Menu_Group_Document" = "Documento";
+"Lightning_Menu_Group_Actions" = "Ações";
+"Lightning_Menu_Group_Menu" = "Menu";
+"Configure_Menu" = "Configurar Menu";
+
+/* Smart substitutions section in settings. */
+"Settings_Editor_Text_Input_Section_Title" = "Introduzir Texto";
+"Settings_Editor_Text_Input_Section_Footer" = "%@ pode ser ativado nas Definições do Sistema → Geral → Teclado.";
+"Settings_Editor_Autocorrection" = "Auto-Correção";
+"Settings_Editor_Check_Spelling" = "Verificar Ortografia";
+"Settings_Editor_Predictive" = "Preditivo";
+"Settings_Editor_Smart_Quotes" = "Aspas Inteligentes";
+"Settings_Editor_Smart_Dashes" = "Hifenes Inteligentes";
+"Settings_Editor_Smart_Inset_Delete" = "Copiar/Colar Inteligente";
+
+/* Indentation settings. */
+"Settings_Editor_Indentation_Title" = "Indentação";
+"Settings_Editor_Indentation" = "Indentação";
+
+"Settings_Editor_Indent_Using" = "Recuar texto utilizando";
+"Settings_Editor_Indent_Using_Tabs" = "Tabulações";
+"Settings_Editor_Indent_Using_Spaces" = "Espaços";
+
+"Settings_Editor_Tab_Key_Behavior" = "Tecla Tab";
+"Settings_Editor_Tab_Key_Behavior_Indent" = "Indentações";
+"Settings_Editor_Tab_Key_Behavior_Insert_Tab" = "Insere tabulação";
+
+"Settings_Editor_Tab_Width" = "Medida da tabulação";
+"Settings_Editor_Indent_Width" = "Largura do Recuo";
+
+"Settings_Editor_Wrapped_Line_Indent_Section_Title" = "Indentação de linhas divididas inclui";
+"Settings_Editor_Wrapped_Line_Indent_Whitespace" = "Espaço em branco";
+"Settings_Editor_Wrapped_Line_Indent_Markdown_Block_Markers" = "Definir marcadores de bloco";
+
+"Settings_Editor_Restore_Indent_Defaults" = "Repor predefinições";
+
+/* Find settings. */
+"Settings_Editor_Find_Section_Title" = "Encontrar Texto";
+"Settings_Editor_Find_Regular_Expression" = "Usar Expressões Regulares";
+
+/*----------------
+ Templates Settings
+ ----------------*/
+
+/* Section title for built-in templates. */
+"Settings_Templates_Default_Templates_Section_Title" = "Modelos Predefinidos";
+
+/* Section title for users templates. */
+"Settings_Templates_Custom_Templates_Section_Title" = "Modelos Personalizados";
+
+/* Action title to get more templates. */
+"Settings_Templates_Get_More" = "Receber Mais Modelos";
+
+/* Action to change template. */
+"Settings_Templates_Appearance_Section_Title" = "Aparência";
+"Settings_Templates_Appearance_Center_Headings" = "Centrar Cabeçalhos";
+"Settings_Templates_Appearance_Number_Headings" = "Numerar Cabeçalhos";
+"Settings_Templates_Appearance_Indent_Paragraphs" = "Recuar Parágrafos";
+"Settings_Templates_Appearance_Invert_Preview_Colors" = "Inverter Cores da Pré-visualização";
+
+/* Markdown section in settings. */
+"Settings_Markdown_Processing_Section_Title" = "Processamento de Marcações";
+"Settings_Markdown_Library_Paths_Title" = "Caminhos da biblioteca";
+"Settings_Markdown_Output_Section_Title" = "Wikiligação, Hashtags, autoligação";
+"Settings_Markdown_Lazy_Paragraphs" = "Mudança de Linha inicia um novo parágrafo";
+"Settings_Markdown_Smart_Punctuation" = "Pontuação Inteligente";
+"Settings_Markdown_Process_Metadata" = "Processar Metadados";
+
+/* Printing & PDF export section in settings. */
+"Settings_Printing_And_PDF_Export_Section_Title" = "Imprimir e Exportar PDF";
+"Settings_Printing_And_PDF_Export_Include_Title_Page" = "Incluir Página de Rosto";
+"Settings_Printing_And_PDF_Export_Include_Header" = "Incluir Cabeçalho";
+"Settings_Printing_And_PDF_Export_Include_Footer" = "Incluir Rodapé";
+
+/* Author name section in settings. */
+"Settings_Templates_Author_Name_Section_Title" = "Nome do Autor";
+"Settings_Templates_Author_Name_Placeholder" = "Nenhum";
+
+/* Action to change preferred paper size. */
+"Settings_Paper_Size_Section_Title" = "Dimensão do Papel";
+
+/* Action to share template. */
+"Table_View_Action_Share" = "Partilhar";
+
+/*------------------
+ URL Scheme Settings
+ -------------------*/
+
+"Settings_URL_Commands_Section_Title" = "Comandos URL";
+"Settings_URL_Commands_Section_Footer" = "Comandos URL permitem que você crie links para arquivos do iA Writer a partir de outros aplicativos, e execute ações com várias ferramentas de automação.";
+"Settings_URL_Commands_Show_Documentation" = "Mostrar Documentação";
+"Settings_URL_Commands_Enable" = "Ativar Comandos URL";
+"Settings_URL_Commands_Auth_Token_Header" = "Código de Autorização";
+
+/*---------
+ URL Scheme
+ ----------*/
+
+/* URL scheme first use alert title. */
+"URL_Scheme_First_Use_Alert_Title" = "Ativar Comandos URL";
+
+/* URL scheme first use alert message. */
+"URL_Scheme_First_Use_Alert_Message" = "Pretende ativar os comandos URL do iA Writer? Pode alterar posteriormente esta opção nas Configurações.";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Title" = "Reinicializar Código de Autorização";
+
+/* URL reset alert title. */
+"URL_Scheme_Reset_Alert_Message" = "Tem a certeza de que pretende reinicializar o código de autorização? Esta ação não pode ser revertida.";

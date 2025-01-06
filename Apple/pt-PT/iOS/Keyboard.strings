@@ -1,0 +1,117 @@
+
+"Key_Picker_Title" = "Teclas";
+
+"Key_Picker_Button_Reset" = "Repor";
+
+"Key_Picker_Message_Reset" = "Tem a certeza de querer repor a configuração do teclado? Perderá todas as suas modificações.";
+"Key_Picker_Action_Reset" = "Repor Configuração do Teclado";
+
+"Lightning_Menu_Message_Reset" = "Tem a certeza de que quer redefinir o Menu Relâmpago? Todas as suas modificações serão perdidas.";
+"Lightning_Menu_Action_Reset" = "Redefinir Menu Relâmpago";
+
+"Edit_Menu_Message_Reset" = "Tem a certeza de que quer redefinir o menu Editar? Todas as suas modificações serão perdidas.";
+"Edit_Menu_Action_Reset" = "Redefinir Menu Editar";
+
+"Double_Tap_Shift_Suggestion" = "Toque duas vezes no Shift para exibir as ações de estrutura na barra do teclado.";
+
+"Menu_Quick_Search" = "Procura Rápida";
+"Menu_Find" = "Procurar e substituir";
+"Menu_Replace" = "Substituir";
+"Menu_Replace_All" = "Substituir todos";
+
+"Find_Placeholder" = "Encontrar";
+"Find_Replace_Placeholder" = "Substituir";
+"Find_Match_Style" = "Combinar estilo";
+"Find_Match_Case" = "Combinar maiúsculas/minúsculas";
+"Replace_Action" = "Substituir";
+"Replace_All_Action" = "Todos";
+
+"Key_Description_Lightning" = "Raio";
+"Key_Description_Insert_Selected_Completion" = "Inserir conclusão selecionada";
+"Key_Description_Cancel" = "Cancelar";
+"Key_Description_Open_Link" = "Abrir ligação";
+
+"Key_Description_Find" = "Barra de Encontrar";
+"Key_Description_Show_Find" = "Mostrar Barra de Encontrar";
+"Key_Description_Hide_Find" = "Ocultar Barra de Encontrar";
+"Key_Description_Find_Next" = "Encontrar Seguinte";
+"Key_Description_Find_Previous" = "Encontrar Anterior";
+"Key_Description_Replace" = "Substituir";
+"Key_Description_Replace_All" = "Substituir Todos";
+
+"Find_Contains" = "Contém";
+"Find_Matches_Word" = "Combina com palavra";
+"Find_Starts_With" = "Começa por";
+"Find_Ends_With" = "Termina em";
+"Find_Regular_Expression" = "Expressão habitual";
+
+"Key_Description_Search" = "Procurar";
+"Key_Description_Command" = "Comandos";
+
+"Key_Description_Undo" = "Desfazer";
+"Key_Description_Redo" = "Refazer";
+
+"Key_Description_Move_Up" = "Seta para Cima";
+"Key_Description_Move_Down" = "Seta para Baixo";
+"Key_Description_Move_Left" = "Seta para a Esquerda";
+"Key_Description_Move_Right" = "Seta para a Direita";
+
+"Key_Description_Dismiss_Menu" = "Dispensar Menu";
+
+"Key_Title_Return" = "voltar";
+"Key_Title_Tab" = "tabulação";
+"Key_Title_Backtab" = "retroceder";
+"Key_Title_Home" = "início";
+"Key_Title_End" = "fim";
+"Key_Title_Move_Text_Up" = "mover\ntexto ↑";
+"Key_Title_Move_Text_Down" = "mover\ntexto ↓";
+"Key_Title_Undo" = "desfazer";
+"Key_Title_Redo" = "refazer";
+
+"Key_Description_Return" = "Voltar";
+"Key_Description_Delete_Forward" = "Eliminar para a Frente";
+"Key_Description_Delete_Backward" = "Eliminar para Trás";
+"Key_Description_Delete_Paragraph" = "Eliminar Parágrafo";
+"Key_Description_Dismiss_Keyboard" = "Ocultar Teclado";
+"Key_Description_Backtab" = "Recuo invertido";
+"Key_Description_Tab" = "Recuo";
+"Key_Description_Outdent" = "Recuo invertido";
+"Key_Description_Indent" = "Recuo";
+"Key_Description_Move_Text_Up" = "Mover Linha para Cima";
+"Key_Description_Move_Text_Down" = "Mover Linha para Baixo";
+"Key_Description_Dismiss_Keyboard" = "Ocultar Teclado";
+"Key_Description_Move_To_Beginning" = "Ir para o Início do Documento";
+"Key_Description_Move_To_End" = "Ir para o Fim do Documento";
+
+"Lightning_Size" = "Tamanho";
+"Lightning_Size_Regular" = "Normal";
+"Lightning_Size_Medium" = "Médio";
+"Lightning_Size_Compact" = "Compacto";
+
+"Edit_Menu" = "Editar";
+"Settings_Edit_Menu" = "Menu Editar";
+"Settings_Edit_Menu_Section_Footer" = "Utilize o menu Editar para executar ações no texto selecionado. As ações que não se aplicam à seleção são automaticamente escondidas.";
+
+"Settings_Keyboard_Title" = "Teclado";
+"Settings_Lightning_Menu" = "Menu Flash";
+"Settings_Lightning_Action_Not_Found" = "Não Encontrado";
+"Settings_Lightning_Menu_Add_Actions" = "Adicionar ações";
+"Settings_Lightning_Menu_Add_Submenu" = "Adicionar submenu";
+"Settings_Lightning_Menu_Edit_Submenu" = "Editar submenu";
+"Settings_Lightning_Menu_Remove_Action" = "Remover ação";
+"Settings_Lightning_Menu_Remove_Submenu" = "Remover submenu";
+"Settings_Lightning_Menu_Select_Action_Title" = "Selecionar ação";
+"Settings_Lightning_Menu_Submenu_Actions_Title" = "Ações";
+"Settings_Lightning_Menu_Submenu_Appearance_Section_Title" = "Aparência";
+"Settings_Lightning_Menu_Submenu_Show_Inline" = "Mostrar Incorporado";
+"Settings_Lightning_Menu_Submenu_Show_Inline_Section_Footer" = "As ações do submenu incorporado são mostradas no menu principal, separadas das restantes ações.";
+"Settings_Lightning_Menu_Section_Footer" = "Toque demoradamente em qualquer ação no Menu Flash para abrir estas definições.";
+"Settings_Command_Keyboard" = "Teclado de comando";
+"Settings_Command_Keyboard_Enable" = "Mostrar na Barra de teclado";
+"Settings_Command_Keyboard_Always_Show_As_Popover" = "Mostrar sempre como pop-over";
+"Settings_Command_Keyboard_Configure" = "Configurar";
+"Settings_Command_Keyboard_Enabled_Section_Footer" = "Toque demoradamente em qualquer tecla clara no Teclado de comando para abrir o modo de configuração.";
+"Settings_Command_Keyboard_Disabled_Section_Footer" = "As ações do Teclado de comando estão disponíveis no Menu Flash, na Procura Rápida e como atalhos de teclado quando estiver ligado um teclado físico.";
+"Settings_Hardware_Keyboard_Title" = "Equipamento de Teclado";
+"Settings_Hardware_Keyboard_Footer" = "Isto afeta a barra de teclado apenas quando estiver ligado um teclado físico";
+"Settings_Hardware_Keyboard_Show_Bar" = "Mostrar barra de teclado";

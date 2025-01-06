@@ -1,0 +1,81 @@
+
+/* Class = "NSButtonCell"; title = "Get Ready-Made Shortcuts"; ObjectID = "08k-Ex-px6"; */
+"08k-Ex-px6.title" = "Baixar Atalhos Prontos";
+
+/* Class = "NSTextFieldCell"; title = "File extensions:"; ObjectID = "0IN-f9-orW"; */
+"0IN-f9-orW.title" = "Extensões de ficheiros:";
+
+/* Class = "NSButtonCell"; title = "Match system appearance"; ObjectID = "7Ng-I8-X9P"; */
+"7Ng-I8-X9P.title" = "Correspondência com aspeto do sistema";
+
+/* Class = "NSTextFieldCell"; title = "URL commands allow you link to iA Writer files from other apps, and to perform actions with various automation tools."; ObjectID = "7eH-Lk-TJK"; */
+"7eH-Lk-TJK.title" = "Comandos URL permitem que você crie links para arquivos do iA Writer a partir de outros aplicativos, e execute ações com várias ferramentas de automação.";
+
+/* Class = "NSButtonCell"; title = "Show file extensions"; ObjectID = "8NU-YT-G88"; */
+"8NU-YT-G88.title" = "Mostrar as extensões de ficheiros";
+
+/* Class = "NSTextFieldCell"; title = "Shortcuts:"; ObjectID = "8RM-fb-kKC"; */
+"8RM-fb-kKC.title" = "Atalhos:";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "8Ra-gX-fPi"; */
+"8Ra-gX-fPi.title" = "Escurecido";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "ACg-Xt-HjR"; */
+"ACg-Xt-HjR.title" = "Escurecido";
+
+/* Class = "NSTextFieldCell"; title = "Dock icon:"; ObjectID = "BDr-jl-Y9p"; */
+"BDr-jl-Y9p.title" = "Ícone Dock:";
+
+/* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "LlI-C5-bpg"; */
+"LlI-C5-bpg.title" = "Barra de ferramentas:";
+
+/* Class = "NSTextFieldCell"; title = "Window:"; ObjectID = "Luh-fz-AAE"; */
+"Luh-fz-AAE.title" = "Janela:";
+
+/* Class = "NSButtonCell"; title = "Enable URL commands"; ObjectID = "Oh0-bg-EXQ"; */
+"Oh0-bg-EXQ.title" = "Ativar comandos URL";
+
+/* Class = "NSButtonCell"; title = "Always resize window to show Library"; ObjectID = "Os5-IG-gLB"; */
+"Os5-IG-gLB.title" = "Tem sempre de redimensionar a janela para mostrar a Biblioteca";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "Rnn-Wj-4HI"; */
+"Rnn-Wj-4HI.title" = "Aspeto:";
+
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
+"SWw-D8-EqL.title" = "Aparecer/Desaparecer";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "U8m-wr-wFI"; */
+"U8m-wr-wFI.title" = "Iluminado";
+
+/* Class = "NSButtonCell"; title = "Manage"; ObjectID = "UpS-Li-DCu"; */
+"UpS-Li-DCu.title" = "Gerir";
+
+/* Class = "NSTextFieldCell"; title = "Title bar:"; ObjectID = "Ws8-XL-Ktr"; */
+"Ws8-XL-Ktr.title" = "Barra de título:";
+
+/* Class = "NSTextFieldCell"; title = "Shortcuts make it easy to get tasks done by combining actions—the building blocks of a shortcut—into a series of steps—a shortcut—that can be launched with one click, or by asking Siri. "; ObjectID = "a5J-pD-uLL"; */
+"a5J-pD-uLL.title" = "Os Atalhos facilitam a execução de tarefas combinando ações — os blocos de construção de um atalho — em uma sequência de passos, formando assim um atalho, que pode ser acionado com um toque ou por meio de um pedido à Siri.";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
+"c8E-lj-f6I.title" = "Ocultar";
+
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "dUf-up-413"; */
+"dUf-up-413.title" = "Aparecer/Desaparecer";
+
+/* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
+"ilj-nk-Mxd.title" = "Percorrer a Pré-visualização em sincronia com o Editor";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "ioq-21-L8D"; */
+"ioq-21-L8D.title" = "Mostrar Sempre";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
+"j0k-Io-Sa4.title" = "Mostrar Sempre";
+
+/* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
+"pJV-vk-Inh.title" = "Deslizar para mostrar a Biblioteca ou a Pré-visualização";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "vB9-wl-rUL"; */
+"vB9-wl-rUL.title" = "Iluminado";
+
+/* Class = "NSButtonCell"; title = "Match app appearance"; ObjectID = "zYE-q5-H6k"; */
+"zYE-q5-H6k.title" = "Correspondência com aspeto da aplicação";

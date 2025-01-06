@@ -1,0 +1,69 @@
+
+/* Class = "NSButtonCell"; title = "Single return starts a new paragraph"; ObjectID = "1tl-et-2n4"; */
+"1tl-et-2n4.title" = "A mudança de linha inicia um parágrafo novo";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
+"561-vh-uzh.ibShadowedToolTip" = "Inverter cores do modo noturno na Pré-visualização. Os modelos personalizados devem implementar o modo noturno para permitir a inversão de cores.";
+
+/* Class = "NSButtonCell"; title = "Process metadata"; ObjectID = "794-EH-QRk"; */
+"794-EH-QRk.title" = "Processar Metadados";
+
+/* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
+"GBp-vd-erZ.title" = "Abrir Documentação";
+
+/* Class = "NSTextFieldCell"; title = "Default templates:"; ObjectID = "ILS-Oy-k2r"; */
+"ILS-Oy-k2r.title" = "Modelos predefinidos:";
+
+/* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "NWz-SI-k1m"; */
+"NWz-SI-k1m.title" = "Pré-visualização:";
+
+/* Class = "NSButtonCell"; title = "Headers"; ObjectID = "NlF-W4-pAH"; */
+"NlF-W4-pAH.title" = "Cabeçalhos";
+
+/* Class = "NSTextFieldCell"; title = "Printing & PDF Export:"; ObjectID = "P09-gF-Ui9"; */
+"P09-gF-Ui9.title" = "Impressão e Exportação para PDF:";
+
+/* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
+"aq5-yb-Aik.title" = "Recuar parágrafos";
+
+/* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
+"c4c-Wj-hKb.title" = "Centrar cabeçalhos";
+
+/* Class = "NSButtonCell"; title = "Hide hashtags"; ObjectID = "cVG-Tj-Zs0"; */
+"cVG-Tj-Zs0.title" = "Ocultar hashtags";
+
+/* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
+"eLo-eM-g9t.title" = "Rodapés";
+
+/* Class = "NSMenuItem"; title = "Install Template…"; ObjectID = "eXK-ab-Lw9"; */
+"eXK-ab-Lw9.title" = "Instalar Modelo...";
+
+/* Class = "NSButtonCell"; title = "Invert colors"; ObjectID = "f2Y-kh-hVX"; */
+"f2Y-kh-hVX.title" = "Inverter cores";
+
+/* Class = "NSButtonCell"; title = "Uninstall Template"; ObjectID = "h5a-TI-YPT"; */
+"h5a-TI-YPT.title" = "Desinstalar Modelo";
+
+/* Class = "NSTextFieldCell"; title = "Markdown processing:"; ObjectID = "hUt-3b-BEn"; */
+"hUt-3b-BEn.title" = "Processamento remarcação:";
+
+/* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
+"nwP-qK-Y5q.title" = "Obter mais modelos";
+
+/* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "okQ-c2-ZeF"; */
+"okQ-c2-ZeF.title" = "Autor:";
+
+/* Class = "NSTextFieldCell"; title = "Custom templates:"; ObjectID = "qc2-ag-Mwe"; */
+"qc2-ag-Mwe.title" = "Modelos personalizados:";
+
+/* Class = "NSButtonCell"; title = "Number headings"; ObjectID = "tEq-K2-EVY"; */
+"tEq-K2-EVY.title" = "Cabeçalhos numéricos";
+
+/* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
+"wLN-Zi-CIU.title" = "Página de rosto";
+
+/* Class = "NSButtonCell"; title = "Apply smart punctuation"; ObjectID = "xcN-na-4AD"; */
+"xcN-na-4AD.title" = "Aplicar pontuação inteligente";
+
+/* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
+"y8E-dF-Bfw.title" = "Instalar Modelo";

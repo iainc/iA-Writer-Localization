@@ -1,0 +1,18 @@
+
+"Unknown_Error_Title" = "Erro desconhecido";
+"Unknown_Error" = "Ocorreu um erro desconhecido.";
+"Unknown_Error_Recovery_Suggestion" = "Por favor, tente novamente e contacte o suporte.";
+
+"Annotations_Key" = "Anotações";
+
+"Author_Human" = "Humano";
+"Author_Other" = "Outro";
+
+"Author_Unnamed" = "Sem nome";
+"Author_Unspecified" = "Não especificado";
+
+"Annotation_Unknown" = "Desconhecido";
+"Annotation_Unknown_Description" = "Esta anotação não pode ser exibida por esta versão de %@.";
+
+"Annotation_Authorship" = "Autoria";
+"Annotation_Authorship_Description" = "Esta anotação contém autoria.";
