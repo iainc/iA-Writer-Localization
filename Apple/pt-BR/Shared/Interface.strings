@@ -4,8 +4,8 @@
 
 "OK" = "OK";
 "Cancel" = "Cancelar";
-"Try_Again" = "Tente novamente";
-"Share" = "Partilhar";
+"Try_Again" = "Tentar Novamente";
+"Share" = "Compartilhar";
 "Close" = "Fechar";
 "Continue" = "Continuar";
 "Enable" = "Ativar";
@@ -14,7 +14,7 @@
 "Edit" = "Editar";
 "Done" = "Concluído";
 "Remove" = "Remover";
-"Delete" = "Eliminar";
+"Delete" = "Apagar";
 "Delete_Immediately" = "Apagar Imediatamente";
 "More" = "Mais";
 "Hide" = "Ocultar";
@@ -25,18 +25,18 @@
 "Move_To_Trash" = "Mover para o Lixo";
 "Copy" = "Copiar";
 "Open" = "Abrir";
-"Save" = "Guardar";
-"Discard_Changes" = "Discard Changes";
-"Keep_Editing" = "Keep Editing";
+"Save" = "Salvar";
+"Discard_Changes" = "Descartar Mudanças";
+"Keep_Editing" = "Continuar Editando";
 "Print" = "Imprimir";
 "Export" = "Exportar";
 "Publish" = "Publicar";
 "Back" = "Retornar";
 "Forward" = "Avançar";
 "Text_Size" = "Tamanho do Texto";
-"Make_Text_Bigger" = "Aumentar texto";
-"Make_Text_Normal_Size" = "Texto em tamanho normal";
-"Make_Text_Smaller" = "Reduzir texto";
+"Make_Text_Bigger" = "Aumentar Tamanho do Texto";
+"Make_Text_Normal_Size" = "Tamanho do Texto Padrão";
+"Make_Text_Smaller" = "Diminuir Tamanho do Texto";
 
 "Default_Document_Name" = "Sem título";
 "Default_Folder_Name" = "Pasta sem título";
