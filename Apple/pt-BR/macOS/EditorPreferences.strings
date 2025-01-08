@@ -78,7 +78,7 @@
 "R1m-6D-dC7.title" = "As edições humanas estão sublinhadas. As outras edições estão obscurecidas.";
 
 /* Class = "NSButtonCell"; title = "Show inline predictive text"; ObjectID = "Rfi-gk-v3F"; */
-"Rfi-gk-v3F.title" = "Exibir texto preditivo em linha";
+"Rfi-gk-v3F.title" = "Exibir texto preditivo embutido";
 
 /* Class = "NSButtonCell"; title = "Indentation…"; ObjectID = "RgV-pT-lVu"; */
 "RgV-pT-lVu.title" = "Indentação…";
