@@ -29,9 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>tu</string>
 			<key>one</key>
-			<string>Tem a certeza de que pretende eliminar o item selecionado?</string>
+			<string>Tem certeza de que deseja eliminar o item selecionado?</string>
 			<key>other</key>
-			<string>Tem a certeza de que pretende eliminar os itens selecionados?</string>
+			<string>Tem certeza de que deseja eliminar os %tu itens selecionados?</string>
 		</dict>
 	</dict>
 	<key>Trial_Expiration_Days</key>
