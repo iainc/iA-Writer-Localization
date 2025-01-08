@@ -327,7 +327,7 @@ Text Check
 "Style_Check_Title" = "Verificador de Estilo";
 "Style_Check_Sentence_Capitalization" = "Verificador de Estilo";
 "Style_Check_Target_Fillers" = "Bengalas";
-"Style_Check_Target_Cliches" = "Clichés";
+"Style_Check_Target_Cliches" = "Clichês";
 "Style_Check_Target_Redundancies" = "Redundâncias";
 "Style_Check_Target_Custom" = "Personalizado";
 "Style_Check_Languages" = "Padrões incorporados para inglês, espanhol, francês, alemão.";
