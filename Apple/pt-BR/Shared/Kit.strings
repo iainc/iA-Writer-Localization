@@ -74,8 +74,8 @@
 
 "Duplicate_Item_Suffix" = " cópia";
 
-"Open_Content_Block" = "Abrir Bloco de Conteúdos";
-"Open_Content_Block_Tooltip" = "⌘-clique para abrir o bloco de conteúdos";
+"Open_Content_Block" = "Abrir Bloco de Conteúdo";
+"Open_Content_Block_Tooltip" = "⌘-clique para abrir o bloco de conteúdo";
 
 "Open_Link" = "Abrir Link";
 "Open_Link_Tooltip" = "⌘-clique para abrir o link";
@@ -99,7 +99,7 @@
 "Accessibility_Hashtag" = "Hashtag";
 "Accessibility_Email" = "E-mail";
 "Accessibility_URL_Command" = "Comando URL";
-"Accessibility_Content_Block" = "Bloco de Conteúdos";
+"Accessibility_Content_Block" = "Bloco de Conteúdo";
 
 "Yellow" = "Amarelo";
 "Orange" = "Laranja";
@@ -649,7 +649,7 @@ Text Check
 
 "Content_Block_Error_Unknown_Extension" = "“%@” tem uma extensão não suportada.";
 "Content_Block_Error_Unknown_Extension_Title" = "“%@” Tem uma Extensão não Suportada";
-"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Os blocos de conteúdo devem conter arquivos de texto simples ou imagens.";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Os blocos de conteúdos devem conter arquivos de texto simples ou imagens.";
 "Content_Block_Error_Unknown_Wikilink_Embed_Extension_Recovery_Suggestion" = "Wikilinks incorporados devem ser arquivos em formato Markdown ou imagens.";
 
 "Content_Block_Error_Recursive_Reference" = "“%@” contém uma referência recursiva.";
@@ -658,11 +658,11 @@ Text Check
 
 "Content_Block_Error_Unsupported_Location" = "Os blocos de conteúdos são suportados apenas por arquivos na Biblioteca.";
 "Content_Block_Error_Unsupported_Location_Title" = "Localização não Suportada";
-"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Mova ou copie o arquivo para a Biblioteca para usar os blocos de conteúdo.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion" = "Mova ou copie o arquivo para a Biblioteca para usar os blocos de conteúdos.";
 
-"Content_Block_Error_Deprecated_Path" = "“%@” contém um bloco de conteúdos obsoleto.";
-"Content_Block_Error_Deprecated_Path_Title" = "“%@” Contém um Bloco de Conteúdos Obsoleto";
-"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "“%1$@” usa a / inicial para referenciar a pasta que contém “%2$@”. Esta funcionalidade é obsoleta e deixará de funcionar no futuro. Atualize o caminho deste bloco de conteúdos para um formato mais curto removendo tudo menos o nome do arquivo ou substitua a / inicial por ./ para continuar a usar o caminho relativo.";
+"Content_Block_Error_Deprecated_Path" = "“%@” contém um bloco de conteúdo obsoleto.";
+"Content_Block_Error_Deprecated_Path_Title" = "“%@” Contém um Bloco de Conteúdo Obsoleto";
+"Content_Block_Error_Deprecated_Path_Recovery_Suggestion" = "“%1$@” usa a / inicial para referenciar a pasta que contém “%2$@”. Esta funcionalidade é obsoleta e deixará de funcionar no futuro. Atualize o caminho deste bloco de conteúdo para um formato mais curto removendo tudo menos o nome do arquivo ou substitua a / inicial por ./ para continuar a usar o caminho relativo.";
 
 /*---------
  Text Stats

@@ -666,7 +666,7 @@
 "uX8-od-ELu.title" = "Mostrar Data";
 
 /* Class = "NSMenuItem"; title = "Add Content Block"; ObjectID = "uff-bL-rHl"; */
-"uff-bL-rHl.title" = "Acrescentar Bloco de Conteúdos";
+"uff-bL-rHl.title" = "Acrescentar Bloco de Conteúdo";
 
 /* Class = "NSMenuItem"; title = "Enable Focus Mode"; ObjectID = "urZ-cG-Loa"; Note = "SKIP LOCALIZATION"; */
 "urZ-cG-Loa.title" = "Ativar o Modo Foco";
