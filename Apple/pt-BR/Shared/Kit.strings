@@ -509,12 +509,12 @@ Text Check
 "URL_Scheme_Error_Invalid_Parameters" = "O comando URL foi invocado com parâmetros inválidos.";
 "URL_Scheme_Error_Invalid_Parameters_Recovery_Suggestion" = "Consulte a documentação do comando URL.";
 
-"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Token de Autorização Inválido";
-"URL_Scheme_Error_Invalid_Auth_Token" = "O comando URL foi invocado com um token de autorização inválido";
-"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Certifique-se de que o token de autorização está correto.";
+"URL_Scheme_Error_Invalid_Auth_Token_Title" = "Token de Autenticação Inválido";
+"URL_Scheme_Error_Invalid_Auth_Token" = "O comando URL foi invocado com um token de autenticação inválido";
+"URL_Scheme_Error_Invalid_Auth_Token_Recovery_Suggestion" = "Certifique-se de que o token de autenticação está correto.";
 
-"URL_Scheme_Auth_Token_Description" = "Alguns comandos URL necessitam de um token de autorização.";
-"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Alguns comandos URL necessitam de um token de autorização. Os seus dispositivos compartilham o mesmo token de autorização ao utilizar o iCloud.";
+"URL_Scheme_Auth_Token_Description" = "Alguns comandos URL necessitam de um token de autenticação.";
+"URL_Scheme_Ubiquitous_Auth_Token_Description" = "Alguns comandos URL necessitam de um token de autenticação. Os seus dispositivos compartilham o mesmo token de autenticação ao utilizar o iCloud.";
 
 /*-------
  Storages
