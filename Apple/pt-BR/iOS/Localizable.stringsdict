@@ -5,7 +5,7 @@
 	<key>Move_Prompt</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>Escolha uma nova pasta para o/a %#@item@.</string>
+		<string>Escolha uma nova pasta para %#@item@.</string>
 		<key>item</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -45,9 +45,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Introduz um novo nome para este item.</string>
+			<string>Insira um novo nome para este item.</string>
 			<key>other</key>
-			<string>Introduza o texto para encontrar e substituir.</string>
+			<string>Insira o texto para buscar e substituir.</string>
 		</dict>
 	</dict>
 	<key>Rename_Alert_Title</key>
