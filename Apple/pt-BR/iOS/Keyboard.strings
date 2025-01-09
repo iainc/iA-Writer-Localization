@@ -69,9 +69,9 @@
 "Key_Title_Redo" = "refazer";
 
 "Key_Description_Return" = "Return";
-"Key_Description_Delete_Forward" = "Eliminar para a Frente";
-"Key_Description_Delete_Backward" = "Eliminar para Trás";
-"Key_Description_Delete_Paragraph" = "Eliminar Parágrafo";
+"Key_Description_Delete_Forward" = "Apagar para a Frente";
+"Key_Description_Delete_Backward" = "Apagar para Trás";
+"Key_Description_Delete_Paragraph" = "Apagar Parágrafo";
 "Key_Description_Dismiss_Keyboard" = "Ocultar Teclado";
 "Key_Description_Backtab" = "Backtab";
 "Key_Description_Tab" = "Tab";
