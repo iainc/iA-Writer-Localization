@@ -492,8 +492,8 @@ Document
 "Discoverability_New_Window" = "Nova Janela";
 
 /* Appearance command titles. */
-"Discoverability_Dark_Mode" = "Aspecto Escuro";
-"Discoverability_Light_Mode" = "Aspecto Claro";
+"Discoverability_Dark_Mode" = "Aparência Escura";
+"Discoverability_Light_Mode" = "Aparência Clara";
 /* Old name used for search matching. */
 "Discoverability_Night_Mode" = "Modo Noturno";
 
