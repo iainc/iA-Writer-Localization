@@ -59,7 +59,7 @@
 "Template_Installed_Title" = "O Modelo “%@” Foi Instalado";
 
 /* Notification info text after a template is successfully installed via Finder or Dock icon. */
-"Template_Installed_Description" = "Você pode acessar os modelos na Pré-visualização e em Visualizar > Modelos. Você pode desinstalar os modelos nas Preferências.";
+"Template_Installed_Description" = "Você pode acessar os modelos na Pré-visualização e em Visualizar > Modelo. Você pode desinstalar os modelos nos Ajustes.";
 
 /*------------
  Release Notes
@@ -388,7 +388,7 @@
 "URL_Scheme_First_Use_Message" = "Deseja ativar os comandos URL do iA Writer?";
 
 /* URL scheme first use alert informative text. */
-"URL_Scheme_First_Use_Informative_Text" = "Você pode alterar esta opção posteriormente nas Preferências.";
+"URL_Scheme_First_Use_Informative_Text" = "Você pode alterar esta opção posteriormente nos Ajustes.";
 
 /* Markdown processing lazy paragraphs. */
 "Markdown_Lazy_Paragraphs" = "A mudança de linha inicia um parágrafo novo";
