@@ -3,7 +3,7 @@
 "Button_Select_All" = "Selecionar Todos";
 
 /* Button to deselect all visible items. */
-"Button_Deselect_All" = "Desselecionar Todos";
+"Button_Deselect_All" = "Desmarcar Todos";
 
 /* Version browser title for conflict resolution */
 "Version_Browser_Title_Conflict" = "Conflito de Versões";
@@ -18,10 +18,10 @@
 "Version_Browser_Subitem_Title" = "Todas as versões disponíveis de “%@”";
 
 /* Version browser subitem message. */
-"Version_Browser_Subitem_Message" = "Escolha uma versão mais antiga para reverter. Escolha a versão corrente, para além das versões mais antigas, para criar ficheiros distintos.";
+"Version_Browser_Subitem_Message" = "Escolha uma versão mais antiga para reverter. Escolha a versão corrente, além de versões mais antigas, para criar arquivos distintos.";
 
 /* Version browser subitem message in conflict */
-"Version_Browser_Subitem_Message_Conflict" = "As modificações não estão sincronizadas. Escolha os documentos que quer manter.";
+"Version_Browser_Subitem_Message_Conflict" = "As modificações não estão sincronizadas. Escolha os documentos que deseja manter.";
 
 /* Version browser subitem title, %@ = document name. */
 "Version_Browser_Subitem_Title_Conflict" = "Versões em conflito de “%@”";
@@ -30,10 +30,10 @@
 "Version_Browser_Conflict_Keep" = "Manter";
 
 /* Version browser action title when two conflict versions exist and both we re marked to keep */
-"Version_Browser_Conflict_Keep_Both" = "Manter ambos";
+"Version_Browser_Conflict_Keep_Both" = "Manter Ambos";
 
 /* Version browser action title when two versions exist and both were chosen */
-"Version_Browser_Conflict_Keep_All" = "Manter todos";
+"Version_Browser_Conflict_Keep_All" = "Manter Todos";
 
 /* Version browser action in conflict when more than one version is selected */
 "Version_Browser_Conflict_Keep_Number" = "Manter %d";
@@ -48,10 +48,10 @@
 "Version_Browser_Save_Number" = "Criar %d";
 
 /* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Title" = "Não é possível ler as versões";
+"Version_Browser_Error_Title" = "Não é Possível Ler as Versões";
 
 /* Version browser action title when two versions exist and both were marked to keep */
-"Version_Browser_Error_Message" = "Erro iCloud: “%@”";
+"Version_Browser_Error_Message" = "Erro no iCloud: “%@”";
 
 /* Unknown error message from iCloud. */
 "Version_Browser_Error_Unknown" = "Erro desconhecido";
@@ -60,4 +60,4 @@
 "Version_Browser_Error_Network_Unavailable" = "A rede não está disponível.";
 
 /* Network failure while attemting to browse versions. */
-"Version_Browser_Error_Network_Failure" = "Não foi possível ligar.";
+"Version_Browser_Error_Network_Failure" = "Não foi possível conectar.";
