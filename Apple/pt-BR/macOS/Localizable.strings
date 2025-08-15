@@ -4,36 +4,36 @@
  -----*/
 
 /* Menu title to enable dark appearance. */
-"Menu_Enable_Dark_Appearance" = "Usar Aspeto Escurecido";
+"Menu_Enable_Dark_Appearance" = "Usar Aparência Escura";
 
 /* Menu title to enable light appearance. */
-"Menu_Enable_Light_Appearance" = "Usar Aspeto Iluminado";
+"Menu_Enable_Light_Appearance" = "Usar Aparência Clara";
 
 /* New in Library. Menu item title for creating new documents in Library. */
 "New_Document_In_Library_Menu" = "Novo na Biblioteca";
 
 /* New. Menu item title for creating new documents in Library in current window. */
-"New_Document_In_Library_In_Window_Menu" = "Novo na Biblioteca na Janela";
+"New_Document_In_Library_In_Window_Menu" = "Novo na Biblioteca na Janela Atual";
 
 /* New. Menu item title for creating new documents. */
 "New_Document_Menu" = "Novo";
 
 /* New Tab in Library. Menu item title for creating new documents in Library. */
-"New_Document_In_Tab_In_Library_Menu" = "Novo Separador na Biblioteca";
+"New_Document_In_Tab_In_Library_Menu" = "Nova Aba na Biblioteca";
 
 /* New Tab. Menu item title for creating new documents. */
-"New_Document_In_Tab_Menu" = "Novo Separador";
+"New_Document_In_Tab_Menu" = "Nova Aba";
 
 /* Default editor toolbar title. */
-"Editor_Toolbar_Default_Menu" = "Predefinição";
+"Editor_Toolbar_Default_Menu" = "Padrão";
 
 /* Stats editor toolbar title. */
 "Editor_Toolbar_Stats_Menu" = "Estatísticas";
 
-"Menu_Share" = "Partilhar";
+"Menu_Share" = "Compartilhar";
 "Menu_Publish" = "Publicar";
 "Menu_Export" = "Exportar";
-"Menu_Export_With_Ellipsis" = "Exportar …";
+"Menu_Export_With_Ellipsis" = "Exportar…";
 "Menu_Print" = "Imprimir";
 "Menu_Print_Formatted" = "Imprimir…";
 "Menu_Print_Plain_Text" = "Imprimir Texto Simples…";
@@ -46,27 +46,27 @@
 "Trial_Buy_Now" = "Comprar Agora";
 
 /* Demo wecolme notice. */
-"Trial_Welcome" = "Bem-vindo ao iA Writer.\nEsta versão de teste permite-lhe desfrutar gratuitamente de todas as funcionalidades.";
+"Trial_Welcome" = "Bem-vindo ao iA Writer.\nEsta versão de avaliação te permite desfrutar\ngratuitamente de todas as funcionalidades.";
 
 /* Demo expiration notice. */
-"Trial_Expiration_Notice" = "A versão de avaliação expirou. Esperamos que tenha gostado de usar o iA Writer.";
+"Trial_Expiration_Notice" = "A versão de avaliação expirou. Esperamos que você tenha gostado de usar o iA Writer.";
 
 /*--------
  Templates
  --------*/
 
 /* Notification title after a template is successfully installed via Finder or Dock icon. */
-"Template_Installed_Title" = "Instalado o Modelo “%@”";
+"Template_Installed_Title" = "O Modelo “%@” Foi Instalado";
 
 /* Notification info text after a template is successfully installed via Finder or Dock icon. */
-"Template_Installed_Description" = "Pode aceder a modelos na Pré-visualização e em Visualizar > Modelos. Pode desinstalar os modelos nas Preferências.";
+"Template_Installed_Description" = "Você pode acessar os modelos na Pré-visualização e em Visualizar > Modelo. Você pode desinstalar os modelos nos Ajustes.";
 
 /*------------
  Release Notes
  ------------*/
 
 /* Notification title, shown on first launch of a new version. */
-"Updated_Notification_Title" = "iA Writer atualizado para a Versão %@";
+"Updated_Notification_Title" = "O iA Writer Foi Atualizado para a Versão %@";
 
 /* Notification info text, shown on first launch of a new version. */
 "Updated_Notification_Message" = "Clique para ver as notas da versão.";
@@ -98,13 +98,13 @@
  -----*/
 
 /* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
-"Button_Share" = "Partilhar";
+"Button_Share" = "Compartilhar";
 
 /* WordPress site picker alert title. */
 "WordPress_Picker_Message" = "Onde gostaria de criar o rascunho?";
 
 /* WordPress site picker alert description. */
-"WordPress_Picker_Informative_Text" = "A conta WordPress acede a mais de um site.";
+"WordPress_Picker_Informative_Text" = "A conta WordPress tem acesso a mais de um site.";
 
 /*-----
  Window
@@ -138,36 +138,36 @@
 "Preview_Layout_Full" = "Completa";
 
 /* Message shown over empty preview. */
-"Preview_Content_Placeholder" = "Não existem conteúdos para Pré-visualizar";
+"Preview_Content_Placeholder" = "Não Existem Conteúdos para Pré-visualizar";
 
 /*------
  Library
  ------*/
 
 /* Go menu item title to go to enclosing folder. */
-"Library_Go_Enclosing_Folder" = "Pasta de Conteúdos";
+"Library_Go_Enclosing_Folder" = "Pasta que Contém a Atual";
 
 /* Snippet for empty documents. */
-"Library_Snippet_Empty" = "Documento vazio";
+"Library_Snippet_Empty" = "Documento Vazio";
 
 /* Snippet for documents which weren’t downloaded yet. */
-"Library_Snippet_Updating" = "A atualizar…";
+"Library_Snippet_Updating" = "Atualizando…";
 
 /* Menu to create a new file when right-clicking empty space in document library. */
-"Library_Action_New_File" = "Novo Ficheiro";
+"Library_Action_New_File" = "Novo Arquivo";
 
 /* Menu to create a new folder when right-clicking empty space in document library.
    Name for new folders. */
 "Library_Action_New_Folder" = "Nova Pasta";
 
 /* Menu to create a new folder when right-clicking a document in document library. */
-"Library_Action_New_Folder_Selection" = "Nova Pasta na Seleção";
+"Library_Action_New_Folder_Selection" = "Nova Pasta com a Seleção";
 
 /* Menu item to open in separate window. */
-"Library_Action_Open_In_New_Window" = "Abrir numa Nova Janela";
+"Library_Action_Open_In_New_Window" = "Abrir em uma Nova Janela";
 
 /* Menu item to open in a new tab. */
-"Library_Action_Open_In_New_Tab" = "Abrir num Novo Separador";
+"Library_Action_Open_In_New_Tab" = "Abrir em uma Nova Aba";
 
 /* Menu item to open in separate window. */
 "Library_Action_Open_With" = "Abrir com %@";
@@ -179,7 +179,7 @@
 "Library_Action_Get_Info" = "Obter Informações";
 
 /* Menu to change sorting in Library. */
-"Library_Action_Sort_By" = "Ordenar por";
+"Library_Action_Sort_By" = "Ordenar Por";
 
 /* Menu to add to favorites. */
 "Library_Action_Add_Favorite" = "Adicionar aos Favoritos";
@@ -194,7 +194,7 @@
 "Library_Action_Remove_Location" = "Remover das Localizações";
 
 /* Menu to delete smart folder. */
-"Library_Action_Edit_Smart_Folder" = "Editar...";
+"Library_Action_Edit_Smart_Folder" = "Editar…";
 
 /* Menu to duplicate smart folder. */
 "Library_Action_Duplicate" = "Duplicar";
@@ -209,7 +209,7 @@
 "Library_Filter_Field_Placeholder" = "Filtro";
 
 /* Loading content message for document library. */
-"Library_Loading_Message" = "A carregar documentos... Se tiver uma biblioteca grande, isto poderá demorar alguns minutos.";
+"Library_Loading_Message" = "Carregando documentos… Isto poderá demorar alguns minutos se você possuir uma biblioteca grande.";
 
 /* Button to move document to library. */
 "Library_Import_Prompt_Button_Move" = "Mover";
@@ -221,7 +221,7 @@
 "Library_Import_Prompt_Button_Copy_To" = "Copiar para “%@”";
 
 /* Message label for documents edited outside the Library. */
-"Library_Import_Prompt_Message" = "Está a editar um documento fora da Biblioteca do iA Writer. Pode continuar a edição, ou mover o documento para a Biblioteca.";
+"Library_Import_Prompt_Message" = "Você está editando um documento fora da Biblioteca do iA Writer. Você pode continuar com a edição ou mover o documento para a Biblioteca.";
 
 /* Search title. */
 "Library_Search_Title" = "Resultados da Pesquisa";
@@ -251,19 +251,19 @@
 "Library_Root_Smart_Folders" = "Pastas Inteligentes";
 
 /* Organizer section title. */
-"Library_Root_Links" = "Ligações";
+"Library_Root_Links" = "Links";
 
 /* Organizer section title. */
 "Library_Root_Hashtags" = "Hashtags";
 
 /* Organizer section empty message. */
-"Library_Root_Favorites_Empty_Message" = "Arraste pastas e ficheiros aqui para um acesso rápido";
+"Library_Root_Favorites_Empty_Message" = "Arraste pastas e arquivos aqui para um acesso rápido";
 
 /* Organizer section empty message. */
-"Library_Root_Smart_Folders_Empty_Message" = "Definir regras personalizadas para reunir ficheiros";
+"Library_Root_Smart_Folders_Empty_Message" = "Defina regras personalizadas para reunir arquivos";
 
 /* Organizer section empty message. */
-"Library_Root_Hashtags_Empty_Message" = "Escrever #tags em ficheiros de grupo";
+"Library_Root_Hashtags_Empty_Message" = "Escreva #tags em arquivos para agrupá-los";
 
 /*-----
  Editor
@@ -303,7 +303,7 @@
 "Block_Element_Heading_6" = "Cabeçalho 6";
 
 /* Body text block element name. */
-"Block_Element_Blockquote" = "Blockquote";
+"Block_Element_Blockquote" = "Citação em Bloco";
 
 /* Body text block element name. */
 "Block_Element_Comment" = "Comentário";
@@ -321,25 +321,25 @@
 "Inline_Element_Highlight" = "Destacar";
 
 /* Wikilink inline element name. */
-"Inline_Element_Wikilink" = "Wikiligação";
+"Inline_Element_Wikilink" = "Wikilink";
 
 /* Strikethrough inline element name. */
 "Inline_Element_Strikethrough" = "Riscado";
 
 /* Body text inline element name. */
-"Inline_Element_Body_Text" = "Texto do corpo";
+"Inline_Element_Body_Text" = "Texto do Corpo";
 
 /* Footnote button in text edit toolbar. */
-"Text_Editor_Toolbar_Action_Footnote" = "Nota de rodapé";
+"Text_Editor_Toolbar_Action_Footnote" = "Nota de Rodapé";
 
 /* Link button in text editor toolbar. */
-"Text_Editor_Toolbar_Action_Link" = "Ligação";
+"Text_Editor_Toolbar_Action_Link" = "Link";
 
 /* Table button in text editor toolbar. */
 "Text_Editor_Toolbar_Action_Table" = "Tabela";
 
 /* Table size picker alert title. The alert is shown after selecting action to add table. */
-"Text_Editor_Table_Alert_Message" = "Ajuste a dimensão da tabela. A primeira linha conterá o cabeçalho da tabela.";
+"Text_Editor_Table_Alert_Message" = "Ajuste a dimensão da tabela. A primeira linha conterá o cabeçalho dela.";
 
 /* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
 "Text_Editor_Table_Alert_Columns_Label" = "colunas";
@@ -361,7 +361,7 @@
 "Preferences_Pane_Title_Accounts" = "Contas";
 
 /* Files preferences pane title. */
-"Preferences_Pane_Title_Files" = "Ficheiros";
+"Preferences_Pane_Title_Files" = "Arquivos";
 
 /* Library preferences pane title. */
 "Preferences_Pane_Title_Library" = "Biblioteca";
@@ -379,36 +379,36 @@
 "Preferences_Pane_Title_Markdown" = "Markdown";
 
 /* Deletion confirmation sheet message. */
-"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Tem a certeza de que pretende reinicializar o código de autorização?";
+"URL_Scheme_Auth_Token_Reset_Confrimation_Message" = "Tem a certeza de que deseja reiniciar o token de autenticação?";
 
 /* Deletion confrimation infromative text for a local item. */
 "URL_Scheme_Auth_Token_Reset_Informative_Text" = "Esta ação não pode ser revertida.";
 
 /* URL scheme first use alert message. */
-"URL_Scheme_First_Use_Message" = "Pretende ativar os comandos URL do ia Writer?";
+"URL_Scheme_First_Use_Message" = "Deseja ativar os comandos URL do iA Writer?";
 
 /* URL scheme first use alert informative text. */
-"URL_Scheme_First_Use_Informative_Text" = "Pode alterar esta opção posteriormente nas Preferências.";
+"URL_Scheme_First_Use_Informative_Text" = "Você pode alterar esta opção posteriormente nos Ajustes.";
 
 /* Markdown processing lazy paragraphs. */
 "Markdown_Lazy_Paragraphs" = "A mudança de linha inicia um parágrafo novo";
 
-"Markdown_Lazy_Paragraphs_Description" = "By default, Markdown requires two returns (an empty line)\nbetween paragraphs. When enabled, a single return will start a new paragraph.";
+"Markdown_Lazy_Paragraphs_Description" = "Por padrão, o formato Markdown requer duas mudanças de linha\n(uma linha em branco) entre parágrafos. Quando ativada,\numa única mudança de linha iniciará um novo parágrafo.";
 
-"Markdown_Lazy_Paragraphs_Warning" = "Provided for compatibility with older versions of iA Writer. Not supported by other Markdown processors.";
+"Markdown_Lazy_Paragraphs_Warning" = "Fornece compatibilidade com versões antigas do iA Writer. Não é suportada por outros processadores Markdown";
 
 /* Markdown processing smart punctuation. */
 "Markdown_Smart_Punctuation" = "Aplicar pontuação inteligente";
 
-"Markdown_Smart_Punctuation_Description" = "Convert straight quotes and plain dashes into\nsmart counterparts for all formatted output.";
+"Markdown_Smart_Punctuation_Description" = "Converte aspas retas e traços simples em suas contrapartes\ninteligentes para todas as saídas formatadas.";
 
 "Markdown_Metadata_Tab" = "Metadados";
 
-"Markdown_Library_Paths_And_Links_Tab" = "Caminhos da biblioteca e links";
+"Markdown_Library_Paths_And_Links_Tab" = "Caminhos da Biblioteca e Links";
 
-"Markdown_Processing_Tab" = "Processing";
+"Markdown_Processing_Tab" = "Processando";
 
-"Shortcuts_Not_Supported" = "Você não pode usar atalhos com esta versão do macOS. Você tem macOS %@. Atalhos requerem macOS 13 ou posterior.";
+"Shortcuts_Not_Supported" = "Você não pode usar atalhos com esta versão do macOS. Você tem o macOS %@. Atalhos requerem o macOS 13 ou posterior.";
 
 /*-----------
  Quick Search
@@ -422,7 +422,7 @@
  -------------*/
 
 /* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
-"Content_Block_Processing_Alert_Message" = "Não foi possível processar todos os conteúdos.";
+"Content_Block_Processing_Alert_Message" = "Não foi possível processar alguns conteúdos.";
 
 /* Generic error alert title. */
 "Generic_Error_Alert_Message" = "Não foi possível concluir a operação.";
@@ -438,4 +438,4 @@
 "Touch_Bar_Item_Lists" = "Listas";
 
 /* Touch bar customization label for button with inline elements. */
-"Touch_Bar_Item_Inline_Elements" = "Elementos Incorporados";
+"Touch_Bar_Item_Inline_Elements" = "Elementos Embutidos";

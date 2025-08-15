@@ -12,7 +12,7 @@
 "GBp-vd-erZ.title" = "Abrir Documentação";
 
 /* Class = "NSTextFieldCell"; title = "Default templates:"; ObjectID = "ILS-Oy-k2r"; */
-"ILS-Oy-k2r.title" = "Modelos predefinidos:";
+"ILS-Oy-k2r.title" = "Modelos padrões:";
 
 /* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "NWz-SI-k1m"; */
 "NWz-SI-k1m.title" = "Pré-visualização:";
@@ -24,10 +24,10 @@
 "P09-gF-Ui9.title" = "Impressão e Exportação para PDF:";
 
 /* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
-"aq5-yb-Aik.title" = "Recuar parágrafos";
+"aq5-yb-Aik.title" = "Indentar parágrafos";
 
 /* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
-"c4c-Wj-hKb.title" = "Centrar cabeçalhos";
+"c4c-Wj-hKb.title" = "Centralizar cabeçalhos";
 
 /* Class = "NSButtonCell"; title = "Hide hashtags"; ObjectID = "cVG-Tj-Zs0"; */
 "cVG-Tj-Zs0.title" = "Ocultar hashtags";
@@ -36,7 +36,7 @@
 "eLo-eM-g9t.title" = "Rodapés";
 
 /* Class = "NSMenuItem"; title = "Install Template…"; ObjectID = "eXK-ab-Lw9"; */
-"eXK-ab-Lw9.title" = "Instalar Modelo...";
+"eXK-ab-Lw9.title" = "Instalar Modelo…";
 
 /* Class = "NSButtonCell"; title = "Invert colors"; ObjectID = "f2Y-kh-hVX"; */
 "f2Y-kh-hVX.title" = "Inverter cores";
@@ -45,10 +45,10 @@
 "h5a-TI-YPT.title" = "Desinstalar Modelo";
 
 /* Class = "NSTextFieldCell"; title = "Markdown processing:"; ObjectID = "hUt-3b-BEn"; */
-"hUt-3b-BEn.title" = "Processamento remarcação:";
+"hUt-3b-BEn.title" = "Processamento Markdown:";
 
 /* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
-"nwP-qK-Y5q.title" = "Obter mais modelos";
+"nwP-qK-Y5q.title" = "Obter Mais Modelos";
 
 /* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "okQ-c2-ZeF"; */
 "okQ-c2-ZeF.title" = "Autor:";
@@ -57,10 +57,10 @@
 "qc2-ag-Mwe.title" = "Modelos personalizados:";
 
 /* Class = "NSButtonCell"; title = "Number headings"; ObjectID = "tEq-K2-EVY"; */
-"tEq-K2-EVY.title" = "Cabeçalhos numéricos";
+"tEq-K2-EVY.title" = "Numerar Cabeçalhos";
 
 /* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
-"wLN-Zi-CIU.title" = "Página de rosto";
+"wLN-Zi-CIU.title" = "Página de título";
 
 /* Class = "NSButtonCell"; title = "Apply smart punctuation"; ObjectID = "xcN-na-4AD"; */
 "xcN-na-4AD.title" = "Aplicar pontuação inteligente";

@@ -6,22 +6,22 @@
 "4HG-9x-5so.title" = "Pastas Inteligentes";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "5cq-Pu-8y9"; Note = "SKIP LOCALIZATION"; */
-"5cq-Pu-8y9.title" = "Data de modificação";
+"5cq-Pu-8y9.title" = "Data de Modificação";
 
 /* Class = "NSButtonCell"; title = "Text excerpts"; ObjectID = "9c8-RY-Bqq"; */
-"9c8-RY-Bqq.title" = "Excertos de texto";
+"9c8-RY-Bqq.title" = "Fragmentos de texto";
 
 /* Class = "NSButtonCell"; title = "Wikilinks"; ObjectID = "CjX-jS-fbZ"; */
 "CjX-jS-fbZ.title" = "Hashtags";
 
 /* Class = "NSButtonCell"; title = "Newest on Top"; ObjectID = "KqX-Gc-m0e"; Note = "SKIP LOCALIZATION"; */
-"KqX-Gc-m0e.title" = "Os mais recentes em cima";
+"KqX-Gc-m0e.title" = "Mais recentes em cima";
 
 /* Class = "NSButtonCell"; title = "Pin folders to top"; ObjectID = "SOG-kM-c2S"; */
 "SOG-kM-c2S.title" = "Fixar pastas em cima";
 
 /* Class = "NSButtonCell"; title = "Oldest on Top"; ObjectID = "Usl-VQ-WXd"; Note = "SKIP LOCALIZATION"; */
-"Usl-VQ-WXd.title" = "Os mais antigos em cima";
+"Usl-VQ-WXd.title" = "Mais antigos em cima";
 
 /* Class = "NSButtonCell"; title = "Sort bar"; ObjectID = "ggC-OU-ShT"; */
 "ggC-OU-ShT.title" = "Barra de ordenação";
@@ -39,7 +39,7 @@
 "kND-5E-Z2a.title" = "Ordenar por:";
 
 /* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "nVS-Cr-Jb3"; */
-"nVS-Cr-Jb3.title" = "Ficheiros:";
+"nVS-Cr-Jb3.title" = "Arquivos:";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "oft-9R-Obz"; Note = "SKIP LOCALIZATION"; */
 "oft-9R-Obz.title" = "Nome";

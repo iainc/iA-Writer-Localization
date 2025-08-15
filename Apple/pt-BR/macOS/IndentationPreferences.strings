@@ -12,13 +12,13 @@
 "IQs-vj-7d6.title" = "2";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "IWB-dA-byr"; */
-"IWB-dA-byr.title" = "Repor predefinições";
+"IWB-dA-byr.title" = "Restaurar Padrões";
 
 /* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "Iy3-Mh-jBg"; */
 "Iy3-Mh-jBg.title" = "Tabulações";
 
 /* Class = "NSButtonCell"; title = "Markdown block markers"; ObjectID = "LLw-gR-8jL"; */
-"LLw-gR-8jL.title" = "Definir marcadores de bloco";
+"LLw-gR-8jL.title" = "Marcadores de blocos Markdown";
 
 /* Class = "NSMenuItem"; title = "8"; ObjectID = "MlS-9T-946"; */
 "MlS-9T-946.title" = "8";
@@ -27,16 +27,16 @@
 "RdC-rk-Ffy.title" = "Concluído";
 
 /* Class = "NSTextFieldCell"; title = "Indent width:"; ObjectID = "SGD-xU-Qzg"; */
-"SGD-xU-Qzg.title" = "Largura do recuo:";
+"SGD-xU-Qzg.title" = "Largura da indentação:";
 
 /* Class = "NSTextFieldCell"; title = "Tab width:"; ObjectID = "UTH-s1-KRg"; */
-"UTH-s1-KRg.title" = "Medida da tabulação:";
+"UTH-s1-KRg.title" = "Tamanho da tabulação:";
 
 /* Class = "NSMenuItem"; title = "4"; ObjectID = "Z5W-CY-oCO"; */
 "Z5W-CY-oCO.title" = "4";
 
 /* Class = "NSTextFieldCell"; title = "Wrapped line indent includes:"; ObjectID = "a0w-Tn-dzZ"; */
-"a0w-Tn-dzZ.title" = "Indentação de linhas divididas inclui:";
+"a0w-Tn-dzZ.title" = "Indentação de linhas quebradas inclui:";
 
 /* Class = "NSMenuItem"; title = "4"; ObjectID = "i9Z-i2-bls"; */
 "i9Z-i2-bls.title" = "4";
@@ -45,7 +45,7 @@
 "ihA-Ni-dNB.title" = "Insere tabulação";
 
 /* Class = "NSMenuItem"; title = "Indents"; ObjectID = "oHE-8D-ED4"; */
-"oHE-8D-ED4.title" = "Indentações";
+"oHE-8D-ED4.title" = "Indenta";
 
 /* Class = "NSTextFieldCell"; title = "Tab key:"; ObjectID = "xVt-KN-Qv5"; */
 "xVt-KN-Qv5.title" = "Tecla Tab:";
